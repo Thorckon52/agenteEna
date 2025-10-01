@@ -1,0 +1,16 @@
+[
+  {"nombre":"Amazonas","municipios":["Leticia","Puerto Nariño","Tarapacá"]},
+  {"nombre":"Antioquia","municipios":["Medellín","Bello","Envigado","Itagüí","Rionegro","Apartadó","Turbo","La Ceja","Sabaneta","Caucasia"]},
+  {"nombre":"Atlántico","municipios":["Barranquilla","Soledad","Malambo","Puerto Colombia","Sabanalarga","Galapa"]},
+  {"nombre":"Bogotá D.C.","municipios":["Bogotá D.C."]},
+  {"nombre":"Bolívar","municipios":["Cartagena","Turbaco","Arjona","Magangué","El Carmen de Bolívar"]},
+  {"nombre":"Boyacá","municipios":["Tunja","Duitama","Sogamoso","Chiquinquirá","Paipa"]},
+  {"nombre":"Caldas","municipios":["Manizales","Villamaría","Chinchiná","La Dorada","Neira"]},
+  {"nombre":"Cauca","municipios":["Popayán","Santander de Quilichao","Puerto Tejada","Guapi","Patía"]},
+  {"nombre":"Córdoba","municipios":["Montería","Lorica","Sahagún","Planeta Rica","Cereté"]},
+  {"nombre":"Cundinamarca","municipios":["Soacha","Zipaquirá","Chía","Fusagasugá","Girardot","Facatativá","Madrid","Mosquera","Funza"]},
+  {"nombre":"Magdalena","municipios":["Santa Marta","Ciénaga","Fundación","Aracataca","Plato"]},
+  {"nombre":"Santander","municipios":["Bucaramanga","Floridablanca","Girón","Piedecuesta","Barrancabermeja"]},
+  {"nombre":"Valle del Cauca","municipios":["Cali","Palmira","Buga","Tuluá","Yumbo","Cartago","Jamundí"]}
+]
+

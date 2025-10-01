@@ -1,0 +1,229 @@
+{
+  "name": "PlanDocenteFlexible",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "required": [
+      "metadatos",
+      "contexto",
+      "alineacion_curricular",
+      "planificacion",
+      "por_grados",
+      "adaptaciones",
+      "articulaciones_ENA",
+      "seguimiento",
+      "observaciones_docente"
+    ],
+    "properties": {
+      "metadatos": {
+        "type": "object",
+        "required": ["version_schema", "fecha_generacion", "autor"],
+        "properties": {
+          "version_schema": { "type": "string" },
+          "fecha_generacion": { "type": "string" },
+          "autor": { "type": "string" }
+        },
+        "additionalProperties": false
+      },
+      "contexto": {
+        "type": "object",
+        "required": [
+          "institucion",
+          "departamento",
+          "municipio",
+          "zona",
+          "tipo_aula",
+          "grados",
+          "duracion_clase_min",
+          "estudiantes_por_grado",
+          "recursos_aula",
+          "dificultades_lectura",
+          "dificultades_escritura",
+          "dificultades_comprension",
+          "organizacion_salon",
+          "frecuencia_uso_recursos",
+          "gobierno_estudiantil_activo",
+          "comites_funcionando",
+          "instrumentos_aula"
+        ],
+        "properties": {
+          "institucion": { "type": "string" },
+          "departamento": { "type": "string" },
+          "municipio": { "type": "string" },
+          "zona": { "type": "string" },
+          "tipo_aula": { "type": "string", "enum": ["monogrado", "multigrado"] },
+          "grados": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "duracion_clase_min": { "type": "integer", "minimum": 30 },
+          "estudiantes_por_grado": {
+            "type": "object",
+            "properties": {},
+            "required": [],
+            "additionalProperties": { "type": "integer", "minimum": 1 }
+          },
+          "recursos_aula": { "type": "array", "items": { "type": "string" } },
+          "dificultades_lectura": {
+            "type": "object",
+            "properties": {
+              "hay": { "type": "boolean" },
+              "por_grado": {
+                "type": "object",
+                "additionalProperties": {
+                  "type": "object",
+                  "properties": {
+                    "cantidad": { "type": "integer", "minimum": 0 },
+                    "dificultades": { "type": "array", "items": { "type": "string" } }
+                  },
+                  "required": ["cantidad", "dificultades"],
+                  "additionalProperties": false
+                }
+              }
+            },
+            "required": ["hay"],
+            "additionalProperties": false
+          },
+          "dificultades_escritura": {
+            "type": "object",
+            "properties": {
+              "hay": { "type": "boolean" },
+              "por_grado": {
+                "type": "object",
+                "additionalProperties": {
+                  "type": "object",
+                  "properties": {
+                    "cantidad": { "type": "integer", "minimum": 0 },
+                    "dificultades": { "type": "array", "items": { "type": "string" } }
+                  },
+                  "required": ["cantidad", "dificultades"],
+                  "additionalProperties": false
+                }
+              }
+            },
+            "required": ["hay"],
+            "additionalProperties": false
+          },
+          "dificultades_comprension": {
+            "type": "object",
+            "properties": {
+              "hay": { "type": "boolean" },
+              "por_grado": {
+                "type": "object",
+                "additionalProperties": {
+                  "type": "object",
+                  "properties": {
+                    "cantidad": { "type": "integer", "minimum": 0 },
+                    "dificultades": { "type": "array", "items": { "type": "string" } }
+                  },
+                  "required": ["cantidad", "dificultades"],
+                  "additionalProperties": false
+                }
+              }
+            },
+            "required": ["hay"],
+            "additionalProperties": false
+          },
+          "organizacion_salon": { "type": "string", "enum": ["filas", "u", "parejas"] },
+          "frecuencia_uso_recursos": {
+            "type": "string",
+            "enum": ["todos_los_dias", "tres_cuatro_dias", "uno_dos_dias", "no_uso", "sin_definir"]
+          },
+          "gobierno_estudiantil_activo": { "type": "boolean" },
+          "comites_funcionando": {
+            "type": "object",
+            "properties": {
+              "hay": { "type": "boolean" },
+              "lista": { "type": "array", "items": { "type": "string" } }
+            },
+            "required": ["hay", "lista"],
+            "additionalProperties": false
+          },
+          "instrumentos_aula": { "type": "array", "items": { "type": "string" } }
+        },
+        "additionalProperties": false
+      },
+      "alineacion_curricular": {
+        "type": "object",
+        "required": ["area", "temas_prioritarios", "desempenos_esperados", "ras_dba_referencia"],
+        "properties": {
+          "area": { "type": "string", "enum": ["MatemÉtica", "Sociales", "Naturales", "Lenguaje", "Tecnología", "Ética"] },
+          "temas_prioritarios": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "desempenos_esperados": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "ras_dba_referencia": { "type": "array", "items": { "type": "string" } }
+        },
+        "additionalProperties": false
+      },
+      "planificacion": {
+        "type": "object",
+        "required": ["modalidad", "duracion_total_plan_min"],
+        "properties": {
+          "modalidad": { "type": "string", "enum": ["quincenal", "mensual", "trimestral", "flexible"] },
+          "duracion_total_plan_min": { "type": "integer", "minimum": 60 }
+        },
+        "additionalProperties": false
+      },
+      "por_grados": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "grado": { "type": "string" },
+            "objetivos": { "type": "array", "items": { "type": "string" } },
+            "actividades": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "nombre": { "type": "string" },
+                  "descripcion": { "type": "string" },
+                  "duracion_min": { "type": "integer", "minimum": 5 },
+                  "materiales": { "type": "array", "items": { "type": "string" } },
+                  "estrategias_diferenciacion": { "type": "array", "items": { "type": "string" } }
+                },
+                "required": ["nombre", "descripcion", "duracion_min", "materiales", "estrategias_diferenciacion"],
+                "additionalProperties": false
+              }
+            },
+            "evaluacion": { "type": "array", "items": { "type": "string" } },
+            "observaciones": { "type": "array", "items": { "type": "string" } }
+          },
+          "required": ["grado", "objetivos", "actividades", "evaluacion", "observaciones"],
+          "additionalProperties": false
+        }
+      },
+      "adaptaciones": {
+        "type": "object",
+        "required": ["ritmos_aprendizaje", "estrategias_multigrado", "apoyos_pares", "materiales_alternativos"],
+        "properties": {
+          "ritmos_aprendizaje": { "type": "array", "items": { "type": "string" } },
+          "estrategias_multigrado": { "type": "array", "items": { "type": "string" } },
+          "apoyos_pares": { "type": "array", "items": { "type": "string" } },
+          "materiales_alternativos": { "type": "array", "items": { "type": "string" } }
+        },
+        "additionalProperties": false
+      },
+      "articulaciones_ENA": {
+        "type": "object",
+        "required": ["gobierno_estudiantil", "comites_y_roles", "convivencia_y_rutinas", "familia_comunidad"],
+        "properties": {
+          "gobierno_estudiantil": { "type": "array", "items": { "type": "string" } },
+          "comites_y_roles": { "type": "array", "items": { "type": "string" } },
+          "convivencia_y_rutinas": { "type": "array", "items": { "type": "string" } },
+          "familia_comunidad": { "type": "array", "items": { "type": "string" } }
+        },
+        "additionalProperties": false
+      },
+      "seguimiento": {
+        "type": "object",
+        "required": ["indicadores", "frecuencia", "instrumentos"],
+        "properties": {
+          "indicadores": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "frecuencia": { "type": "string", "enum": ["diaria", "semanal"] },
+          "instrumentos": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
+        },
+        "additionalProperties": false
+      },
+      "observaciones_docente": { "type": "array", "items": { "type": "string" } }
+    },
+    "additionalProperties": false
+  }
+}
+

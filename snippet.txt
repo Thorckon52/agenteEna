@@ -1,0 +1,9 @@
+ datos...</pre>
+
+  <script>
+    let lastResult = null;\n\n    document.getElementById("planForm").addEventListener("submit", async (e) => {
+      e.preventDefault();
+
+      const data = {
+        contexto: {
+    

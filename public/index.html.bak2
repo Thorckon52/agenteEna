@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Agente ENA – Plan Flexible</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; padding: 0; background: #f5f5f5; }
+    h1 { color: #333; }
+    form { background: white; padding: 20px; border-radius: 8px; max-width: 600px; }
+    label { display: block; margin-top: 10px; font-weight: bold; }
+    input, select, textarea { width: 100%; padding: 8px; margin-top: 5px; border-radius: 4px; border: 1px solid #ccc; }
+    button { margin-top: 15px; padding: 10px 15px; background: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; }
+    button:hover { background: #0056b3; }
+    pre { background: #222; color: #0f0; padding: 15px; border-radius: 8px; margin-top: 20px; overflow-x: auto; }
+  </style>
+</head>
+<body>
+  <h1>📘 Generar Plan Docente Flexible</h1>
+  <form id="planForm">
+    <label for="institucion">Institución:</label>
+    <input type="text" id="institucion" name="institucion" required />
+
+    <label for="municipio">Municipio:</label>
+    <input type="text" id="municipio" name="municipio" required />
+
+    <label for="zona">Zona:</label>
+    <select id="zona" name="zona" required>
+      <option value="Rural">Rural</option>
+      <option value="Urbana">Urbana</option>
+    </select>
+
+    <label for="tipo_aula">Tipo de aula:</label>
+    <select id="tipo_aula" name="tipo_aula" required>
+      <option value="monogrado">Monogrado</option>
+      <option value="multigrado">Multigrado</option>
+    </select>
+
+    <label for="grados">Grados (separados por coma):</label>
+    <input type="text" id="grados" name="grados" placeholder="Ej: 1°,2°,3°" required />
+
+    <label for="duracion">Duración de la clase (minutos):</label>
+    <input type="number" id="duracion" name="duracion" min="30" value="60" required />
+
+    <label for="area">Área:</label>
+    <select id="area" name="area" required>
+      <option value="Matemática">Matemática</option>
+      <option value="Sociales">Sociales</option>
+      <option value="Naturales">Naturales</option>
+      <option value="Lenguaje">Lenguaje</option>
+      <option value="Tecnología">Tecnología</option>
+      <option value="Ética">Ética</option>
+    </select>
+
+    <button type="submit">Generar Plan</button>
+
+    <button type="button" id="descargarPdf" disabled>Descargar PDF</button>
+  </form>
+
+  <h2>📋 Resultado</h2>
+  <pre id="resultado">Esperando datos...</pre>
+
+  <script>
+    let lastResult = null;\n\n    document.getElementById("planForm").addEventListener("submit", async (e) => {
+      e.preventDefault();
+
+      const data = {
+        contexto: {
+          institucion: document.getElementById("institucion").value,
+          municipio: document.getElementById("municipio").value,
+          zona: document.getElementById("zona").value,
+          tipo_aula: document.getElementById("tipo_aula").value,
+          grados: document.getElementById("grados").value.split(",").map(g => g.trim()),
+          duracion_clase_min: parseInt(document.getElementById("duracion").value, 10),
+          estudiantes_por_grado: {} // inicial vacío
+        },
+        alineacion_curricular: {
+          area: document.getElementById("area").value,
+          temas_prioritarios: ["adición"], // mínimo
+          desempenos_esperados: ["resolver problemas"]
+        },
+        planificacion: {
+          modalidad: "quincenal",
+          duracion_total_plan_min: 240
+        },
+        metadatos: {
+          version_schema: "2.1.0",
+          fecha_generacion: new Date().toISOString().split("T")[0],
+          autor: "Docente"
+        },
+        por_grados: [],
+        adaptaciones: {
+          ritmos_aprendizaje: [],
+          estrategias_multigrado: [],
+          apoyos_pares: [],
+          materiales_alternativos: []
+        },
+        articulaciones_ENA: {
+          gobierno_estudiantil: [],
+          comites_y_roles: [],
+          convivencia_y_rutinas: [],
+          familia_comunidad: []
+        },
+        seguimiento: {
+          indicadores: ["participación"],
+          frecuencia: "semanal",
+          instrumentos: ["lista de cotejo"]
+        },
+        observaciones_docente: []
+      };
+
+      try {
+        const res = await fetch("/api/generate-flex", {
+          method: "POST",
+          headers: { "Content-Type": "application/json", "Accept": "application/json" },
+          body: JSON.stringify(data)
+        });
+
+        if (!res.ok) {
+          const text = await res.text();
+          throw new Error(`HTTP ${res.status} ${res.statusText}: ${text}`);
+        }
+
+        const result = await res.json();\n        lastResult = result;\n        document.getElementById("resultado").textContent = JSON.stringify(result, null, 2);\n        document.getElementById("descargarPdf").disabled = false;
+      } catch (err) {
+        document.getElementById("resultado").textContent = "❌❌ Error: " + err.message;
+      }
+    });
+  </script>
+</body>
+</html>
+
+
+

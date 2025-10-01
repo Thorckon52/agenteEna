@@ -1,0 +1,411 @@
+<script>
+    let lastResult = null;
+
+    // Generar inputs para conteo por grado
+    function updateConteoFromGrados() {
+      const wrap = document.getElementById("conteoContainer");
+      const grados = document.getElementById("grados").value.split(",").map(g => g.trim()).filter(Boolean);
+      if (grados.length === 0) { wrap.innerHTML = ''; return; }
+      wrap.innerHTML = `<strong>Estudiantes por grado</strong>` +
+        grados.map(g => `
+          <div style="display:flex; align-items:center; gap:8px; margin-top:6px;">
+            <label style=\"min-width:110px; margin:0;\">${g}:</label>
+            <input type=\"number\" min=\"1\" value=\"1\" data-conteo-grado=\"${g}\" style=\"width:120px;\" />
+          </div>
+        `).join('');
+    }
+    document.getElementById("grados").addEventListener("input", updateConteoFromGrados);
+    document.getElementById("grados").addEventListener("change", updateConteoFromGrados);
+    // Inicializa si hay un valor precargado
+    updateConteoFromGrados();
+
+    document.getElementById("generarBtn").addEventListener("click", async () => {
+
+      // Construir mapa de estudiantes por grado
+      const grados = document.getElementById("grados").value.split(",").map(g => g.trim()).filter(Boolean);
+      const conteo = {};
+      let conteoValido = true;
+      grados.forEach(g => {
+        const el = document.querySelector(`[data-conteo-grado="${g}"]`);
+        const n = parseInt(el?.value || '0', 10);
+        if (!Number.isFinite(n) || n < 1) conteoValido = false;
+        conteo[g] = n;
+      });
+      if (!conteoValido) {
+        document.getElementById("resultado").textContent = "❌ Error: Ingresa la cantidad de estudiantes (>=1) por cada grado.";
+        return;
+      }
+
+      const data = {
+        contexto: {
+          institucion: document.getElementById("institucion").value,
+          municipio: document.getElementById("municipio").value,
+          zona: document.getElementById("zona").value,
+          tipo_aula: document.getElementById("tipo_aula").value,
+          grados,
+          recursos_aula: document.getElementById("recursos").value.split(",").map(s => s.trim()).filter(Boolean),
+          estudiantes_por_grado: conteo
+        },
+        alineacion_curricular: {
+          area: document.getElementById("area").value,
+          temas_prioritarios: ["adición"],
+          desempenos_esperados: ["resolver problemas"]
+        },
+        planificacion: {},
+        metadatos: {
+          version_schema: "2.1.0",
+          fecha_generacion: new Date().toISOString().split("T")[0],
+          autor: "Docente"
+        },
+        por_grados: [],
+        adaptaciones: {
+          ritmos_aprendizaje: [],
+          estrategias_multigrado: [],
+          apoyos_pares: [],
+          materiales_alternativos: []
+        },
+        articulaciones_ENA: {
+          gobierno_estudiantil: [],
+          comites_y_roles: [],
+          convivencia_y_rutinas: [],
+          familia_comunidad: []
+        },
+        seguimiento: {
+          indicadores: ["participación"],
+          frecuencia: "semanal",
+          instrumentos: ["lista de cotejo"]
+        },
+        observaciones_docente: []
+      };
+
+      const resEl = document.getElementById("resultado");
+      resEl.innerHTML = '<span class="spinner" aria-hidden="true"></span> Generando guía...';
+      const generarBtn = document.getElementById("generarBtn");
+      if (generarBtn) generarBtn.disabled = true;
+
+      try {
+        const res = await fetch("/api/generate-flex", {
+          method: "POST",
+          headers: { "Content-Type": "application/json", "Accept": "application/json" },
+          body: JSON.stringify(data)
+        });
+
+        if (!res.ok) {
+          const text = await res.text();
+          throw new Error(`HTTP ${res.status} ${res.statusText}: ${text}`);
+        }
+
+        const result = await res.json();
+        lastResult = result;
+        document.getElementById("resultado").textContent = JSON.stringify(result, null, 2);
+        openPreview(result, data);
+      } catch (err) {
+        document.getElementById("resultado").textContent = "❌ Error: " + err.message;
+      }
+    });
+
+    function escapeHtml(str) {
+      return String(str)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/\"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+    }
+
+    function list(items) {
+      if (!Array.isArray(items) || items.length === 0) return '<p>—</p>';
+      return `<ul>${items.map(i => `<li>${escapeHtml(i)}</li>`).join('')}</ul>`;
+    }
+
+    function tableRows(obj) {
+      if (!obj) return '';
+      return Object.entries(obj).map(([k,v]) => `<tr><td>${escapeHtml(k)}</td><td>${escapeHtml(String(v))}</td></tr>`).join('');
+    }
+
+    function renderPorGrados(porGrados) {
+      if (!Array.isArray(porGrados) || porGrados.length === 0) return '<p>—</p>';
+      return porGrados.map((g, idx) => {
+        if (typeof g !== 'object' || g === null) {
+          return `<div class="subsec"><h4>Grupo ${idx+1}</h4><p>${escapeHtml(String(g))}</p></div>`;
+        }
+        const kv = Object.entries(g).map(([k,v]) => {
+          if (Array.isArray(v)) {
+            if (v.every(x => typeof x === 'string')) return `<div><strong>${escapeHtml(k)}:</strong> ${list(v)}</div>`;
+            return `<div><strong>${escapeHtml(k)}:</strong> ${v.map((o,i)=>`<div class="nested"><em>Item ${i+1}</em>${typeof o==='object'? list(Object.entries(o).map(([kk,vv])=>`${kk}: ${vv}`)) : escapeHtml(String(o))}</div>`).join('')}</div>`;
+          }
+          if (typeof v === 'object' && v) {
+            return `<div><strong>${escapeHtml(k)}:</strong><table class="kv"><tbody>${tableRows(v)}</tbody></table></div>`;
+          }
+          return `<div><strong>${escapeHtml(k)}:</strong> ${escapeHtml(String(v))}</div>`;
+        }).join('');
+        return `<div class="subsec"><h4>Grupo ${idx+1}</h4>${kv}</div>`;
+      }).join('');
+    }
+
+    function renderPlanAsHtml(plan) {
+      const md = plan?.metadatos || {};
+      const ctx = plan?.contexto || {};
+      const ali = plan?.alineacion_curricular || {};
+      const pla = plan?.planificacion || {};
+      const por = Array.isArray(plan?.por_grados) ? plan.por_grados : [];
+      const ada = plan?.adaptaciones || {};
+      const art = plan?.articulaciones_ENA || {};
+      const seg = plan?.seguimiento || {};
+      const obs = Array.isArray(plan?.observaciones_docente) ? plan.observaciones_docente : [];
+
+      const estudiantes = ctx.estudiantes_por_grado && typeof ctx.estudiantes_por_grado === 'object'
+        ? `<table class="kv"><thead><tr><th>Grado</th><th>Estudiantes</th></tr></thead><tbody>${Object.entries(ctx.estudiantes_por_grado).map(([g,c])=>`<tr><td>${escapeHtml(g)}</td><td>${escapeHtml(String(c))}</td></tr>`).join('')}</tbody></table>`
+        : '<p>—</p>';
+
+      return `<!DOCTYPE html>
+  <html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Plan Docente Flexible</title>
+    <style>
+      :root {
+        --c1: #0057A3; /* primario */
+        --c2: #EE7F00; /* acento 1 */
+        --c3: #E2001A; /* acento 2 */
+        --c4: #FFCC00; /* acento 3 */
+        --c5: #87888A; /* gris */
+      }
+      body { font-family: Calibri, Arial, sans-serif; margin: 18px; color: #222; background: #ffffff; }
+      h1 { margin: 0 0 6px; color: var(--c1); }
+      h2 { margin: 20px 0 8px; padding-bottom: 6px; border-bottom: 3px solid var(--c1); color: #222; }
+      h3 { margin: 14px 0 6px; color: var(--c2); }
+      h4 { margin: 8px 0 4px; color: var(--c3); }
+      .meta { color: var(--c5); margin-bottom: 12px; }
+      .grid { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 8px 16px; }
+      .kv { border-collapse: collapse; width: 100%; }
+      .kv thead th { background: var(--c1); color: #fff; }
+      .kv th, .kv td { border: 1px solid #e3e5e7; padding: 6px 8px; text-align: left; }
+      .kv tbody tr:nth-child(even) { background: #f7fbff; }
+      ul { margin: 6px 0 6px 20px; }
+      .section { page-break-inside: avoid; margin-top: 14px; }
+      .subsec { margin: 8px 0 8px 0; padding: 10px 12px; background: #fff; border-left: 4px solid var(--c2); border: 1px solid #ececec; border-radius: 6px; }
+      .nested { margin-left: 12px; }
+      .badge { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: 12px; color: #000; background: var(--c4); }
+      .muted { color: var(--c5); }
+      @page { margin: 14mm; }
+      @media print { body { margin: 0; } }
+    </style>
+  </head>
+  <body>
+    <h1>Plan Docente Flexible</h1>
+    <div class="meta">Autor: ${escapeHtml(md.autor || '—')} • Fecha: ${escapeHtml(md.fecha_generacion || '—')} • Versión: ${escapeHtml(md.version_schema || '—')}</div>
+
+    <div class="section">
+      <h2>Contexto</h2>
+      <div class="grid">
+        <div><strong>Institución:</strong> ${escapeHtml(ctx.institucion || '-')}</div>
+        <div><strong>Municipio:</strong> ${escapeHtml(ctx.municipio || '-')}</div>
+        <div><strong>Zona:</strong> ${escapeHtml(ctx.zona || '-')}</div>
+        <div><strong>Tipo de aula:</strong> ${escapeHtml(ctx.tipo_aula || '-')}</div>
+        <div><strong>Grados:</strong> ${Array.isArray(ctx.grados) ? escapeHtml(ctx.grados.join(', ')) : '-'}</div>
+        <div><strong>Duración clase (min):</strong> ${escapeHtml(String(ctx.duracion_clase_min ?? '-'))}</div>
+      </div>
+      <h3>Recursos del aula</h3>
+      ${Array.isArray(ctx.recursos_aula) && ctx.recursos_aula.length ? `<ul>${ctx.recursos_aula.map(r=>`<li>${escapeHtml(r)}</li>`).join('')}</ul>` : '<p class="muted">—</p>'}
+      <h3>Estudiantes por grado</h3>
+      ${estudiantes}
+    </div>
+
+    <div class="section">
+      <h2>Alineación Curricular</h2>
+      <div><strong>Área:</strong> ${escapeHtml(ali.area || '—')}</div>
+      <h3>Temas prioritarios</h3>
+      ${list(ali.temas_prioritarios)}
+      <h3>Desempeños esperados</h3>
+      ${list(ali.desempenos_esperados)}
+      ${Array.isArray(ali.ras_dba_referencia) ? `<h3>RAS/DBA de referencia</h3>${list(ali.ras_dba_referencia)}` : ''}
+    </div>
+
+    <div class="section">
+      <h2>Planificación</h2>
+      <div class="grid">
+        <div><strong>Modalidad:</strong> ${escapeHtml(pla.modalidad || '—')}</div>
+        <div><strong>Duración total (min):</strong> ${escapeHtml(String(pla.duracion_total_plan_min ?? '—'))}</div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Trabajo por Grados</h2>
+      ${renderPorGrados(por)}
+    </div>
+
+    <div class="section">
+      <h2>Adaptaciones</h2>
+      <h3>Ritmos de aprendizaje</h3>
+      ${list(ada.ritmos_aprendizaje)}
+      <h3>Estrategias multigrado</h3>
+      ${list(ada.estrategias_multigrado)}
+      <h3>Apoyos entre pares</h3>
+      ${list(ada.apoyos_pares)}
+      <h3>Materiales alternativos</h3>
+      ${list(ada.materiales_alternativos)}
+    </div>
+
+    <div class="section">
+      <h2>Articulaciones ENA</h2>
+      <h3>Gobierno estudiantil</h3>
+      ${list(art.gobierno_estudiantil)}
+      <h3>Comités y roles</h3>
+      ${list(art.comites_y_roles)}
+      <h3>Convivencia y rutinas</h3>
+      ${list(art.convivencia_y_rutinas)}
+      <h3>Familia y comunidad</h3>
+      ${list(art.familia_comunidad)}
+    </div>
+
+    <div class="section">
+      <h2>Seguimiento</h2>
+      <div><strong>Frecuencia:</strong> ${escapeHtml(seg.frecuencia || '—')}</div>
+      <h3>Indicadores</h3>
+      ${list(seg.indicadores)}
+      <h3>Instrumentos</h3>
+      ${list(seg.instrumentos)}
+    </div>
+
+    <div class="section">
+      <h2>Observaciones del Docente</h2>
+      ${list(obs)}
+    </div>
+  </body>
+  </html>`;
+    }
+
+    function openPreview(plan, originalPayload){
+      const preview = window.open("", "_blank");
+      if (!preview) { alert("Permite ventanas emergentes para ver la vista previa."); return; }
+      const tpl = `<!DOCTYPE html><html lang="es"><head><meta charset=\"UTF-8\"/><title>Vista previa - Plan</title>
+      <style>
+        :root{--c1:#0057A3;--c2:#EE7F00;--c3:#E2001A;--c4:#FFCC00;--c5:#87888A}
+        body{font-family: Calibri,Arial,sans-serif;margin:0;background:#fff;color:#222}
+        header{position:sticky;top:0;background:#fff;border-bottom:1px solid #e3e5e7;padding:12px 16px;display:flex;gap:12px;align-items:center}
+        header h1{font-size:18px;margin:0;color:var(--c1)}
+        textarea{flex:1;padding:8px 10px;border:1px solid #cfd3d7;border-radius:6px;font-family:Calibri,Arial,sans-serif}
+        button{background:var(--c2);color:#fff;border:none;border-radius:6px;padding:8px 12px;cursor:pointer;font-weight:600}
+        button.secondary{background:var(--c1)}
+        button:disabled{opacity:.6;cursor:not-allowed}
+        main{padding:16px}
+      </style></head><body>
+      <header>
+        <h1>Vista previa de la guía</h1>
+        <textarea id=\"ajuste\" placeholder=\"¿Deseas hacer una modificación? (una sola vez)\"></textarea>
+        <button id=\"aplicar\">Aplicar modificación</button>
+        <button id=\"omitir\" class=\"secondary\">Omitir</button>
+        <button id=\"descargar\" disabled>Descargar PDF</button>
+      </header>
+      <main id=\"contenido\"></main>
+      <script>
+      const planInicial = ${JSON.stringify(plan)};
+      const original = ${JSON.stringify(originalPayload)};
+      let usado = false; let planActual = planInicial;
+      const contenido = document.getElementById('contenido');
+      function escapeHtml(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\"/g,'&quot;').replace(/'/g,'&#39;')}
+      function list(items){if(!Array.isArray(items)||!items.length)return '<p class=\"muted\">—</p>';return `<ul>${items.map(i=>` + "`" + `<li>
+      ` + "${escapeHtml(i)}" + `</li>
+      ` + "`" + `).join('')}</ul>`}
+      function tableRows(obj){if(!obj) return '';return Object.entries(obj).map(([k,v])=>` + "`" + `<tr><td>
+      ` + "${escapeHtml(k)}" + `</td><td>
+      ` + "${escapeHtml(String(v))}" + `</td></tr>
+      ` + "`" + `).join('')}
+      function renderPorGrados(por){if(!Array.isArray(por)||!por.length)return '<p class=\"muted\">—</p>';return por.map((g,i)=>{if(typeof g!=='object'||!g){return `<div class=\"subsec\"><h4>Grupo ${i+1}</h4><p>${escapeHtml(String(g))}</p></div>`;}const kv=Object.entries(g).map(([k,v])=>{if(Array.isArray(v)){if(v.every(x=>typeof x==='string'))return `<div><strong>${escapeHtml(k)}:</strong> ${list(v)}</div>`;return `<div><strong>${escapeHtml(k)}:</strong> ${v.map((o,j)=>` + "`" + `<div class=\"nested\"><em>Item ${j+1}</em>
+      ` + "${typeof o==='object'? list(Object.entries(o).map(([kk,vv])=>`${kk}: ${vv}`)) : escapeHtml(String(o))}" + `</div>
+      ` + "`" + `).join('')}</div>`;}if(typeof v==='object'&&v){return `<div><strong>${escapeHtml(k)}:</strong><table class=\"kv\"><tbody>${tableRows(v)}</tbody></table></div>`;}return `<div><strong>${escapeHtml(k)}:</strong> ${escapeHtml(String(v))}</div>`;}).join(''); return `<div class=\"subsec\"><h4>Grupo ${i+1}</h4>${kv}</div>`;}).join('')}
+      function render(plan){
+        const md=plan?.metadatos||{},ctx=plan?.contexto||{},ali=plan?.alineacion_curricular||{},pla=plan?.planificacion||{},por=Array.isArray(plan?.por_grados)?plan.por_grados:[],ada=plan?.adaptaciones||{},art=plan?.articulaciones_ENA||{},seg=plan?.seguimiento||{},obs=Array.isArray(plan?.observaciones_docente)?plan.observaciones_docente:[];
+        const estudiantes=(ctx.estudiantes_por_grado&&typeof ctx.estudiantes_por_grado==='object')?` + "`" + `<table class=\"kv\"><thead><tr><th>Grado</th><th>Estudiantes</th></tr></thead><tbody>${Object.entries(ctx.estudiantes_por_grado).map(([g,c])=>` + "`" + `<tr><td>${escapeHtml(g)}</td><td>${escapeHtml(String(c))}</td></tr>` + "`" + `).join('')}</tbody></table>` + "`" + `:'<p class=\"muted\">—</p>';
+        return ` + "`" + `
+        <style>
+          :root{--c1:#0057A3;--c2:#EE7F00;--c3:#E2001A;--c4:#FFCC00;--c5:#87888A}
+          .meta{color:var(--c5);margin-bottom:12px}
+          .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 16px}
+          .kv{border-collapse:collapse;width:100%}
+          .kv thead th{background:var(--c1);color:#fff}
+          .kv th,.kv td{border:1px solid #e3e5e7;padding:6px 8px;text-align:left}
+          .kv tbody tr:nth-child(even){background:#f7fbff}
+          .section{page-break-inside:avoid;margin-top:14px}
+          .subsec{margin:8px 0;padding:10px 12px;background:#fff;border-left:4px solid var(--c2);border:1px solid #ececec;border-radius:6px}
+          .nested{margin-left:12px}
+          h1{color:var(--c1)} h2{border-bottom:3px solid var(--c1);padding-bottom:6px}
+          h3{color:var(--c2)} h4{color:var(--c3)} .muted{color:var(--c5)}
+        </style>
+        <h1>Plan Docente Flexible</h1>
+        <div class=\"meta\">Autor: ${escapeHtml(md.autor||'—')} • Fecha: ${escapeHtml(md.fecha_generacion||'—')} • Versión: ${escapeHtml(md.version_schema||'—')}</div>
+        <div class=\"section\"><h2>Contexto</h2>
+          <div class=\"grid\">
+            <div><strong>Institución:</strong> ${escapeHtml(ctx.institucion||'—')}</div>
+            <div><strong>Municipio:</strong> ${escapeHtml(ctx.municipio||'—')}</div>
+            <div><strong>Zona:</strong> ${escapeHtml(ctx.zona||'—')}</div>
+            <div><strong>Tipo de aula:</strong> ${escapeHtml(ctx.tipo_aula||'—')}</div>
+            <div><strong>Grados:</strong> ${Array.isArray(ctx.grados)? escapeHtml(ctx.grados.join(', ')) : '—'}</div>
+            <div><strong>Duración clase (min):</strong> ${escapeHtml(String(ctx.duracion_clase_min??'—'))}</div>
+          </div>
+          <h3>Recursos del aula</h3>
+          ${Array.isArray(ctx.recursos_aula)&&ctx.recursos_aula.length?` + "`" + `<ul>${ctx.recursos_aula.map(r=>` + "`" + `<li>${escapeHtml(r)}</li>` + "`" + `).join('')}</ul>` + "`" + `:'<p class=\"muted\">—</p>'}
+          <h3>Estudiantes por grado</h3>${estudiantes}
+        </div>
+        <div class=\"section\"><h2>Alineación Curricular</h2>
+          <div><strong>Área:</strong> ${escapeHtml(ali.area||'—')}</div>
+          <h3>Temas prioritarios</h3>${list(ali.temas_prioritarios)}
+          <h3>Desempeños esperados</h3>${list(ali.desempenos_esperados)}
+          ${Array.isArray(ali.ras_dba_referencia)?` + "`" + `<h3>RAS/DBA de referencia</h3>${list(ali.ras_dba_referencia)}` + "`" + `:''}
+        </div>
+        <div class=\"section\"><h2>Planificación</h2>
+          <div class=\"grid\"><div><strong>Modalidad:</strong> ${escapeHtml(pla.modalidad||'—')}</div>
+          <div><strong>Duración total (min):</strong> ${escapeHtml(String(pla.duracion_total_plan_min||'—'))}</div></div>
+        </div>
+        <div class=\"section\"><h2>Trabajo por Grados</h2>${renderPorGrados(por)}</div>
+        <div class=\"section\"><h2>Adaptaciones</h2>
+          <h3>Ritmos de aprendizaje</h3>${list(ada.ritmos_aprendizaje)}
+          <h3>Estrategias multigrado</h3>${list(ada.estrategias_multigrado)}
+          <h3>Apoyos entre pares</h3>${list(ada.apoyos_pares)}
+          <h3>Materiales alternativos</h3>${list(ada.materiales_alternativos)}
+        </div>
+        <div class=\"section\"><h2>Articulaciones ENA</h2>
+          <h3>Gobierno estudiantil</h3>${list(art.gobierno_estudiantil)}
+          <h3>Comités y roles</h3>${list(art.comites_y_roles)}
+          <h3>Convivencia y rutinas</h3>${list(art.convivencia_y_rutinas)}
+          <h3>Familia y comunidad</h3>${list(art.familia_comunidad)}
+        </div>
+        <div class=\"section\"><h2>Seguimiento</h2>
+          <div><strong>Frecuencia:</strong> ${escapeHtml(seg.frecuencia||'—')}</div>
+          <h3>Indicadores</h3>${list(seg.indicadores)}
+          <h3>Instrumentos</h3>${list(seg.instrumentos)}
+        </div>
+        <div class=\"section\"><h2>Observaciones del Docente</h2>${list(obs)}</div>`;
+      }
+      contenido.innerHTML = render(planActual);
+      document.getElementById('aplicar').onclick = async () => {
+        if (usado) return; const txt = document.getElementById('ajuste').value.trim(); usado = true;
+        document.getElementById('ajuste').disabled = true; document.getElementById('aplicar').disabled = true;
+        try{
+          const res = await fetch('/api/generate-flex', { method:'POST', headers:{'Content-Type':'application/json','Accept':'application/json'}, body: JSON.stringify({...original, ajuste_docente: txt}) });
+          if(!res.ok){ const t = await res.text(); throw new Error(t); }
+          const json = await res.json(); planActual = json; contenido.innerHTML = render(planActual); document.getElementById('descargar').disabled = false;
+        }catch(e){ alert('Error al aplicar modificación: '+ e.message); }
+      };
+      document.getElementById('omitir').onclick = () => { usado = true; document.getElementById('ajuste').disabled = true; document.getElementById('aplicar').disabled = true; document.getElementById('descargar').disabled = false; };
+      document.getElementById('descargar').onclick = () => { window.print(); };
+      <\\/script></body></html>`;
+      preview.document.open(); preview.document.write(tpl); preview.document.close(); preview.focus();
+    }
+
+    document.getElementById("descargarPdf").addEventListener("click", () => {
+      if (!lastResult) return;
+      const html = renderPlanAsHtml(lastResult);
+      const win = window.open("", "_blank");
+      if (!win) {
+        alert("Permite ventanas emergentes para descargar el PDF.");
+        return;
+      }
+      win.document.open();
+      win.document.write(html);
+      win.document.close();
+      win.focus();
+      setTimeout(() => { try { win.print(); } catch (_) {} }, 300);
+    });
+  </script>
