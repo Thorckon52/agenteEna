@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Generar Plan - Asistente ENA</title>
+    <link href="style.css" rel="stylesheet"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <style>
+        .result-container {
+            display: none;
+            margin-top: 20px;
+        }
+        .result-container.active {
+            display: block;
+        }
+        .loading {
+            text-align: center;
+            padding: 40px;
+        }
+        .loading-spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid var(--c1);
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .error-message {
+            background: #fee;
+            border: 1px solid var(--c3);
+            color: var(--c3);
+            padding: 16px;
+            border-radius: 8px;
+            margin-top: 16px;
+        }
+        .success-message {
+            background: #efe;
+            border: 1px solid #2d6;
+            color: #163;
+            padding: 16px;
+            border-radius: 8px;
+            margin-top: 16px;
+        }
+        .plan-output {
+            background: #f7fbff;
+            padding: 20px;
+            border-radius: 8px;
+            border: 1px solid #e3e5e7;
+            margin-top: 20px;
+            max-height: 600px;
+            overflow-y: auto;
+        }
+        .plan-output pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+        }
+        .action-buttons {
+            display: flex;
+            gap: 12px;
+            margin-top: 16px;
+        }
+    </style>
+</head>
+<body>
+    <header class="main-header">
+        <div class="header-left">
+            <img alt="Logo Escuela Nueva" class="logo" src="Images/logo.png"/>
+            <h1 class="header-title">Asistente de Planeación Escuela Nueva Activa</h1>
+        </div>
+        <div class="header-right">
+            <div class="line-with-hexagon">
+                <svg fill="#fff" height="18" viewBox="0 0 17 18" width="17" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M5.5481 1.74664C5.66453 1.58825 5.85386 1.50841 6.03582 1.54099L12.2487 2.65368C12.4132 2.68319 12.5472 2.79993 12.6032 2.96312L14.9298 9.74299C14.9857 9.90615 14.9557 10.0921 14.8505 10.2353L10.8754 15.6439C10.759 15.8022 10.5696 15.882 10.3877 15.8495L4.17478 14.7368C4.01029 14.7074 3.87643 14.5905 3.82036 14.4274L1.49375 7.64751C1.43774 7.48427 1.46774 7.29845 1.57304 7.15519L5.5481 1.74664Z" stroke="#0C67B3" stroke-width="3"></path>
+                </svg>
+                <svg fill="none" height="3" viewBox="0 0 554 3" width="554" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 1.5H553.457" stroke="#0C67B3" stroke-width="3"></path>
+                </svg>
+            </div>
+        </div>
+    </header>
+
+    <content>
+        <div class="form-wrapper">
+            <form class="form-card" id="generateForm">
+                <div class="progress-module">
+                    <div class="hex-steps">
+                        <div class="hex inactive"><svg viewBox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+                        <div class="hex inactive"><svg viewBox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+                        <div class="hex inactive"><svg viewBox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+                        <div class="hex inactive"><svg viewBox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+                        <div class="hex inactive"><svg viewBox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+                        <div class="hex inactive"><svg viewBox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+                        <div class="hex active"><svg viewBox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+                    </div>
+                    <div class="progress-text">7 de 7</div>
+                </div>
+
+                <div class="modulo-hex-info">
+                    <div class="hex-badge-img" data-step="7" role="img" aria-label="Paso 7"></div>
+                    <div class="info-texto">
+                        <h3 class="info-titulo">Generar Plan Docente</h3>
+                        <p class="info-subtitulo">Revisa la información y genera tu plan personalizado de Escuela Nueva Activa</p>
+                    </div>
+                </div>
+
+                <hr/>
+
+                <fieldset class="form-fieldset">
+                    <legend>Resumen de datos recopilados</legend>
+                    <div id="summaryContainer">
+                        <p>Cargando datos...</p>
+                    </div>
+                </fieldset>
+
+                <div class="form-buttons">
+                    <button type="button" id="atras" class="btn-secondary">Atrás</button>
+                    <button type="submit" id="generarPlan" class="btn-primary">Generar Plan Docente</button>
+                </div>
+
+                <div class="result-container" id="loadingContainer">
+                    <div class="loading">
+                        <div class="loading-spinner"></div>
+                        <p>Generando tu plan personalizado... Esto puede tomar unos momentos.</p>
+                    </div>
+                </div>
+
+                <div class="result-container" id="errorContainer"></div>
+                <div class="result-container" id="successContainer"></div>
+            </form>
+        </div>
+    </content>
+
+    <script src="main.js"></script>
+    <script>
+        document.getElementById("atras").addEventListener("click", function() {
+            window.location.href = "04GuiasENAAreas.html";
+        });
+
+        // Mostrar resumen de datos
+        document.addEventListener('DOMContentLoaded', () => {
+            const summaryContainer = document.getElementById('summaryContainer');
+            const allData = window.getAllData();
+
+            let summary = '<div class="card">';
+            summary += '<h4>Datos recopilados:</h4>';
+            summary += '<ul>';
+
+            if (allData.step1) {
+                summary += '<li><strong>✓ Contextualización:</strong> Completada</li>';
+            }
+            if (allData.step2) {
+                summary += '<li><strong>✓ Cuerpo estudiantil:</strong> Completada</li>';
+            }
+            if (allData.step3) {
+                summary += '<li><strong>✓ Recursos e Instrumentos:</strong> Completada</li>';
+            }
+            if (allData.step4) {
+                summary += '<li><strong>✓ Guías y Área:</strong> Completada</li>';
+            }
+
+            const completedSteps = Object.values(allData).filter(Boolean).length;
+            if (completedSteps < 4) {
+                summary += '</ul><p class="warning">⚠️ Faltan datos por completar. Por favor regresa y completa todos los pasos.</p>';
+            } else {
+                summary += '</ul><p class="success">✓ Todos los datos necesarios están completos</p>';
+            }
+            summary += '</div>';
+
+            summaryContainer.innerHTML = summary;
+        });
+
+        // Generar plan
+        document.getElementById("generateForm").addEventListener("submit", async function(e) {
+            e.preventDefault();
+
+            const loadingContainer = document.getElementById('loadingContainer');
+            const errorContainer = document.getElementById('errorContainer');
+            const successContainer = document.getElementById('successContainer');
+
+            // Ocultar resultados previos
+            loadingContainer.classList.remove('active');
+            errorContainer.classList.remove('active');
+            successContainer.classList.remove('active');
+
+            // Recopilar todos los datos
+            const allData = window.getAllData();
+
+            // Construir el objeto para enviar al backend
+            const requestData = {
+                contexto: {
+                    institucion: allData.step1?.institucion || "Institución",
+                    departamento: allData.step1?.departamento || "Departamento",
+                    municipio: allData.step1?.municipio || "Municipio",
+                    zona: allData.step1?.zona || "Rural",
+                    tipo_aula: allData.step1?.tipo_aula || "multigrado",
+                    grados: allData.step2?.grados || ["1"],
+                    duracion_clase_min: 60,
+                    estudiantes_por_grado: allData.step2?.estudiantes || {"1": 10},
+                    recursos_aula: allData.step3?.recursos || [],
+                    dificultades_lectura: allData.step2?.dificultades?.lectura || { hay: false, por_grado: {} },
+                    dificultades_escritura: allData.step2?.dificultades?.escritura || { hay: false, por_grado: {} },
+                    dificultades_comprension: allData.step2?.dificultades?.comprension || { hay: false, por_grado: {} },
+                    organizacion_salon: allData.step1?.organizacion_salon || "grupos",
+                    frecuencia_uso_recursos: "regular",
+                    gobierno_estudiantil_activo: allData.step1?.gobierno_estudiantil === "si",
+                    comites_funcionando: {
+                        hay: allData.step1?.comites === "si",
+                        lista: allData.step1?.comites_lista || []
+                    },
+                    instrumentos_aula: allData.step3?.instrumentos || []
+                },
+                alineacion_curricular: {
+                    area: allData.step4?.area || "Matemáticas",
+                    temas_prioritarios: allData.step4?.temas || ["Tema 1"],
+                    desempenos_esperados: allData.step4?.desempenos || ["Desempeño 1"],
+                    ras_dba_referencia: []
+                }
+            };
+
+            console.log('Enviando datos al backend:', requestData);
+
+            // Mostrar loader
+            loadingContainer.classList.add('active');
+
+            try {
+                const response = await fetch('/api/generate-flex', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(requestData)
+                });
+
+                loadingContainer.classList.remove('active');
+
+                if (!response.ok) {
+                    throw new Error(`Error del servidor: ${response.status} ${response.statusText}`);
+                }
+
+                const result = await response.json();
+                console.log('Plan generado:', result);
+
+                // Mostrar resultado exitoso
+                successContainer.innerHTML = `
+                    <div class="success-message">
+                        <h3>✓ ¡Plan generado exitosamente!</h3>
+                        <p>Tu plan docente personalizado ha sido creado.</p>
+                    </div>
+                    <div class="plan-output">
+                        <h4>Plan Docente Flexible - ENA</h4>
+                        <pre>${JSON.stringify(result, null, 2)}</pre>
+                    </div>
+                    <div class="action-buttons">
+                        <button type="button" class="btn-primary" onclick="downloadPlan()">Descargar Plan</button>
+                        <button type="button" class="btn-secondary" onclick="window.location.href='index.html'">Crear Nuevo Plan</button>
+                    </div>
+                `;
+                successContainer.classList.add('active');
+
+                // Guardar el plan en localStorage para poder descargarlo
+                localStorage.setItem('generated_plan', JSON.stringify(result));
+
+            } catch (error) {
+                console.error('Error generando plan:', error);
+                loadingContainer.classList.remove('active');
+
+                errorContainer.innerHTML = `
+                    <div class="error-message">
+                        <h3>✗ Error al generar el plan</h3>
+                        <p>${error.message}</p>
+                        <p>Por favor verifica que todos los datos estén completos e intenta nuevamente.</p>
+                    </div>
+                `;
+                errorContainer.classList.add('active');
+            }
+        });
+
+        // Función para descargar el plan como PDF con estilos del frontend
+        window.downloadPlan = function() {
+            const planStr = localStorage.getItem('generated_plan');
+            if (!planStr) {
+                alert('No hay plan disponible para descargar');
+                return;
+            }
+
+            const plan = JSON.parse(planStr);
+            const { jsPDF } = window.jspdf;
+            const doc = new jsPDF();
+
+            // Colores del sistema ENA (del frontend)
+            const colors = {
+                primary: [0, 87, 163],      // #0057a3
+                secondary: [238, 127, 0],   // #ee7f00
+                accent: [226, 0, 26],       // #e2001a
+                warning: [255, 204, 0],     // #ffcc00
+                gray: [135, 136, 138],      // #87888a
+                white: [255, 255, 255],
+                black: [34, 34, 34],
+                lightGray: [243, 245, 247]
+            };
+
+            let yPos = 20;
+            const pageHeight = doc.internal.pageSize.height;
+            const pageWidth = doc.internal.pageSize.width;
+            const marginBottom = 25;
+            const marginLeft = 15;
+            const marginRight = 15;
+            const contentWidth = pageWidth - marginLeft - marginRight;
+            const lineHeight = 6;
+
+            // Función para verificar espacio y agregar página si es necesario
+            function checkPageBreak(requiredSpace = 10) {
+                if (yPos + requiredSpace > pageHeight - marginBottom) {
+                    doc.addPage();
+                    yPos = 20;
+                    return true;
+                }
+                return false;
+            }
+
+            // Función auxiliar para agregar texto con salto de página automático
+            function addText(text, fontSize = 10, isBold = false, color = colors.black, indent = 0) {
+                doc.setFontSize(fontSize);
+                doc.setFont('helvetica', isBold ? 'bold' : 'normal');
+                doc.setTextColor(...color);
+
+                const maxWidth = contentWidth - indent;
+                const lines = doc.splitTextToSize(text, maxWidth);
+
+                lines.forEach(line => {
+                    checkPageBreak(lineHeight + 2);
+                    doc.text(line, marginLeft + indent, yPos);
+                    yPos += lineHeight;
+                });
+            }
+
+            // Función para agregar sección con línea decorativa
+            function addSection(title) {
+                checkPageBreak(25);
+                yPos += 12; // Más espacio antes de la sección
+
+                // Línea decorativa superior
+                doc.setDrawColor(...colors.primary);
+                doc.setLineWidth(0.5);
+                doc.line(marginLeft, yPos - 3, pageWidth - marginRight, yPos - 3);
+
+                // Título de sección
+                doc.setFillColor(...colors.primary);
+                doc.roundedRect(marginLeft, yPos, contentWidth, 10, 2, 2, 'F');
+                doc.setTextColor(...colors.white);
+                doc.setFontSize(13);
+                doc.setFont('helvetica', 'bold');
+                doc.text(title, marginLeft + 3, yPos + 7);
+
+                yPos += 16; // Más espacio después del título
+                doc.setTextColor(...colors.black);
+            }
+
+            // Función para agregar subsección
+            function addSubsection(title) {
+                checkPageBreak(18);
+                yPos += 8; // Más espacio antes de la subsección
+
+                // Pequeña barra lateral naranja
+                doc.setFillColor(...colors.secondary);
+                doc.rect(marginLeft, yPos - 3, 3, 8, 'F');
+
+                doc.setFontSize(11);
+                doc.setFont('helvetica', 'bold');
+                doc.setTextColor(...colors.primary);
+                doc.text(title, marginLeft + 6, yPos + 3);
+                yPos += 11; // Más espacio después del subtítulo
+                doc.setTextColor(...colors.black);
+            }
+
+            // Función para agregar caja de información
+            function addInfoBox(content, bgColor = colors.lightGray) {
+                const boxPadding = 7; // Más padding interno
+
+                // Primero, calcular la altura total de la caja
+                let totalHeight = boxPadding * 2 + 5; // padding inicial + final + espacio después
+                content.forEach(item => {
+                    const lines = doc.splitTextToSize(item.text, contentWidth - (boxPadding * 2) - item.indent);
+                    totalHeight += lines.length * lineHeight;
+                });
+
+                // Ahora verificar si hay espacio suficiente
+                checkPageBreak(totalHeight + 10); // +10 para margen de seguridad
+
+                const boxStartY = yPos;
+                yPos += boxPadding;
+
+                // Calcular altura de la caja nuevamente para dibujarla
+                const tempY = yPos;
+                let contentHeight = 0;
+                content.forEach(item => {
+                    const lines = doc.splitTextToSize(item.text, contentWidth - (boxPadding * 2) - item.indent);
+                    contentHeight += lines.length * lineHeight;
+                });
+
+                const boxHeight = contentHeight + (boxPadding * 2);
+
+                // Dibujar caja
+                doc.setFillColor(...bgColor);
+                doc.setDrawColor(...colors.gray);
+                doc.setLineWidth(0.3);
+                doc.roundedRect(marginLeft, boxStartY, contentWidth, boxHeight, 2, 2, 'FD');
+
+                // Agregar contenido real
+                yPos = tempY;
+                content.forEach(item => {
+                    doc.setFontSize(item.fontSize || 10);
+                    doc.setFont('helvetica', item.bold ? 'bold' : 'normal');
+                    doc.setTextColor(...colors.black);
+                    const lines = doc.splitTextToSize(item.text, contentWidth - (boxPadding * 2) - item.indent);
+                    lines.forEach(line => {
+                        doc.text(line, marginLeft + boxPadding + item.indent, yPos);
+                        yPos += lineHeight;
+                    });
+                });
+
+                yPos += boxPadding + 5; // Más espacio después de la caja
+            }
+
+            // ============ ENCABEZADO PRINCIPAL ============
+            // Fondo con degradado visual (simulado con rectángulos)
+            doc.setFillColor(...colors.primary);
+            doc.rect(0, 0, pageWidth, 35, 'F');
+
+            // Barra naranja decorativa
+            doc.setFillColor(...colors.secondary);
+            doc.rect(0, 35, pageWidth, 3, 'F');
+
+            // Texto del encabezado
+            doc.setTextColor(...colors.white);
+            doc.setFontSize(22);
+            doc.setFont('helvetica', 'bold');
+            doc.text('PLAN DOCENTE FLEXIBLE', pageWidth / 2, 15, { align: 'center' });
+            doc.setFontSize(16);
+            doc.text('Escuela Nueva Activa', pageWidth / 2, 25, { align: 'center' });
+            doc.setFontSize(10);
+            doc.setFont('helvetica', 'normal');
+            doc.text(`Generado: ${new Date().toLocaleDateString('es-CO')}`, pageWidth / 2, 32, { align: 'center' });
+
+            doc.setTextColor(...colors.black);
+            yPos = 48;
+
+            // CONTEXTO
+            addSection('CONTEXTO DEL AULA');
+            const ctx = plan.contexto || {};
+
+            const contextoInfo = [
+                { text: `Institución: ${ctx.institucion || 'N/A'}`, fontSize: 10, bold: true, indent: 0 },
+                { text: `Ubicación: ${ctx.municipio || 'N/A'}, ${ctx.departamento || 'N/A'}`, fontSize: 9, bold: false, indent: 0 },
+                { text: `Zona: ${ctx.zona || 'N/A'}`, fontSize: 9, bold: false, indent: 0 },
+                { text: `Tipo de aula: ${ctx.tipo_aula || 'N/A'}`, fontSize: 9, bold: false, indent: 0 },
+                { text: `Grados: ${(ctx.grados || []).join(', ')}`, fontSize: 9, bold: false, indent: 0 }
+            ];
+
+            if (ctx.estudiantes_por_grado) {
+                const estudiantes = Object.entries(ctx.estudiantes_por_grado)
+                    .map(([grado, cantidad]) => `Grado ${grado}: ${cantidad}`)
+                    .join(', ');
+                contextoInfo.push({ text: `Estudiantes: ${estudiantes}`, fontSize: 9, bold: false, indent: 0 });
+            }
+
+            addInfoBox(contextoInfo, colors.lightGray);
+
+            // ÁREA Y TEMAS
+            addSection('ALINEACIÓN CURRICULAR');
+            const alin = plan.alineacion_curricular || {};
+
+            addText(`Área: ${alin.area || 'N/A'}`, 11, true, colors.primary);
+            yPos += 5; // Más espacio después del área
+
+            if (alin.temas_prioritarios && alin.temas_prioritarios.length > 0) {
+                addText('Temas prioritarios:', 10, true, colors.secondary);
+                yPos += 3; // Más espacio después del subtítulo
+                alin.temas_prioritarios.forEach(tema => {
+                    addText(`• ${tema}`, 9, false, colors.black, 5);
+                });
+                yPos += 4; // Más espacio entre bloques
+            }
+            if (alin.desempenos_esperados && alin.desempenos_esperados.length > 0) {
+                addText('Desempeños esperados:', 10, true, colors.secondary);
+                yPos += 3; // Más espacio después del subtítulo
+                alin.desempenos_esperados.forEach(des => {
+                    addText(`• ${des}`, 9, false, colors.black, 5);
+                });
+                yPos += 2; // Espacio final
+            }
+
+            // PLANIFICACIÓN POR GRADOS
+            if (plan.por_grados && plan.por_grados.length > 0) {
+                addSection('PLANIFICACIÓN POR GRADO');
+
+                plan.por_grados.forEach((gradoPlan, index) => {
+                    addSubsection(`Grado ${gradoPlan.grado || 'N/A'}`);
+
+                    if (gradoPlan.objetivos_grado && gradoPlan.objetivos_grado.length > 0) {
+                        addText('Objetivos:', 10, true, colors.secondary);
+                        yPos += 3; // Más espacio después del subtítulo
+                        gradoPlan.objetivos_grado.forEach(obj => {
+                            addText(`• ${obj}`, 9, false, colors.black, 5);
+                        });
+                        yPos += 4; // Más espacio entre bloques
+                    }
+
+                    if (gradoPlan.actividades && gradoPlan.actividades.length > 0) {
+                        addText('Actividades:', 10, true, colors.secondary);
+                        yPos += 3; // Más espacio después del subtítulo
+
+                        gradoPlan.actividades.forEach((act, idx) => {
+                            checkPageBreak(25);
+
+                            // Obtener el título de la actividad (puede estar en diferentes campos)
+                            const tituloActividad = act.titulo || act.nombre || act.title || act.tipo || `Actividad ${idx + 1}`;
+
+                            // Título de actividad en caja
+                            doc.setFillColor(...colors.lightGray);
+                            doc.roundedRect(marginLeft + 5, yPos - 2, contentWidth - 10, 7, 1, 1, 'F');
+                            doc.setTextColor(...colors.primary);
+                            doc.setFontSize(10);
+                            doc.setFont('helvetica', 'bold');
+                            doc.text(`${idx + 1}. ${tituloActividad}`, marginLeft + 8, yPos + 3);
+                            yPos += 9;
+
+                            if (act.descripcion) {
+                                doc.setTextColor(...colors.black);
+                                doc.setFont('helvetica', 'normal');
+                                doc.setFontSize(9);
+                                const descLines = doc.splitTextToSize(act.descripcion, contentWidth - 20);
+                                descLines.forEach(line => {
+                                    checkPageBreak(6);
+                                    doc.text(line, marginLeft + 10, yPos);
+                                    yPos += 5;
+                                });
+                            }
+                            if (act.duracion_min) {
+                                doc.setTextColor(...colors.gray);
+                                doc.setFontSize(8);
+                                doc.text(`Duracion: ${act.duracion_min} minutos`, marginLeft + 10, yPos);
+                                yPos += 6;
+                            }
+                            yPos += 4; // Más espacio entre actividades
+                        });
+                    }
+
+                    if (gradoPlan.evaluacion && gradoPlan.evaluacion.length > 0) {
+                        yPos += 2; // Espacio antes de evaluación
+                        addText('Evaluación:', 10, true, colors.secondary);
+                        yPos += 3; // Más espacio después del subtítulo
+
+                        // evaluacion es un array de strings
+                        gradoPlan.evaluacion.forEach(item => {
+                            addText(`• ${item}`, 9, false, colors.black, 5);
+                        });
+                        yPos += 3; // Espacio después de la evaluación
+                    }
+                    yPos += 5; // Más espacio entre grados
+                });
+            }
+
+            // ADAPTACIONES
+            if (plan.adaptaciones) {
+                addSection('ADAPTACIONES Y ESTRATEGIAS');
+                const adap = plan.adaptaciones;
+
+                if (adap.ritmos_aprendizaje && adap.ritmos_aprendizaje.length > 0) {
+                    addText('Ritmos de aprendizaje:', 10, true, colors.secondary);
+                    yPos += 3; // Más espacio después del subtítulo
+                    adap.ritmos_aprendizaje.forEach(r => addText(`• ${r}`, 9, false, colors.black, 5));
+                    yPos += 4; // Más espacio entre bloques
+                }
+
+                if (adap.estrategias_multigrado && adap.estrategias_multigrado.length > 0) {
+                    addText('Estrategias multigrado:', 10, true, colors.secondary);
+                    yPos += 3; // Más espacio después del subtítulo
+                    adap.estrategias_multigrado.forEach(e => addText(`• ${e}`, 9, false, colors.black, 5));
+                    yPos += 4; // Más espacio entre bloques
+                }
+
+                if (adap.apoyos_pares && adap.apoyos_pares.length > 0) {
+                    addText('Apoyos entre pares:', 10, true, colors.secondary);
+                    yPos += 3; // Más espacio después del subtítulo
+                    adap.apoyos_pares.forEach(a => addText(`• ${a}`, 9, false, colors.black, 5));
+                }
+            }
+
+            // ARTICULACIONES ENA
+            if (plan.articulaciones_ENA) {
+                addSection('ARTICULACIONES ENA');
+                const art = plan.articulaciones_ENA;
+
+                if (art.gobierno_estudiantil && art.gobierno_estudiantil.length > 0) {
+                    addText('Gobierno estudiantil:', 10, true, colors.secondary);
+                    yPos += 3; // Más espacio después del subtítulo
+                    art.gobierno_estudiantil.forEach(g => addText(`• ${g}`, 9, false, colors.black, 5));
+                    yPos += 4; // Más espacio entre bloques
+                }
+
+                if (art.comites_y_roles && art.comites_y_roles.length > 0) {
+                    addText('Comites y roles:', 10, true, colors.secondary);
+                    yPos += 3; // Más espacio después del subtítulo
+                    art.comites_y_roles.forEach(c => addText(`• ${c}`, 9, false, colors.black, 5));
+                    yPos += 4; // Más espacio entre bloques
+                }
+
+                if (art.familia_comunidad && art.familia_comunidad.length > 0) {
+                    addText('Familia y comunidad:', 10, true, colors.secondary);
+                    yPos += 3; // Más espacio después del subtítulo
+                    art.familia_comunidad.forEach(f => addText(`• ${f}`, 9, false, colors.black, 5));
+                }
+            }
+
+            // SEGUIMIENTO
+            if (plan.seguimiento) {
+                addSection('SEGUIMIENTO Y EVALUACIÓN');
+                const seg = plan.seguimiento;
+
+                const seguimientoInfo = [];
+
+                if (seg.indicadores && seg.indicadores.length > 0) {
+                    seguimientoInfo.push({ text: 'Indicadores:', fontSize: 10, bold: true, indent: 0 });
+                    seg.indicadores.forEach(i => {
+                        seguimientoInfo.push({ text: `• ${i}`, fontSize: 9, bold: false, indent: 3 });
+                    });
+                }
+
+                if (seg.frecuencia) {
+                    seguimientoInfo.push({ text: `Frecuencia: ${seg.frecuencia}`, fontSize: 9, bold: true, indent: 0 });
+                }
+
+                if (seg.instrumentos && seg.instrumentos.length > 0) {
+                    seguimientoInfo.push({ text: 'Instrumentos:', fontSize: 10, bold: true, indent: 0 });
+                    seg.instrumentos.forEach(i => {
+                        seguimientoInfo.push({ text: `• ${i}`, fontSize: 9, bold: false, indent: 3 });
+                    });
+                }
+
+                if (seguimientoInfo.length > 0) {
+                    addInfoBox(seguimientoInfo, colors.lightGray);
+                }
+            }
+
+            // PIE DE PÁGINA ESTILIZADO
+            const totalPages = doc.internal.getNumberOfPages();
+            for (let i = 1; i <= totalPages; i++) {
+                doc.setPage(i);
+
+                // Línea superior decorativa
+                doc.setDrawColor(...colors.secondary);
+                doc.setLineWidth(0.5);
+                doc.line(marginLeft, pageHeight - 18, pageWidth - marginRight, pageHeight - 18);
+
+                // Información del pie
+                doc.setFontSize(8);
+                doc.setFont('helvetica', 'normal');
+                doc.setTextColor(...colors.gray);
+                doc.text(`Página ${i} de ${totalPages}`, pageWidth / 2, pageHeight - 12, { align: 'center' });
+                doc.setFontSize(7);
+                doc.text('Generado con Asistente ENA', marginLeft, pageHeight - 8);
+                doc.text(new Date().toLocaleDateString('es-CO', {
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric'
+                }), pageWidth - marginRight, pageHeight - 8, { align: 'right' });
+            }
+
+            // Descargar PDF
+            doc.save(`Plan_Docente_ENA_${new Date().toISOString().slice(0, 10)}.pdf`);
+        };
+    </script>
+</body>
+</html>

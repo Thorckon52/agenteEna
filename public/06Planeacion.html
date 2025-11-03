@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+  
+  <head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>Document</title>
+    <link href="style.css" rel="stylesheet"/>
+  </head>
+  
+  <body>
+   
+    <header class="main-header">
+      <div class="header-left">
+        <img alt="Logo Escuela Nueva" class="logo" src="Images/logo.png"/>
+        <h1 class="header-title">Asistente de Planeación Escuela Nueva Activa</h1>
+      </div>
+      <div class="header-right">
+        <div class="line-with-hexagon">
+      <svg fill="#fff" height="18" viewbox="0 0 17 18" width="17" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.5481 1.74664C5.66453 1.58825 5.85386 1.50841 6.03582 1.54099L12.2487 2.65368C12.4132 2.68319 12.5472 2.79993 12.6032 2.96312L14.9298 9.74299C14.9857 9.90615 14.9557 10.0921 14.8505 10.2353L10.8754 15.6439C10.759 15.8022 10.5696 15.882 10.3877 15.8495L4.17478 14.7368C4.01029 14.7074 3.87643 14.5905 3.82036 14.4274L1.49375 7.64751C1.43774 7.48427 1.46774 7.29845 1.57304 7.15519L5.5481 1.74664Z" stroke="#0C67B3" stroke-width="3"></path>
+</svg>
+<svg fill="none" height="3" viewbox="0 0 554 3" width="554" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 1.5H553.457" stroke="#0C67B3" stroke-width="3"></path>
+</svg>
+</div></div>
+</header>
+
+
+<content>
+<div class="form-wrapper"><form class="form-card">
+<div class="progress-module">
+<div class="hex-steps">
+    <!-- 7 hexágonos -->
+    <div class="hex inactive"><svg viewbox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+    <div class="hex inactive"><svg viewbox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+    <div class="hex inactive"><svg viewbox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+    <div class="hex active">
+    <svg viewbox="0 0 100 100"> <path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path> </svg> </div>
+    <div class="hex inactive"><svg viewbox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+    <div class="hex inactive"><svg viewbox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+    <div class="hex inactive"><svg viewbox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+</div>
+<div class="progress-text">4 de 7</div>
+</div>
+
+<div class="modulo-hex-info">
+  <div class="hex-badge-img" data-step="3" role="img" aria-label="Paso 3"></div>
+  <div class="info-texto">
+    <h3 class="info-titulo">Guías de Aprendizaje ENA y Área</h3>
+    <p class="info-subtitulo">Ahora especifiquemos la edición de tus Guías y el Área a trabajar, para ver los temas que se conectan</p>
+  </div>
+</div>
+
+<hr/>
+
+
+<div class="warning-label">
+    <img src="Images/iconDanger.svg" alt="warning-text">Ten presente que debes contar con las guías a la mano para esta sección</span>
+</div>
+
+<fieldset class="form-fieldset">
+   <label for="materia">Área a trabajar</label>  
+    <select id="materia" required="">
+    <option value="matematicas">Matemáticas</option>
+    <option value="lenguaje">Lenguaje</option>
+    <option value="sociales">Sociales</option>
+    <option value="Tecnología">Tecnología</option>
+    <option value="Naturales">Naturales</option>
+    <option value="ética">Ética</option>
+    </select>
+    
+   <label for="edicion_guia">Edición de las Guías ENA</label>
+    <input id="edicion_guia" placeholder="Escribe el año de tus Guías" required="" type="text"/>
+
+    <div id="guiasContainer"></div>
+    
+      </fieldset>
+      
+<div class="form-buttons">
+  <button type="button" id = "atras" class="btn-secondary">Atrás</button>
+  <button type="submit" id = "Continuar"class="btn-primary">Continuar</button>
+</div>
+
+ <script>
+  document.getElementById("atras").addEventListener("click", function() {
+    window.location.href = "02CuerpoEstudiantil.html";
+     });
+  document.getElementById("Continuar").addEventListener("click", function(e) {
+    e.preventDefault();
+    const requiredFields = document.querySelectorAll('[required]');
+    let allFilled = true;
+    
+    requiredFields.forEach(field => {
+      if (!field.value) {
+        allFilled = false;
+      }
+    });
+
+    if (allFilled) {
+      window.location.href = "01Contextualizacion.html";
+    } else {
+      alert("Por favor complete todos los campos requeridos");
+    }
+  });
+</script>
+
+</form></div>
+</content>
+<script src="main.js"></script>
+</body>
+</html>

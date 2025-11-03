@@ -1,0 +1,624 @@
+ :root {
+      --c1: #0057a3;
+      --c2: #ee7f00;
+      --c3: #e2001a;
+      --c4: #ffcc00;
+      --c5: #87888a;
+      --rule-thickness: 3px;   /* grosor de la línea */
+      --hex-size: 18px;        /* tamaño del hexágono (ancho/alto del SVG) */
+      --gap-header: 16px;      /* separación entre lado izq. y der. del header */
+      --gap-left: 12px;        /* separación entre logo y título */
+      --hex-mask: url("Images/Polygon.svg");
+      --hex-gap: 8px;      /* espacio entre línea y hexágono */
+
+    }
+    * { box-sizing: border-box; }
+    body {
+     font-family: 'Calibri', 'Segoe UI', 'Roboto', sans-serif;
+      margin: 20px;
+      background: #fff;
+      color: #222;
+    }
+    h1 {
+      color: var(--c1);
+      margin: 0 0 16px;
+    }
+    
+
+h3 {
+  color: var(--c1);
+  text-align: center;
+}
+
+h3.form-title {
+      color: var(--c1);
+      text-align: left;
+      margin: 0;
+    }
+
+    
+.header-title {
+font-family: var(--font-family-Font-2, Calibri);
+font-size: clamp(1.25rem, 2vw + 0.5rem, 2rem);
+font-style: normal;
+font-weight: var(--font-weight-700, 700);
+line-height: 1.1;
+white-space: inherit;  
+color: var(--c1);
+margin: 0 0 6px; 
+line-height: 1.2;  /* un poco más compacto */
+
+}
+
+.form-wrapper {
+  display: flex;
+  justify-content: center;
+  padding: 40px 20px;
+}
+
+
+.main-header {
+display: inline-flex;
+align-items: center;
+gap: 65px;
+}
+
+.header-left {
+  
+  display: flex;
+  align-items: center;
+  gap: var(--gap-left);
+  flex: 0 0 auto;    /* ocupa solo lo necesario */
+  min-width: 0;   
+}
+
+.welcome-card{
+  max-width: 620px;             /* armoniza con tu layout (coincide con form/pre) */
+  margin: 32px auto;
+  padding: 24px 16px;
+  border-radius: 12px;
+  border: 1px solid #e3e5e7;    /* consistente con tus cards */
+}
+
+.welcome-lead{
+  margin: 0;                 /* elimina margen por defecto */
+}
+
+
+.welcome-head{
+  display: flex;
+  align-items: center;
+  flex-direction: column;  /* apila verticalmente */
+  justify-content: center;      /* centra el conjunto */
+  gap:8px;
+  flex-wrap: wrap;               /* evita saltos feos en móvil */
+  text-align: center;            /* centra el h3 y el párrafo */
+}
+
+
+.welcome-actions{
+  display: flex;
+  justify-content: center; /* centra horizontalmente */
+  margin-top: 16px;        /* separa el botón del texto */
+}
+
+
+.logo {
+  height: 60px;
+  width: auto;
+}
+
+
+.header-right {
+  display: flex;
+  align-items: center;
+  flex: 1 1 auto;          /* <-- clave: estirar para ocupar el restante */
+  min-width: 60px;
+
+}
+
+.line-with-hexagon {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.line-with-hexagon::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: calc(var(--hex-size) + + var(--hex-gap)); /* deja espacio para el hexágono */
+  top: 50%;
+  height: var(--rule-thickness);
+  background:  var(--c1);
+  transform: translateY(-50%);
+  border-radius: 2px;
+  z-index: 0; /* asegura que la línea quede detrás del hexágono */
+}
+
+/* El hexágono (SVG) pegado al extremo derecho */
+.line-with-hexagon .hex {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  width: var(--hex-size);
+  height: var(--hex-size);
+  transform: translateY(-50%);
+  z-index: 1; /* asegura que el hexágono quede encima de la línea */
+  display: block;
+  pointer-events: none;
+}
+
+/* Asegura que el trazo del hexágono coincida con la línea */
+.line-with-hexagon .hex path {
+  stroke:   var(--c1);
+  stroke-width: var(--rule-thickness);
+}
+
+/* Modulo de progreso */
+ .progress-module {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin: 20px 0;
+      justify-content: center;
+    }
+
+    .hex-steps {
+      display: flex;
+      gap: 8px;
+    }
+
+    .hex svg {
+      width: 10px;
+      height: 10px;
+      transition: fill 0.4s ease;
+    }
+
+    .hex.inactive svg path {
+      fill: #e2e3e6;
+    }
+
+    .hex.active svg path {
+      fill: #0057a3;
+    }
+
+    .progress-text {
+      font-weight: 600;
+      color: #0057a3;
+    }
+
+    .step-controls {
+      margin-top: 20px;
+      display: flex;
+      gap: 10px;
+    }
+
+    .step-controls button {
+      padding: 8px 12px;
+      background-color: #0057a3;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: background-color 0.3s ease;
+    }
+
+    .step-controls button:hover {
+      background-color: #024b8c;
+    }
+
+    
+.form-buttons {
+  
+display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+  margin: 24px 50px 0;
+
+}
+
+.form-buttons button {
+  padding: 10px 16px;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-secondary {
+  background-color: #e2e3e6;
+  color: #222;
+  border: none;
+}
+
+.btn-secondary:hover {
+  background-color: #cfd3d7;
+}
+
+.hexagon2 {
+  stroke-width: 3px;
+  stroke: #0C67B3;
+  position: absolute;
+  right: 0;
+  transform: translateX(50%);
+}
+/* Fin Modulo de progreso */
+
+    form {
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      max-width: 840px;
+      border: 1px solid #e3e5e7;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+      display: grid;
+      gap: 18px;
+      
+    }
+    .form-fieldset {
+      border-radius: 8px;
+      padding: 16px;
+      margin:  0 50px;
+      padding: 24px 16px;
+    }
+    .form-card {
+      background: #fff;
+      padding: 20px;
+      border-radius: 12px;
+      max-width: 840px;
+      width: 100%;
+      border: 1px solid #e3e5e7;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+      display: grid;
+      gap: 0px;
+      align-items: center;
+ 
+    }
+    fieldset {
+      border: 1px solid #d5d8dc;
+      border-radius: 8px;
+      padding: 16px;
+      margin: 0;
+    }
+    
+    legend {
+      padding: 0 6px;
+      font-weight: 600;
+      color: var(--c1);
+    }
+    label {
+      display: block;
+      margin-top: 10px;
+      font-weight: 600;
+      color: #1f2933;
+    }
+    input[type="text"],
+    input[type="number"],
+    input[type="email"],
+    select,
+    textarea {
+      width: 100%;
+      padding: 8px 10px;
+      margin-top: 6px;
+      border-radius: 6px;
+      border: 1px solid #cfd3d7;
+      font-family: 'Calibri', 'Segoe UI', 'Roboto', sans-serif;
+      font-size: 15px;
+    }
+    input:focus, select:focus, textarea:focus {
+      outline: 2px solid var(--c1);
+      border-color: var(--c1);
+    }
+    button {
+      padding: 10px 16px;
+      background: var(--c1);
+      color: #fff;
+      border: 0;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 600;
+    }
+    button:hover { background: #024b8c; }
+    .radio-group,
+    .checkbox-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 8px;
+    }
+    .radio-group label,
+    .checkbox-group label {
+      font-weight: 500;
+      display: flex;
+      gap: 6px;
+      align-items: center;
+    }
+    .card-list {
+      margin-top: 12px;
+      display: grid;
+      gap: 12px;
+    }
+    .card {
+      border: 1px solid #d8dadd;
+      border-radius: 8px;
+      padding: 12px;
+      background: #f9fafb;
+    }
+    .card h4 {
+      margin: 0 0 8px;
+      font-size: 16px;
+      color: var(--c1);
+    }
+    .dificultad-detalle {
+      margin-top: 12px;
+      display: grid;
+      gap: 12px;
+    }
+    .dif-row {
+      border: 1px solid #d8dadd;
+      border-radius: 8px;
+      padding: 12px;
+      background: #f9fafb;
+    }
+    .dif-row h5 {
+      margin: 0 0 8px;
+      font-size: 15px;
+      color: #111827;
+    }
+    .dif-options {
+      display: grid;
+      gap: 6px;
+      margin-top: 8px;
+    }
+    .note {
+      font-size: 13px;
+      color: #4b5563;
+      margin-top: 6px;
+    }
+    .warning {
+      color: var(--c3);
+      font-weight: 600;
+    }
+    .hidden { display: none !important; }
+    pre {
+      background: #f7fbff;
+      color: #222;
+      padding: 16px;
+      border-radius: 8px;
+      margin-top: 20px;
+      overflow-x: auto;
+      border-left: 4px solid var(--c1);
+      border: 1px solid #e3e5e7;
+      max-width: 840px;
+    }
+    .spinner {
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      border: 2px solid #cbd5e1;
+      border-top-color: var(--c1);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      vertical-align: text-bottom;
+      margin-right: 6px;
+    }
+    
+.warning-label {
+    display: flex;
+    align-items: center;
+    background-color: #fff3e6; /* Fondo color crema */
+    border-left: 8px solid #f57c00; /* Barra naranja a la izquierda */
+    padding: 12px 16px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    margin: 16px 0;
+    border-radius: 4px;
+}
+
+.warning-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+
+.warning-text {
+    flex: 1;
+     margin-left: 10px;
+}
+
+
+content { display: block; }
+
+.hex-badge{
+  --hex-w: 43px;      /* ancho base  */
+  --hex-h: 44px;      /* alto base   */
+  --hex-color: var(--c2);
+  --hex-font: 700 18px/1 'Calibri','Segoe UI',system-ui,sans-serif;
+
+  display: inline-grid;
+  place-items: center;                 /* centra el número */
+  width: var(--hex-w);
+  height: var(--hex-h);
+  background-color: var(--hex-color);  /* “tinta” del hex */
+  color: #fff;                         /* color del número */
+ 
+  mask-image: var(--hex-mask);
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  mask-position: center;
+
+  mask-mode: alpha; /* usa canal alfa del SVG */
+
+  /* ⬇️ Equivalentes para WebKit (Chrome/Safari) */
+  -webkit-mask-image: url("Images/Polygon.svg");
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,.08);
+
+}
+
+.hex-badge::after{
+  content: attr(data-step);
+  font: var(--hex-font);
+  transform: translateY(0.5px); /* microajuste opcional */
+}
+
+/* === Tarjetas dinamicas para informacion de la guia === */
+.guia-card {
+    background-color: #f8fbff;
+    border: 1px solid #dce3eb;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.guia-card h4 {
+    color: #007bff;
+    margin-bottom: 10px;
+}
+.guia-card label {
+    display: block;
+    margin-top: 8px;
+    font-weight: 500;
+}
+.guia-card input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+/* === HEX como imagen de fondo + número superpuesto === */
+.hex--sm{ --hex-w: 32px; --hex-h: 33px; --num-size: 14px; --offset-y: 0.25px; }
+.hex--md{ --hex-w: 43px; --hex-h: 44px; --num-size: 18px; --offset-y: 0.5px;  }
+.hex--lg{ --hex-w: 56px; --hex-h: 57px; --num-size: 22px; --offset-y: 0.75px; }
+
+.hex-badge-img{
+  /* Valores por defecto si no pones sm/md/lg */
+  --hex-w: 43px;
+  --hex-h: 44px;
+  --num-size: 18px;
+  --offset-y: 0.5px;
+
+  position: relative;
+  display: inline-grid;
+  place-items: center;
+  width: var(--hex-w);
+  height: var(--hex-h);
+  vertical-align: middle;
+
+  background-image: url("Images/Polygon.svg");   /* o ../Images/Polygon.svg */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+
+  filter: drop-shadow(0 2px 6px rgba(0,0,0,.08)); /* opcional */
+}
+
+
+.hex-badge-img::after{
+  content: attr(data-step);
+  color: #fff;
+  font: 700 var(--num-size)/1 'Calibri','Segoe UI',system-ui,sans-serif;
+  transform: translateY(var(--offset-y)); 
+}
+
+
+
+/* Módulo: Hexágono a la izquierda con título y subtítulo a la derecha */
+.modulo-hex-info {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 32px 0;
+}
+
+.modulo-hex-info .hex-badge-img {
+   --hex-w: 43px;
+  --hex-h: 44px;
+  --hex-color: var(--c2);
+  --hex-font: 700 18px/1 'Calibri','Segoe UI',system-ui,sans-serif;
+  display: inline-grid;
+  place-items: center;
+  width: var(--hex-w);
+  height: var(--hex-h);
+  background-color: var(--hex-color);
+  color: #fff;
+  mask-image: var(--hex-mask);
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  mask-mode: alpha;
+  -webkit-mask-image: var(--hex-mask);
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,.08);
+}
+
+.modulo-hex-info .hex-badge-img::after {
+  content: attr(data-step);
+  font: var(--hex-font);
+  transform: translateY(0.5px);
+}
+
+.modulo-hex-info .info-texto {
+  display: flex;
+  flex-direction: column;
+}
+
+.modulo-hex-info .info-titulo {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--c1);
+  margin: 0;
+  text-align: left;
+}
+
+.modulo-hex-info .info-subtitulo {
+  font-size: 1rem;
+  color: var(--c5);
+  margin: 4px 0 0;
+}
+
+
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+    #vista {
+      max-width: 840px;
+    }
+    
+@media (max-width: 520px) {
+  .header-left { min-width: 0; }
+  .header-title {
+    max-width: 60vw;          /* ajusta el porcentaje si hace falta */
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .logo { height: 48px; }     /* reducir un poco el logo ayuda a mantener 1 línea */
+}
+
+/* Estilos para validación de formularios */
+input.error, select.error, textarea.error {
+  border-color: var(--c3) !important;
+  background-color: #fee !important;
+}
+
+.success {
+  color: #163;
+}
+
+.warning {
+  color: var(--c3);
+}
+
+.hidden {
+  display: none !important;
+}
+

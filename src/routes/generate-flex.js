@@ -104,7 +104,17 @@ router.post("/", async (req, res) => {
     const totalMin = 180;
     docenteInput.planificacion = { modalidad: "flexible", duracion_total_plan_min: totalMin };
 
-    const promptMsg2 = `Genera un plan docente flexible personalizado por grado a partir del siguiente contexto. Distribuye el plan en ${semanas} semanas (aproximadamente entre 2 y 3 semanas) y, en cada actividad, indica 'Semana N:' dentro de la descripcion. No agregues campos fuera del schema.
+    const promptMsg2 = `Genera un plan docente flexible personalizado por grado a partir del siguiente contexto. Distribuye el plan en ${semanas} semanas (aproximadamente entre 2 y 3 semanas) y, en cada actividad, indica 'Semana N:' dentro de la descripcion.
+
+IMPORTANTE: Para cada grado, el campo 'evaluacion' debe contener un array con estrategias e instrumentos de evaluación específicos. Incluye al menos 3-5 elementos que describan:
+- Estrategias de evaluación formativa (observación, retroalimentación, autoevaluación, coevaluación)
+- Instrumentos específicos (rúbricas, listas de cotejo, portafolios, pruebas escritas, exposiciones orales)
+- Criterios de evaluación alineados con los objetivos del grado
+- Formas de evaluar el proceso y el producto
+
+Ejemplo de evaluacion: ["Observación directa del trabajo en clase usando lista de cotejo", "Revisión de ejercicios en el cuaderno con retroalimentación escrita", "Autoevaluación del estudiante sobre su comprensión del tema", "Prueba escrita corta al final de cada semana", "Exposición oral en grupo sobre el tema trabajado"]
+
+No agregues campos fuera del schema.
 ${JSON.stringify(
       docenteInput,
       null,

@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp:*)",
+      "Bash(npm start)",
+      "Bash(taskkill:*)",
+      "Bash(move ARQUITECTURA.md informes )",
+      "Bash(move:*)",
+      "Bash(move ANALISIS_COMPARATIVO.md informes )",
+      "Bash(move INVENTARIO_MATERIALES_ENA.md informes )",
+      "Bash(move AVANCE_FASE2.md informes )",
+      "Bash(move REPORTE_REDES_FEN.md informes )",
+      "Bash(move PLAN_REDES_FEN.md informes )",
+      "Bash(move RESUMEN_HOY.md informes )",
+      "Bash(move PLAN_DE_TRABAJO.md informes )",
+      "Bash(move RESUMEN_EJECUTIVO_PROPUESTA.md informes )",
+      "Bash(move COMPARATIVA_PROPUESTAS.md informes )",
+      "Bash(move PROPUESTA_MVP_AGENTE_ENA.md informes )",
+      "Bash(move RESUMEN_MVP.md informes )",
+      "Bash(move TABLA_COMPARATIVA_PROPUESTAS.md informes )",
+      "Bash(move PITCH_EJECUTIVO_MVP.md informes )",
+      "Bash(move PM_EJECUCION_MVP.md informes )",
+      "Bash(move TABLERO_KANBAN_MVP.md informes )",
+      "Bash(move TEMPLATE_REPORTE_SEMANAL.md informes )",
+      "Bash(move INDICE_DOCUMENTACION_PM.md informes )",
+      "Bash(move GUIA_INICIO_RAPIDO_MVP.md informes )",
+      "Bash(move CRONOGRAMA_DETALLADO_MVP.md informes )",
+      "Bash(move REQUISITOS_FRONTEND_MVP.md informes )",
+      "Bash(move CRONOGRAMA_FRONTEND_DETALLADO.md informes )",
+      "Bash(move RESUMEN_REQUISITOS_CRONOGRAMA.md informes )",
+      "Bash(move INTEGRACION_FRONTEND.md informes )",
+      "Bash(move RESUMEN_IMPLEMENTACION.md informes)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
