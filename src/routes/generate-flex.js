@@ -104,6 +104,26 @@ router.post("/", async (req, res) => {
     const totalMin = 180;
     docenteInput.planificacion = { modalidad: "flexible", duracion_total_plan_min: totalMin };
 
+    // Extraer guías ENA recomendadas si vienen en el contexto
+    let guiasENAContext = '';
+    if (docenteInput.guias_ena_recomendadas) {
+      guiasENAContext = '\n\n📚 GUÍAS ENA RECOMENDADAS POR GRADO:\n';
+      guiasENAContext += 'IMPORTANTE: Las actividades deben hacer referencia explícita a estas guías específicas de Escuela Nueva.\n';
+      guiasENAContext += 'En cada actividad, indica claramente qué guía(s) deben consultar los estudiantes.\n\n';
+
+      Object.entries(docenteInput.guias_ena_recomendadas).forEach(([grado, guias]) => {
+        const gradoNum = grado.replace('grado_', '');
+        guiasENAContext += `\n${grado.toUpperCase()}:\n`;
+        guias.forEach(guia => {
+          guiasENAContext += `  • Unidad ${guia.unidad}, Guía ${guia.guia}: "${guia.nombre}"\n`;
+        });
+      });
+
+      guiasENAContext += '\nEjemplo de cómo referenciar las guías en las actividades:\n';
+      guiasENAContext += '"Los estudiantes de 3° trabajarán con la Unidad 4, Guía 10 (Perímetro y área) realizando..."\n';
+      guiasENAContext += '"Consultar la Guía 11 de la Unidad 4 para profundizar en ángulos y triángulos..."\n';
+    }
+
     const promptMsg2 = `Genera un plan docente flexible personalizado por grado a partir del siguiente contexto. Distribuye el plan en ${semanas} semanas (aproximadamente entre 2 y 3 semanas) y, en cada actividad, indica 'Semana N:' dentro de la descripcion.
 
 IMPORTANTE: Para cada grado, el campo 'evaluacion' debe contener un array con estrategias e instrumentos de evaluación específicos. Incluye al menos 3-5 elementos que describan:
@@ -113,6 +133,7 @@ IMPORTANTE: Para cada grado, el campo 'evaluacion' debe contener un array con es
 - Formas de evaluar el proceso y el producto
 
 Ejemplo de evaluacion: ["Observación directa del trabajo en clase usando lista de cotejo", "Revisión de ejercicios en el cuaderno con retroalimentación escrita", "Autoevaluación del estudiante sobre su comprensión del tema", "Prueba escrita corta al final de cada semana", "Exposición oral en grupo sobre el tema trabajado"]
+${guiasENAContext}
 
 No agregues campos fuera del schema.
 ${JSON.stringify(

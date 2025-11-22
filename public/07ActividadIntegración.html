@@ -222,7 +222,9 @@
                     temas_prioritarios: allData.step4?.temas || ["Tema 1"],
                     desempenos_esperados: allData.step4?.desempenos || ["Desempeño 1"],
                     ras_dba_referencia: []
-                }
+                },
+                // Incluir guías ENA recomendadas desde el paso 5
+                guias_ena_recomendadas: allData.step5?.guias_recomendadas || null
             };
 
             console.log('Enviando datos al backend:', requestData);
