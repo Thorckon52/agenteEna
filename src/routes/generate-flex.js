@@ -3,6 +3,11 @@ import fs from "fs";
 import path from "path";
 import OpenAI from "openai";
 import { getGuidelines } from "../utils/guidelines.js";
+import {
+  analizarRecursos,
+  extraerRecursosDeGuias,
+  generarTextoSugerencias
+} from "../utils/recursos-alternativos.js";
 //import schema from "../schemas/planFlexible.json" assert { type: "json" };
 
 const router = Router();
@@ -12,6 +17,29 @@ const schemaFile = JSON.parse(fs.readFileSync(schemaPath, "utf8"));
 const jsonSchema = schemaFile.schema ?? schemaFile;
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+
+/**
+ * Carga todos los JSONs de guías RAS 2026
+ * @returns {Object} Objeto con los JSONs cargados por asignatura
+ */
+function cargarJSONsRAS() {
+  const dirGuias = path.resolve("src/data/guias_ras_2026");
+  const asignaturas = ["matematicas", "lenguaje", "ciencias_naturales", "ciencias_sociales", "etica", "tecnologia"];
+  const jsons = {};
+
+  asignaturas.forEach(asignatura => {
+    try {
+      const rutaJSON = path.join(dirGuias, `${asignatura}_ras_2026.json`);
+      if (fs.existsSync(rutaJSON)) {
+        jsons[asignatura] = JSON.parse(fs.readFileSync(rutaJSON, "utf8"));
+      }
+    } catch (err) {
+      console.warn(`⚠️ No se pudo cargar ${asignatura}_ras_2026.json:`, err.message);
+    }
+  });
+
+  return jsons;
+}
 
 function ensureDefaults(obj) {
   obj.metadatos ||= {
@@ -124,6 +152,30 @@ router.post("/", async (req, res) => {
       guiasENAContext += '"Consultar la Guía 11 de la Unidad 4 para profundizar en ángulos y triángulos..."\n';
     }
 
+    // 📚 Análisis de recursos: comparar recursos requeridos vs disponibles
+    let recursosContext = '';
+    if (docenteInput.guias_ena_recomendadas) {
+      const todosLosJSONs = cargarJSONsRAS();
+      const asignaturaActual = docenteInput.alineacion_curricular?.area || 'matematicas';
+      const recursosRequeridos = extraerRecursosDeGuias(
+        docenteInput.guias_ena_recomendadas,
+        todosLosJSONs,
+        asignaturaActual
+      );
+      const recursosDisponibles = docenteInput.contexto?.recursos_aula || [];
+
+      const analisisRecursos = analizarRecursos(recursosRequeridos, recursosDisponibles);
+      recursosContext = '\n\n' + generarTextoSugerencias(analisisRecursos) + '\n';
+
+      console.log(`📊 Análisis de recursos para ${asignaturaActual}:`);
+      console.log(`   - Recursos requeridos: ${recursosRequeridos.length}`);
+      console.log(`   - Recursos disponibles: ${recursosDisponibles.length}`);
+      console.log(`   - Recursos faltantes: ${analisisRecursos.recursos_faltantes.length}`);
+      if (recursosRequeridos.length > 0) {
+        console.log(`   - Ejemplo de recursos: ${recursosRequeridos.slice(0, 5).join(', ')}`);
+      }
+    }
+
     const promptMsg2 = `Genera un plan docente flexible personalizado por grado a partir del siguiente contexto. Distribuye el plan en ${semanas} semanas (aproximadamente entre 2 y 3 semanas) y, en cada actividad, indica 'Semana N:' dentro de la descripcion.
 
 IMPORTANTE: Para cada grado, el campo 'evaluacion' debe contener un array con estrategias e instrumentos de evaluación específicos. Incluye al menos 3-5 elementos que describan:
@@ -134,6 +186,7 @@ IMPORTANTE: Para cada grado, el campo 'evaluacion' debe contener un array con es
 
 Ejemplo de evaluacion: ["Observación directa del trabajo en clase usando lista de cotejo", "Revisión de ejercicios en el cuaderno con retroalimentación escrita", "Autoevaluación del estudiante sobre su comprensión del tema", "Prueba escrita corta al final de cada semana", "Exposición oral en grupo sobre el tema trabajado"]
 ${guiasENAContext}
+${recursosContext}
 
 No agregues campos fuera del schema.
 ${JSON.stringify(
