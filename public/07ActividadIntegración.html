@@ -334,8 +334,14 @@
                 doc.setFont('helvetica', isBold ? 'bold' : 'normal');
                 doc.setTextColor(...color);
 
-                const maxWidth = contentWidth - indent;
-                const lines = doc.splitTextToSize(text, maxWidth);
+                // Limpiar emojis y caracteres especiales del texto
+                const textLimpio = String(text)
+                    .replace(/[❌✅📐🔧📖💡🚨⚠️📚📋🎯🔍]/g, '') // Eliminar emojis
+                    .replace(/={3,}/g, '---') // Reemplazar líneas de = con ---
+                    .trim();
+
+                const maxWidth = contentWidth - indent - 5; // Margen adicional de seguridad
+                const lines = doc.splitTextToSize(textLimpio, maxWidth);
 
                 lines.forEach(line => {
                     checkPageBreak(lineHeight + 2);
@@ -387,10 +393,22 @@
             function addInfoBox(content, bgColor = colors.lightGray) {
                 const boxPadding = 7; // Más padding interno
 
+                // Limpiar contenido de emojis
+                const contentLimpio = content.map(item => ({
+                    ...item,
+                    text: String(item.text)
+                        .replace(/[❌✅📐🔧📖💡🚨⚠️📚📋🎯🔍]/g, '')
+                        .replace(/={3,}/g, '---')
+                        .trim()
+                }));
+
+                // Ancho máximo más conservador
+                const maxBoxWidth = contentWidth - (boxPadding * 2) - 10;
+
                 // Primero, calcular la altura total de la caja
                 let totalHeight = boxPadding * 2 + 5; // padding inicial + final + espacio después
-                content.forEach(item => {
-                    const lines = doc.splitTextToSize(item.text, contentWidth - (boxPadding * 2) - item.indent);
+                contentLimpio.forEach(item => {
+                    const lines = doc.splitTextToSize(item.text, maxBoxWidth - item.indent);
                     totalHeight += lines.length * lineHeight;
                 });
 
@@ -403,8 +421,8 @@
                 // Calcular altura de la caja nuevamente para dibujarla
                 const tempY = yPos;
                 let contentHeight = 0;
-                content.forEach(item => {
-                    const lines = doc.splitTextToSize(item.text, contentWidth - (boxPadding * 2) - item.indent);
+                contentLimpio.forEach(item => {
+                    const lines = doc.splitTextToSize(item.text, maxBoxWidth - item.indent);
                     contentHeight += lines.length * lineHeight;
                 });
 
@@ -418,11 +436,11 @@
 
                 // Agregar contenido real
                 yPos = tempY;
-                content.forEach(item => {
+                contentLimpio.forEach(item => {
                     doc.setFontSize(item.fontSize || 10);
                     doc.setFont('helvetica', item.bold ? 'bold' : 'normal');
                     doc.setTextColor(...colors.black);
-                    const lines = doc.splitTextToSize(item.text, contentWidth - (boxPadding * 2) - item.indent);
+                    const lines = doc.splitTextToSize(item.text, maxBoxWidth - item.indent);
                     lines.forEach(line => {
                         doc.text(line, marginLeft + boxPadding + item.indent, yPos);
                         yPos += lineHeight;
@@ -539,7 +557,17 @@
                                 doc.setTextColor(...colors.black);
                                 doc.setFont('helvetica', 'normal');
                                 doc.setFontSize(9);
-                                const descLines = doc.splitTextToSize(act.descripcion, contentWidth - 20);
+
+                                // Limpiar emojis y caracteres especiales que pueden causar problemas en PDF
+                                let descripcionLimpia = act.descripcion
+                                    .replace(/[❌✅📐🔧📖💡🚨⚠️📚📋]/g, '') // Eliminar emojis comunes
+                                    .replace(/={3,}/g, '---') // Reemplazar líneas de iguales con guiones
+                                    .trim();
+
+                                // Ancho más conservador para evitar desbordamiento
+                                const maxDescWidth = contentWidth - 25;
+                                const descLines = doc.splitTextToSize(descripcionLimpia, maxDescWidth);
+
                                 descLines.forEach(line => {
                                     checkPageBreak(6);
                                     doc.text(line, marginLeft + 10, yPos);
