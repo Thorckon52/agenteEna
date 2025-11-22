@@ -1,0 +1,829 @@
+{
+  "asignatura": "Tecnología",
+  "fuente": "RAS 2026 - FEN",
+  "nivel": "Primaria",
+  "grados": {
+    "grado_2": {
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "¡La naturaleza nos provee de recursos valiosos!",
+          "desempeno_general": "Reconozco que el entorno está compuesto por elementos naturales y artificiales.",
+          "guias": [
+            {
+              "numero": 1,
+              "titulo": "¿Objetos naturales y objetos artificiales?",
+              "desempeno": "Reconozco cómo el ser humano ha elaborado diferentes productos a partir de elementos naturales.",
+              "temas": ["Objetos naturales", "Objetos artificiales", "Transformación de materias primas"],
+              "aprendizajes_steam": {
+                "ciencias": "Propiedades de los materiales",
+                "tecnologia": "Uso de herramientas simples",
+                "ingenieria": "Diseño - Iteración",
+                "artes": "Estética funcional",
+                "matematicas": "Ángulos, simetría"
+              },
+              "recursos": ["Hoja de papel iris de color verde", "tijeras punta roma", "arcilla", "vinilos o témperas", "recipiente plástico", "elementos naturales del entorno como hojas secas, palitos, semillas"]
+            },
+            {
+              "numero": 2,
+              "titulo": "La naturaleza, una gran productora",
+              "desempeno": "Reconozco la naturaleza como el principal proveedor de materiales que utiliza el ser humano para elaborar nuevos productos.",
+              "temas": ["Identificación y uso apropiado de elementos naturales del entorno"],
+              "aprendizajes_steam": {
+                "ciencias": "Proteínas y enzimas",
+                "tecnologia": "Uso de herramientas simples",
+                "ingenieria": "Diseño de procesos - optimización",
+                "artes": "Presentación de producto - creatividad",
+                "matematicas": "Proporciones – conversión de unidades"
+              },
+              "recursos": ["Recipientes plásticos", "recipiente metálico", "un litro de leche", "gotas de cuajo", "cuchara de palo"]
+            },
+            {
+              "numero": 3,
+              "titulo": "¿Con qué materiales construye el ser humano?",
+              "desempeno": "Reconozco que las materias primas son la base para fabricar un producto.",
+              "temas": ["Materia prima y elaboración de objetos artificiales"],
+              "aprendizajes_steam": {
+                "ciencias": "Ecología, Biología, observación científica",
+                "tecnologia": "Innovación en técnicas",
+                "ingenieria": "Ensamble de materiales",
+                "artes": "Creatividad- estética",
+                "matematicas": "Proporciones - medición"
+              },
+              "recursos": ["Vinilos o témperas de colores", "pegamento", "un octavo de cartulina", "elementos naturales del entorno como hojas secas, palitos y semillas"]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "¡Manos a la obra!",
+          "desempeno_general": "Sigo instrucciones sencillas para el desarrollo de actividades y la construcción de artefactos análogos sencillos, usando diferentes materiales o recursos.",
+          "guias": [
+            {
+              "numero": 4,
+              "titulo": "¡Aprovechemos los recursos que nos brinda la naturaleza!",
+              "desempeno": "Describo algunos procesos que sufren los elementos naturales para transformarse en productos artificiales.",
+              "temas": ["Proceso de elaboración de un producto", "Uso racional de elementos naturales"],
+              "aprendizajes_steam": {
+                "ciencias": "Sabor, nutrientes. Química: oxidación",
+                "tecnologia": "Optimización de procesos - uso de herramientas",
+                "ingenieria": "Diseño de proceso – organización y disposición",
+                "artes": "Estética – narrativa visual",
+                "matematicas": "Proporciones - fracciones - estadística"
+              },
+              "recursos": ["Diversas frutas para hacer una ensalada"]
+            },
+            {
+              "numero": 5,
+              "titulo": "Arcilla o plastilina, ¿cuál usar?",
+              "desempeno": "Comparo las ventajas y desventajas de algunos materiales sólidos que sirven para moldear objetos.",
+              "temas": ["Origen y uso de plastilina y arcilla", "Semejanzas y diferencias entre materiales"],
+              "aprendizajes_steam": {
+                "ciencias": "Estados de la materia - cambios físicos de los materiales",
+                "tecnologia": "Optimización, utensilios y materiales",
+                "ingenieria": "Diseño de proceso - experimentación",
+                "artes": "Exploración sensorial - estética",
+                "matematicas": "Medición -proporción, geometría, volumen"
+              },
+              "recursos": ["Arcilla", "plastilina", "recipiente metálico", "recipiente plástico", "libra y media de harina", "una de sal", "agua", "aceite vegetal", "colorantes alimentarios", "cuchara de palo"]
+            },
+            {
+              "numero": 6,
+              "titulo": "¡Podemos hacer muchas cosas con papel!",
+              "desempeno": "Identifico el papel como un producto de múltiples usos en la vida diaria y cuyo origen es un recurso natural.",
+              "temas": ["Origen, usos y características del papel", "Importancia del reciclaje"],
+              "aprendizajes_steam": {
+                "ciencias": "Fibras vegetales, aditivos, sostenibilidad ambiental",
+                "tecnologia": "Uso de herramientas, optimización de procesos",
+                "ingenieria": "Construcción de herramientas, ajuste de variables, diseño de procesos",
+                "artes": "Estética, narrativa visual",
+                "matematicas": "Proporciones, medición"
+              },
+              "recursos": ["Papel reciclado", "dos baldes", "cuchara de madera", "un marco con tela de toldillo o bastidor", "trozos de tela", "dos trozos de tabla"]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "¡Qué interesante es descubrir!",
+          "desempeno_general": "Reconozco que las construcciones tecnológicas se sustentan en principios naturales.",
+          "guias": [
+            {
+              "numero": 7,
+              "titulo": "¿De dónde viene la tela de nuestra ropa?",
+              "desempeno": "Caracterizo la tela como un material de origen natural o artificial que satisface una necesidad fundamental para las personas.",
+              "temas": ["Origen, producción y uso de la tela"],
+              "aprendizajes_steam": {
+                "ciencias": "Características de materiales: textura, resistencia, flexibilidad",
+                "tecnologia": "Innovación, uso de herramientas",
+                "ingenieria": "Optimización, diseño y construcción",
+                "artes": "Estética, patrones de combinación",
+                "matematicas": "Simetría, patrones, medición"
+              },
+              "recursos": ["Cuatro madejas de lana de diferentes colores", "regla", "tijeras", "hilo"]
+            },
+            {
+              "numero": 8,
+              "titulo": "¿Cómo se sostienen las cosas?",
+              "desempeno": "Explico por qué algunos objetos necesitan de estructuras sólidas para mantener su forma y cumplir una función.",
+              "temas": ["Estructuras", "Tipos de materiales para la construcción", "Tipos de esfuerzo de los materiales"],
+              "aprendizajes_steam": {
+                "ciencias": "Fuerzas, gravedad, peso",
+                "tecnologia": "Innovación",
+                "ingenieria": "Diseño estructural, resolución de problemas",
+                "artes": "Patrones, simetría, narrativa visual",
+                "matematicas": "Geometría - proporción, medidas, simetría"
+              },
+              "recursos": ["Plastilina", "fichas de construcción", "palos de paleta"]
+            },
+            {
+              "numero": 9,
+              "titulo": "¿Cómo son mis útiles escolares?",
+              "desempeno": "Identifico la relación que existe entre el diseño de los útiles escolares y la función que cumplen.",
+              "temas": ["Útiles escolares, origen y evolución"],
+              "aprendizajes_steam": {
+                "ciencias": "Flexibilidad, resistencia de materiales",
+                "tecnologia": "Uso de herramientas, innovación",
+                "ingenieria": "Diseño, construcción, resolución de problemas",
+                "artes": "Creatividad, diseño, dramatización",
+                "matematicas": "Simetría, proporciones"
+              },
+              "recursos": ["Lápices de diferentes tamaños y diseños", "bolsa de papel", "vinilos o témperas", "marcador permanente", "borrador", "pegamento", "tijeras", "regla", "botones grandes", "pinceles"]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Aprendo y me divierto",
+          "desempeno_general": "Reconozco que algunos instrumentos tecnológicos facilitan el desarrollo de las actividades humanas en el colegio y el hogar.",
+          "guias": [
+            {
+              "numero": 10,
+              "titulo": "Detrás de cada juguete hay una historia",
+              "desempeno": "Identifico que en el proceso de fabricación de juguetes se utilizan diversos tipos de materiales.",
+              "temas": ["Historia y materiales de los juguetes"],
+              "aprendizajes_steam": {
+                "ciencias": "Fuerza, presión, fricción, principios de aerodinámica",
+                "tecnologia": "Uso de materiales, innovación",
+                "ingenieria": "Diseño y ensamble",
+                "artes": "Creatividad y personalización",
+                "matematicas": "Medición y cálculo"
+              },
+              "recursos": ["Bomba o globo grande", "pegamento", "un CD", "cinta adhesiva", "una tapa plástica"]
+            },
+            {
+              "numero": 11,
+              "titulo": "Experimentar y mejorar",
+              "desempeno": "Explico la relación entre los conceptos de diseño, propósito y prototipo en un objeto de uso cotidiano.",
+              "temas": ["Conceptos de diseño, prototipo, experimentación"],
+              "aprendizajes_steam": {
+                "ciencias": "Materiales y sus propiedades: absorción. Sostenibilidad",
+                "tecnologia": "Innovación, uso de herramientas",
+                "ingenieria": "Innovación, uso de herramientas",
+                "artes": "Estética, personalización",
+                "matematicas": "Medición, proporciones, simetría"
+              },
+              "recursos": ["Materiales reciclados", "cuerda", "trozos de tela", "tijeras", "palo de escoba"]
+            },
+            {
+              "numero": 12,
+              "titulo": "¿Pensamiento computacional?",
+              "desempeno": "Comprendo qué es el pensamiento computacional y establezco una relación entre diferentes tipos de lenguaje.",
+              "temas": ["Principios del pensamiento computacional", "códigos", "concepto de algoritmo", "lenguaje braille"],
+              "aprendizajes_steam": {
+                "ciencias": "Percepción sensorial, propiedades de los materiales",
+                "tecnologia": "Sistemas de codificación, herramientas manuales",
+                "ingenieria": "",
+                "artes": "",
+                "matematicas": ""
+              },
+              "recursos": ["Fichas de cartulina", "regla", "lápiz", "punzón", "computador"]
+            }
+          ]
+        }
+      ]
+    },
+    "grado_3": {
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Aprendo sobre artefactos analógicos de mi entorno",
+          "desempeno_general": "Identifico artefactos analógicos de mi entorno y experimento con dispositivos simples siguiendo instrucciones gráficas.",
+          "guias": [
+            {
+              "numero": 1,
+              "titulo": "En el mundo hay objetos que giran y ruedan",
+              "desempeno": "Identifico artefactos analógicos de mi entorno que giran y ruedan.",
+              "temas": ["Características de los objetos naturales que ruedan y giran", "Características de los objetos artificiales que ruedan y giran", "Uso de objetos que ruedan y giran"],
+              "aprendizajes_steam": {
+                "ciencias": "Física del movimiento rotacional",
+                "tecnologia": "Uso de materiales",
+                "ingenieria": "Prototipado, resolución de problemas",
+                "artes": "Estética, expresión creativa",
+                "matematicas": "Geometría, medición"
+              },
+              "recursos": ["Hoja de papel iris", "tijeras punta roma", "regla", "pegamento", "pelotas de diferente tamaño", "lámina de cartón"]
+            },
+            {
+              "numero": 2,
+              "titulo": "Viajo sobre ruedas",
+              "desempeno": "Identifico cómo funciona un mecanismo analógico que simula un medio de transporte.",
+              "temas": ["La rueda en el transporte", "Tipos de ruedas, características y materiales", "Construcción de un artefacto analógico de tracción"],
+              "aprendizajes_steam": {
+                "ciencias": "Fuerzas, movimiento, aerodinámica, fricción, resistencia",
+                "tecnologia": "Uso de materiales, mecánica aplicada",
+                "ingenieria": "Diseño funcional, iteración",
+                "artes": "Diseño creativo, estética",
+                "matematicas": "Velocidad, distancia, medición"
+              },
+              "recursos": ["Ruedas de diferente tipo", "palos de madera de 20 cm de largo", "alambre dulce", "cajas de fósforos vacías", "cinta", "cartón", "plastilina", "bandas de caucho", "argollas metálicas pequeñas", "pegamento", "tijeras", "alicates", "lápiz"]
+            },
+            {
+              "numero": 3,
+              "titulo": "¡Aprendamos a construir nuestros propios juguetes!",
+              "desempeno": "Construyo artefactos sencillos con base en instrucciones gráficas.",
+              "temas": ["Diseño y construcción de juguetes", "Experimentación y mejora de artefactos planeados y elaborados"],
+              "aprendizajes_steam": {
+                "ciencias": "Transformación de energía, vibración, movimiento, tensión",
+                "tecnologia": "Uso de materiales, diseño práctico",
+                "ingenieria": "Prototipado funcional, iteración",
+                "artes": "Diseño creativo, estética",
+                "matematicas": "Proporción, simetría, medición"
+              },
+              "recursos": ["Hojas de papel bond", "regla", "lápiz", "tijeras", "hilo grueso", "botones grandes", "palos de madera", "hilo de algodón", "agujas de punta roma"]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "La madera es un recurso natural fundamental",
+          "desempeno_general": "Identifico la relación que existe entre la explotación de un recurso natural y el procedimiento de fabricación de artefactos o dispositivos.",
+          "guias": [
+            {
+              "numero": 4,
+              "titulo": "Aprendamos sobre la transformación de la madera",
+              "desempeno": "Indago sobre el proceso de transformación de un recurso natural en artefactos comunes que facilitan la vida diaria de las personas.",
+              "temas": ["Propiedades de la madera", "Usos"],
+              "aprendizajes_steam": {
+                "ciencias": "Botánica, ecosistemas, biodiversidad, conservación",
+                "tecnologia": "Uso de herramientas, documentación visual",
+                "ingenieria": "Diseño, organización estructural",
+                "artes": "Composición visual, decoración personalizada",
+                "matematicas": "Medición proporciones, conteo, geometría"
+              },
+              "recursos": ["Hojas de diferentes árboles", "tablas de madera", "papel blanco", "plástico", "marcador de punta fina", "pegamento", "cinta pegante", "dos argollas o cáncamos", "pita", "regla o metro", "segueta", "martillo"]
+            },
+            {
+              "numero": 5,
+              "titulo": "Construyamos artefactos con madera",
+              "desempeno": "Sigo instrucciones de procedimientos que implican uso de madera en la construcción de artefactos o dispositivos análogos.",
+              "temas": ["Extracción, transformación (artesanal e industrial) y uso de la madera", "Selección de herramientas y procedimientos"],
+              "aprendizajes_steam": {
+                "ciencias": "Clasificación, botánica, ecosistemas, biodiversidad, conservación",
+                "tecnologia": "Uso de herramientas y materiales, documentación visual",
+                "ingenieria": "Diseño, organización estructural",
+                "artes": "Composición visual",
+                "matematicas": "Medición, proporciones, geometría"
+              },
+              "recursos": ["Un trozo de madera", "palos de paleta", "marcador de punta fina", "lápiz", "papel de lija", "puntilla larga", "regla", "cartulina", "pegamento", "pitillos", "recipientes para agua", "tijeras", "segueta", "martillo", "bisagra"]
+            },
+            {
+              "numero": 6,
+              "titulo": "Del árbol sale más que madera",
+              "desempeno": "Identifico otros productos que se derivan de la madera y que son de uso cotidiano.",
+              "temas": ["Transformación industrial de la madera y usos en informática"],
+              "aprendizajes_steam": {
+                "ciencias": "Método científico, densidad y flotabilidad, propiedades de los materiales",
+                "tecnologia": "Uso de herramientas de medición, documentación de resultados",
+                "ingenieria": "Diseño de experimentos, aplicaciones prácticas",
+                "artes": "Visualización y representación",
+                "matematicas": "Cálculo de densidad, medición"
+              },
+              "recursos": ["Dos trozos de madera de diferente tipo", "lupa", "báscula", "recipiente con agua", "martillo", "puntillas iguales"]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "¡La luz se transforma!",
+          "desempeno_general": "Comprendo cómo un fenómeno natural es fundamental para procesos naturales y tecnológicos.",
+          "guias": [
+            {
+              "numero": 7,
+              "titulo": "Luces y sombras",
+              "desempeno": "Diferencio fuentes de luz natural y luz artificial. Identifico materiales que permiten o evitan el paso de la luz.",
+              "temas": ["Fuentes de luz natural y artificial", "Materiales translúcidos y opacos", "Lentes y espejos"],
+              "aprendizajes_steam": {
+                "ciencias": "Propiedades de la luz, reflexión y simetría, mezclas aditivas",
+                "tecnologia": "Uso de herramientas simples, innovación práctica, diseño",
+                "ingenieria": "Diseño y ensamblaje de un dispositivo, prototipado",
+                "artes": "Estéticas de luz y color, creatividad y diseño",
+                "matematicas": "Simetría, geometría, ángulos, fracciones, divisiones"
+              },
+              "recursos": ["Linterna", "vidrio", "cuchara de metal", "regla", "lápiz", "medio pliego de cartulina", "espejos", "cinta pegante", "tijeras", "lápices de colores"]
+            },
+            {
+              "numero": 8,
+              "titulo": "Aprendamos sobre la descomposición de la luz",
+              "desempeno": "Indago sobre procesos de descomposición de la luz, evidentes en situaciones cotidianas.",
+              "temas": ["Fenómeno natural de descomposición de la luz", "Proyección de la luz: mezclas y filtros de colores", "Ensamble y desarme de objetos emisores de luz"],
+              "aprendizajes_steam": {
+                "ciencias": "Óptica, percepción visual, propiedades de la luz",
+                "tecnologia": "Construcción de dispositivos simples, innovación",
+                "ingenieria": "Diseño y ensamblaje, prototipado",
+                "artes": "Diseño creativo, estética, percepción",
+                "matematicas": "Simetría, proporciones, geometría"
+              },
+              "recursos": ["Recipientes", "agua", "espejos", "hojas de papel blanco", "linterna", "papel celofán (verde, azul, rojo y transparente)", "cinta pegante", "cartulina", "acetato", "tijeras", "regla", "lápiz"]
+            },
+            {
+              "numero": 9,
+              "titulo": "¿Se puede capturar la luz?",
+              "desempeno": "Experimento con las propiedades de la energía lumínica para conocer la manera en que dispositivos analógicos y digitales capturan imágenes.",
+              "temas": ["Energía lumínica", "Fotografía análoga y digital"],
+              "aprendizajes_steam": {
+                "ciencias": "Óptica, visión humana, percepción visual",
+                "tecnologia": "Tecnologías análogas, uso de materiales simples",
+                "ingenieria": "Diseño funcional, resolución de problemas",
+                "artes": "Exploración visual, estética del diseño, fotografía como expresión artística",
+                "matematicas": "Escalas, fracciones, geometría"
+              },
+              "recursos": ["Cartulina", "papel celofán azul y rojo", "tijeras", "pegamento", "cajas vacías", "pintura negra", "papel aluminio", "cinta pegante preferiblemente negra", "papel calcante o papel mantequilla", "lápiz o marcador"]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Aprendamos a ubicarnos en el espacio y el tiempo",
+          "desempeno_general": "Identifico el concepto de medida y lo aplico en situaciones de la vida cotidiana, usando dispositivos analógicos y digitales.",
+          "guias": [
+            {
+              "numero": 10,
+              "titulo": "¿Qué significa medir?",
+              "desempeno": "Reconozco y construyo instrumentos que sirven para medir.",
+              "temas": ["Medición de magnitudes físicas: identificación y uso de instrumentos de medida, equivalencias, conservación y comparación"],
+              "aprendizajes_steam": {
+                "ciencias": "Medición, materiales y sus propiedades, nociones de meteorología",
+                "tecnologia": "Diseño y elaboración de herramientas, innovación práctica, medición y evaluación",
+                "ingenieria": "Prototipado, solución de problemas",
+                "artes": "Diseño visual, estética instrumental",
+                "matematicas": "Unidades de medida, proporciones, divisiones, secuencia, numeración"
+              },
+              "recursos": ["Ganchos para colgar la ropa", "agujas gruesas o puntillas", "hilo grueso", "tapas de plástico", "palo de escoba", "botellas de plástico", "cinta pegante transparente", "plastilina", "tornillos para madera", "tabla de madera", "destornillador"]
+            },
+            {
+              "numero": 11,
+              "titulo": "¿Qué es un dispositivo inteligente?",
+              "desempeno": "Identifico en el contexto cercano artefactos analógicos y digitales, y aprendo sobre las funciones de algunos de ellos.",
+              "temas": ["Concepto de analógico y digital, diferencias", "Uso y función de un Smart watch"],
+              "aprendizajes_steam": {
+                "ciencias": "Comportamiento de usuarios, impacto de la tecnología en la sociedad",
+                "tecnologia": "Pensamiento computacional, innovación digital",
+                "ingenieria": "Diseño de interfaces, solución de problemas",
+                "artes": "Diseño visual, experiencia de usuario, creatividad en la conceptualización",
+                "matematicas": "Noción de algoritmo, análisis de datos"
+              },
+              "recursos": ["Cartón o cartulina", "regla", "marcadores de punta delgada", "tijeras", "colores", "pinturas", "pinceles"]
+            },
+            {
+              "numero": 12,
+              "titulo": "Quien busca, encuentra",
+              "desempeno": "Diseño rutas y mapas utilizando dispositivos analógicos y digitales.",
+              "temas": ["Medidas de área y de volumen", "Mapas, GPS y satélites", "Concepto de georeferenciación"],
+              "aprendizajes_steam": {
+                "ciencias": "Orientación, coordenadas, representación espacial",
+                "tecnologia": "Uso de dispositivos tecnológicos, comparación de herramientas",
+                "ingenieria": "Diseño de rutas, solución de problemas, uso de señales de tránsito",
+                "artes": "Representación visual, creatividad",
+                "matematicas": "Coordenadas, medidas, cálculo de distancias, escalas y proporciones"
+              },
+              "recursos": ["Pliegos de papel periódico o cartulina", "hojas grandes de papel cuadriculado", "brújula", "metro", "lápices", "colores", "atlas"]
+            }
+          ]
+        }
+      ]
+    },
+    "grado_4": {
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Soluciones diferentes para los mismos problemas",
+          "desempeno_general": "Reconozco que la tecnología evoluciona para solucionar problemas y satisfacer necesidades humanas.",
+          "guias": [
+            {
+              "numero": 1,
+              "titulo": "Cinco grandes inventos de la humanidad",
+              "desempeno": "Reconozco que las soluciones tecnológicas evolucionan con el tiempo, en función de resolver problemas y satisfacer necesidades humanas.",
+              "temas": ["La rueda", "La escritura", "La electricidad", "El teléfono y la Internet", "El reloj de sol"],
+              "aprendizajes_steam": {
+                "ciencias": "Movimiento de rotación y traslación terrestre, observación",
+                "tecnologia": "Representación visual de datos, relación entre tecnología y ciencia, evolución de un artefacto",
+                "ingenieria": "Prototipado, diseño funcional",
+                "artes": "Estética, expresión visual",
+                "matematicas": "Medición de ángulos, fracciones, representación numérica"
+              },
+              "recursos": ["Papel periódico en pliegos", "papel blanco tamaño carta", "lápiz", "bolígrafo", "lápices de colores", "marcadores", "regla", "tajalápiz", "plastilina", "cinta pegante", "relojes de diferentes formas"]
+            },
+            {
+              "numero": 2,
+              "titulo": "¡A proteger el cuerpo!",
+              "desempeno": "Identifico que en la fabricación de las prendas de vestir se han utilizado fibras que pueden ser de origen natural o artificial.",
+              "temas": ["Origen y evolución de la tela", "Fibras naturales y sintéticas", "Tecnología y trajes espaciales"],
+              "aprendizajes_steam": {
+                "ciencias": "Propiedades de los materiales, relación naturaleza- tecnología",
+                "tecnologia": "Uso de herramientas simples, procesos artesanales",
+                "ingenieria": "Diseño y estructura, resolución de problemas",
+                "artes": "Diseño creativo, expresión visual",
+                "matematicas": "Repetición, simetría, proporciones, medidas, conteo, secuencias"
+              },
+              "recursos": ["Cartón duro", "útiles de escritorio: lápiz, tajalápiz, regla, tijeras de punta roma", "madeja de lana", "aguja gruesa de punta roma", "etiquetas de prendas de vestir"]
+            },
+            {
+              "numero": 3,
+              "titulo": "¿Qué comemos hoy?",
+              "desempeno": "Identifico los artefactos y procesos que la humanidad ha desarrollado para conservar y almacenar los alimentos.",
+              "temas": ["Alimentos naturales y alimentos procesados", "Concepto de la nevera"],
+              "aprendizajes_steam": {
+                "ciencias": "Temperatura",
+                "tecnologia": "Funcionamiento de artefactos de uso diario",
+                "ingenieria": "Modificación de alimentos",
+                "artes": "Sabores y tradiciones locales",
+                "matematicas": "Temperatura"
+              },
+              "recursos": ["Útiles de escritorio", "relación de productos alimenticios de consumo diario"]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Artefactos, procesos y sistemas en la vivienda",
+          "desempeno_general": "Explico la importancia del uso adecuado de artefactos comunes en una vivienda y explico algunos procesos específicos de su funcionamiento.",
+          "guias": [
+            {
+              "numero": 4,
+              "titulo": "¿Cómo es mi vivienda?",
+              "desempeno": "Reconozco cómo en el proceso de diseño y construcción de viviendas humanas se utilizan materiales naturales y artificiales, y se aplican diversos conocimientos tecnológicos.",
+              "temas": ["La evolución de las viviendas", "Generalidades del Internet de las cosas (IoT)"],
+              "aprendizajes_steam": {
+                "ciencias": "Generalidades sobre materiales y estructuras, orientación espacial",
+                "tecnologia": "Uso de herramientas digitales, representación gráfica",
+                "ingenieria": "Diseño estructural, resolución de problemas",
+                "artes": "Diseño personalizado, creatividad",
+                "matematicas": "Medición, escalas, geometría"
+              },
+              "recursos": ["Pliegos de papel periódico", "hojas con cuadrículas grandes", "útiles de escritorio", "materiales para reciclar o reutilizar"]
+            },
+            {
+              "numero": 5,
+              "titulo": "¡Conozcamos la ruta de las aguas blancas!",
+              "desempeno": "Explico la importancia del diseño y la creación de artefactos, procesos y sistemas tecnológicos para la obtención y uso del agua como un recurso fundamental para la vida de los seres humanos.",
+              "temas": ["Generalidades sobre el agua potable"],
+              "aprendizajes_steam": {
+                "ciencias": "Principios de filtración, ciclo del agua, contaminación y salud",
+                "tecnologia": "Uso de materiales reciclados, innovación aplicada",
+                "ingenieria": "Diseño de sistemas, optimización, iteración",
+                "artes": "Presentación creativa, uso de materiales reciclables",
+                "matematicas": "Proporciones, cantidades, medición"
+              },
+              "recursos": ["Útiles de escritorio", "botellas de plástico transparente con tapa", "vaso transparente", "gravilla de diferentes grosores", "tierra", "agua", "arena", "materiales reciclables"]
+            },
+            {
+              "numero": 6,
+              "titulo": "¿Se puede aprovechar la basura?",
+              "desempeno": "Identifico el funcionamiento y la disposición adecuada de los residuos sólidos y líquidos.",
+              "temas": ["Residuos y su aprovechamiento como energía", "Clasificación de residuos sólidos"],
+              "aprendizajes_steam": {
+                "ciencias": "Ecología y sostenibilidad, propiedades de los materiales",
+                "tecnologia": "Normas y tecnologías de reciclaje, uso de apps para gestión de residuos",
+                "ingenieria": "Diseño de soluciones sostenibles, optimización de recursos",
+                "artes": "Sensibilización ambiental, aprovechamiento de materiales reciclados",
+                "matematicas": "Estadística"
+              },
+              "recursos": ["Residuos de papel y cartón", "empaques plásticos, de vidrio y metálicos", "útiles de escritorio", "pitillos", "recipiente para recolectar residuos sólidos"]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Ciencia y tecnología para mejorar nuestra vida",
+          "desempeno_general": "Reconozco la relación que existe entre el bienestar del ser humano y diversos avances científicos y tecnológicos evidentes en artefactos de uso diario.",
+          "guias": [
+            {
+              "numero": 7,
+              "titulo": "¡Uff, qué calor!",
+              "desempeno": "Reconozco artefactos que usan la energía calórica y que han sido diseñados para satisfacer necesidades humanas.",
+              "temas": ["Transmisión de la energía calórica: conducción, convección y radiación", "El microondas y la generación de calor", "El termómetro y su uso"],
+              "aprendizajes_steam": {
+                "ciencias": "Temperatura, principios de dilatación térmica de los líquidos",
+                "tecnologia": "Uso de herramientas simples e instrumentos de medición",
+                "ingenieria": "Diseño y ensamble, resolución de problemas",
+                "artes": "Decoración y personalización",
+                "matematicas": "Escalas, recopilación y análisis de datos"
+              },
+              "recursos": ["Útiles de escritorio", "una botella pequeña de plástico", "un pitillo", "plastilina", "dos cajas de cartón de diferente tamaño", "una lámina de plástico o de vidrio transparente", "una bandeja metálica de color negro mate", "una lámina de cartón", "retazos o bolitas de icopor", "papel de aluminio", "un retazo de tela o un trapo", "pegamento", "marcadores", "cinta métrica", "tijeras"]
+            },
+            {
+              "numero": 8,
+              "titulo": "¡Nuestra voz debe ser escuchada!",
+              "desempeno": "Identifico generalidades del sonido y aprendo sobre su aplicación en situaciones de uso cotidiano o de comunicación de mis ideas.",
+              "temas": ["Generalidades del sonido como fenómeno físico", "El podcast como estrategia de aprendizaje y comunicación"],
+              "aprendizajes_steam": {
+                "ciencias": "Principios de transmisión de sonido, sistema auditivo humano - fisiología",
+                "tecnologia": "Uso de materiales para elaboración de dispositivos funcionales",
+                "ingenieria": "Diseño y ensamblaje de dispositivos",
+                "artes": "Personalización y diseño funcional",
+                "matematicas": "Mediciones, iteración"
+              },
+              "recursos": ["Dos botellas de plástico", "manguera", "marcador", "silicona", "cinta métrica o regla", "tijeras", "caja de cartón", "bandas de caucho", "palo de madera", "pinturas", "chinches", "cinta adhesiva", "computador o teléfono celular para grabaciones"]
+            },
+            {
+              "numero": 9,
+              "titulo": "¡A que te veo, microbio!",
+              "desempeno": "Reconozco las ventajas de algunos artefactos y productos tecnológicos creados para combatir las enfermedades y mejorar nuestra calidad de vida.",
+              "temas": ["Bacterias, virus y hongos", "Transmisión de ciertas enfermedades", "Microscopio: generalidades"],
+              "aprendizajes_steam": {
+                "ciencias": "Observación - análisis, alfabetización científica, fundamentos de óptica",
+                "tecnologia": "Uso de herramientas y materiales simples",
+                "ingenieria": "Diseño y construcción de artefactos analógicos simples",
+                "artes": "Creatividad y diseño funcional",
+                "matematicas": "Mediciones, proporciones, recolección y análisis de datos"
+              },
+              "recursos": ["Útiles de escritorio", "dos tiras de cartón duro", "un alfiler", "un trozo de plástico transparente", "una canica transparente"]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Nuestra huella ecológica",
+          "desempeno_general": "Comprendo que los avances científicos y tecnológicos deben contribuir al cuidado de nuestro medio ambiente y del bienestar de las personas y propongo estrategias para tal fin.",
+          "guias": [
+            {
+              "numero": 10,
+              "titulo": "La Tierra es nuestra casa",
+              "desempeno": "Explico cómo nuestras acciones influyen sobre el medio ambiente, y que existen tecnologías para cuidarlo.",
+              "temas": ["Conciencia ambiental: lo que yo hago afecta al planeta", "Disposición adecuada de pilas y empaques de alimentos"],
+              "aprendizajes_steam": {
+                "ciencias": "Conciencia ambiental, manejo adecuado de materiales y recursos",
+                "tecnologia": "Uso de herramientas y materiales simples, integración de tecnologías básicas",
+                "ingenieria": "Diseño funcional, prototipado y mejora",
+                "artes": "Diseño visual, comunicación eficiente",
+                "matematicas": "Mediciones, proporciones, capacidad, costos"
+              },
+              "recursos": ["Útiles de escritorio", "pliegos de papel para mural", "recortes de revistas, periódicos y papel de colores", "diferentes tipos de pilas gastadas", "diversos empaques de productos alimenticios y juguetes que ya no usen"]
+            },
+            {
+              "numero": 11,
+              "titulo": "¿Las energías limpias se renuevan?",
+              "desempeno": "Reconozco cómo, al usar energías renovables, se disminuye la contaminación del planeta Tierra.",
+              "temas": ["Energías limpias", "Energías renovables", "Uso doméstico de energías limpias y su aprovechamiento para la generación de energía eléctrica"],
+              "aprendizajes_steam": {
+                "ciencias": "Principios de ondas y señales, historia y evolución de la comunicación",
+                "tecnologia": "Uso de herramientas básicas, introducción a la codificación",
+                "ingenieria": "Diseño de sistemas de comunicación",
+                "artes": "Creatividad en la presentación",
+                "matematicas": "Patrones, secuencias, ritmo, tiempo"
+              },
+              "recursos": ["Cartulina", "cartón duro", "útiles de escritorio", "alfileres", "pitillos o palitos de balso de 20 cm", "botones pequeños", "plastilina", "carretel de hilo vacío", "secador de pelo"]
+            },
+            {
+              "numero": 12,
+              "titulo": "¡Evolucionar para mejorar!",
+              "desempeno": "Identifico que los artefactos electrónicos evolucionan tecnológicamente para responder eficazmente a las necesidades de las personas.",
+              "temas": ["Evolución de artefactos analógicos y digitales", "Telecomunicaciones", "Inteligencia artificial (IA)"],
+              "aprendizajes_steam": {
+                "ciencias": "Principios de ondas y señales, historia y evolución de la comunicación",
+                "tecnologia": "Uso de herramientas básicas, introducción a la codificación",
+                "ingenieria": "Diseño de sistemas de comunicación",
+                "artes": "Creatividad en la presentación",
+                "matematicas": "Patrones, secuencias, ritmo, tiempo"
+              },
+              "recursos": ["Útiles de escritorio", "artefactos analógico y digitales"]
+            }
+          ]
+        }
+      ]
+    },
+    "grado_5": {
+      "unidades": [
+        {
+          "numero": 1,
+          "titulo": "Aprendamos sobre materiales que facilitan los avances tecnológicos",
+          "desempeno_general": "Explico algunas de las características de materiales como el caucho y el plástico que han sido esenciales en el desarrollo de la industria y la tecnología.",
+          "guias": [
+            {
+              "numero": 1,
+              "titulo": "¿Qué sabemos del caucho natural?",
+              "desempeno": "Describo el proceso de obtención del caucho natural o látex.",
+              "temas": ["Proceso de obtención del látex: extracción, proceso, usos determinados"],
+              "aprendizajes_steam": {
+                "ciencias": "Comprensión de propiedades de los materiales (peso, textura, resistencia, elasticidad)",
+                "tecnologia": "Uso de herramientas y técnicas para moldear materiales",
+                "ingenieria": "Diseño y construcción de pelotas considerando la estructura y funcionalidad",
+                "artes": "Creatividad en la forma, color y apariencia",
+                "matematicas": "Comparación de tamaños y pesos, estimación y medición de diámetros y volúmenes"
+              },
+              "recursos": ["Diversos materiales para ejercicio de comparación: fibras naturales", "trozos de cable", "pelotas o bandas de caucho", "plastilina"]
+            },
+            {
+              "numero": 2,
+              "titulo": "Materiales sintéticos que facilitan los avances tecnológicos",
+              "desempeno": "Identifico características fundamentales del caucho sintético y del plástico, además de describir algunos usos comunes.",
+              "temas": ["Caucho y plástico: características y diferencias fundamentales", "Vulcanización"],
+              "aprendizajes_steam": {
+                "ciencias": "Propiedades de los materiales, relación naturaleza- tecnología",
+                "tecnologia": "Uso de herramientas simples, procesos artesanales",
+                "ingenieria": "Diseño y estructura, resolución de problemas",
+                "artes": "Diseño creativo, expresión visual",
+                "matematicas": "Repetición, simetría, proporciones, medidas, conteo, secuencias"
+              },
+              "recursos": ["Guantes de caucho", "guantes de plástico", "globos", "bolsas plásticas", "objetos plásticos y de caucho sintético", "herramientas manuales"]
+            },
+            {
+              "numero": 3,
+              "titulo": "¿Podemos reutilizar el caucho?",
+              "desempeno": "Identifico los pasos para la correcta disposición de objetos usados de caucho, con el fin de ayudar a la conservación del medio ambiente.",
+              "temas": ["Disposición y transformación de objetos usados de caucho"],
+              "aprendizajes_steam": {
+                "ciencias": "Comprensión de propiedades de los materiales (peso, textura, resistencia, elasticidad)",
+                "tecnologia": "Uso de herramientas y técnicas para moldear materiales",
+                "ingenieria": "Diseño y construcción de pelotas considerando la estructura y funcionalidad",
+                "artes": "Creatividad funcional",
+                "matematicas": "Tamaños y pesos, estimación y medición de diámetros y volúmenes"
+              },
+              "recursos": ["Diversos tipos de pelotas y balones", "cartulina", "marcadores", "caucho reciclado (neumático de bicicleta)", "tinta para sellos", "útiles escolares"]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Me muevo por el mundo",
+          "desempeno_general": "Relaciono la historia y la evolución de diferentes medios de transporte con sus principios fundamentales de funcionamiento y la importancia para el desarrollo tecnológico de la sociedad.",
+          "guias": [
+            {
+              "numero": 4,
+              "titulo": "De la tracción animal, a la conducción por Inteligencia artificial (IA)",
+              "desempeno": "Reconozco cómo en el proceso de diseño y construcción de transporte se utilizan materiales naturales y artificiales, y se aplican diversos conocimientos tecnológicos.",
+              "temas": ["Historia y principios del transporte", "Conducción autónoma"],
+              "aprendizajes_steam": {
+                "ciencias": "Principios físicos: fuerza, aire, propulsión",
+                "tecnologia": "Uso de herramientas simples, estabilidad y funcionalidad del prototipo",
+                "ingenieria": "Diseño y construcción de prototipos, eficacia de movimiento, aerodinámica",
+                "artes": "Diseño estético, combinación de formas y colores",
+                "matematicas": "Medición, proporción, simetría"
+              },
+              "recursos": ["Tiza", "cartón o cartulina", "pitillos", "globo", "ruedas con sus ejes", "una barra de silicona", "cinta de enmascarar o transparente", "tubos de cartón delgados y tubos de papel higiénico", "tijeras", "pistola de silicona"]
+            },
+            {
+              "numero": 5,
+              "titulo": "¿Por qué flotan los barcos en el agua?",
+              "desempeno": "Expongo cómo las embarcaciones emplean mecanismos para desplazarse por el agua transportando carga y pasajeros.",
+              "temas": ["Historia y principios físicos de la navegación", "Tipos de embarcaciones"],
+              "aprendizajes_steam": {
+                "ciencias": "Flotabilidad, transferencia de calor, propulsión a vapor, fluidos y principios de termodinámica",
+                "tecnologia": "Uso de herramientas, conducción de calor y generación de movimiento",
+                "ingenieria": "Diseño y generalidades de propulsión, optimización de procesos",
+                "artes": "Personalización y estética funcional",
+                "matematicas": "Proporciones, peso"
+              },
+              "recursos": ["Plastilina", "agua", "pitillo", "lata de gaseosa", "alambre", "palitos de paleta", "velas", "fósforos"]
+            },
+            {
+              "numero": 6,
+              "titulo": "Del mito a la realidad: el sueño de volar",
+              "desempeno": "Reflexiono sobre cómo el ser humano diseña y construye máquinas que le permiten recorrer grandes distancias en un tiempo corto.",
+              "temas": ["Residuos y su aprovechamiento como energía", "Clasificación de residuos sólidos"],
+              "aprendizajes_steam": {
+                "ciencias": "Ecología y sostenibilidad, propiedades de los materiales",
+                "tecnologia": "Normas y tecnologías de reciclaje, uso de apps para gestión de residuos",
+                "ingenieria": "Diseño de soluciones sostenibles, optimización de recursos",
+                "artes": "Sensibilización ambiental, aprovechamiento de materiales reciclados",
+                "matematicas": "Estadística"
+              },
+              "recursos": ["Internet", "icopor", "cartulina", "cartón paja", "pegamento", "chinches", "útiles escolares"]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Vivimos en un mundo interconectado",
+          "desempeno_general": "Reconozco el papel fundamental que han tenido los medios de comunicación y las redes sociales en el desarrollo de las comunicaciones y la identidad de diversos grupos de personas.",
+          "guias": [
+            {
+              "numero": 7,
+              "titulo": "Me comunico y aprendo",
+              "desempeno": "Identifico la forma en que las telecomunicaciones han evolucionado desde los procesos más sencillos hasta las comunicaciones espaciales.",
+              "temas": ["Historia y principios de las telecomunicaciones"],
+              "aprendizajes_steam": {
+                "ciencias": "Generalidades de la transmisión de sonido",
+                "tecnologia": "Uso de herramientas sencillas, iteración y modelación",
+                "ingenieria": "Diseño y construcción de un artefacto analógico funcional",
+                "artes": "Personalización, diseño funcional",
+                "matematicas": "Longitud de materiales"
+              },
+              "recursos": ["Vasos desechables", "cuerda (piola)", "nailon", "lana", "cable de cobre delgado", "palitos de 2 cm de largo", "un clavo o puntilla de pulgada y media", "botellas de plástico", "corchos", "cartón", "agujas para inflar balones", "una bomba para inflar llantas de bicicleta", "una base de lanzamiento", "tijeras", "cinta", "silicona líquida"]
+            },
+            {
+              "numero": 8,
+              "titulo": "La Internet y nuestra vida diaria",
+              "desempeno": "Explico qué es la Internet y de qué manera permite la interacción entre las personas, sin importar tiempo y distancia.",
+              "temas": ["Internet: principios y usos", "Redes sociales, ventajas y posibles riesgos"],
+              "aprendizajes_steam": {
+                "ciencias": "Principios del sonido, vibraciones y propagación",
+                "tecnologia": "Uso de herramientas sencillas, iteración y mejora de técnica",
+                "ingenieria": "Diseño y construcción de una red funcional",
+                "artes": "Diseño funcional y personalización",
+                "matematicas": "Medición de longitudes, conexiones y nodos"
+              },
+              "recursos": ["Internet", "lana", "vasos desechables", "trozos de lana gruesa, de cuerda y de cabuya (cada uno de 3 metros de longitud)", "puntilla o clavo de pulgada y media"]
+            },
+            {
+              "numero": 9,
+              "titulo": "Creación y conexión: las redes sociales y la inteligencia artificial (IA)",
+              "desempeno": "Reconozco las ventajas de algunos artefactos y productos tecnológicos creados para mejorar nuestra calidad de vida.",
+              "temas": ["Redes sociales: principios, uso y relación con la inteligencia artificial: Riesgos y peligros", "Propuesta de creación de una red social"],
+              "aprendizajes_steam": {
+                "ciencias": "",
+                "tecnologia": "",
+                "ingenieria": "",
+                "artes": "",
+                "matematicas": ""
+              },
+              "recursos": ["Computador", "Internet", "hojas para mensajes o un cuaderno", "lápices", "hilos de cuerda"]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "¡Participemos en nuestra Feria de la Tecnología!",
+          "desempeno_general": "Propongo estrategias de organización y participación en una feria de tecnología, para nuestra Institución educativa.",
+          "guias": [
+            {
+              "numero": 10,
+              "titulo": "¿Nos vemos en la tv?",
+              "desempeno": "Comprendo cómo la televisión ha marcado un estilo de vida y la manera en que influye en las personas de mi familia y comunidad.",
+              "temas": ["Televisión analógica y digital", "Streaming"],
+              "aprendizajes_steam": {
+                "ciencias": "Principios de óptica, funcionamiento de dispositivos",
+                "tecnologia": "Uso de herramientas sencillas, propiedades estructurales",
+                "ingenieria": "Diseño de prototipos",
+                "artes": "Diseño de dispositivos, botones y detalles realistas",
+                "matematicas": "Medición y cálculo de proporciones, simetría y peso"
+              },
+              "recursos": ["Cajas de cartón", "cartulina en octavos", "tijeras", "silicona líquida", "Internet"]
+            },
+            {
+              "numero": 11,
+              "titulo": "Organicemos la Feria de la tecnología",
+              "desempeno": "Participo activamente en la planeación y en la organización de la Feria de la tecnología.",
+              "temas": ["Planeación y ejecución de la feria de la ciencia y la tecnología: organización de diferentes comités del Gobierno Estudiantil", "Funciones de los comités de organización, logística y comunicación", "Ejecución de la Feria de la tecnología", "Socialización de proyectos"],
+              "aprendizajes_steam": {
+                "ciencias": "",
+                "tecnologia": "",
+                "ingenieria": "",
+                "artes": "",
+                "matematicas": ""
+              },
+              "recursos": ["Acceso a Internet", "papeles de colores", "marcadores", "colores", "cartulina", "pliegos de papel para avisos", "hojas blancas", "elementos reciclables para construir stands", "pegamento", "cinta"]
+            },
+            {
+              "numero": 12,
+              "titulo": "Evaluemos la Feria de la tecnología",
+              "desempeno": "Identifico las fortalezas y debilidades en la planeación y ejecución eventos como la Feria de la tecnología.",
+              "temas": ["Evaluación de la Feria de la tecnología: aspectos cognitivos, aspectos creativos", "¿Cómo nos fue en la feria?", "¿Qué podemos mejorar?"],
+              "aprendizajes_steam": {
+                "ciencias": "",
+                "tecnologia": "",
+                "ingenieria": "",
+                "artes": "",
+                "matematicas": ""
+              },
+              "recursos": ["Acceso a Internet", "papeles de colores", "marcadores", "colores", "cartulina", "hojas blancas"]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "temas_transversales": [
+    "Objetos naturales y artificiales",
+    "Materia prima y transformación",
+    "Uso de recursos naturales",
+    "Diseño y construcción de artefactos",
+    "Evolución tecnológica",
+    "Materiales (madera, tela, papel, caucho, plástico)",
+    "Energía (luz, calor, sonido)",
+    "Medición y magnitudes",
+    "Transporte",
+    "Comunicación y telecomunicaciones",
+    "Sostenibilidad y medio ambiente",
+    "Pensamiento computacional",
+    "Inteligencia artificial",
+    "Internet y redes sociales"
+  ],
+  "componentes_competencias": [
+    "Naturaleza y evolución de la T&I (NET&I)",
+    "Uso y apropiación de la T&I (UAT&I)",
+    "Solución de problemas con T&I (SPT&I)",
+    "Tecnología, informática y sociedad (TIS)"
+  ]
+}

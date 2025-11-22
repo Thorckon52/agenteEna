@@ -1,0 +1,618 @@
+{
+  "asignatura": "Transición",
+  "grados": {
+    "Transición": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Soy feliz",
+          "desempeño_general": "Valoro como soy y cuido de mí.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¡Soy único y especial!",
+              "nombre_completo": "¡Soy único y especial!",
+              "conceptos_procedimientos": [
+                "¿Cómo soy?",
+                "Como yo no hay ninguno",
+                "Me quiero mucho",
+                "Mis días maravillosos",
+                "El círculo",
+                "Noción espacial: abierto – cerrado; igual - diferente; alto- bajo",
+                "Motricidad fina: rasgado, modelado, dactilo pintura",
+                "Motricidad gruesa: desplazamientos libres (gatear, caminar, saltar y correr)"
+              ],
+              "recursos": [
+                "Textos de literatura infantil",
+                "Cartulina, crayolas, tiza, plastilina, lana, retazos de tela, tijeras, pegamento, tabla para punzar",
+                "Bloques lógicos",
+                "Revistas, papel periódico, papel silueta, pintura, palos de paleta",
+                "Mesa de arena o harina",
+                "Ula-ula, cuerdas, cintas para demarcar"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "¡Mi nombre tiene música!",
+              "nombre_completo": "¡Mi nombre tiene música!",
+              "conceptos_procedimientos": [
+                "Identificación de los nombres",
+                "Escritura del nombre",
+                "Reconocimiento de la consonante inicial del nombre",
+                "Concepto de longitud: largo-corto",
+                "Ritmo silábico en los nombres"
+              ],
+              "recursos": [
+                "Rótulos de nombres",
+                "Letras en diferentes materiales",
+                "Tambores, panderetas",
+                "Revistas",
+                "Pintura",
+                "Trazos horizontales y verticales en diferentes superficies",
+                "Canciones",
+                "Tapas de bebidas",
+                "Papel seda",
+                "Hojas de periódico o revista",
+                "Pegamento"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "Disfruto de las rimas con la Ii",
+              "nombre_completo": "Disfruto de las rimas con la Ii",
+              "conceptos_procedimientos": [
+                "Rimas",
+                "Identificación auditiva y visual de la vocal Ii en palabras",
+                "Escritura de la vocal Ii con diversos materiales",
+                "Concepto semejanzas y diferencias",
+                "Concepto de grueso–delgado"
+              ],
+              "recursos": [
+                "Fotografías",
+                "Láminas o imágenes",
+                "Accesorios para disfrazarse",
+                "Cinta de enmascarar",
+                "Harina de trigo",
+                "Pigmentos o témperas de colores primarios",
+                "Cuentos",
+                "Espejo"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "¡Expreso mis emociones!",
+              "nombre_completo": "¡Expreso mis emociones!",
+              "conceptos_procedimientos": [
+                "¿Cómo son mis amigos y amigas y qué actividades comparto con ellos?",
+                "El arte de la comunicación para resolver conflictos",
+                "Valores: respeto y tolerancia",
+                "Figura geométrica: el triángulo",
+                "Noción: colores primarios",
+                "Noción de cantidad: Largo-corto",
+                "Noción de cantidad: grande, mediano y pequeño"
+              ],
+              "recursos": [
+                "Tangram",
+                "Moldes, marcadores delgados, cartulina, palos de picho, de paleta, recortes, tijeras, pegamento, fomi, silicona",
+                "Títeres, disfraces. Papel silueta, retazos de tela",
+                "Cinta adhesiva, platos de cartón",
+                "Revistas",
+                "Bloques lógicos",
+                "Regletas de Cousinier",
+                "Cuentos de literatura infantil"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "¡Cuido mi cuerpo y lo protejo!",
+              "nombre_completo": "¡Cuido mi cuerpo y lo protejo!",
+              "conceptos_procedimientos": [
+                "Nuestro cuerpo por dentro y por fuera",
+                "Los sentidos",
+                "Tengo hábitos de higiene",
+                "Figura geométrica: el cuadrado",
+                "Grafo motricidad: dactilar con diferentes texturas",
+                "Ensartar, completar",
+                "Motricidad gruesa: cuclillas, rollos, caminar con la cola, escalar"
+              ],
+              "recursos": [
+                "Libros, textos (diccionarios ilustrados)",
+                "Láminas del esqueleto humano, el sistema circulatorio y sistema digestivo",
+                "Periódico, pliegos de papel bond, marcadores, tijeras",
+                "Plastilina, témpera, plumones, pegamento",
+                "Papel seda, papel crepe",
+                "Algodón, arena, lija, tiza, crayolas",
+                "Coditos de pasta, lana, cartón, cordones de zapatos",
+                "Regletas de Cousinier",
+                "Bloques lógicos"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "¡Los juegos que me gustan!",
+              "nombre_completo": "¡Los juegos que me gustan!",
+              "conceptos_procedimientos": [
+                "Reconocimiento visual, auditivo de la vocal O",
+                "Leer y comprender",
+                "Juego y me divierto",
+                "Reconocimiento de figuras geométricas",
+                "Motricidad fina: modelado, dibujo, calcar, repisar, manipulación de objetos",
+                "Relaciones espaciales y temporales"
+              ],
+              "recursos": [
+                "Video beam",
+                "Tabletas – Computadora",
+                "Cartulina, revistas, papel de plastificar, tijeras, plumones de colores",
+                "Masa, mesa de arena, plastilina, crayolas, témperas, colores, tapas de gaseosa con vocales, cartulina",
+                "Loterías, parqués, lazos, aros",
+                "Vasos, detergente",
+                "Bloques lógicos",
+                "Cuaderno viajero"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "¡Pertenezco a una comunidad!",
+          "desempeño_general": "Asumo comportamientos cívicos y democráticos en mi familia y mi comunidad.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "¡Mi familia!",
+              "nombre_completo": "¡Mi familia!",
+              "conceptos_procedimientos": [
+                "Mi familia y sus roles",
+                "Tipos de familia",
+                "Costumbres y tradiciones familiares",
+                "Dependencias de la casa",
+                "Hábitos de aseo en casa",
+                "El rectángulo",
+                "Nociones de cantidad: muchos-pocos",
+                "Medidas no convencionales"
+              ],
+              "recursos": [
+                "Disfraces",
+                "Álbum de fotos, cartulina, recortes de revistas, moldes de letras, crayolas",
+                "Cajitas de cartón, juguetes, implementos de aseo para la casa",
+                "Rompecabezas",
+                "Tapas, granos de maíz, pintura",
+                "Música",
+                "Cuerda para saltar, cinta para demarcar",
+                "Papel crepé, marcadores de punta delgada"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "¡Mi escuela es un lugar maravilloso!",
+              "nombre_completo": "¡Mi escuela es un lugar maravilloso!",
+              "conceptos_procedimientos": [
+                "Mi escuela o colegio",
+                "Quiénes son y qué hacen las personas de mi escuela o colegio",
+                "Todos participamos en la elaboración de los acuerdos de convivencia",
+                "Conformación del Gobierno Estudiantil",
+                "Seriación de figuras geométricas (círculo, cuadrado, triángulo)",
+                "Nociones: dentro–fuera. Arriba-abajo",
+                "Nociones de lateralidad: derecha-izquierda"
+              ],
+              "recursos": [
+                "Video beam, tabletas, computadora",
+                "Láminas, mapas, planos",
+                "Maqueta: cajas de cartón, arena, pasto, piedritas, palitos",
+                "Cartulina, papel bond, marcadores",
+                "Símbolos de señalización",
+                "Folletos informativos",
+                "Urna: caja de cartón, tarjetones, plumón de colores, cinta tricolor, escarapelas",
+                "Tizas, mesa de arena o harina, cuerdas, lana de colores"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "Me divierto aprendiendo la Aa",
+              "nombre_completo": "Me divierto aprendiendo la Aa",
+              "conceptos_procedimientos": [
+                "La vocal Aa",
+                "Adivinanzas",
+                "Singular y plural",
+                "Colores secundarios",
+                "Grafía vocal Aa",
+                "Correspondencia de objetos por características iguales",
+                "Comprensión oral"
+              ],
+              "recursos": [
+                "Audios de sonidos de la vocal Aa",
+                "Cajas grandes de cartón",
+                "Geoplano",
+                "Plastilina o arcilla, maicena",
+                "Papel crepé",
+                "Palos de paleta",
+                "Instrumentos musicales",
+                "Paleta de pintura, témperas, colores",
+                "Tapas de gaseosa",
+                "Hojas, tijeras, papel contact",
+                "Periódicos o revistas"
+              ]
+            },
+            {
+              "numero": 10,
+              "nombre": "¡Los medios de comunicación nos informan y divierten!",
+              "nombre_completo": "¡Los medios de comunicación nos informan y divierten!",
+              "conceptos_procedimientos": [
+                "Medios de comunicación",
+                "Cuidado en el uso de los medios de comunicación",
+                "Adivinanzas",
+                "Descripción",
+                "Lectura de historietas",
+                "Símbolos patrios",
+                "Elaboración de crucigramas",
+                "Vocales a, i, o"
+              ],
+              "recursos": [
+                "Láminas de los medios de comunicación",
+                "Cajas pequeñas y medianas",
+                "Témperas",
+                "Tapas de bebidas",
+                "Vasos desechables",
+                "Pita o lana",
+                "Periódicos",
+                "Revistas",
+                "Mapa de Colombia",
+                "Cartulina, tijeras, pegamento",
+                "Instrumentos musicales"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "¡Conozcamos el campo y la ciudad!",
+              "nombre_completo": "¡Conozcamos el campo y la ciudad!",
+              "conceptos_procedimientos": [
+                "La comunidad del campo y de la ciudad",
+                "Huerta escolar",
+                "Profesiones y oficios",
+                "Medios de transporte en el campo y la ciudad",
+                "El óvalo",
+                "Adivinanzas",
+                "Noción: comparar, clasificar",
+                "Motricidad gruesa: ejercicios de salto, trote, galope, rodar y escalar"
+              ],
+              "recursos": [
+                "Láminas de la ciudad y el campo",
+                "Fábula: El ratón de campo y el ratón de ciudad",
+                "Maquetas, dibujos, ilustraciones, fichas",
+                "Armatodo, rompecabezas, arcilla, botellas plásticas, corchos, vasos de plástico, pinturas, pinceles, ramas secas, palitos de paleta",
+                "Geoplano, bloques lógicos, tangram",
+                "Conos, lazos, caballitos de juguete"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "¡Se le traba la lengua a la Uu!",
+              "nombre_completo": "¡Se le traba la lengua a la Uu!",
+              "conceptos_procedimientos": [
+                "Vocal Uu",
+                "Reconocimiento de las vocales a, i, u en palabras",
+                "Trabalenguas",
+                "Sonidos onomatopéyicos con la vocal Uu",
+                "Secuencia de acciones",
+                "Mensajes positivos y negativos",
+                "Identificación de las vocales Aa, Ii, Oo, Uu en diferentes palabras",
+                "Singular y plural"
+              ],
+              "recursos": [
+                "Témperas, acuarelas, crayolas, tiza, marcadores, colores",
+                "Papeles de colores blanco y negro",
+                "Videos y carteles sobre la vocal Uu",
+                "Mesa de arena",
+                "Masa, plastilina o arcilla",
+                "Pizarra mágica",
+                "Hojas para calcar",
+                "Lana o pita",
+                "Revistas o periódicos"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Mi amigo el medio ambiente",
+          "desempeño_general": "Reconozco la utilidad y la importancia de los elementos que conforman el medio ambiente.",
+          "guias": [
+            {
+              "numero": 13,
+              "nombre": "¡Somos parte del medio ambiente!",
+              "nombre_completo": "¡Somos parte del medio ambiente!",
+              "conceptos_procedimientos": [
+                "El agua",
+                "Uso racional del agua",
+                "Ahorro de la energía",
+                "Adivinanzas",
+                "Reciclar",
+                "Reutilizar",
+                "Cuidado del medio ambiente"
+              ],
+              "recursos": [
+                "Tableta, computadora, video beam",
+                "Cajas, botellas, papel, latas",
+                "Botes de asura para reciclar",
+                "Botellas de plástico transparente",
+                "Papel bond",
+                "Materiales reciclados",
+                "Marcadores",
+                "Cinta o pegamento"
+              ]
+            },
+            {
+              "numero": 14,
+              "nombre": "¡Las aventuras de la Ee!",
+              "nombre_completo": "¡Las aventuras de la Ee!",
+              "conceptos_procedimientos": [
+                "Vocal Ee",
+                "Lectura de palabras con la vocal Ee inicial",
+                "Noción de tiempo: día-noche",
+                "Lectura de imágenes",
+                "Rimas y canciones",
+                "Reconocimiento de las vocales a, e, i, o y u en un texto"
+              ],
+              "recursos": [
+                "Fichas con la vocal Ee",
+                "Juguetes didácticos",
+                "Periódicos y revistas",
+                "Historietas gráficas",
+                "Vocales en diferentes materiales",
+                "Masa o plastilina",
+                "Punzón, cartón",
+                "Marcadores delgados",
+                "Témperas, tiza",
+                "Instrumentos musicales elaborados con materiales reciclados"
+              ]
+            },
+            {
+              "numero": 15,
+              "nombre": "¡Nuestros amigos los animales!",
+              "nombre_completo": "¡Nuestros amigos los animales!",
+              "conceptos_procedimientos": [
+                "Animales domésticos",
+                "Animales salvajes",
+                "Las mascotas y sus cuidados",
+                "Animales bípedos y cuadrúpedos",
+                "Clasificación de animales según hábitat",
+                "Mandalas de las vocales"
+              ],
+              "recursos": [
+                "Láminas, fotografías y videos de animales domésticos y salvajes",
+                "Libros",
+                "Arcilla, plastilina, tijeras, pegamento",
+                "Papel plegado",
+                "Audios sonidos animales",
+                "Láminas hábitat animales",
+                "Fábulas",
+                "Revistas y periódicos",
+                "Botellas plásticas pequeñas",
+                "Juguetes de animales"
+              ]
+            },
+            {
+              "numero": 16,
+              "nombre": "¡Me alimento bien para crecer sano y fuerte!",
+              "nombre_completo": "¡Me alimento bien para crecer sano y fuerte!",
+              "conceptos_procedimientos": [
+                "Hábitos saludables",
+                "Origen de los alimentos",
+                "Pirámide alimenticia",
+                "Normas de comportamiento en el comedor",
+                "Nociones de percepción: frío-caliente, dulce, salado, ácido y amargo"
+              ],
+              "recursos": [
+                "Juguetes de alimentos, loterías de frutas",
+                "Compás, lápiz, colores, recortes de alimentos, cartulina, tijeras, pegamento",
+                "Ingredientes para la receta, guantes, gorro de cocina",
+                "Jabón antibacterial, toalla, cepillo de dientes, seda dental",
+                "Vinagre, bicarbonato, frutas, recipientes, vasos plásticos o cajitas, fichas de números, regletas de Cousinier, palos de paleta"
+              ]
+            },
+            {
+              "numero": 17,
+              "nombre": "¡De la huerta a la mesa!",
+              "nombre_completo": "¡De la huerta a la mesa!",
+              "conceptos_procedimientos": [
+                "Texto instructivo: La receta",
+                "Huerta escolar",
+                "Alimentación saludable",
+                "Seguimiento de instrucciones",
+                "Reconocimiento de vocales de forma auditiva, visual y el símbolo gráfico",
+                "Adivinanzas",
+                "Crucigrama de vocales"
+              ],
+              "recursos": [
+                "Videos y láminas de verduras, frutas, hortalizas, semillas",
+                "Cucharas, ollas",
+                "Tapas, empaques",
+                "Tijeras",
+                "Lápiz",
+                "Cartulina",
+                "Marcadores",
+                "Colores",
+                "Crayolas",
+                "Témperas"
+              ]
+            },
+            {
+              "numero": 18,
+              "nombre": "¡Me divierto leyendo cuentos!",
+              "nombre_completo": "¡Me divierto leyendo cuentos!",
+              "conceptos_procedimientos": [
+                "Lectura de cuentos",
+                "Comprensión lectora",
+                "Elementos de la narración: personajes y eventos",
+                "Lectura de secuencia gráficas",
+                "Reconocimiento de vocales en palabras"
+              ],
+              "recursos": [
+                "Cajas de cartón",
+                "Papeles y témperas de color: gris, verde, rojo y blanco",
+                "Tubos vacíos de papel higiénico",
+                "Espuma",
+                "Bombas",
+                "Tijeras",
+                "Cartulina",
+                "Papel Kraft",
+                "Material reciclable",
+                "Títeres"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Un viaje por el universo",
+          "desempeño_general": "Ubico en el universo el planeta Tierra y comprendo algunos fenómenos naturales.",
+          "guias": [
+            {
+              "numero": 19,
+              "nombre": "¡Una mirada al infinito y más allá!",
+              "nombre_completo": "¡Una mirada al infinito y más allá!",
+              "conceptos_procedimientos": [
+                "El Sistema solar",
+                "El planeta Tierra",
+                "Movimientos de rotación y traslación",
+                "Los astronautas (telescopio)",
+                "Noción espacio temporal: día-noche, la semana y los días",
+                "Noción espacial de posición: alrededor de, de frente-de espalda",
+                "Noción de tiempo: comparación de eventos"
+              ],
+              "recursos": [
+                "Rollo de papel de cocina, papel aluminio, bandas elásticas, lápiz, cinta adhesiva, lupa. Papel aluminio, CD",
+                "Calendario didáctico",
+                "Reloj didáctico",
+                "Botella, témperas (roja, azul claro, azul oscuro) algodón, escarcha, palo de pincho, agua, estrellas doradas, luna plateada",
+                "Bolas de icopor, plastilina, retazos de tela"
+              ]
+            },
+            {
+              "numero": 20,
+              "nombre": "¡Somos guardianes de nuestro planeta!",
+              "nombre_completo": "¡Somos guardianes de nuestro planeta!",
+              "conceptos_procedimientos": [
+                "Planeta Tierra",
+                "Días de la semana",
+                "Noción de tiempo: día y noche",
+                "Reconocimiento auditivo y visual de la consonante Mm",
+                "Grafía y direccionalidad trazo de la Mm",
+                "Consonante M mayúscula (nombres letra inicial)",
+                "Conciencia fonológica: relación de sílabas iniciales con la consonante Mm",
+                "Pictogramas"
+              ],
+              "recursos": [
+                "Imágenes videos fotografías del día y la noche",
+                "Globo terráqueo",
+                "Tierra o arena",
+                "Harina",
+                "Papel mantequilla",
+                "Marcadores",
+                "Colores",
+                "Crayolas",
+                "Témperas",
+                "Acuarelas caseras"
+              ]
+            },
+            {
+              "numero": 21,
+              "nombre": "¡Somos astronautas!",
+              "nombre_completo": "¡Somos astronautas!",
+              "conceptos_procedimientos": [
+                "Clases de noticias",
+                "Reconocimiento auditivo y visual de la consonante Pp con las vocales",
+                "Grafía y direccionalidad del trazo de la Pp",
+                "Reconocimiento de las consonantes Mm y Pp con las vocales y en palabras cortas"
+              ],
+              "recursos": [
+                "Cajas de cartón",
+                "Bolsas de basura blancas",
+                "Elementos para enhebrar",
+                "Bolas de icopor o pimpones",
+                "Revistas y periódicos",
+                "Hojas blancas tamaño carta",
+                "Cuerda, lana o pita",
+                "Pinzas de ropa",
+                "Perforadora de un hueco",
+                "Videos viaje a la luna, cohetes y astronautas"
+              ]
+            },
+            {
+              "numero": 22,
+              "nombre": "¡Conozcamos las maravillas del universo!",
+              "nombre_completo": "¡Conozcamos las maravillas del universo!",
+              "conceptos_procedimientos": [
+                "El universo",
+                "Constelaciones",
+                "Estrellas fugaces",
+                "Galaxias",
+                "Reconocimiento auditivo y visual de la consonante Ss con las vocales",
+                "Grafía y direccionalidad del trazo de la Ss",
+                "Conciencia fonológica: relación de sílabas iniciales con la consonante Ss",
+                "Nombres con sílabas iniciales con la consonante S"
+              ],
+              "recursos": [
+                "Bolas de icopor",
+                "Balones de diferentes tamaños",
+                "Láminas relacionadas con el universo",
+                "Papel periódico, cartones grandes, pinceles, témperas",
+                "Bolsas de basura",
+                "Cartulina negra",
+                "Medias viejas",
+                "Botones",
+                "Lana"
+              ]
+            },
+            {
+              "numero": 23,
+              "nombre": "¡Una gran aventura: viaje al Sistema solar!",
+              "nombre_completo": "¡Una gran aventura: viaje al Sistema solar!",
+              "conceptos_procedimientos": [
+                "Textos narrativos e informativos sobre el Sistema solar",
+                "Los planetas del Sistema solar",
+                "Palabras con las consonantes Mm, Pp y Ss en diversos textos",
+                "Construcción de palabras a partir de la primera sílaba"
+              ],
+              "recursos": [
+                "Periódicos, revistas, libros",
+                "Balones de diferentes tamaños",
+                "Láminas relacionadas con los planetas y el Sistema solar",
+                "Papel periódico",
+                "Cartones grandes",
+                "Pinceles, témperas",
+                "Cartulina negra",
+                "Botones, lana, betún",
+                "Crayolas, punzón",
+                "Palos de pincho"
+              ]
+            },
+            {
+              "numero": 24,
+              "nombre": "¡Los fenómenos y desastres naturales!",
+              "nombre_completo": "¡Los fenómenos y desastres naturales!",
+              "conceptos_procedimientos": [
+                "Fenómenos y desastres naturales",
+                "Fenómenos naturales: la lluvia, el arcoíris y el granizo",
+                "Desastres naturales: huracán, inundación, temblor, incendios",
+                "Medidas de protección ante un desastre",
+                "Motricidad fina: abotonar-desabotonar",
+                "Pensamiento lógico matemático: razonar, argumentar, justificar",
+                "Figura geométrica: el rombo"
+              ],
+              "recursos": [
+                "Tabletas, computadora, video beam",
+                "Fotografías, láminas, folletos informativos",
+                "Una linterna, vaso de cristal, espejo",
+                "Lupa, hojas de papel",
+                "Una botella de plástico, papel periódico, pegamento, témperas, bicarbonato, vinagre y jabón líquido",
+                "Lápiz, colores",
+                "Loterías, domino de letras"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

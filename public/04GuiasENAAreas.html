@@ -80,7 +80,12 @@
         <option value="2015">Edición 2012</option>
         <option value="2015">Edición 2008</option>
           </select>
-    
+
+    <label for="temas_generales">Temas Generales (según área seleccionada)</label>
+    <select id="temas_generales" required="" disabled="">
+        <option value="">Primero selecciona un área</option>
+    </select>
+
     <div id="guiasContainer"></div>
 
       </fieldset>
@@ -91,9 +96,99 @@
 </div>
 
  <script>
+  // Temas transversales por asignatura (RAS 2026)
+  const temasGeneralesPorAsignatura = {
+    'matematicas': [
+      'Resolución de problemas',
+      'Valor posicional y sistema decimal',
+      'Operaciones básicas (suma, resta, multiplicación, división)',
+      'Números racionales (fracciones y decimales)',
+      'Geometría (figuras planas y cuerpos geométricos)',
+      'Medición (longitud, masa, capacidad, tiempo)',
+      'Estadística y datos',
+      'Pensamiento algebraico (patrones y secuencias)'
+    ],
+    'lenguaje': [
+      'Alfabetización inicial',
+      'Comprensión lectora',
+      'Producción textual (narrativa, descriptiva, expositiva)',
+      'Literatura (cuento, fábula, mito, poesía, teatro)',
+      'Comunicación oral',
+      'Medios de comunicación',
+      'Gramática y ortografía',
+      'Lenguaje corporal y simbólico'
+    ],
+    'sociales': [
+      'Familia y comunidad',
+      'Organización política y territorial (municipio, departamento, país)',
+      'Geografía y medio ambiente',
+      'Historia de Colombia (pueblos indígenas, Conquista, Colonia, Independencia)',
+      'Derechos y deberes ciudadanos',
+      'Símbolos patrios y cultura',
+      'Economía (necesidades, trabajo, servicios)',
+      'Medios de transporte y comunicación'
+    ],
+    'Tecnología': [
+      'Materiales y transformación (naturales, artificiales, sintéticos)',
+      'Diseño y construcción de artefactos',
+      'Energía y fenómenos físicos (luz, calor, sonido, movimiento)',
+      'Sostenibilidad y medio ambiente',
+      'Pensamiento computacional y tecnología digital',
+      'Historia de la tecnología (inventos y evolución)',
+      'Sistemas tecnológicos (vivienda, transporte, comunicación)',
+      'Solución de problemas con tecnología'
+    ],
+    'Naturales': [
+      'Seres vivos (clasificación, características, ciclos de vida)',
+      'Ecosistemas y medio ambiente',
+      'Cuerpo humano (sistemas corporales, salud)',
+      'Materia y energía',
+      'Fuerzas y movimiento',
+      'Sistema solar y Tierra',
+      'Método científico y experimentación',
+      'Recursos naturales y conservación'
+    ],
+    'ética': [
+      'Autoconocimiento (autoimagen, emociones, sentidos)',
+      'Convivencia y valores morales',
+      'Familia como núcleo social',
+      'Resolución de conflictos',
+      'Derechos humanos y dignidad',
+      'Bienestar y salud',
+      'Diversión sana y tiempo libre',
+      'Comunidad y participación ciudadana'
+    ]
+  };
+
+  // Evento para cambiar temas según el área seleccionada
+  document.getElementById("materia").addEventListener("change", function() {
+    const areaSeleccionada = this.value;
+    const selectTemas = document.getElementById("temas_generales");
+
+    // Limpiar opciones previas
+    selectTemas.innerHTML = '<option value="">Selecciona un tema general</option>';
+
+    if (areaSeleccionada && temasGeneralesPorAsignatura[areaSeleccionada]) {
+      // Habilitar el select de temas
+      selectTemas.disabled = false;
+
+      // Agregar los temas correspondientes
+      temasGeneralesPorAsignatura[areaSeleccionada].forEach(tema => {
+        const option = document.createElement('option');
+        option.value = tema.toLowerCase().replace(/\s+/g, '_');
+        option.textContent = tema;
+        selectTemas.appendChild(option);
+      });
+    } else {
+      selectTemas.disabled = true;
+      selectTemas.innerHTML = '<option value="">Primero selecciona un área</option>';
+    }
+  });
+
   document.getElementById("atras").addEventListener("click", function() {
     window.location.href = "03RecursosInstrumentos.html";
-     });
+  });
+
   document.getElementById("Continuar").addEventListener("click", function(e) {
     e.preventDefault();
     const requiredFields = document.querySelectorAll('[required]');
@@ -112,7 +207,8 @@
       // Guardar datos del paso 4
       const stepData = {
         area: document.getElementById('materia').value,
-        edicion_guia: document.getElementById('edicion_guia').value
+        edicion_guia: document.getElementById('edicion_guia').value,
+        tema_general: document.getElementById('temas_generales').value
       };
 
       window.saveStepData(4, stepData);

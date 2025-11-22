@@ -1,0 +1,1019 @@
+{
+  "asignatura": "Matemáticas",
+  "fuente": "Redes de Aprendizaje Semestral (RAS) 2026 - Fundación Escuela Nueva (FEN)",
+  "nivel": "Primaria",
+  "grados": {
+    "grado_1": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "¡Contando y comparando!",
+          "desempeno_general": "Reconocer y utilizar los números naturales del 0 al 100 en diversos contextos de conteo, comparación y representación",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "Contar colecciones de objetos hasta 20",
+              "temas": ["Conteo hasta 20", "Secuencias numéricas", "Representación de cantidades"],
+              "aprendizajes_steam": {
+                "ciencias": "Clasificación de objetos",
+                "tecnologia": "Uso de material manipulativo",
+                "ingenieria": "Organización espacial",
+                "artes": "Representación visual de cantidades",
+                "matematicas": "Cardinalidad y ordinalidad"
+              },
+              "recursos": ["Semillas", "Piedritas", "Fichas", "Tapas", "Palitos", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 2,
+              "nombre": "Números hasta 50",
+              "temas": ["Lectura y escritura de números hasta 50", "Valor posicional decenas y unidades", "Orden numérico"],
+              "aprendizajes_steam": {
+                "ciencias": "Agrupación por características",
+                "tecnologia": "Ábaco o material Base 10",
+                "ingenieria": "Construcción de representaciones numéricas",
+                "artes": "Diseño de patrones numéricos",
+                "matematicas": "Sistema decimal posicional"
+              },
+              "recursos": ["Ábaco", "Material Base 10", "Tarjetas numéricas", "Cuaderno", "Lápiz", "Colores"]
+            },
+            {
+              "numero": 3,
+              "nombre": "Números hasta 100",
+              "temas": ["Lectura y escritura hasta 100", "Comparación de números", "Recta numérica"],
+              "aprendizajes_steam": {
+                "ciencias": "Medición de cantidades",
+                "tecnologia": "Uso de la recta numérica",
+                "ingenieria": "Diseño de tableros numéricos",
+                "artes": "Creación de representaciones gráficas",
+                "matematicas": "Orden y comparación numérica"
+              },
+              "recursos": ["Recta numérica", "Tabla del 100", "Tarjetas", "Dados", "Cuaderno", "Lápiz"]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "¡Sumando y restando!",
+          "desempeno_general": "Resolver situaciones aditivas simples de composición y transformación utilizando diversas estrategias",
+          "guias": [
+            {
+              "numero": 4,
+              "nombre": "Sumas hasta 20",
+              "temas": ["Adición de números naturales", "Estrategias de cálculo mental", "Problemas aditivos simples"],
+              "aprendizajes_steam": {
+                "ciencias": "Combinación de conjuntos",
+                "tecnologia": "Uso de calculadora básica (opcional)",
+                "ingenieria": "Resolución de problemas cotidianos",
+                "artes": "Dibujos para representar operaciones",
+                "matematicas": "Composición aditiva"
+              },
+              "recursos": ["Fichas", "Palitos", "Material concreto", "Cuaderno", "Lápiz", "Problemas ilustrados"]
+            },
+            {
+              "numero": 5,
+              "nombre": "Restas hasta 20",
+              "temas": ["Sustracción como quitar", "Relación suma-resta", "Problemas de sustracción"],
+              "aprendizajes_steam": {
+                "ciencias": "Separación de grupos",
+                "tecnologia": "Material manipulativo",
+                "ingenieria": "Estrategias de resolución",
+                "artes": "Representación pictórica",
+                "matematicas": "Descomposición aditiva"
+              },
+              "recursos": ["Fichas de colores", "Tapas", "Cuaderno", "Lápiz", "Tarjetas de problemas"]
+            },
+            {
+              "numero": 6,
+              "nombre": "Sumas y restas hasta 100",
+              "temas": ["Operaciones con números de dos cifras", "Cálculo mental", "Resolución de problemas"],
+              "aprendizajes_steam": {
+                "ciencias": "Estimación de resultados",
+                "tecnologia": "Uso de ábacos",
+                "ingenieria": "Planificación de soluciones",
+                "artes": "Creación de historias matemáticas",
+                "matematicas": "Algoritmos de suma y resta"
+              },
+              "recursos": ["Ábaco", "Material Base 10", "Cuaderno", "Lápiz", "Problemas contextualizados"]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "¡Midiendo y comparando!",
+          "desempeno_general": "Reconocer y comparar magnitudes de longitud, peso y capacidad usando unidades no convencionales",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "Longitud",
+              "temas": ["Comparación de longitudes", "Medición con unidades no convencionales", "Largo-corto, alto-bajo"],
+              "aprendizajes_steam": {
+                "ciencias": "Propiedades de los objetos",
+                "tecnologia": "Instrumentos de medición caseros",
+                "ingenieria": "Construcción de medidores",
+                "artes": "Creación de objetos de diferentes tamaños",
+                "matematicas": "Concepto de magnitud"
+              },
+              "recursos": ["Cuerdas", "Listones", "Pasos", "Cuartas", "Objetos del aula", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 8,
+              "nombre": "Peso y capacidad",
+              "temas": ["Pesado-liviano", "Lleno-vacío", "Comparación de pesos", "Comparación de capacidades"],
+              "aprendizajes_steam": {
+                "ciencias": "Masa y volumen",
+                "tecnologia": "Balanzas caseras",
+                "ingenieria": "Diseño de recipientes",
+                "artes": "Experimentación con materiales",
+                "matematicas": "Comparación de magnitudes"
+              },
+              "recursos": ["Balanza casera", "Recipientes", "Vasos", "Botellas", "Arena", "Agua", "Semillas"]
+            },
+            {
+              "numero": 9,
+              "nombre": "Tiempo",
+              "temas": ["Secuencias temporales", "Día-noche", "Antes-después", "Ayer-hoy-mañana"],
+              "aprendizajes_steam": {
+                "ciencias": "Ciclos naturales",
+                "tecnologia": "Reloj de arena casero",
+                "ingenieria": "Rutinas diarias",
+                "artes": "Líneas de tiempo ilustradas",
+                "matematicas": "Ordenamiento temporal"
+              },
+              "recursos": ["Calendario", "Imágenes de secuencias", "Cuaderno", "Lápiz", "Colores"]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "¡Figuras y espacio!",
+          "desempeno_general": "Identificar y describir características de figuras geométricas básicas y ubicaciones espaciales",
+          "guias": [
+            {
+              "numero": 10,
+              "nombre": "Figuras geométricas planas",
+              "temas": ["Círculo", "Cuadrado", "Triángulo", "Rectángulo", "Características de figuras"],
+              "aprendizajes_steam": {
+                "ciencias": "Formas en la naturaleza",
+                "tecnologia": "Plantillas y moldes",
+                "ingenieria": "Construcción con figuras",
+                "artes": "Composiciones geométricas",
+                "matematicas": "Propiedades geométricas"
+              },
+              "recursos": ["Figuras de cartón", "Geoplano", "Tangram", "Papel", "Tijeras", "Pegamento", "Colores"]
+            },
+            {
+              "numero": 11,
+              "nombre": "Cuerpos geométricos",
+              "temas": ["Esfera", "Cubo", "Cilindro", "Cono", "Reconocimiento de cuerpos"],
+              "aprendizajes_steam": {
+                "ciencias": "Objetos tridimensionales",
+                "tecnologia": "Modelos y maquetas",
+                "ingenieria": "Construcción de sólidos",
+                "artes": "Escultura con formas básicas",
+                "matematicas": "Geometría espacial"
+              },
+              "recursos": ["Objetos del aula", "Plastilina", "Cajas", "Latas", "Pelotas", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 12,
+              "nombre": "Ubicación espacial",
+              "temas": ["Arriba-abajo", "Dentro-fuera", "Cerca-lejos", "Derecha-izquierda"],
+              "aprendizajes_steam": {
+                "ciencias": "Orientación en el espacio",
+                "tecnologia": "Mapas simples",
+                "ingenieria": "Diseño de recorridos",
+                "artes": "Dibujo de planos",
+                "matematicas": "Relaciones espaciales"
+              },
+              "recursos": ["Objetos del aula", "Juguetes", "Papel", "Lápiz", "Colores", "Espacio del aula"]
+            }
+          ]
+        }
+      ]
+    },
+    "grado_2": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Números hasta 999",
+          "desempeno_general": "Reconocer, leer, escribir y comparar números naturales hasta 999 comprendiendo el valor posicional",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "Números hasta 100 (repaso y ampliación)",
+              "temas": ["Lectura y escritura hasta 100", "Valor posicional", "Orden y comparación"],
+              "aprendizajes_steam": {
+                "ciencias": "Organización de datos",
+                "tecnologia": "Tabla de valor posicional",
+                "ingenieria": "Sistemas de numeración",
+                "artes": "Patrones numéricos",
+                "matematicas": "Sistema decimal"
+              },
+              "recursos": ["Material Base 10", "Ábaco", "Tabla del 100", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 2,
+              "nombre": "Números de tres cifras",
+              "temas": ["Centenas, decenas y unidades", "Lectura y escritura hasta 999", "Composición y descomposición"],
+              "aprendizajes_steam": {
+                "ciencias": "Agrupación por potencias de 10",
+                "tecnologia": "Calculadora para verificación",
+                "ingenieria": "Construcción numérica",
+                "artes": "Representaciones visuales",
+                "matematicas": "Valor posicional extendido"
+              },
+              "recursos": ["Material Base 10", "Ábaco", "Tarjetas numéricas", "Cuaderno", "Lápiz", "Colores"]
+            },
+            {
+              "numero": 3,
+              "nombre": "Comparación y orden hasta 999",
+              "temas": ["Mayor que, menor que, igual", "Ordenamiento ascendente y descendente", "Recta numérica"],
+              "aprendizajes_steam": {
+                "ciencias": "Comparación de magnitudes",
+                "tecnologia": "Recta numérica digital",
+                "ingenieria": "Estrategias de ordenamiento",
+                "artes": "Diseño de escalas",
+                "matematicas": "Relaciones de orden"
+              },
+              "recursos": ["Recta numérica", "Tarjetas", "Cuaderno", "Lápiz", "Símbolos de comparación"]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Operaciones básicas",
+          "desempeno_general": "Resolver problemas aditivos y multiplicativos sencillos utilizando diferentes estrategias de cálculo",
+          "guias": [
+            {
+              "numero": 4,
+              "nombre": "Sumas con reagrupación",
+              "temas": ["Adición con llevadas", "Algoritmo de la suma", "Problemas aditivos"],
+              "aprendizajes_steam": {
+                "ciencias": "Combinación de grupos",
+                "tecnologia": "Uso de ábacos",
+                "ingenieria": "Resolución sistemática",
+                "artes": "Representación gráfica",
+                "matematicas": "Algoritmos aritméticos"
+              },
+              "recursos": ["Material Base 10", "Ábaco", "Cuaderno", "Lápiz", "Problemas contextualizados"]
+            },
+            {
+              "numero": 5,
+              "nombre": "Restas con desagrupación",
+              "temas": ["Sustracción con prestadas", "Algoritmo de la resta", "Problemas de sustracción"],
+              "aprendizajes_steam": {
+                "ciencias": "Separación de conjuntos",
+                "tecnologia": "Material manipulativo",
+                "ingenieria": "Estrategias de cálculo",
+                "artes": "Diagramas de operaciones",
+                "matematicas": "Descomposición numérica"
+              },
+              "recursos": ["Material Base 10", "Fichas", "Cuaderno", "Lápiz", "Tarjetas de problemas"]
+            },
+            {
+              "numero": 6,
+              "nombre": "Introducción a la multiplicación",
+              "temas": ["Suma de sumandos iguales", "Arreglos rectangulares", "Tablas del 2 y del 5"],
+              "aprendizajes_steam": {
+                "ciencias": "Grupos iguales en la naturaleza",
+                "tecnologia": "Calculadora para patrones",
+                "ingenieria": "Organización en filas y columnas",
+                "artes": "Mosaicos y patrones",
+                "matematicas": "Operación multiplicativa"
+              },
+              "recursos": ["Fichas", "Semillas", "Cuadrícula", "Cuaderno", "Lápiz", "Tarjetas de multiplicación"]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Fracciones y medición",
+          "desempeno_general": "Reconocer fracciones simples como partes de un todo y utilizar unidades de medida convencionales",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "Mitades, tercios y cuartos",
+              "temas": ["Concepto de fracción", "Partes de un todo", "Representación gráfica de fracciones"],
+              "aprendizajes_steam": {
+                "ciencias": "División de objetos",
+                "tecnologia": "Herramientas de corte",
+                "ingenieria": "Distribución equitativa",
+                "artes": "Diseño de particiones",
+                "matematicas": "Números fraccionarios"
+              },
+              "recursos": ["Papel", "Tijeras", "Frutas (opcional)", "Plastilina", "Cuaderno", "Lápiz", "Colores"]
+            },
+            {
+              "numero": 8,
+              "nombre": "Medidas de longitud",
+              "temas": ["Metro, centímetro", "Instrumentos de medición", "Estimación y medición"],
+              "aprendizajes_steam": {
+                "ciencias": "Unidades estándar",
+                "tecnologia": "Reglas y cintas métricas",
+                "ingenieria": "Medición precisa",
+                "artes": "Escalas de dibujo",
+                "matematicas": "Sistema métrico"
+              },
+              "recursos": ["Regla", "Cinta métrica", "Objetos del aula", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 9,
+              "nombre": "Peso, capacidad y tiempo",
+              "temas": ["Kilogramo, gramo", "Litro", "Hora, minuto", "Lectura del reloj"],
+              "aprendizajes_steam": {
+                "ciencias": "Magnitudes físicas",
+                "tecnologia": "Balanzas, relojes",
+                "ingenieria": "Medición de magnitudes",
+                "artes": "Diseño de relojes",
+                "matematicas": "Conversiones simples"
+              },
+              "recursos": ["Balanza", "Recipientes graduados", "Reloj didáctico", "Cuaderno", "Lápiz"]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Geometría y datos",
+          "desempeno_general": "Identificar características de figuras geométricas y organizar información en tablas y pictogramas",
+          "guias": [
+            {
+              "numero": 10,
+              "nombre": "Figuras y patrones",
+              "temas": ["Características de polígonos", "Simetría", "Patrones geométricos"],
+              "aprendizajes_steam": {
+                "ciencias": "Simetrías en la naturaleza",
+                "tecnologia": "Herramientas de dibujo",
+                "ingenieria": "Teselaciones",
+                "artes": "Diseño de mosaicos",
+                "matematicas": "Propiedades geométricas"
+              },
+              "recursos": ["Regla", "Compás", "Papel cuadriculado", "Espejos", "Tijeras", "Cuaderno", "Colores"]
+            },
+            {
+              "numero": 11,
+              "nombre": "Perímetro y área",
+              "temas": ["Contorno de figuras", "Introducción al concepto de área", "Unidades no convencionales"],
+              "aprendizajes_steam": {
+                "ciencias": "Medición de superficies",
+                "tecnologia": "Cuadrículas",
+                "ingenieria": "Cálculo de espacios",
+                "artes": "Diseño de superficies",
+                "matematicas": "Magnitudes bidimensionales"
+              },
+              "recursos": ["Papel cuadriculado", "Regla", "Fichas cuadradas", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 12,
+              "nombre": "Recolección y representación de datos",
+              "temas": ["Tablas de frecuencia", "Pictogramas", "Gráficas de barras simples"],
+              "aprendizajes_steam": {
+                "ciencias": "Observación y registro",
+                "tecnologia": "Herramientas de graficación",
+                "ingenieria": "Organización de información",
+                "artes": "Diseño de gráficas",
+                "matematicas": "Estadística descriptiva"
+              },
+              "recursos": ["Papel cuadriculado", "Regla", "Colores", "Datos del aula", "Cuaderno", "Lápiz"]
+            }
+          ]
+        }
+      ]
+    },
+    "grado_3": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Números naturales grandes",
+          "desempeno_general": "Reconocer, comparar y operar con números naturales de hasta cinco cifras comprendiendo el valor posicional",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "Números hasta 9.999",
+              "temas": ["Unidades de mil", "Lectura y escritura", "Valor posicional de cuatro cifras"],
+              "aprendizajes_steam": {
+                "ciencias": "Cantidades en contextos reales",
+                "tecnologia": "Calculadora para verificación",
+                "ingenieria": "Sistemas numéricos posicionales",
+                "artes": "Representación visual de grandes números",
+                "matematicas": "Extensión del sistema decimal"
+              },
+              "recursos": ["Material Base 10", "Ábaco", "Tarjetas numéricas", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 2,
+              "nombre": "Números hasta 99.999",
+              "temas": ["Decenas de mil", "Composición y descomposición", "Comparación y orden"],
+              "aprendizajes_steam": {
+                "ciencias": "Grandes magnitudes",
+                "tecnologia": "Tablas de valor posicional",
+                "ingenieria": "Organización numérica",
+                "artes": "Escalas numéricas",
+                "matematicas": "Relaciones de orden extendidas"
+              },
+              "recursos": ["Tabla de valor posicional", "Calculadora", "Cuaderno", "Lápiz", "Tarjetas"]
+            },
+            {
+              "numero": 3,
+              "nombre": "Aproximación y estimación",
+              "temas": ["Redondeo a decenas y centenas", "Estimación de resultados", "Uso de la recta numérica"],
+              "aprendizajes_steam": {
+                "ciencias": "Mediciones aproximadas",
+                "tecnologia": "Herramientas de cálculo mental",
+                "ingenieria": "Estimación en proyectos",
+                "artes": "Proporciones visuales",
+                "matematicas": "Aproximación numérica"
+              },
+              "recursos": ["Recta numérica", "Calculadora", "Cuaderno", "Lápiz", "Problemas contextualizados"]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Multiplicación y división",
+          "desempeno_general": "Comprender y aplicar la multiplicación y división como operaciones inversas en la resolución de problemas",
+          "guias": [
+            {
+              "numero": 4,
+              "nombre": "Tablas de multiplicar",
+              "temas": ["Tablas del 2 al 10", "Propiedades de la multiplicación", "Cálculo mental"],
+              "aprendizajes_steam": {
+                "ciencias": "Patrones numéricos",
+                "tecnologia": "Aplicaciones de práctica",
+                "ingenieria": "Estrategias de memorización",
+                "artes": "Mandalas de multiplicación",
+                "matematicas": "Operación multiplicativa automatizada"
+              },
+              "recursos": ["Tarjetas de multiplicación", "Tabla pitagórica", "Fichas", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 5,
+              "nombre": "Multiplicación por una cifra",
+              "temas": ["Algoritmo de multiplicación", "Multiplicación con llevadas", "Problemas multiplicativos"],
+              "aprendizajes_steam": {
+                "ciencias": "Grupos iguales",
+                "tecnologia": "Calculadora para verificación",
+                "ingenieria": "Resolución de problemas escalados",
+                "artes": "Arreglos rectangulares",
+                "matematicas": "Algoritmos multiplicativos"
+              },
+              "recursos": ["Material Base 10", "Cuaderno", "Lápiz", "Problemas contextualizados"]
+            },
+            {
+              "numero": 6,
+              "nombre": "División exacta",
+              "temas": ["División como reparto", "División como agrupación", "Relación multiplicación-división"],
+              "aprendizajes_steam": {
+                "ciencias": "Distribución equitativa",
+                "tecnologia": "Materiales manipulativos",
+                "ingenieria": "Partición de recursos",
+                "artes": "División de espacios",
+                "matematicas": "Operación inversa"
+              },
+              "recursos": ["Fichas", "Semillas", "Material concreto", "Cuaderno", "Lápiz", "Problemas"]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Fracciones y decimales",
+          "desempeno_general": "Comprender el concepto de fracción y número decimal como representaciones de partes de un todo",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "Fracciones como partes de un todo",
+              "temas": ["Numerador y denominador", "Fracciones propias", "Comparación de fracciones"],
+              "aprendizajes_steam": {
+                "ciencias": "Partición de cantidades",
+                "tecnologia": "Círculos fraccionarios",
+                "ingenieria": "Distribución proporcional",
+                "artes": "Diseño fraccionado",
+                "matematicas": "Números racionales"
+              },
+              "recursos": ["Círculos fraccionarios", "Regletas", "Papel", "Tijeras", "Cuaderno", "Lápiz", "Colores"]
+            },
+            {
+              "numero": 8,
+              "nombre": "Fracciones equivalentes",
+              "temas": ["Concepto de equivalencia", "Simplificación", "Amplificación"],
+              "aprendizajes_steam": {
+                "ciencias": "Proporciones equivalentes",
+                "tecnologia": "Modelos fraccionarios",
+                "ingenieria": "Razones y proporciones",
+                "artes": "Patrones equivalentes",
+                "matematicas": "Relaciones de equivalencia"
+              },
+              "recursos": ["Círculos fraccionarios", "Regletas de colores", "Cuaderno", "Lápiz", "Material concreto"]
+            },
+            {
+              "numero": 9,
+              "nombre": "Introducción a decimales",
+              "temas": ["Décimos y centésimos", "Relación fracción-decimal", "Lectura de decimales"],
+              "aprendizajes_steam": {
+                "ciencias": "Medidas decimales",
+                "tecnologia": "Reglas con milímetros",
+                "ingenieria": "Precisión en mediciones",
+                "artes": "Escalas decimales",
+                "matematicas": "Extensión decimal del sistema"
+              },
+              "recursos": ["Dinero didáctico", "Regla con mm", "Tabla decimal", "Cuaderno", "Lápiz"]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Medición y geometría",
+          "desempeno_general": "Calcular perímetro y área de figuras planas y clasificar ángulos y triángulos",
+          "guias": [
+            {
+              "numero": 10,
+              "nombre": "Perímetro y área",
+              "temas": ["Cálculo de perímetro", "Área de rectángulos y cuadrados", "Unidades de medida"],
+              "aprendizajes_steam": {
+                "ciencias": "Medición de superficies",
+                "tecnologia": "Cuadrículas y escalas",
+                "ingenieria": "Cálculo de materiales",
+                "artes": "Diseño de espacios",
+                "matematicas": "Magnitudes bidimensionales"
+              },
+              "recursos": ["Regla", "Papel cuadriculado", "Figuras geométricas", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 11,
+              "nombre": "Ángulos y triángulos",
+              "temas": ["Tipos de ángulos", "Clasificación de triángulos", "Construcción de figuras"],
+              "aprendizajes_steam": {
+                "ciencias": "Estructuras en la naturaleza",
+                "tecnologia": "Transportador",
+                "ingenieria": "Construcción de estructuras",
+                "artes": "Diseño geométrico",
+                "matematicas": "Propiedades geométricas"
+              },
+              "recursos": ["Transportador", "Regla", "Compás", "Escuadras", "Papel", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 12,
+              "nombre": "Estadística básica",
+              "temas": ["Recolección de datos", "Tablas de frecuencia", "Gráficas de barras", "Moda y rango"],
+              "aprendizajes_steam": {
+                "ciencias": "Análisis de datos",
+                "tecnologia": "Herramientas de graficación",
+                "ingenieria": "Interpretación de información",
+                "artes": "Diseño de gráficas",
+                "matematicas": "Estadística descriptiva"
+              },
+              "recursos": ["Papel cuadriculado", "Regla", "Colores", "Datos reales", "Cuaderno", "Lápiz"]
+            }
+          ]
+        }
+      ]
+    },
+    "grado_4": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Números grandes y operaciones",
+          "desempeno_general": "Operar con números naturales de más de cinco cifras y comprender las propiedades de las operaciones",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "Números hasta millones",
+              "temas": ["Centenas de mil", "Millones", "Lectura y escritura de números grandes", "Valor posicional"],
+              "aprendizajes_steam": {
+                "ciencias": "Magnitudes astronómicas",
+                "tecnologia": "Notación científica básica",
+                "ingenieria": "Grandes proyectos numéricos",
+                "artes": "Representación de grandes cantidades",
+                "matematicas": "Sistema decimal extendido"
+              },
+              "recursos": ["Tabla de valor posicional", "Calculadora", "Noticias con números grandes", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 2,
+              "nombre": "Operaciones combinadas",
+              "temas": ["Jerarquía de operaciones", "Paréntesis", "Resolución de expresiones numéricas"],
+              "aprendizajes_steam": {
+                "ciencias": "Cálculos complejos",
+                "tecnologia": "Calculadora científica",
+                "ingenieria": "Secuencias de operaciones",
+                "artes": "Expresiones algebraicas",
+                "matematicas": "Propiedades de las operaciones"
+              },
+              "recursos": ["Calculadora", "Cuaderno", "Lápiz", "Problemas contextualizados"]
+            },
+            {
+              "numero": 3,
+              "nombre": "Múltiplos y divisores",
+              "temas": ["Concepto de múltiplo", "Concepto de divisor", "Números primos y compuestos", "MCM y MCD"],
+              "aprendizajes_steam": {
+                "ciencias": "Patrones numéricos",
+                "tecnologia": "Algoritmos de factorización",
+                "ingenieria": "Optimización de recursos",
+                "artes": "Patrones de diseño",
+                "matematicas": "Teoría de números"
+              },
+              "recursos": ["Tabla de números", "Fichas", "Cuaderno", "Lápiz", "Criba de Eratóstenes"]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Fracciones y decimales",
+          "desempeno_general": "Operar con fracciones y números decimales en contextos cotidianos y resolver problemas",
+          "guias": [
+            {
+              "numero": 4,
+              "nombre": "Operaciones con fracciones",
+              "temas": ["Suma y resta de fracciones homogéneas", "Fracciones heterogéneas", "Multiplicación de fracciones"],
+              "aprendizajes_steam": {
+                "ciencias": "Mezclas y proporciones",
+                "tecnologia": "Círculos fraccionarios",
+                "ingenieria": "Cálculos de recetas",
+                "artes": "Diseño proporcional",
+                "matematicas": "Aritmética fraccionaria"
+              },
+              "recursos": ["Círculos fraccionarios", "Regletas", "Cuaderno", "Lápiz", "Problemas de cocina"]
+            },
+            {
+              "numero": 5,
+              "nombre": "Decimales y operaciones",
+              "temas": ["Suma y resta de decimales", "Multiplicación de decimales", "División decimal simple"],
+              "aprendizajes_steam": {
+                "ciencias": "Medidas precisas",
+                "tecnologia": "Calculadora",
+                "ingenieria": "Cálculos de presupuesto",
+                "artes": "Escalas decimales",
+                "matematicas": "Operaciones con decimales"
+              },
+              "recursos": ["Dinero didáctico", "Calculadora", "Balanza decimal", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 6,
+              "nombre": "Porcentajes",
+              "temas": ["Concepto de porcentaje", "Equivalencia fracción-decimal-porcentaje", "Cálculo de porcentajes"],
+              "aprendizajes_steam": {
+                "ciencias": "Concentraciones",
+                "tecnologia": "Gráficas circulares",
+                "ingenieria": "Análisis de rendimiento",
+                "artes": "Proporciones visuales",
+                "matematicas": "Razones y proporciones"
+              },
+              "recursos": ["Cuadrícula del 100", "Calculadora", "Ofertas comerciales", "Cuaderno", "Lápiz"]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Medición avanzada",
+          "desempeno_general": "Convertir unidades de medida y calcular perímetro, área y volumen de figuras y cuerpos geométricos",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "Conversiones de unidades",
+              "temas": ["Sistema métrico decimal", "Longitud, masa, capacidad", "Conversiones múltiples"],
+              "aprendizajes_steam": {
+                "ciencias": "Unidades internacionales",
+                "tecnologia": "Instrumentos de medición",
+                "ingenieria": "Mediciones precisas",
+                "artes": "Escalas de conversión",
+                "matematicas": "Proporcionalidad"
+              },
+              "recursos": ["Tabla de conversiones", "Regla", "Balanza", "Recipientes graduados", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 8,
+              "nombre": "Área de polígonos",
+              "temas": ["Área de triángulos", "Área de paralelogramos", "Área de trapecios"],
+              "aprendizajes_steam": {
+                "ciencias": "Superficies en la naturaleza",
+                "tecnologia": "Software de geometría",
+                "ingenieria": "Cálculo de materiales",
+                "artes": "Diseño de superficies",
+                "matematicas": "Fórmulas geométricas"
+              },
+              "recursos": ["Regla", "Papel cuadriculado", "Tijeras", "Figuras geométricas", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 9,
+              "nombre": "Volumen de cuerpos",
+              "temas": ["Concepto de volumen", "Volumen de cubos y prismas", "Unidades cúbicas"],
+              "aprendizajes_steam": {
+                "ciencias": "Capacidad y densidad",
+                "tecnologia": "Modelos 3D",
+                "ingenieria": "Construcción de sólidos",
+                "artes": "Escultura geométrica",
+                "matematicas": "Geometría espacial"
+              },
+              "recursos": ["Cubos de 1 cm³", "Cajas", "Regla", "Cuaderno", "Lápiz", "Plastilina"]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Geometría y estadística",
+          "desempeno_general": "Identificar transformaciones geométricas y analizar datos utilizando medidas de tendencia central",
+          "guias": [
+            {
+              "numero": 10,
+              "nombre": "Transformaciones geométricas",
+              "temas": ["Traslación", "Rotación", "Reflexión", "Ampliación y reducción"],
+              "aprendizajes_steam": {
+                "ciencias": "Simetrías naturales",
+                "tecnologia": "Software de geometría",
+                "ingenieria": "Diseño de patrones",
+                "artes": "Teselaciones",
+                "matematicas": "Isometrías"
+              },
+              "recursos": ["Papel cuadriculado", "Regla", "Compás", "Espejos", "Tijeras", "Cuaderno", "Colores"]
+            },
+            {
+              "numero": 11,
+              "nombre": "Coordenadas cartesianas",
+              "temas": ["Plano cartesiano", "Ubicación de puntos", "Distancia entre puntos"],
+              "aprendizajes_steam": {
+                "ciencias": "Mapas y GPS",
+                "tecnologia": "Sistemas de coordenadas",
+                "ingenieria": "Navegación",
+                "artes": "Arte digital",
+                "matematicas": "Geometría analítica"
+              },
+              "recursos": ["Papel cuadriculado", "Regla", "Cuaderno", "Lápiz", "Colores"]
+            },
+            {
+              "numero": 12,
+              "nombre": "Estadística: media, mediana, moda",
+              "temas": ["Promedio aritmético", "Mediana", "Moda", "Interpretación de datos"],
+              "aprendizajes_steam": {
+                "ciencias": "Análisis de experimentos",
+                "tecnologia": "Hojas de cálculo",
+                "ingenieria": "Análisis de resultados",
+                "artes": "Visualización de datos",
+                "matematicas": "Medidas de tendencia central"
+              },
+              "recursos": ["Calculadora", "Papel cuadriculado", "Datos reales", "Cuaderno", "Lápiz"]
+            }
+          ]
+        }
+      ]
+    },
+    "grado_5": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Números naturales y enteros",
+          "desempeno_general": "Operar con números naturales de cualquier cantidad de cifras e introducirse al concepto de números enteros",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "Números hasta billones",
+              "temas": ["Lectura y escritura de números muy grandes", "Potencias de 10", "Notación desarrollada"],
+              "aprendizajes_steam": {
+                "ciencias": "Distancias astronómicas",
+                "tecnologia": "Notación científica",
+                "ingenieria": "Grandes escalas",
+                "artes": "Visualización de magnitudes",
+                "matematicas": "Sistema posicional extendido"
+              },
+              "recursos": ["Tabla de valor posicional", "Calculadora científica", "Noticias", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 2,
+              "nombre": "Potenciación y radicación",
+              "temas": ["Concepto de potencia", "Cuadrados y cubos", "Raíz cuadrada", "Propiedades"],
+              "aprendizajes_steam": {
+                "ciencias": "Crecimiento exponencial",
+                "tecnologia": "Calculadora",
+                "ingenieria": "Cálculos de áreas",
+                "artes": "Patrones exponenciales",
+                "matematicas": "Operaciones de potencia"
+              },
+              "recursos": ["Calculadora", "Tabla de cuadrados", "Cuaderno", "Lápiz", "Material concreto"]
+            },
+            {
+              "numero": 3,
+              "nombre": "Números enteros",
+              "temas": ["Recta numérica con negativos", "Situaciones con números negativos", "Orden de enteros"],
+              "aprendizajes_steam": {
+                "ciencias": "Temperaturas bajo cero",
+                "tecnologia": "Termómetros",
+                "ingenieria": "Altitudes y profundidades",
+                "artes": "Líneas de tiempo históricas",
+                "matematicas": "Extensión de los naturales"
+              },
+              "recursos": ["Recta numérica con negativos", "Termómetro", "Cuaderno", "Lápiz", "Problemas contextualizados"]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Fracciones, decimales y razones",
+          "desempeno_general": "Operar con fracciones y decimales y comprender el concepto de razón y proporción",
+          "guias": [
+            {
+              "numero": 4,
+              "nombre": "Fracciones avanzadas",
+              "temas": ["División de fracciones", "Fracciones mixtas", "Problemas con fracciones"],
+              "aprendizajes_steam": {
+                "ciencias": "Proporciones químicas",
+                "tecnologia": "Calculadora de fracciones",
+                "ingenieria": "Cálculos de proyectos",
+                "artes": "Proporciones en diseño",
+                "matematicas": "Operaciones fraccionarias completas"
+              },
+              "recursos": ["Círculos fraccionarios", "Regletas", "Cuaderno", "Lápiz", "Problemas aplicados"]
+            },
+            {
+              "numero": 5,
+              "nombre": "Decimales avanzados",
+              "temas": ["División de decimales", "Decimales periódicos", "Aproximación decimal"],
+              "aprendizajes_steam": {
+                "ciencias": "Mediciones precisas",
+                "tecnologia": "Instrumentos digitales",
+                "ingenieria": "Precisión en construcción",
+                "artes": "Escalas finas",
+                "matematicas": "Aritmética decimal completa"
+              },
+              "recursos": ["Calculadora", "Regla milimetrada", "Cuaderno", "Lápiz", "Problemas de medición"]
+            },
+            {
+              "numero": 6,
+              "nombre": "Razones y proporciones",
+              "temas": ["Concepto de razón", "Proporcionalidad directa", "Regla de tres simple"],
+              "aprendizajes_steam": {
+                "ciencias": "Relaciones de cantidades",
+                "tecnologia": "Escalas",
+                "ingenieria": "Planos a escala",
+                "artes": "Proporciones áureas",
+                "matematicas": "Proporcionalidad"
+              },
+              "recursos": ["Calculadora", "Mapas", "Planos", "Recetas", "Cuaderno", "Lápiz"]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Geometría y medición",
+          "desempeno_general": "Calcular áreas y volúmenes de figuras y cuerpos diversos y comprender el concepto de circunferencia",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "Círculo y circunferencia",
+              "temas": ["Radio, diámetro, cuerda", "Longitud de circunferencia", "Área del círculo", "Número Pi"],
+              "aprendizajes_steam": {
+                "ciencias": "Formas circulares en la naturaleza",
+                "tecnologia": "Compás",
+                "ingenieria": "Diseño de ruedas",
+                "artes": "Mandalas",
+                "matematicas": "Geometría circular"
+              },
+              "recursos": ["Compás", "Regla", "Hilo", "Círculos de cartón", "Cuaderno", "Lápiz", "Calculadora"]
+            },
+            {
+              "numero": 8,
+              "nombre": "Área de polígonos irregulares",
+              "temas": ["Descomposición en figuras conocidas", "Aproximación de áreas", "Unidades de área"],
+              "aprendizajes_steam": {
+                "ciencias": "Superficies naturales",
+                "tecnologia": "Software de geometría",
+                "ingenieria": "Cálculo de terrenos",
+                "artes": "Diseño de formas libres",
+                "matematicas": "Composición y descomposición"
+              },
+              "recursos": ["Papel cuadriculado", "Regla", "Tijeras", "Cuaderno", "Lápiz", "Figuras irregulares"]
+            },
+            {
+              "numero": 9,
+              "nombre": "Volumen de cilindros y pirámides",
+              "temas": ["Volumen de cilindros", "Volumen de conos y pirámides", "Cálculo de capacidades"],
+              "aprendizajes_steam": {
+                "ciencias": "Capacidad de recipientes",
+                "tecnologia": "Modelos 3D",
+                "ingenieria": "Construcción de contenedores",
+                "artes": "Escultura volumétrica",
+                "matematicas": "Fórmulas volumétricas"
+              },
+              "recursos": ["Cilindros", "Conos de cartón", "Arena", "Agua", "Regla", "Cuaderno", "Lápiz"]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Estadística y probabilidad",
+          "desempeno_general": "Analizar datos estadísticos con gráficas avanzadas y comprender conceptos básicos de probabilidad",
+          "guias": [
+            {
+              "numero": 10,
+              "nombre": "Gráficas estadísticas",
+              "temas": ["Gráficas de línea", "Gráficas circulares", "Interpretación de gráficas complejas"],
+              "aprendizajes_steam": {
+                "ciencias": "Presentación de experimentos",
+                "tecnologia": "Software de graficación",
+                "ingenieria": "Análisis de tendencias",
+                "artes": "Diseño de infografías",
+                "matematicas": "Representación de datos"
+              },
+              "recursos": ["Papel cuadriculado", "Compás", "Regla", "Colores", "Datos reales", "Cuaderno", "Lápiz"]
+            },
+            {
+              "numero": 11,
+              "nombre": "Análisis estadístico",
+              "temas": ["Media, mediana, moda", "Rango y variabilidad", "Interpretación crítica de datos"],
+              "aprendizajes_steam": {
+                "ciencias": "Análisis de resultados",
+                "tecnologia": "Hojas de cálculo",
+                "ingenieria": "Control de calidad",
+                "artes": "Visualización de información",
+                "matematicas": "Estadística descriptiva avanzada"
+              },
+              "recursos": ["Calculadora", "Conjuntos de datos", "Cuaderno", "Lápiz", "Papel cuadriculado"]
+            },
+            {
+              "numero": 12,
+              "nombre": "Introducción a la probabilidad",
+              "temas": ["Eventos aleatorios", "Probabilidad experimental", "Probabilidad teórica", "Comparación de probabilidades"],
+              "aprendizajes_steam": {
+                "ciencias": "Experimentos aleatorios",
+                "tecnologia": "Simuladores",
+                "ingenieria": "Predicción de eventos",
+                "artes": "Arte generativo",
+                "matematicas": "Teoría de probabilidad básica"
+              },
+              "recursos": ["Dados", "Monedas", "Ruletas", "Cartas", "Cuaderno", "Lápiz", "Bolsas con objetos"]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "temas_transversales": [
+    {
+      "tema": "Resolución de problemas",
+      "descripcion": "Presente en todos los grados con complejidad creciente",
+      "progresion": "Desde situaciones concretas hasta problemas abstractos y multi-paso"
+    },
+    {
+      "tema": "Valor posicional",
+      "descripcion": "Eje fundamental del sistema decimal",
+      "progresion": "De unidades y decenas (G1) hasta billones (G5)"
+    },
+    {
+      "tema": "Operaciones básicas",
+      "descripcion": "Adición, sustracción, multiplicación y división",
+      "progresion": "De operaciones simples hasta combinadas con jerarquía"
+    },
+    {
+      "tema": "Números racionales",
+      "descripcion": "Fracciones y decimales",
+      "progresion": "De fracciones simples (mitades) hasta operaciones complejas"
+    },
+    {
+      "tema": "Geometría",
+      "descripcion": "Figuras planas y cuerpos geométricos",
+      "progresion": "De reconocimiento básico hasta cálculo de áreas y volúmenes"
+    },
+    {
+      "tema": "Medición",
+      "descripcion": "Magnitudes de longitud, masa, capacidad, tiempo",
+      "progresion": "De unidades no convencionales hasta conversiones métricas"
+    },
+    {
+      "tema": "Estadística y datos",
+      "descripcion": "Recolección, organización y análisis de información",
+      "progresion": "De pictogramas simples hasta gráficas complejas y probabilidad"
+    },
+    {
+      "tema": "Pensamiento algebraico",
+      "descripcion": "Patrones, secuencias y relaciones",
+      "progresion": "De patrones visuales hasta expresiones numéricas y proporcionalidad"
+    }
+  ],
+  "componentes_competencias": [
+    {
+      "nombre": "Razonamiento matemático",
+      "descripcion": "Capacidad de formular, emplear e interpretar las matemáticas en diversos contextos",
+      "evolucion": "De situaciones concretas manipulativas a problemas abstractos y complejos"
+    },
+    {
+      "nombre": "Comunicación matemática",
+      "descripcion": "Expresar ideas matemáticas de forma oral, escrita y gráfica",
+      "evolucion": "De descripciones simples a argumentaciones matemáticas formales"
+    },
+    {
+      "nombre": "Modelación matemática",
+      "descripcion": "Representar situaciones reales mediante modelos matemáticos",
+      "evolucion": "De representaciones concretas a modelos simbólicos y algebraicos"
+    },
+    {
+      "nombre": "Resolución de problemas",
+      "descripcion": "Aplicar estrategias para resolver situaciones problemáticas",
+      "evolucion": "De problemas de un paso a situaciones multi-paso con varias estrategias"
+    }
+  ],
+  "enfoque_pedagogico": {
+    "metodologia": "Escuela Nueva Activa - Aprendizaje colaborativo y autónomo",
+    "estructura": "4 unidades por grado, 3 guías por unidad (12 guías totales por grado)",
+    "total_guias": 60,
+    "enfoque_steam": "Integración de Ciencias, Tecnología, Ingeniería, Artes y Matemáticas en cada guía",
+    "contexto": "Adaptado a contextos rurales y multigrado",
+    "recursos": "Materiales de bajo costo y del entorno, con alternativas digitales opcionales"
+  }
+}

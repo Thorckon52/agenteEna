@@ -1,0 +1,261 @@
+{
+  "asignatura": "Emprendimiento",
+  "grados": {
+    "Nivel 1": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "¿Qué es emprendimiento?",
+          "desempeño_general": "Comprendo lo que significa ser un emprendedor.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¡Aprendamos sobre emprendimiento!",
+              "nombre_completo": "¡Aprendamos sobre emprendimiento!",
+              "conceptos_procedimientos": [
+                "Qué es ser un emprendedor",
+                "Beneficios del emprendedor a la comunidad",
+                "Ejemplos de emprendedores",
+                "Beneficios y desafíos de un emprendedor"
+              ],
+              "recursos": [
+                "Hojas blancas tamaño carta",
+                "Colores",
+                "Lápiz",
+                "Regla"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "¡Reconozcamos las personas emprendedoras!",
+              "nombre_completo": "¡Reconozcamos las personas emprendedoras!",
+              "conceptos_procedimientos": [
+                "Habilidades y características de emprendedores exitosos",
+                "Importancia de las habilidades en el emprendedor",
+                "Reconocimiento de habilidades propias",
+                "Autoevaluación como emprendedor"
+              ],
+              "recursos": [
+                "Hojas blancas de tamaño carta",
+                "Lápiz"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "Los emprendedores debemos actuar con justicia y responsabilidad",
+              "nombre_completo": "Los emprendedores debemos actuar con justicia y responsabilidad",
+              "conceptos_procedimientos": [
+                "Importancia de tratar a los demás con justicia",
+                "Actuar con responsabilidad como líder",
+                "Valoración de ideas y opiniones",
+                "Igualdad y respeto",
+                "Protección de derechos de los demás"
+              ],
+              "recursos": [
+                "Lápiz",
+                "Hojas blancas tamaño carta",
+                "Lápices de colores",
+                "Marcadores",
+                "Cartón",
+                "Pegamento",
+                "Cartulina"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "¿Cómo somos los emprendedores?",
+          "desempeño_general": "Reconozco las características y habilidades de los emprendedores exitosos.",
+          "guias": [
+            {
+              "numero": 4,
+              "nombre": "¡Los emprendedores cooperan y trabajan en equipo!",
+              "nombre_completo": "¡Los emprendedores cooperan y trabajan en equipo!",
+              "conceptos_procedimientos": [
+                "Trabajo en equipo para cumplir metas",
+                "Desarrollo de tareas con otros",
+                "Asumir responsabilidades como miembro de equipo",
+                "Respetar acuerdos definidos con otros"
+              ],
+              "recursos": [
+                "Hojas blancas tamaño carta",
+                "Marcadores",
+                "Regla",
+                "Crayolas",
+                "Lápices de colores",
+                "Tijeras"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "¡Seamos líderes!",
+              "nombre_completo": "¡Seamos líderes!",
+              "conceptos_procedimientos": [
+                "Identificación y potencialización de características de líder",
+                "Reconocimiento de fortalezas y debilidades propias y de otros",
+                "Actitudes, valores y comportamientos a mejorar",
+                "Impacto de acciones individuales frente a la colectividad"
+              ],
+              "recursos": [
+                "Hojas blancas tamaño carta",
+                "Marcadores",
+                "Regla",
+                "Lápices de colores",
+                "Tijeras"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "¿Somos creativos?",
+              "nombre_completo": "¿Somos creativos?",
+              "conceptos_procedimientos": [
+                "Proponer ideas y trasformar objetos de forma creativa",
+                "Identificación de elementos que mejoran situaciones",
+                "Invención de nuevas formas de hacer cosas cotidianas",
+                "Análisis de cambios al hacer cosas de manera diferente"
+              ],
+              "recursos": [
+                "Hojas blancas tamaño carta",
+                "Marcadores de colores",
+                "Témperas",
+                "Tijeras",
+                "Materiales reciclables"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "¿Qué necesitamos?",
+          "desempeño_general": "Reconozco las necesidades básicas comunes a todos los seres humanos.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "¿Cuáles son nuestras necesidades básicas?",
+              "nombre_completo": "¿Cuáles son nuestras necesidades básicas?",
+              "conceptos_procedimientos": [
+                "Necesidades básicas de los seres humanos",
+                "Satisfacción de necesidades básicas en la familia",
+                "Identificación de necesidades comunes"
+              ],
+              "recursos": [
+                "Hojas blancas tamaño carta",
+                "Marcadores",
+                "Regla",
+                "Lápices de colores",
+                "Tijeras"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "¿Cómo puedo resolver mis problemas?",
+              "nombre_completo": "¿Cómo puedo resolver mis problemas?",
+              "conceptos_procedimientos": [
+                "Reconocimiento y solución de problemas de la vida diaria",
+                "Observación de problemas del entorno",
+                "Identificación de personas afectadas",
+                "Identificación de posibles soluciones",
+                "Selección de la forma de solución más adecuada"
+              ],
+              "recursos": [
+                "Hojas blancas tamaño carta",
+                "Marcadores",
+                "Regla",
+                "Lápices de colores",
+                "Tijeras"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "¿Sabemos aprovechar nuestros recursos naturales?",
+              "nombre_completo": "¿Sabemos aprovechar nuestros recursos naturales?",
+              "conceptos_procedimientos": [
+                "Preservación y mejora del ambiente",
+                "Uso adecuado de recursos naturales del entorno",
+                "Reconocimiento de problemas de uso y disposición de recursos",
+                "Mantenimiento ordenado y limpio de espacios",
+                "Conservación de recursos en buen estado"
+              ],
+              "recursos": [
+                "Hojas blancas tamaño carta",
+                "Regla",
+                "Lápices de colores",
+                "Tijeras",
+                "Recortes de revistas",
+                "Materiales del entorno"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "El porqué del dinero",
+          "desempeño_general": "Identifico el nombre de la moneda de mi país y sus denominaciones.",
+          "guias": [
+            {
+              "numero": 10,
+              "nombre": "¿Qué es el dinero?",
+              "nombre_completo": "¿Qué es el dinero?",
+              "conceptos_procedimientos": [
+                "Cómo y por qué usamos dinero",
+                "Importancia del dinero",
+                "Relación entre unidades pequeñas y grandes",
+                "Denominaciones de billetes y monedas"
+              ],
+              "recursos": [
+                "Billetes y monedas de diferentes denominaciones reales o didácticos",
+                "Regletas de Cuisenaire",
+                "Cartulina",
+                "Lápices de colores",
+                "Tijeras",
+                "Conexión a Internet"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "¿A dónde va el dinero?",
+              "nombre_completo": "¿A dónde va el dinero?",
+              "conceptos_procedimientos": [
+                "Gastos básicos de manutención de las familias",
+                "Cómo las personas gastan el dinero que ganan",
+                "Priorización de necesidades frente a deseos",
+                "Concepto de gasto responsable",
+                "Importancia de ganar dinero para comprar necesidades",
+                "Aprecio por lo que la familia hace"
+              ],
+              "recursos": [
+                "Hojas blancas tamaño carta",
+                "Marcadores",
+                "Regla",
+                "Lápices de colores",
+                "Tijeras",
+                "Disfraces"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "¡Usemos y ahorremos el dinero!",
+              "nombre_completo": "¡Usemos y ahorremos el dinero!",
+              "conceptos_procedimientos": [
+                "Valor del dinero y su uso adecuado",
+                "Denominaciones de billetes y monedas",
+                "Qué es porcentaje",
+                "Qué es ahorrar e inicio de un ahorro"
+              ],
+              "recursos": [
+                "Hojas blancas tamaño carta",
+                "Marcadores",
+                "Regla",
+                "Lápices de colores",
+                "Tijeras",
+                "Billetes y monedas didácticos",
+                "Materiales reciclables"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1007 @@
+{
+  "asignatura": "Ética",
+  "grados": {
+    "2": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Conozco, admiro y cuido mi cuerpo",
+          "desempeño_general": "Valoro mis características físicas.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "Me gustan mis rasgos físicos",
+              "nombre_completo": "Me gustan mis rasgos físicos",
+              "conceptos_procedimientos": [
+                "Autoimagen",
+                "Rasgos físicos",
+                "Importancia de respetar y valorar los rasgos físicos de todas las personas",
+                "Emociones"
+              ],
+              "recursos": [
+                "Tijeras",
+                "pegamento",
+                "colores",
+                "cartulina",
+                "lápiz",
+                "marcadores",
+                "una hoja blanca",
+                "un espejo"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "Mi cuerpo es un apoyo extraordinario",
+              "nombre_completo": "Mi cuerpo es un apoyo extraordinario",
+              "conceptos_procedimientos": [
+                "Autoimagen",
+                "Importancia del cuerpo en el desarrollo personal",
+                "Situaciones de agresión",
+                "Control de emociones como el enojo o la tristeza",
+                "Emociones asociadas"
+              ],
+              "recursos": [
+                "Hojas de papel",
+                "marcadores"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "Mis sentidos: ventanas al mundo",
+              "nombre_completo": "Mis sentidos: ventanas al mundo",
+              "conceptos_procedimientos": [
+                "Órganos y funciones de los sentidos",
+                "Cuidados de los órganos de los sentidos",
+                "Importancia de ayudar a las personas que no poseen alguno de sus sentidos",
+                "Expresión de emociones"
+              ],
+              "recursos": [
+                "Pedazo de tela para vendar los ojos",
+                "objetos que podamos oler, tocar, escuchar y saborear"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Todas las personas expresamos emociones",
+          "desempeño_general": "Aprecio el valor de las emociones.",
+          "guias": [
+            {
+              "numero": 4,
+              "nombre": "¡Qué bueno es emocionarme!",
+              "nombre_completo": "¡Qué bueno es emocionarme!",
+              "conceptos_procedimientos": [
+                "Emociones",
+                "Reacciones del cuerpo provocadas por emociones como la ira",
+                "Manejo de emociones como la ira",
+                "Las personas nos equivocamos"
+              ],
+              "recursos": [
+                "Hojas de papel",
+                "colores",
+                "marcadores",
+                "globos",
+                "materiales necesarios para realizar un mural",
+                "una cámara de cartón en caso de que no tengamos una cámara fotográfica"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "¿Cómo puedo expresar mis emociones?",
+              "nombre_completo": "¿Cómo puedo expresar mis emociones?",
+              "conceptos_procedimientos": [
+                "Expresión y control de emociones",
+                "Comportamientos pacíficos",
+                "Reconocimiento de errores"
+              ],
+              "recursos": [
+                "Colores",
+                "cartulina",
+                "cartón",
+                "palos de madera",
+                "tijeras",
+                "pegante",
+                "hojas de block",
+                "recurso Renueva E2U2G5A5"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "Las personas que amo y me aman",
+              "nombre_completo": "Las personas que amo y me aman",
+              "conceptos_procedimientos": [
+                "Amor filial",
+                "Amor romántico",
+                "Amor por la patria",
+                "Amor fraternal",
+                "Tipos de abrazos",
+                "Expresión de afecto"
+              ],
+              "recursos": [
+                "Cartulina",
+                "colores",
+                "marcadores"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "El bienestar empieza con el cuidado de mi cuerpo",
+          "desempeño_general": "Reconozco la importancia de mi cuerpo y aprendo a cuidarlo.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "Soy prudente con mi cuerpo",
+              "nombre_completo": "Soy prudente con mi cuerpo",
+              "conceptos_procedimientos": [
+                "Importancia de prevenir situaciones peligrosas",
+                "Prevención de actividades y juegos riesgosos",
+                "El cuidado del otro"
+              ],
+              "recursos": [
+                "Dados",
+                "cintas",
+                "marcadores",
+                "materiales necesarios para elaborar un aviso"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "Mi cuerpo dice muchas cosas",
+              "nombre_completo": "Mi cuerpo dice muchas cosas",
+              "conceptos_procedimientos": [
+                "Higiene corporal",
+                "Las cosas que podemos expresar con nuestro cuerpo",
+                "Buenos modales",
+                "Acciones para evitar la burla y la agresión"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "materiales necesarios para imitar a algunos animales que escojamos"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "La comunidad ayuda a cuidarme",
+              "nombre_completo": "La comunidad ayuda a cuidarme",
+              "conceptos_procedimientos": [
+                "Instituciones que protegen la integridad física y mental de los niños y niñas",
+                "Emociones",
+                "Manejo de emociones para evitar agresiones",
+                "Apoyo y consuelo a las personas agredidas",
+                "Formas en las que se pueden cuidar las relaciones con las demás personas"
+              ],
+              "recursos": [
+                "Materiales necesarios para realizar una dramatización",
+                "medio pliego de cartulina",
+                "marcadores",
+                "colores",
+                "revistas",
+                "tijeras",
+                "pegante",
+                "dados",
+                "fichas de parqués"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Somos distintos, pero tenemos los mismos derechos",
+          "desempeño_general": "Reconozco las diferencias físicas entre los seres humanos e identifico nuestras necesidades comunes.",
+          "guias": [
+            {
+              "numero": 10,
+              "nombre": "¿Cuáles rasgos nos hacen únicos?",
+              "nombre_completo": "¿Cuáles rasgos nos hacen únicos?",
+              "conceptos_procedimientos": [
+                "Características raciales",
+                "Grupos étnicos que habitan en nuestro país",
+                "Tradiciones culturales de los grupos étnicos que habitan en nuestro país",
+                "Respeto por las diferencias",
+                "Equidad",
+                "Diversidad de opiniones, deseos y necesidades"
+              ],
+              "recursos": [
+                "Plastilina",
+                "cartulina",
+                "pegamento",
+                "marcadores de colores",
+                "tijeras",
+                "revistas",
+                "periódicos",
+                "hojas blancas",
+                "cinta"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "¿Cuáles son nuestras necesidades básicas?",
+              "nombre_completo": "¿Cuáles son nuestras necesidades básicas?",
+              "conceptos_procedimientos": [
+                "Necesidades básicas",
+                "Equidad",
+                "Compartir",
+                "Comprensión y apoyo al otro"
+              ],
+              "recursos": [
+                "Tizas de colores",
+                "hojas blancas o cartulina",
+                "colores"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "Cuando me valoro y me quiero, valoro y quiero a los demás",
+              "nombre_completo": "Cuando me valoro y me quiero, valoro y quiero a los demás",
+              "conceptos_procedimientos": [
+                "Necesidades de las personas que les permiten tener una vida digna",
+                "Puntos de vista sobre situaciones de agresión presentadas en los medios de comunicación",
+                "Los errores se pueden corregir"
+              ],
+              "recursos": [
+                "Hojas blancas"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "La vida es maravillosa. ¡Cuidémosla!",
+          "desempeño_general": "Valoro mi vida y la conservo en las mejores condiciones posibles.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "La vida humana es maravillosa",
+              "nombre_completo": "La vida humana es maravillosa",
+              "conceptos_procedimientos": [
+                "Importancia de valorar la vida",
+                "Razones por las que la vida es maravillosa",
+                "Emociones",
+                "Valores humanos"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "colores",
+                "marcadores",
+                "materiales necesarios para realizar una dramatización"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "Cuidar mi salud es mi responsabilidad",
+              "nombre_completo": "Cuidar mi salud es mi responsabilidad",
+              "conceptos_procedimientos": [
+                "Hábitos saludables",
+                "Importancia de cumplir nuestros deberes",
+                "Valores morales como la solidaridad y la responsabilidad"
+              ],
+              "recursos": []
+            },
+            {
+              "numero": 3,
+              "nombre": "¿Por qué es importante una buena higiene?",
+              "nombre_completo": "¿Por qué es importante una buena higiene?",
+              "conceptos_procedimientos": [
+                "Hábitos de higiene corporal",
+                "Importancia de la higiene para el bienestar personal y comunitario",
+                "Valores morales que permiten una mejor convivencia escolar y familiar",
+                "Ayudar al otro"
+              ],
+              "recursos": [
+                "Implementos de aseo de la escuela o colegio",
+                "colores",
+                "lápices",
+                "cartulina",
+                "marcadores",
+                "fotografías de diferentes partes del cuerpo",
+                "regla",
+                "pegamento"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "El bienestar de cada uno lo construimos entre todos",
+          "desempeño_general": "Reconozco la importancia de la solidaridad para el bienestar propio y el de los demás.",
+          "guias": [
+            {
+              "numero": 4,
+              "nombre": "¡Compartir nos hace mejores!",
+              "nombre_completo": "¡Compartir nos hace mejores!",
+              "conceptos_procedimientos": [
+                "Bienestar personal e interpersonal",
+                "Importancia de valores morales como cooperación, solidaridad, comunicación, unión y ayuda",
+                "Resolución de conflictos"
+              ],
+              "recursos": [
+                "Octavos y pliegos de cartulina",
+                "marcadores",
+                "lápices de colores",
+                "tijeras",
+                "revistas",
+                "pegamento",
+                "hojas blancas",
+                "materiales necesarios para realizar una dramatización"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "¿Por qué algunos seres humanos no tienen bienestar?",
+              "nombre_completo": "¿Por qué algunos seres humanos no tienen bienestar?",
+              "conceptos_procedimientos": [
+                "Situaciones que favorecen o perjudican el bienestar de las personas",
+                "Importancia de valores morales como solidaridad, sana convivencia, respeto y comprensión",
+                "Estrategias de reparación del daño"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "colores",
+                "cucharas de plástico",
+                "marcadores de colores",
+                "retazos de tela",
+                "lana",
+                "pegamento"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "¿Qué es la solidaridad?",
+              "nombre_completo": "¿Qué es la solidaridad?",
+              "conceptos_procedimientos": [
+                "Importancia de la solidaridad",
+                "Acciones solidarias",
+                "Valores morales como generosidad, nobleza, honestidad, comprensión y felicidad"
+              ],
+              "recursos": [
+                "Regletas de Cuisenaire",
+                "hojas blancas",
+                "marcadores",
+                "colores"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "¿Cómo me divierto?",
+          "desempeño_general": "Reconozco que la diversión también es una forma de desarrollo personal y social.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "¿Qué cosas me divierten sanamente?",
+              "nombre_completo": "¿Qué cosas me divierten sanamente?",
+              "conceptos_procedimientos": [
+                "Actividades que permiten aprovechar el tiempo libre",
+                "Pasatiempos",
+                "Escucha activa",
+                "Sitios y horarios de diversión"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "colores",
+                "marcadores",
+                "pliego de cartulina o papel periódico",
+                "materiales necesarios para realizar algunos juegos o pasatiempos"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "Saber ganar y saber perder",
+              "nombre_completo": "Saber ganar y saber perder",
+              "conceptos_procedimientos": [
+                "Ejemplos de triunfos y de derrotas",
+                "Autocontrol de reacciones generadas por el triunfo y la derrota",
+                "Expresión de emociones",
+                "Manejo de emociones como la ira"
+              ],
+              "recursos": [
+                "Colores"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "Divirtiéndome sanamente, aprendo a respetar las normas",
+              "nombre_completo": "Divirtiéndome sanamente, aprendo a respetar las normas",
+              "conceptos_procedimientos": [
+                "Definición de normas",
+                "La importancia de respetar las normas para divertirse sanamente",
+                "Autorregulación y heterorregulación",
+                "Reglas de los juegos: lealtad, honor, justicia, respeto y responsabilidad",
+                "Acuerdos y negociación",
+                "Formas creativas para fortalecer nuestras relaciones en situaciones de conflicto"
+              ],
+              "recursos": [
+                "Pito o silbato",
+                "una pelota o balón de baloncesto, fútbol o voleibol",
+                "hojas blancas o cartulina",
+                "colores",
+                "marcadores"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "El maravilloso mundo de los niños y las niñas",
+          "desempeño_general": "Caracterizo y valoro el mundo que vivimos los niños y las niñas.",
+          "guias": [
+            {
+              "numero": 10,
+              "nombre": "El mundo de las niñas y los niños",
+              "nombre_completo": "El mundo de las niñas y los niños",
+              "conceptos_procedimientos": [
+                "Gustos o preferencias de los niños y las niñas",
+                "Sueños y metas de los niños y las niñas",
+                "Valores morales necesarios para realizar actividades escolares y familiares",
+                "Integración familiar, escolar y social",
+                "Contribuciones de los niños y las niñas a la comunidad",
+                "Recreación y educación",
+                "Acuerdos y negociación"
+              ],
+              "recursos": [
+                "Hojas blancas tamaño carta",
+                "cartulina",
+                "marcadores de colores",
+                "regla",
+                "revistas",
+                "tijeras",
+                "pegamento"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "¿Cómo puede ser mi futuro?",
+              "nombre_completo": "¿Cómo puede ser mi futuro?",
+              "conceptos_procedimientos": [
+                "Maneras para realizar el proyecto de vida",
+                "Actitudes positivas y negativas",
+                "Diálogo",
+                "Escucha activa",
+                "Colaboración"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "libros o Internet",
+                "colores",
+                "marcadores"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "¿Cómo han influido en mí los medios de comunicación?",
+              "nombre_completo": "¿Cómo han influido en mí los medios de comunicación?",
+              "conceptos_procedimientos": [
+                "Estereotipos",
+                "Publicidad",
+                "Medios masivos de comunicación",
+                "Agresión"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "hojas blancas",
+                "un dado",
+                "marcadores"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Soy parte fundamental de mi familia",
+          "desempeño_general": "Reconozco que mi formación como persona comienza en mi familia.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¡Así soy yo!",
+              "nombre_completo": "¡Así soy yo!",
+              "conceptos_procedimientos": [
+                "Rasgos físicos, interpersonales, emocionales y personales",
+                "Reconocer y valorar los distintos rasgos de las personas",
+                "Acoso escolar",
+                "Emociones asociadas y roles de las personas en una situación de acoso escolar"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "colores",
+                "marcadores"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "¿Qué sería de mí sin una familia?",
+              "nombre_completo": "¿Qué sería de mí sin una familia?",
+              "conceptos_procedimientos": [
+                "Tipos de familia",
+                "Clases de amor entre las familias",
+                "Valores de la familia",
+                "Convivencia familiar"
+              ],
+              "recursos": [
+                "Pliegos de cartulina",
+                "una bolsa",
+                "tijeras",
+                "lápices de colores",
+                "marcadores delgados",
+                "regla",
+                "revistas o periódicos"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "Mi familia es única",
+              "nombre_completo": "Mi familia es única",
+              "conceptos_procedimientos": [
+                "Tipos de familia",
+                "Importancia de la familia",
+                "Valores que permiten la convivencia pacífica de las familias",
+                "Diálogo",
+                "Normas o acuerdos familiares",
+                "Resolución de conflictos familiares"
+              ],
+              "recursos": [
+                "Plastilina",
+                "tijeras",
+                "marcadores",
+                "hojas blancas",
+                "octavos de cartulina"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "¿Cuáles son mis actuaciones frente a mis responsabilidades escolares?",
+          "desempeño_general": "Analizo y valoro mis actuaciones como miembro de la comunidad escolar.",
+          "guias": [
+            {
+              "numero": 4,
+              "nombre": "¿Cómo es mi comportamiento en la escuela o el colegio?",
+              "nombre_completo": "¿Cómo es mi comportamiento en la escuela o el colegio?",
+              "conceptos_procedimientos": [
+                "Derechos y deberes escolares",
+                "Acoso escolar",
+                "Manual de Convivencia",
+                "Estrategia: Círculo de convivencia",
+                "El perdón en las relaciones interpersonales"
+              ],
+              "recursos": [
+                "Pliego de cartulina o papel periódico",
+                "marcadores",
+                "colores",
+                "cinta",
+                "hojas de papel"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "¡Cumplamos con nuestras responsabilidades en la escuela o el colegio!",
+              "nombre_completo": "¡Cumplamos con nuestras responsabilidades en la escuela o el colegio!",
+              "conceptos_procedimientos": [
+                "Responsabilidades personales, académicas y sociales",
+                "Compromisos personales para la convivencia"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "tablón de madera",
+                "arcilla",
+                "agua",
+                "dos dados",
+                "materiales necesarios para elaborar una ruleta"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "Doy lo mejor de mí en la escuela o el colegio",
+              "nombre_completo": "Doy lo mejor de mí en la escuela o el colegio",
+              "conceptos_procedimientos": [
+                "Perfil de virtudes de un líder escolar",
+                "Apoyo y ayuda a los demás",
+                "Pasos del perdón y la reconciliación"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "marcadores",
+                "colores",
+                "revistas o periódicos viejos",
+                "pegante",
+                "tijeras"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "¡Soy protagonista en mi comunidad!",
+          "desempeño_general": "Reconozco que soy una persona importante en mi comunidad.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "¿Quién soy en mi comunidad?",
+              "nombre_completo": "¿Quién soy en mi comunidad?",
+              "conceptos_procedimientos": [
+                "Características de una comunidad",
+                "Convivencia en comunidad",
+                "Integrantes de la comunidad",
+                "Organizaciones o grupos comunitarios",
+                "Liderazgo",
+                "Resolución de conflictos mediante la intervención de un tercero"
+              ],
+              "recursos": [
+                "Un croquis de nuestro barrio o vereda",
+                "hojas blancas",
+                "papeles de colores",
+                "tijeras",
+                "cinta adhesiva",
+                "cartón",
+                "otros materiales necesarios para realizar una dramatización"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "¿Qué le aporto a la humanización de mi comunidad?",
+              "nombre_completo": "¿Qué le aporto a la humanización de mi comunidad?",
+              "conceptos_procedimientos": [
+                "Actitudes y capacidades que contribuyen a humanizar a la comunidad",
+                "Responsabilidades personales y sociales",
+                "Aportes para solucionar diferentes situaciones de conflicto"
+              ],
+              "recursos": [
+                "Cartulinas",
+                "marcadores de colores",
+                "regla",
+                "tijeras",
+                "hojas blancas"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "Siento orgullo por mis contribuciones a la comunidad",
+              "nombre_completo": "Siento orgullo por mis contribuciones a la comunidad",
+              "conceptos_procedimientos": [
+                "Valores sociales y personales",
+                "Proyección comunitaria",
+                "Estructura comunitaria en nuestro contexto",
+                "Actitud de servicio y contribución a la comunidad"
+              ],
+              "recursos": [
+                "Cartulina",
+                "marcadores de colores",
+                "tijeras",
+                "cinta adhesiva",
+                "colores",
+                "hojas blancas",
+                "un dado",
+                "un objeto pequeño para jugar"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Ser digno es mi grandeza",
+          "desempeño_general": "Comprendo que la grandeza de un ser humano empieza por su dignidad.",
+          "guias": [
+            {
+              "numero": 10,
+              "nombre": "¿Por qué somos únicos los seres humanos?",
+              "nombre_completo": "¿Por qué somos únicos los seres humanos?",
+              "conceptos_procedimientos": [
+                "Valores que caracterizan únicamente a los seres humanos: consciencia moral, libertad y responsabilidad",
+                "Valores que nos hacen más humanos",
+                "Respeto por los derechos de las demás personas"
+              ],
+              "recursos": [
+                "Cartulina",
+                "marcadores",
+                "colores",
+                "hojas blancas",
+                "regla"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "Soy una persona digna",
+              "nombre_completo": "Soy una persona digna",
+              "conceptos_procedimientos": [
+                "Dignidad",
+                "Honor",
+                "Honestidad",
+                "Respeto por los derechos de las personas más vulnerables"
+              ],
+              "recursos": [
+                "Hojas de papel",
+                "tarjetas de cartulina o cartón paja",
+                "biblioteca, periódicos o Internet"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "Lo mío es ser verdaderamente humano",
+              "nombre_completo": "Lo mío es ser verdaderamente humano",
+              "conceptos_procedimientos": [
+                "Acciones humanizadoras",
+                "Importancia de la dignidad, libertad y autonomía para el desarrollo humano",
+                "Tiempo libre",
+                "Cuidar y proteger a las demás personas"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "marcadores",
+                "colores"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Mi familia tiene un valor inigualable",
+          "desempeño_general": "Identifico y valoro lo que mi familia hace por mí.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¿Cómo me ve mi familia?",
+              "nombre_completo": "¿Cómo me ve mi familia?",
+              "conceptos_procedimientos": [
+                "Importancia de los hijos e hijas para la familia",
+                "Tipos de familias",
+                "Importancia de valorar a la familia",
+                "Conflictos y emociones asociadas"
+              ],
+              "recursos": [
+                "Colores"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "Mi familia trabaja para mi bienestar",
+              "nombre_completo": "Mi familia trabaja para mi bienestar",
+              "conceptos_procedimientos": [
+                "Valores que enseña la familia",
+                "Acciones que la familia realiza para el bienestar de los niños y las niñas",
+                "Diferentes puntos de vista"
+              ],
+              "recursos": [
+                "Revistas",
+                "hojas de papel",
+                "pegamento",
+                "fotos o imágenes familiares",
+                "colores",
+                "tijeras"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "¡Aprendamos a valorar las diferencias!",
+              "nombre_completo": "¡Aprendamos a valorar las diferencias!",
+              "conceptos_procedimientos": [
+                "Importancia de respetar y valorar la personalidad",
+                "Tipos de personalidad",
+                "Temperamento y carácter",
+                "Emociones asociadas a los conflictos: envidia, ira y celos",
+                "Manejo de la ira"
+              ],
+              "recursos": [
+                "Una fotografía familiar",
+                "hojas blancas",
+                "cartulina",
+                "cartón",
+                "hilo",
+                "marcadores",
+                "colores",
+                "pegante",
+                "tijeras",
+                "otros materiales para elaborar máscaras"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "La escuela o el colegio me ayuda a crecer",
+          "desempeño_general": "Aprecio los beneficios que me ofrece la escuela o el colegio.",
+          "guias": [
+            {
+              "numero": 4,
+              "nombre": "Valoremos nuestras aptitudes y actitudes",
+              "nombre_completo": "Valoremos nuestras aptitudes y actitudes",
+              "conceptos_procedimientos": [
+                "Respeto por las diferencias",
+                "Reconocimiento de actitudes y aptitudes",
+                "Análisis de un conflicto",
+                "Formas de solucionar un conflicto",
+                "Beneficios del perdón a nivel individual y grupal"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "colores",
+                "marcadores",
+                "regla"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "¿Resaltan mis valores en mi escuela o colegio?",
+              "nombre_completo": "¿Resaltan mis valores en mi escuela o colegio?",
+              "conceptos_procedimientos": [
+                "Importancia de cumplir los deberes",
+                "Estímulos y reconocimientos de la escuela o colegio",
+                "Consecuencias de las acciones en una situación de conflicto"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "cartulina",
+                "tijeras",
+                "marcadores",
+                "reglas",
+                "Manual de Convivencia"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "¿Cuáles son los valores morales que nos brinda la escuela o colegio?",
+              "nombre_completo": "¿Cuáles son los valores morales que nos brinda la escuela o colegio?",
+              "conceptos_procedimientos": [
+                "Importancia de los valores morales que se aprenden en la escuela o colegio",
+                "El conflicto como una oportunidad para mejorar las relaciones entre las personas",
+                "Desescalar conflictos",
+                "Consecuencias de los comportamientos personales"
+              ],
+              "recursos": [
+                "Materiales necesarios para realizar una representación sobre una situación de conflicto",
+                "himno de la escuela o colegio",
+                "hojas de papel o cartulina de diferentes colores",
+                "marcadores",
+                "colores",
+                "cinta",
+                "pegante",
+                "tijeras"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Mi comunidad es una escuela de vida",
+          "desempeño_general": "Reconozco la importancia de vivir en comunidad.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "Aprendo de mi comunidad",
+              "nombre_completo": "Aprendo de mi comunidad",
+              "conceptos_procedimientos": [
+                "Valores que se aprenden en la comunidad",
+                "Estructura comunitaria en nuestro contexto",
+                "Pasos de la negociación",
+                "Reconciliación",
+                "Justicia restaurativa y justicia punitiva"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "cartulinas",
+                "colores",
+                "marcadores"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "¿Qué hace la comunidad por mí?",
+              "nombre_completo": "¿Qué hace la comunidad por mí?",
+              "conceptos_procedimientos": [
+                "Importancia de la comunidad para el crecimiento personal y social",
+                "Estructura comunitaria en nuestro contexto",
+                "Comunicación y empatía",
+                "Establecimiento de acuerdos",
+                "Trabajo en equipo",
+                "Metas comunes"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "colores",
+                "marcadores",
+                "trajes y materiales necesarios para realizar una dramatización"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "Mi comunidad es diferente y moralmente valiosa",
+              "nombre_completo": "Mi comunidad es diferente y moralmente valiosa",
+              "conceptos_procedimientos": [
+                "Idiosincrasia de la comunidad",
+                "Valores sociales",
+                "Valores personales",
+                "Proyección comunitaria",
+                "Estructura comunitaria en nuestro contexto",
+                "Oportunidades para realizar cambios positivos"
+              ],
+              "recursos": [
+                "Cartulinas",
+                "tijeras",
+                "colores",
+                "marcadores",
+                "cinta adhesiva",
+                "revistas"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "¡Me esfuerzo para ser un mejor ser humano!",
+          "desempeño_general": "Vivo integralmente mi condición humana.",
+          "guias": [
+            {
+              "numero": 10,
+              "nombre": "Educándome soy un mejor ser humano",
+              "nombre_completo": "Educándome soy un mejor ser humano",
+              "conceptos_procedimientos": [
+                "La importancia de la humanidad de las personas",
+                "Acciones que contribuyen a la humanización de las personas",
+                "Interacciones sociales",
+                "Valores morales",
+                "Apoyo a los demás",
+                "Mediación"
+              ],
+              "recursos": [
+                "Dos palos de escoba",
+                "dos palitos pequeños de madera",
+                "colores",
+                "cinta adhesiva",
+                "una caja de cartón",
+                "hojas blancas"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "Tengo valor, pero no tengo precio",
+              "nombre_completo": "Tengo valor, pero no tengo precio",
+              "conceptos_procedimientos": [
+                "Autoestima",
+                "Honor",
+                "Valores morales",
+                "Valor propio y el de los demás"
+              ],
+              "recursos": [
+                "Hojas de papel",
+                "colores",
+                "materiales necesarios para elaborar un plegable"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "¡Pongo mis habilidades al servicio de las personas!",
+              "nombre_completo": "¡Pongo mis habilidades al servicio de las personas!",
+              "conceptos_procedimientos": [
+                "Actitudes de ayuda o servicio: solidaridad, fraternidad, cooperación, responsabilidad y mediación",
+                "Pasos para la mediación",
+                "Creencias que promueven la agresión y la violencia"
+              ],
+              "recursos": [
+                "Cartulina",
+                "colores",
+                "marcadores",
+                "hojas blancas",
+                "materiales necesarios para realizar una representación"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

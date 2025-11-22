@@ -1,0 +1,2062 @@
+{
+  "asignatura": "Ciencias Naturales",
+  "grados": [
+    {
+      "grado": "2",
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Los seres vivos habitan en diferentes medios según sus características",
+          "desempeño_general": "Clasifico los seres vivos de la naturaleza teniendo en cuenta sus características físicas y el medio donde viven.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¡Conozcamos algunos seres vivos y objetos inertes de la naturaleza!",
+              "nombre_completo": "¡Conozcamos algunos seres vivos y objetos inertes de la naturaleza!",
+              "conceptos_procedimientos": [
+                "Seres vivos, objetos inertes, plantas y animales",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Hojas blancas de papel",
+                "lápices de colores",
+                "revistas",
+                "tijeras",
+                "pegamento",
+                "pliego de cartulina o papel periódico",
+                "octavo de cartulina",
+                "marcadores"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "¡Conozcamos las partes de una planta!",
+              "nombre_completo": "¡Conozcamos las partes de una planta!",
+              "conceptos_procedimientos": [
+                "Partes de una planta: flor, fruto, raíz, tallo, hojas",
+                "Plantas con frutos, plantas sin frutos",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores",
+                "octavos de cartulina",
+                "marcadores"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "¿Dónde viven las plantas?",
+              "nombre_completo": "¿Dónde viven las plantas?",
+              "conceptos_procedimientos": [
+                "Plantas acuáticas, terrestres, enredaderas, hierbas, árboles",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "regla",
+                "semillas"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "¡Identifiquemos las partes de un animal!",
+              "nombre_completo": "¡Identifiquemos las partes de un animal!",
+              "conceptos_procedimientos": [
+                "Cabeza, tronco y extremidades",
+                "Explorar hechos y fenómenos",
+                "Observar, recoger y organizar información",
+                "Evaluar métodos"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "octavos de cartulina",
+                "marcadores",
+                "regla"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "¿En qué lugar viven los animales?",
+              "nombre_completo": "¿En qué lugar viven los animales?",
+              "conceptos_procedimientos": [
+                "Animales terrestres",
+                "Animales acuáticos",
+                "Animales aeroterrestres",
+                "Anfibios",
+                "Observar, recoger y organizar información",
+                "Utilizar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "¡Valoremos nuestros recursos naturales!",
+              "nombre_completo": "¡Valoremos nuestros recursos naturales!",
+              "conceptos_procedimientos": [
+                "Recursos naturales",
+                "Reciclaje",
+                "Contaminación",
+                "Analizar problemas"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "regla",
+                "diccionario de español",
+                "lápices de colores"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Los seres vivos se desarrollan y sufren cambios",
+          "desempeño_general": "Describo cómo se desarrollan los seres vivos e identifico factores que contribuyen a su desarrollo.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "¡Descubramos cómo se desarrolla una planta!",
+              "nombre_completo": "¡Descubramos cómo se desarrolla una planta!",
+              "conceptos_procedimientos": [
+                "Germinación",
+                "Ciclo de vida de las plantas",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "lápices de colores",
+                "frascos transparentes de boca ancha",
+                "algodón o tierra abonada",
+                "agua",
+                "semillas de frijol, maíz o arveja",
+                "marcadores",
+                "caja de cartón",
+                "regla"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "Los animales cambian durante su ciclo de vida",
+              "nombre_completo": "Los animales cambian durante su ciclo de vida",
+              "conceptos_procedimientos": [
+                "Ciclo de vida de los animales",
+                "Nacimiento, desarrollo y muerte",
+                "Metamorfosis",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Regla",
+                "recipiente de vidrio de boca ancha",
+                "piedras pequeñas limpias",
+                "peces",
+                "agua",
+                "alimento para peces",
+                "algas"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "¡Conozcamos las partes de nuestro cuerpo!",
+              "nombre_completo": "¡Conozcamos las partes de nuestro cuerpo!",
+              "conceptos_procedimientos": [
+                "Partes y órganos del cuerpo humano",
+                "Utilizar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Pliegos de papel periódico",
+                "cinta adhesiva",
+                "marcadores",
+                "hojas blancas"
+              ]
+            },
+            {
+              "numero": 10,
+              "nombre": "Nuestro cuerpo cambia durante su ciclo de vida",
+              "nombre_completo": "Nuestro cuerpo cambia durante su ciclo de vida",
+              "conceptos_procedimientos": [
+                "Ciclo de vida humano",
+                "Niñez, juventud, adultez y vejez",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Lápices de colores"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "¡El buen trato mejora nuestra convivencia!",
+              "nombre_completo": "¡El buen trato mejora nuestra convivencia!",
+              "conceptos_procedimientos": [
+                "Partes del cuerpo humano",
+                "Partes del aparato reproductor humano",
+                "Analizar problemas",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Octavos de cartulina",
+                "regla",
+                "marcadores",
+                "hojas de papel",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "¡Valoro y cuido mi cuerpo!",
+              "nombre_completo": "¡Valoro y cuido mi cuerpo!",
+              "conceptos_procedimientos": [
+                "Enfermedades y prevención de enfermedades",
+                "microorganismos",
+                "higiene",
+                "salud",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas"
+              ],
+              "recursos": [
+                "Dados",
+                "fichas",
+                "regla",
+                "lápices de colores"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Estudiemos la energía, la fuerza y el movimiento",
+          "desempeño_general": "Relaciono los tipos de fuerza con el movimiento de los seres vivos y los objetos.",
+          "guias": [
+            {
+              "numero": 13,
+              "nombre": "Conozcamos los efectos de la aplicación de una fuerza",
+              "nombre_completo": "Conozcamos los efectos de la aplicación de una fuerza",
+              "conceptos_procedimientos": [
+                "Movimiento",
+                "Fuerza",
+                "Tipos de esfuerzo",
+                "Cambio de posición en los objetos",
+                "Explorar hechos y fenómenos",
+                "Utilizar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Palos de pincho",
+                "barras de plastilina",
+                "hojas de papel",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 14,
+              "nombre": "¿Qué debemos hacer para mover los objetos?",
+              "nombre_completo": "¿Qué debemos hacer para mover los objetos?",
+              "conceptos_procedimientos": [
+                "Desplazamiento",
+                "Tipos de movimiento",
+                "Movimiento y fuerza",
+                "Desplazamiento en el agua, en la tierra y en el aire",
+                "Utilizar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Bolas de cristal",
+                "bandas de caucho",
+                "tabla o trozo de madera",
+                "puntillas",
+                "martillo",
+                "pelota",
+                "veleta de papel",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 15,
+              "nombre": "¡Evitemos accidentes!",
+              "nombre_completo": "¡Evitemos accidentes!",
+              "conceptos_procedimientos": [
+                "Órganos de locomoción",
+                "Lesiones, fracturas, prevención de accidentes",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas"
+              ],
+              "recursos": [
+                "Elementos para vendar los ojos",
+                "octavos de cartulina",
+                "cinta adhesiva",
+                "marcadores",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 16,
+              "nombre": "¿Cómo se mueven y se transportan los seres humanos?",
+              "nombre_completo": "¿Cómo se mueven y se transportan los seres humanos?",
+              "conceptos_procedimientos": [
+                "Movimiento",
+                "Aparato osteomuscular locomotor: huesos, músculos, tendones, articulaciones",
+                "Medios de transporte",
+                "Explorar hechos y fenómenos",
+                "Utilizar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Lápices de colores"
+              ]
+            },
+            {
+              "numero": 17,
+              "nombre": "¡Aprendamos sobre otras fuentes de energía!",
+              "nombre_completo": "¡Aprendamos sobre otras fuentes de energía!",
+              "conceptos_procedimientos": [
+                "Fuentes de luz",
+                "Fuentes de calor",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Utilizar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Vela",
+                "fósforos",
+                "lápices de colores",
+                "regla",
+                "octavos de cartulina"
+              ]
+            },
+            {
+              "numero": 18,
+              "nombre": "¿Cómo sería nuestra vida sin el Sol?",
+              "nombre_completo": "¿Cómo sería nuestra vida sin el Sol?",
+              "conceptos_procedimientos": [
+                "El Sol",
+                "Fuentes de energía",
+                "Electrodomésticos",
+                "Importancia del Sol para los seres vivos",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Lupa",
+                "hojas de papel",
+                "regla"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Estudiemos la materia y sus propiedades",
+          "desempeño_general": "Describo la materia y sus propiedades. Describo y explico fenómenos relacionados con el cambio de estado de las sustancias.",
+          "guias": [
+            {
+              "numero": 19,
+              "nombre": "El universo está hecho de materia",
+              "nombre_completo": "El universo está hecho de materia",
+              "conceptos_procedimientos": [
+                "Materia",
+                "Propiedades de la materia",
+                "Peso y masa",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Utilizar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Barras de plastilina o arcilla",
+                "regla",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 20,
+              "nombre": "¿Cómo podemos medir la masa y el volumen?",
+              "nombre_completo": "¿Cómo podemos medir la masa y el volumen?",
+              "conceptos_procedimientos": [
+                "Volumen",
+                "Masa y peso",
+                "Medidas de volumen",
+                "Medidas de peso",
+                "Utilizar diferentes métodos de análisis",
+                "Evaluar los métodos"
+              ],
+              "recursos": [
+                "Balanza",
+                "tabla gruesa rectangular o cuadrada",
+                "palito de madera de 30 x 3 cm",
+                "palito delgado de 20 x 1 cm",
+                "2 tapas iguales",
+                "puntillas",
+                "argollas",
+                "piola",
+                "lana",
+                "borrador",
+                "arena",
+                "bolas de cristal",
+                "diccionario de español",
+                "lápices de colores",
+                "piedras grandes y pequeñas"
+              ]
+            },
+            {
+              "numero": 21,
+              "nombre": "¡Sólido, líquido, gaseoso!",
+              "nombre_completo": "¡Sólido, líquido, gaseoso!",
+              "conceptos_procedimientos": [
+                "Estados de la materia: sólido, líquido y gaseoso",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas"
+              ],
+              "recursos": [
+                "Vaso con agua",
+                "fósforos",
+                "hojas de papel",
+                "frasco de vidrio",
+                "plato",
+                "piedra",
+                "pelota"
+              ]
+            },
+            {
+              "numero": 22,
+              "nombre": "¿La materia cambia de estado?",
+              "nombre_completo": "¿La materia cambia de estado?",
+              "conceptos_procedimientos": [
+                "Cambios físicos de la materia",
+                "Explorar hechos y fenómenos",
+                "Utilizar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Velas",
+                "fósforos",
+                "mechero",
+                "chocolatina",
+                "cuchara"
+              ]
+            },
+            {
+              "numero": 23,
+              "nombre": "¡Conozcamos el ciclo del agua de nuestro planeta!",
+              "nombre_completo": "¡Conozcamos el ciclo del agua de nuestro planeta!",
+              "conceptos_procedimientos": [
+                "Ciclo del agua",
+                "Fases del ciclo del agua",
+                "Estado sólido",
+                "Estado líquido",
+                "Estado gaseoso",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas"
+              ],
+              "recursos": [
+                "Hielo",
+                "mechero",
+                "olla",
+                "agua",
+                "cartulinas",
+                "marcadores",
+                "bolsa transparente de plástico",
+                "colorante azul o tinta",
+                "cinta adhesiva"
+              ]
+            },
+            {
+              "numero": 24,
+              "nombre": "¿Por qué el agua es tan importante para nuestra vida?",
+              "nombre_completo": "¿Por qué el agua es tan importante para nuestra vida?",
+              "conceptos_procedimientos": [
+                "Contaminación del agua",
+                "Recursos naturales",
+                "Explorar hechos y fenómenos",
+                "Utilizar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "revistas o periódicos",
+                "pegamento"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grado": "3",
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "¡Estudiemos los seres de la naturaleza y el lugar donde viven!",
+          "desempeño_general": "Clasifico los seres vivos de la naturaleza teniendo en cuenta sus características físicas y el medio donde viven.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¡Clasifiquemos los seres vivos en reinos!",
+              "nombre_completo": "¡Clasifiquemos los seres vivos en reinos!",
+              "conceptos_procedimientos": [
+                "Reinos mónera, protista, animal, vegetal y fungi",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante"
+              ],
+              "recursos": [
+                "Octavos de cartulina",
+                "tijeras",
+                "regla",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "¡Estudiemos los factores bióticos y abióticos de los ecosistemas!",
+              "nombre_completo": "¡Estudiemos los factores bióticos y abióticos de los ecosistemas!",
+              "conceptos_procedimientos": [
+                "Ecosistemas terrestres, acuáticos y aeroterrestres",
+                "Factores bióticos y abióticos",
+                "Observar, recoger y organizar información relevante"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "Las plantas fabrican su propio alimento",
+              "nombre_completo": "Las plantas fabrican su propio alimento",
+              "conceptos_procedimientos": [
+                "Seres autótrofos",
+                "Partes de una planta y sus funciones",
+                "Nutrición de las plantas",
+                "Fotosíntesis",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger, organizar información relevante y compartir los resultados"
+              ],
+              "recursos": [
+                "Una cubeta pequeña para huevos",
+                "tierra negra",
+                "una bolsita negra",
+                "dos plantas pequeñas"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "¡Conozcamos cómo se alimentan los animales!",
+              "nombre_completo": "¡Conozcamos cómo se alimentan los animales!",
+              "conceptos_procedimientos": [
+                "Nutrición en los animales",
+                "Seres heterótrofos, herbívoros, carnívoros, carroñeros",
+                "Parásitos",
+                "Observar, recoger y organizar información relevante"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "tijeras",
+                "lápices de colores",
+                "regla",
+                "octavos de cartulina",
+                "marcadores"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "¿Qué relaciones se presentan entre los seres vivos de un ecosistema?",
+              "nombre_completo": "¿Qué relaciones se presentan entre los seres vivos de un ecosistema?",
+              "conceptos_procedimientos": [
+                "Relaciones interespecíficas e intraespecíficas",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger, organizar información relevante y compartir los resultados",
+                "Factores bióticos"
+              ],
+              "recursos": [
+                "Caja de madera rectangular de 10 cm de alto",
+                "tierra negra",
+                "arena",
+                "piedras pequeñas o gravilla",
+                "hojarasca",
+                "animales pequeños: caracoles, lombrices u hormigas",
+                "plantas pequeñas"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "La diarrea y la deshidratación se pueden prevenir",
+              "nombre_completo": "La diarrea y la deshidratación se pueden prevenir",
+              "conceptos_procedimientos": [
+                "Deshidratación, suero oral y diarrea",
+                "Microorganismos y parásitos",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "regla"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Los seres vivos se adaptan al medio según sus funciones vitales",
+          "desempeño_general": "Practico hábitos de vida saludable como la buena nutrición y el control de talla y peso para prevenir enfermedades. Describo las formas de reproducción de algunos seres vivos y sus ciclos de vida.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "La reproducción es un proceso natural",
+              "nombre_completo": "La reproducción es un proceso natural",
+              "conceptos_procedimientos": [
+                "Reproducción sexual y asexual",
+                "Animales ovíparos, vivíparos y ovovivíparos",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Octavos de cartulina",
+                "marcadores",
+                "regla",
+                "tijeras",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "¿Por qué los hijos se parecen a sus padres?",
+              "nombre_completo": "¿Por qué los hijos se parecen a sus padres?",
+              "conceptos_procedimientos": [
+                "Características físicas (color de ojos, cabello, piel, estatura)",
+                "Metamorfosis",
+                "Explorar hechos y fenómenos",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Frasco de vidrio con boca ancha",
+                "algodón",
+                "gasa",
+                "un banano"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "¿Cómo se adaptan los seres humanos al medio ambiente?",
+              "nombre_completo": "¿Cómo se adaptan los seres humanos al medio ambiente?",
+              "conceptos_procedimientos": [
+                "Clima, vestido y alimentación",
+                "Factores bióticos y abióticos",
+                "Adaptación",
+                "Analizar problemas",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Hojas de papel blanco",
+                "tijeras",
+                "lápices de colores",
+                "regla"
+              ]
+            },
+            {
+              "numero": 10,
+              "nombre": "Los seres humanos interactúan con el medio ambiente",
+              "nombre_completo": "Los seres humanos interactúan con el medio ambiente",
+              "conceptos_procedimientos": [
+                "Relaciones interespecíficas e intraespecíficas",
+                "Parasitismo, mutualismo, depredación, comensalismo, competencia y asociación",
+                "Analizar problemas",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Lápices de colores"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "La alimentación es indispensable para nuestra vida",
+              "nombre_completo": "La alimentación es indispensable para nuestra vida",
+              "conceptos_procedimientos": [
+                "Alimentación: alimentos constructores, alimentos energéticos, alimentos reguladores",
+                "Proteínas, grasas y carbohidratos",
+                "Analizar problemas",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Hojas de papel",
+                "regla",
+                "lápiz"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "Una buena alimentación nos permite crecer sanos y fuertes",
+              "nombre_completo": "Una buena alimentación nos permite crecer sanos y fuertes",
+              "conceptos_procedimientos": [
+                "Masa corporal, masa, peso, longitud, talla, sobrepeso, alimentación, desnutrición",
+                "Explorar hechos y fenómenos",
+                "Observar, recoger, organizar información relevante y compartir los resultados",
+                "Utilizar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Cinta métrica",
+                "báscula",
+                "regla",
+                "lápices de colores"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Estudiemos las transformaciones de la materia y la energía",
+          "desempeño_general": "Identifico, verifico y experimento con los estados de la materia, tomando el agua como ejemplo. Identifico y comparo entre sí fuentes de luz, calor, sonido y electricidad. Realizo experimentos sencillos para comprobar la propagación de la luz y el sonido.",
+          "guias": [
+            {
+              "numero": 13,
+              "nombre": "¡Midamos algunas propiedades de la materia!",
+              "nombre_completo": "¡Midamos algunas propiedades de la materia!",
+              "conceptos_procedimientos": [
+                "Masa, volumen temperatura",
+                "Propiedades de la materia",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante",
+                "Evaluar los métodos y compartir los resultados"
+              ],
+              "recursos": [
+                "Balanza",
+                "jeringas",
+                "agua",
+                "frascos vacíos",
+                "termómetro",
+                "mecheros",
+                "recipientes de metal para calentar líquidos",
+                "regla"
+              ]
+            },
+            {
+              "numero": 14,
+              "nombre": "Conozcamos los cambios de estado de la materia en el ciclo del agua",
+              "nombre_completo": "Conozcamos los cambios de estado de la materia en el ciclo del agua",
+              "conceptos_procedimientos": [
+                "Ciclo del agua, etapas del ciclo del agua, cambios de estado del agua",
+                "Estados de la materia",
+                "Calor, temperatura",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger, organizar información relevante y compartir los resultados"
+              ],
+              "recursos": [
+                "Termómetro",
+                "olla con tapa",
+                "estufa o mechero",
+                "hielo"
+              ]
+            },
+            {
+              "numero": 15,
+              "nombre": "Observemos cambios producidos por el calor",
+              "nombre_completo": "Observemos cambios producidos por el calor",
+              "conceptos_procedimientos": [
+                "Cambios físicos, cambios químicos, cambios de estado, calor, propiedades de la materia",
+                "Explorar hechos y fenómenos",
+                "Observar, recoger y organizar información relevante"
+              ],
+              "recursos": [
+                "Velas",
+                "hojas de papel",
+                "plato",
+                "fósforos",
+                "goteros",
+                "mecheros",
+                "parrila",
+                "lata de cocina",
+                "hielo",
+                "chocolatinas"
+              ]
+            },
+            {
+              "numero": 16,
+              "nombre": "¡La energía se transforma!",
+              "nombre_completo": "¡La energía se transforma!",
+              "conceptos_procedimientos": [
+                "Energía, formas de energía, manifestaciones de energía",
+                "Artefactos tecnológicos, hidroeléctricas",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante"
+              ],
+              "recursos": [
+                "Octavos de cartulina",
+                "tijeras",
+                "regla",
+                "lápiz",
+                "marcadores",
+                "bombillo de linterna",
+                "una pila",
+                "dos cables eléctricos pequeños"
+              ]
+            },
+            {
+              "numero": 17,
+              "nombre": "¿Sabíamos que la luz y el sonido son manifestaciones de la energía?",
+              "nombre_completo": "¿Sabíamos que la luz y el sonido son manifestaciones de la energía?",
+              "conceptos_procedimientos": [
+                "Energía, formas de energía, luz y sonido",
+                "Artefactos tecnológicos",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante",
+                "Utilizar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Dos vasos plásticos o tarros de lata",
+                "cuerda o pita",
+                "lápiz",
+                "puntilla pequeña",
+                "plastilina",
+                "velas",
+                "fósforos",
+                "cartón"
+              ]
+            },
+            {
+              "numero": 18,
+              "nombre": "¡Estudiemos las características de la luz y el sonido!",
+              "nombre_completo": "¡Estudiemos las características de la luz y el sonido!",
+              "conceptos_procedimientos": [
+                "Ondas sonoras, ondas lumínicas",
+                "Tono, intensidad y fuente",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante",
+                "Utilizar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Vaso de vidrio",
+                "agua",
+                "linterna",
+                "vela",
+                "fósforos",
+                "cuchara",
+                "leche",
+                "guitarra",
+                "tambor"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "¡Estudiemos los efectos de las fuerzas y de la energía en la materia!",
+          "desempeño_general": "Describo la materia y sus propiedades. Describo y explico fenómenos relacionados con el cambio de estado de las sustancias.",
+          "guias": [
+            {
+              "numero": 19,
+              "nombre": "¿Por qué se mueven los objetos?",
+              "nombre_completo": "¿Por qué se mueven los objetos?",
+              "conceptos_procedimientos": [
+                "Fuerza, movimiento, trabajo",
+                "Movimiento rectilíneo, movimiento curvilíneo",
+                "Tecnología",
+                "Medios de transporte",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Hojas de papel blanco",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 20,
+              "nombre": "Describamos el movimiento de algunos seres y objetos",
+              "nombre_completo": "Describamos el movimiento de algunos seres y objetos",
+              "conceptos_procedimientos": [
+                "Velocidad, tiempo, distancia",
+                "Unidades de medida de longitud",
+                "Unidades de tiempo",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger, organizar información y compartir resultados"
+              ],
+              "recursos": [
+                "Metro",
+                "reloj o cronómetro",
+                "tiza o marcador",
+                "cuatro tapas plásticas de botella",
+                "puntillas",
+                "dos palitos de pincho",
+                "cuatro pitillos plásticos con extremos flexible",
+                "un globo",
+                "cinta adhesiva o silicona",
+                "un trozo de cartón",
+                "tijeras",
+                "regla",
+                "lápiz",
+                "octavos de fomi",
+                "pegamento"
+              ]
+            },
+            {
+              "numero": 21,
+              "nombre": "¡Experimentemos con la fuerza de gravedad y el magnetismo!",
+              "nombre_completo": "¡Experimentemos con la fuerza de gravedad y el magnetismo!",
+              "conceptos_procedimientos": [
+                "Fuerzas a distancia, gravedad, electromagnetismo, magnetismo, electricidad",
+                "El imán",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información",
+                "Utilizar diferentes métodos de análisis y compartir resultados"
+              ],
+              "recursos": [
+                "Balón",
+                "plumas",
+                "borrador",
+                "globos",
+                "imanes",
+                "alfileres",
+                "puntillas",
+                "monedas",
+                "hilo",
+                "pegamento",
+                "encendedor",
+                "pinzas",
+                "frasco transparente de boca ancha",
+                "cinta adhesiva"
+              ]
+            },
+            {
+              "numero": 22,
+              "nombre": "¿Cómo está formado nuestro sistema solar?",
+              "nombre_completo": "¿Cómo está formado nuestro sistema solar?",
+              "conceptos_procedimientos": [
+                "Sistema solar, planetas, satélites naturales, planetas enanos",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información",
+                "Utilizar diferentes métodos de análisis y compartir resultados",
+                "El día, la noche"
+              ],
+              "recursos": [
+                "Tiza",
+                "hojas de papel blanco",
+                "cinta adhesiva",
+                "marcadores"
+              ]
+            },
+            {
+              "numero": 23,
+              "nombre": "¿Cómo se relaciona la rotación de la Tierra con el día y la noche?",
+              "nombre_completo": "¿Cómo se relaciona la rotación de la Tierra con el día y la noche?",
+              "conceptos_procedimientos": [
+                "Movimientos de rotación y traslación de la Tierra",
+                "Luz solar",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información",
+                "Utilizar diferentes métodos de análisis y compartir resultados"
+              ],
+              "recursos": [
+                "Globo terráqueo",
+                "lámpara o vela",
+                "fósforos"
+              ]
+            },
+            {
+              "numero": 24,
+              "nombre": "¿Cómo se producen las sombras?",
+              "nombre_completo": "¿Cómo se producen las sombras?",
+              "conceptos_procedimientos": [
+                "Sombra, umbra, penumbra",
+                "Eclipses, órbitas",
+                "Propagación de la luz",
+                "Analizar problemas",
+                "Observar, recoger y organizar información",
+                "Explorar hechos y fenómenos",
+                "Utilizar diferentes métodos de análisis y compartir información"
+              ],
+              "recursos": [
+                "Borradores",
+                "linterna",
+                "hojas de papel blanco",
+                "cinta adhesiva",
+                "lápices de colores",
+                "sábana blanca",
+                "octavos de cartulina negra",
+                "palos de pincho",
+                "tijeras",
+                "lámpara"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grado": "4",
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "¡El planeta Tierra: un lugar maravilloso para vivir!",
+          "desempeño_general": "Explico algunas características del planeta Tierra y la forma cómo el ser humano ha usado la tecnología para vivir mejor en él.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¡Aprendamos más sobre el sistema solar!",
+              "nombre_completo": "¡Aprendamos más sobre el sistema solar!",
+              "conceptos_procedimientos": [
+                "El sistema solar: elementos que lo componen",
+                "Características de los planetas",
+                "Utilizar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Una caja de cartón",
+                "tijeras",
+                "cartulina",
+                "hilo",
+                "témperas",
+                "clips",
+                "pintura negra o papel de color negro",
+                "pegamento",
+                "compás",
+                "regla"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "Estudiemos los efectos de los movimientos de rotación y traslación de la Tierra",
+              "nombre_completo": "Estudiemos los efectos de los movimientos de rotación y traslación de la Tierra",
+              "conceptos_procedimientos": [
+                "El día y la noche",
+                "La sombra",
+                "Movimientos de la Tierra: rotación y traslación",
+                "Efectos de la rotación terrestre",
+                "Fricción",
+                "Utilizar diferentes métodos de análisis",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Globos grandes y pequeños",
+                "marcador",
+                "trompo"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "La Luna: nuestro satélite natural",
+              "nombre_completo": "La Luna: nuestro satélite natural",
+              "conceptos_procedimientos": [
+                "Fases lunares",
+                "Periodo de traslación y rotación de la Luna",
+                "Explorar hechos y fenómenos",
+                "Utilizar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "tijeras",
+                "tiza blanca o color blanco",
+                "octavos de cartulina de color azul y color negro",
+                "chinches",
+                "un plato desechable",
+                "recurso Renueva N4U1G3A3"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "¿Cómo son las capas externas de la Tierra?",
+              "nombre_completo": "¿Cómo son las capas externas de la Tierra?",
+              "conceptos_procedimientos": [
+                "Zonas externas de la Tierra: hidrosfera, litosfera, atmósfera",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información",
+                "Utilizar diferentes métodos de análisis",
+                "Compartir resultados"
+              ],
+              "recursos": [
+                "Pliegos de cartulina o papel periódico",
+                "marcadores",
+                "huevos cocidos, duros y sin cáscara",
+                "recipientes de vidrio de boca ancha",
+                "algodón",
+                "alcohol",
+                "agua",
+                "fósforos",
+                "botella de plástico",
+                "tapón de corcho o caucho",
+                "un sobre de bicarbonato de sodio",
+                "vinagre"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "¡Estudiemos las capas internas del planeta Tierra!",
+              "nombre_completo": "¡Estudiemos las capas internas del planeta Tierra!",
+              "conceptos_procedimientos": [
+                "Capas internas de la Tierra: núcleo, manto y corteza",
+                "Explorar hechos y fenómenos",
+                "Utilizar diferentes métodos de análisis",
+                "Compartir resultados"
+              ],
+              "recursos": [
+                "Un modelo del planeta Tierra",
+                "una bola de icopor mediana",
+                "bisturí",
+                "vinilos de colores",
+                "pincel",
+                "un vasito con agua",
+                "trapo"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "¡Conozcamos los ecosistemas de nuestro país!",
+              "nombre_completo": "¡Conozcamos los ecosistemas de nuestro país!",
+              "conceptos_procedimientos": [
+                "Tipos de ecosistemas",
+                "Condiciones climatológicas",
+                "Factores bióticos y abióticos",
+                "Explorar hechos y fenómenos",
+                "Compartir resultados"
+              ],
+              "recursos": [
+                "Un termómetro",
+                "un metro",
+                "estacas de madera",
+                "una pala de jardinería",
+                "una libreta para apuntes",
+                "regla",
+                "pliegos de cartulina o papel periódico",
+                "marcadores"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "¡Aprendamos algo más sobre los ecosistemas!",
+          "desempeño_general": "Identifico y diferencio las interacciones que se presentan entre los componentes de un ecosistema, señalando la forma cómo fluye la energía en él. Valoro la importancia del agua y del suelo como recursos indispensables para los seres vivos. Realizo acciones que permiten la conservación de los recursos naturales.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "¿Qué factores bióticos y abióticos influyen en los ecosistemas?",
+              "nombre_completo": "¿Qué factores bióticos y abióticos influyen en los ecosistemas?",
+              "conceptos_procedimientos": [
+                "Factores bióticos y abióticos",
+                "Concepto de ecosistema",
+                "Individuo, población y comunidad",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores",
+                "hojas blancas",
+                "diccionario de español",
+                "tijeras"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "La energía fluye en los ecosistemas",
+              "nombre_completo": "La energía fluye en los ecosistemas",
+              "conceptos_procedimientos": [
+                "Tipos de ecosistemas",
+                "Cadena trófica",
+                "Niveles tróficos",
+                "Flujo de materia y energía",
+                "Tipos de organismos",
+                "Explorar hechos y fenómenos",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Revistas",
+                "periódicos",
+                "tijeras",
+                "pegamento",
+                "medio pliego de papel periódico o cartulina",
+                "marcadores de colores",
+                "regla",
+                "lápices de colores",
+                "octavos de cartulina"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "El suelo: sustento de la vida en el planeta",
+              "nombre_completo": "El suelo: sustento de la vida en el planeta",
+              "conceptos_procedimientos": [
+                "Suelo: componentes",
+                "La erosión",
+                "Explorar hechos y fenómenos",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Muestra de tierra negra de un terreno cultivado",
+                "muestra de tierra de un terreno sin cultivar",
+                "regla",
+                "un frasco de vidrio transparente de boca ancha",
+                "hojas de papel reciclado",
+                "cartulina de colores",
+                "témperas",
+                "marcadores",
+                "piedritas",
+                "papel celofán de varios colores"
+              ]
+            },
+            {
+              "numero": 10,
+              "nombre": "Cuidemos los recursos hídricos de nuestro país",
+              "nombre_completo": "Cuidemos los recursos hídricos de nuestro país",
+              "conceptos_procedimientos": [
+                "Uso racional del recurso hídrico",
+                "Causas y consecuencias de su contaminación",
+                "Explorar hechos y fenómenos",
+                "Observar, recoger y organizar información",
+                "Analizar problemas"
+              ],
+              "recursos": [
+                "Recipiente transparente",
+                "lupa o microscopio",
+                "regla",
+                "lápices de colores",
+                "medio pliego de cartulina",
+                "hojas de colores",
+                "marcadores",
+                "témperas",
+                "revistas",
+                "tijeras",
+                "pegamento"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "Los parques naturales: una estrategia de conservación",
+              "nombre_completo": "Los parques naturales: una estrategia de conservación",
+              "conceptos_procedimientos": [
+                "Parques naturales y reservas naturales del país",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Varios pares de dados",
+                "medios pliegos de cartulina",
+                "marcadores",
+                "lápices de colores",
+                "regla"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "¡Aprendamos a reciclar los residuos sólidos!",
+              "nombre_completo": "¡Aprendamos a reciclar los residuos sólidos!",
+              "conceptos_procedimientos": [
+                "Residuos sólidos",
+                "Clasificación",
+                "Reciclaje",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Hojas blancas de papel",
+                "regla",
+                "lápices de colores",
+                "marcadores de colores",
+                "varias canecas o recipientes de plástico",
+                "octavos de cartulina"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "¡Estudiemos las sustancias químicas y sus propiedades!",
+          "desempeño_general": "Reconozco la importancia de manipular adecuadamente algunas mezclas de mi entorno, mediante datos teóricos y experimentos sobre las propiedades de las sustancias químicas.",
+          "guias": [
+            {
+              "numero": 13,
+              "nombre": "Un mundo de átomos y de moléculas",
+              "nombre_completo": "Un mundo de átomos y de moléculas",
+              "conceptos_procedimientos": [
+                "Materia",
+                "Átomos y modelos atómicos",
+                "Moléculas",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Utilizar diferentes métodos de análisis",
+                "Compartir resultados"
+              ],
+              "recursos": [
+                "Tizas",
+                "hojas blancas",
+                "lápices de colores",
+                "regla"
+              ]
+            },
+            {
+              "numero": 14,
+              "nombre": "¡Diferenciemos los conceptos de masa y peso!",
+              "nombre_completo": "¡Diferenciemos los conceptos de masa y peso!",
+              "conceptos_procedimientos": [
+                "Masa y peso",
+                "Unidades y patrones de medida de masa y peso",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información",
+                "Utilizar y evaluar diferentes métodos de análisis"
+              ],
+              "recursos": [
+                "Barras de plastilina",
+                "una balanza de platos",
+                "cucharas",
+                "balanza digital",
+                "arena",
+                "piedras",
+                "tarros pequeños y vacíos",
+                "regla"
+              ]
+            },
+            {
+              "numero": 15,
+              "nombre": "¡Calculemos el volumen de algunos cuerpos!",
+              "nombre_completo": "¡Calculemos el volumen de algunos cuerpos!",
+              "conceptos_procedimientos": [
+                "Concepto de volumen",
+                "Instrumentos para medir el volumen de sustancias en estado líquido, sólido y gaseoso",
+                "Observar, recoger y organizar información",
+                "Utilizar y evaluar diferentes métodos de análisis",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Globos",
+                "vasos iguales",
+                "botellas",
+                "agua",
+                "jeringa",
+                "frasco de vidrio",
+                "una piedra",
+                "probeta",
+                "regla",
+                "balde con agua",
+                "manguera",
+                "jeringa"
+              ]
+            },
+            {
+              "numero": 16,
+              "nombre": "¡Diferenciemos los cambios físicos y los cambios químicos de la materia!",
+              "nombre_completo": "¡Diferenciemos los cambios físicos y los cambios químicos de la materia!",
+              "conceptos_procedimientos": [
+                "Estados de la materia",
+                "Cambios físicos y químicos",
+                "Propiedades de la materia: peso, volumen, masa y densidad",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Varias tizas",
+                "vinagre",
+                "vasos",
+                "piedras",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 17,
+              "nombre": "!Hagamos y comparemos mezclas!",
+              "nombre_completo": "!Hagamos y comparemos mezclas!",
+              "conceptos_procedimientos": [
+                "Elementos",
+                "Sustancias puras",
+                "Compuestos",
+                "Mezclas homogéneas y heterogéneas",
+                "Métodos de separación de mezclas",
+                "Combinaciones",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Compartir resultados"
+              ],
+              "recursos": [
+                "Frascos transparentes de boca ancha",
+                "agua",
+                "azúcar",
+                "aceite",
+                "cucharas",
+                "regla",
+                "vasos de vidrio o plástico",
+                "imán",
+                "tinta o colorante vegetal",
+                "azúcar",
+                "azufre en polvo",
+                "limadura de hierro",
+                "hojas de papel"
+              ]
+            },
+            {
+              "numero": 18,
+              "nombre": "La importancia de las mezclas en la vida diaria",
+              "nombre_completo": "La importancia de las mezclas en la vida diaria",
+              "conceptos_procedimientos": [
+                "Mezclas y sus aplicaciones",
+                "Sustancias tóxicas",
+                "Precauciones con el uso de sustancias tóxicas",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Compartir resultados"
+              ],
+              "recursos": [
+                "Harina de trigo",
+                "anilina mineral de colores",
+                "aceite",
+                "sal",
+                "azúcar",
+                "canela",
+                "cocoa",
+                "cinco huevos",
+                "una bolsa de leche",
+                "cinco naranjas",
+                "azúcar pulverizada"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Relacionemos las fuerzas con el movimiento de los objetos",
+          "desempeño_general": "Relaciono las fuerzas y el movimiento de las máquinas simples más comunes en nuestro medio, reconociendo la importancia de los avances tecnológicos para el desarrollo de nuestra sociedad.",
+          "guias": [
+            {
+              "numero": 19,
+              "nombre": "¡Estudiemos las fuerzas y sus características!",
+              "nombre_completo": "¡Estudiemos las fuerzas y sus características!",
+              "conceptos_procedimientos": [
+                "Fuerzas",
+                "Magnitud y dirección",
+                "Tipos de fuerzas"
+              ],
+              "recursos": [
+                "Tijeras",
+                "imán",
+                "puntillas",
+                "papel reciclado",
+                "peine",
+                "monedas",
+                "trozos de plástico",
+                "regla",
+                "lápices de colores",
+                "cartulina",
+                "marcadores de colores"
+              ]
+            },
+            {
+              "numero": 20,
+              "nombre": "¡Experimentemos con los efectos que producen las fuerzas!",
+              "nombre_completo": "¡Experimentemos con los efectos que producen las fuerzas!",
+              "conceptos_procedimientos": [
+                "Fuerzas de rozamiento",
+                "Tipos de movimiento",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Compartir resultados"
+              ],
+              "recursos": [
+                "Pelotas de plástico",
+                "trompos",
+                "una caja de cartón",
+                "libros",
+                "arena",
+                "piedras",
+                "talcos",
+                "regla",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 21,
+              "nombre": "¡Conozcamos algunas máquinas simples y sus usos!",
+              "nombre_completo": "¡Conozcamos algunas máquinas simples y sus usos!",
+              "conceptos_procedimientos": [
+                "Máquinas simples",
+                "Palancas",
+                "Géneros de palancas",
+                "Usos de las palancas",
+                "Utilizar diferentes métodos de análisis",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "regla"
+              ]
+            },
+            {
+              "numero": 22,
+              "nombre": "¡Relacionemos las fuerzas, las palancas y las máquinas!",
+              "nombre_completo": "¡Relacionemos las fuerzas, las palancas y las máquinas!",
+              "conceptos_procedimientos": [
+                "Máquinas simples",
+                "Palancas",
+                "Géneros de palancas",
+                "Usos",
+                "Utilizar diferentes métodos de análisis",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Compás",
+                "tijeras o bisturí",
+                "regla",
+                "palitos redondos de madera",
+                "silicona líquida o pegamento",
+                "lana",
+                "hojas de colores",
+                "láminas de cartón",
+                "témperas"
+              ]
+            },
+            {
+              "numero": 23,
+              "nombre": "¡Las máquinas son un invento sorprendente!",
+              "nombre_completo": "¡Las máquinas son un invento sorprendente!",
+              "conceptos_procedimientos": [
+                "Máquinas simples",
+                "Palancas",
+                "Energía eléctrica",
+                "Conservación de la energía",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "regla",
+                "tijeras"
+              ]
+            },
+            {
+              "numero": 24,
+              "nombre": "Las fuerzas de la naturaleza nos afectan: ¡actuemos unidos!",
+              "nombre_completo": "Las fuerzas de la naturaleza nos afectan: ¡actuemos unidos!",
+              "conceptos_procedimientos": [
+                "Tipos de fuerza",
+                "Desastres naturales",
+                "Energía",
+                "Contaminación",
+                "Analizar problemas"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grado": "5",
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Indaguemos acerca de la organización interna de los seres vivos",
+          "desempeño_general": "Comprendo que los seres vivos están constituidos por células, tejidos, órganos y sistema que realizan funciones específicas. Identifico los reinos en los que se clasifican los seres vivos.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¿Cómo están conformados los seres vivos?",
+              "nombre_completo": "¿Cómo están conformados los seres vivos?",
+              "conceptos_procedimientos": [
+                "La célula",
+                "Células eucariotas y procariotas",
+                "Teoría celular y su importancia",
+                "Explorar hechos y fenómenos",
+                "Utilizar diferentes métodos de análisis",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Microscopio o lupa",
+                "cebolla cabezona",
+                "rama de apio",
+                "agua",
+                "agua estancada",
+                "portaobjetos",
+                "cubreobjetos",
+                "recurso Renueva N5U1G1A1"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "Comparemos organismos unicelulares y organismos pluricelulares",
+              "nombre_completo": "Comparemos organismos unicelulares y organismos pluricelulares",
+              "conceptos_procedimientos": [
+                "Formas y funciones de las células",
+                "Utilizar diferentes métodos de análisis",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "octavos de cartulina",
+                "cinta adhesiva",
+                "regla",
+                "lápices de colores",
+                "borrador"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "Conozcamos los tejidos y las células que conforman las plantas y los animales",
+              "nombre_completo": "Conozcamos los tejidos y las células que conforman las plantas y los animales",
+              "conceptos_procedimientos": [
+                "Organismos unicelulares",
+                "Organismos pluricelulares",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "regla"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "¿Cómo se organizan internamente los seres humanos?",
+              "nombre_completo": "¿Cómo se organizan internamente los seres humanos?",
+              "conceptos_procedimientos": [
+                "Órganos, tejidos y sistemas",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Un reloj o cronómetro",
+                "lápices de colores",
+                "hojas de papel",
+                "marcadores de colores",
+                "pliegos de cartulina"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "Clasifiquemos los seres vivos en reinos",
+              "nombre_completo": "Clasifiquemos los seres vivos en reinos",
+              "conceptos_procedimientos": [
+                "Reinos: mónera, protista, fungi o de los hongos, vegetal y animal",
+                "Características de los reinos",
+                "Observar, recoger y organizar información",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Cartulinas",
+                "marcadores de colores",
+                "fichas de cartulina",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "¡Las vacunas salvan vidas!",
+              "nombre_completo": "¡Las vacunas salvan vidas!",
+              "conceptos_procedimientos": [
+                "Vacunas y clases de vacunas",
+                "Dosis adecuadas y edades",
+                "Enfermedades prevenibles",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas"
+              ],
+              "recursos": [
+                "Hojas de papel",
+                "bolsita de plástico",
+                "octavos o pliegos de cartulina",
+                "diccionario de español"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Estudiemos algunos sistemas y aparatos que conforman el cuerpo humano",
+          "desempeño_general": "Identifico las estructuras y las funciones de los diferentes sistemas y aparatos del cuerpo humano. Reconozco factores que pueden afectar los sistemas y aparatos del cuerpo humano y propongo formas para prevenirlos y controlarlos.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "Relacionemos la estructura y la función del sistema nervioso",
+              "nombre_completo": "Relacionemos la estructura y la función del sistema nervioso",
+              "conceptos_procedimientos": [
+                "Sistema nervioso",
+                "Sistema nervioso central y periférico",
+                "Componentes del sistema nervioso central y periférico",
+                "Utilizar diferentes métodos de análisis",
+                "Explorar hechos y fenómenos",
+                "Compartir resultados"
+              ],
+              "recursos": [
+                "Tela para vendar los ojos",
+                "bolitas de algodón o espuma",
+                "pelota",
+                "pliegos de cartulina",
+                "marcadores",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "¿Cómo está conformado nuestro aparato osteomuscular o locomotor?",
+              "nombre_completo": "¿Cómo está conformado nuestro aparato osteomuscular o locomotor?",
+              "conceptos_procedimientos": [
+                "Estructura y función del aparato osteomuscular o locomotor",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Lápices de colores"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "¿Cómo está conformado y cómo funciona nuestro aparato digestivo?",
+              "nombre_completo": "¿Cómo está conformado y cómo funciona nuestro aparato digestivo?",
+              "conceptos_procedimientos": [
+                "Estructura y función del aparato digestivo",
+                "Hábitos de vida saludable",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores",
+                "hojas de papel",
+                "tijeras",
+                "colores",
+                "una bolsa",
+                "recurso Renueva N5U2G9A2"
+              ]
+            },
+            {
+              "numero": 10,
+              "nombre": "Relacionemos la estructura y la función del aparato cardiovascular",
+              "nombre_completo": "Relacionemos la estructura y la función del aparato cardiovascular",
+              "conceptos_procedimientos": [
+                "Estructura y función del aparato cardiovascular",
+                "Importancia del aparato cardiovascular",
+                "Hábitos de vida saludable",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información"
+              ],
+              "recursos": [
+                "Reloj",
+                "regla",
+                "hoja de papel",
+                "cartulina",
+                "plastilina o arcilla",
+                "témperas"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "¿Cómo está conformado y cómo funciona nuestro aparato respiratorio?",
+              "nombre_completo": "¿Cómo está conformado y cómo funciona nuestro aparato respiratorio?",
+              "conceptos_procedimientos": [
+                "Estructura y función del aparato respiratorio",
+                "Hábitos de vida saludable",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Botella plástica de gaseosa de un litro",
+                "globos pequeños y grandes",
+                "tapón plástico o corcho con un orificio en el centro",
+                "tijeras",
+                "hilo de costura"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "Expliquemos la importancia del aparato reproductor",
+              "nombre_completo": "Expliquemos la importancia del aparato reproductor",
+              "conceptos_procedimientos": [
+                "Aparato reproductor masculino y femenino",
+                "Fecundación",
+                "El embarazo y sus cuidados",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "regla",
+                "octavos de cartulina",
+                "tijeras",
+                "pegamento"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Estudiemos las sustancias químicas y sus propiedades",
+          "desempeño_general": "Reconozco la importancia de manipular adecuadamente algunas mezclas de mi entorno, mediante datos teóricos y experimentos sobre las propiedades de las sustancias químicas.",
+          "guias": [
+            {
+              "numero": 13,
+              "nombre": "Estudiemos la acidez y la basicidad de algunas sustancias químicas",
+              "nombre_completo": "Estudiemos la acidez y la basicidad de algunas sustancias químicas",
+              "conceptos_procedimientos": [
+                "Acidez, basicidad y neutralidad",
+                "Corrosión",
+                "Ácidos y bases",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante",
+                "Utilizar diferentes métodos de análisis",
+                "Compartir los resultados"
+              ],
+              "recursos": [
+                "Vinagre",
+                "agua",
+                "jabón",
+                "plato de porcelana",
+                "indicador de repollo morado",
+                "goteros",
+                "palillos",
+                "regla",
+                "pliegos de cartulina",
+                "revistas",
+                "marcadores",
+                "lápices de colores",
+                "témperas",
+                "periódicos"
+              ]
+            },
+            {
+              "numero": 14,
+              "nombre": "Conozcamos las disoluciones químicas",
+              "nombre_completo": "Conozcamos las disoluciones químicas",
+              "conceptos_procedimientos": [
+                "Disoluciones",
+                "Soluto y solvente",
+                "Soluciones saturadas, insaturadas y sobresaturadas",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante",
+                "Compartir los resultados",
+                "Evaluar métodos"
+              ],
+              "recursos": [
+                "Recipientes transparentes de boca ancha",
+                "cuchara",
+                "azúcar",
+                "agua",
+                "aceite",
+                "regla",
+                "cubos de hielo",
+                "sal",
+                "hojas blancas",
+                "plato",
+                "arena"
+              ]
+            },
+            {
+              "numero": 15,
+              "nombre": "Calculemos la densidad de los objetos",
+              "nombre_completo": "Calculemos la densidad de los objetos",
+              "conceptos_procedimientos": [
+                "Densidad, masa y volumen",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante"
+              ],
+              "recursos": [
+                "Baldes o recipientes con agua",
+                "balanza",
+                "cubos de diferentes materiales",
+                "regla",
+                "vasos de precipitado de 250 mL o vasos de vidrio marcados",
+                "sal",
+                "trozo de corcho",
+                "una piedra",
+                "un trozo de madera",
+                "una tapa de gaseosa",
+                "una bola de cristal",
+                "cuchara"
+              ]
+            },
+            {
+              "numero": 16,
+              "nombre": "Estudiemos algunas unidades físicas de concentración de las disoluciones",
+              "nombre_completo": "Estudiemos algunas unidades físicas de concentración de las disoluciones",
+              "conceptos_procedimientos": [
+                "Unidades de concentración físicas",
+                "Disoluciones saturadas, insaturadas y sobresaturadas",
+                "Temperatura",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante",
+                "Utilizar diferentes métodos de análisis",
+                "Compartir los resultados"
+              ],
+              "recursos": [
+                "Frascos transparentes de boca ancha",
+                "cucharas",
+                "azúcar",
+                "probeta o vaso graduado",
+                "regla",
+                "olla pequeña o beaker",
+                "agua",
+                "estufa o mechero",
+                "sal",
+                "fósforos",
+                "termómetro",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 17,
+              "nombre": "¡Usemos las sustancias químicas con responsabilidad!",
+              "nombre_completo": "¡Usemos las sustancias químicas con responsabilidad!",
+              "conceptos_procedimientos": [
+                "Símbolos de seguridad, de advertencia y riesgo químico",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante"
+              ],
+              "recursos": [
+                "Marcadores de colores",
+                "regla",
+                "lápices de colores",
+                "octavos de cartulina"
+              ]
+            },
+            {
+              "numero": 18,
+              "nombre": "¡Utilicemos adecuadamente los recursos naturales!",
+              "nombre_completo": "¡Utilicemos adecuadamente los recursos naturales!",
+              "conceptos_procedimientos": [
+                "Recursos naturales renovables y no renovables",
+                "Desarrollo sostenible",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante",
+                "Explorar hechos y fenómenos"
+              ],
+              "recursos": [
+                "Octavos de cartulina",
+                "lápices de colores",
+                "marcadores"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Indaguemos sobre la electricidad y sus aplicaciones en la vida diaria",
+          "desempeño_general": "Identifico los diferentes materiales que conducen electricidad y que son empleados en circuitos eléctricos comunes de mi entorno.",
+          "guias": [
+            {
+              "numero": 19,
+              "nombre": "Estudiemos la electricidad y sus aplicaciones",
+              "nombre_completo": "Estudiemos la electricidad y sus aplicaciones",
+              "conceptos_procedimientos": [
+                "Energía eléctrica y electricidad",
+                "Electrones",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 20,
+              "nombre": "Conozcamos algunos materiales conductores de la electricidad",
+              "nombre_completo": "Conozcamos algunos materiales conductores de la electricidad",
+              "conceptos_procedimientos": [
+                "Materiales conductores, semiconductores, superconductores y no conductores de la electricidad",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante",
+                "Utilizar diferentes métodos de análisis",
+                "Compartir los resultados"
+              ],
+              "recursos": [
+                "Pliegos de cartulina",
+                "marcadores de colores",
+                "regla",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 21,
+              "nombre": "Experimentemos con materiales que conducen electricidad",
+              "nombre_completo": "Experimentemos con materiales que conducen electricidad",
+              "conceptos_procedimientos": [
+                "Energía eléctrica, electricidad y sus transformaciones",
+                "Energía lumínica",
+                "Sonido y energía acústica",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante",
+                "Compartir los resultados"
+              ],
+              "recursos": [
+                "Cinta adhesiva",
+                "cable de cobre",
+                "pila o batería",
+                "bombillo pequeño de navidad (1,5 voltios)",
+                "una barra de vidrio",
+                "alambre",
+                "tijeras",
+                "puntilla",
+                "tornillo de cobre",
+                "trozo de aluminio",
+                "barra de plastilina",
+                "regla",
+                "vaso con agua",
+                "cuchara",
+                "sal de cocina"
+              ]
+            },
+            {
+              "numero": 22,
+              "nombre": "Elaboremos un circuito eléctrico",
+              "nombre_completo": "Elaboremos un circuito eléctrico",
+              "conceptos_procedimientos": [
+                "Circuito eléctrico",
+                "Partes de un circuito eléctrico",
+                "Electricidad y materiales conductores, semiconductores, superconductores y no conductores",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante",
+                "Compartir los resultados"
+              ],
+              "recursos": [
+                "Cable eléctrico",
+                "un bombillo de instalación navideña",
+                "pilas",
+                "cinta adhesiva"
+              ]
+            },
+            {
+              "numero": 23,
+              "nombre": "Descubramos los usos y las transformaciones de la energía eléctrica",
+              "nombre_completo": "Descubramos los usos y las transformaciones de la energía eléctrica",
+              "conceptos_procedimientos": [
+                "Electricidad, tecnología, máquinas y electrodomésticos",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas"
+              ],
+              "recursos": [
+                "Hojas de papel",
+                "cartulina",
+                "marcadores de colores",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 24,
+              "nombre": "¡Ahorremos energía eléctrica!",
+              "nombre_completo": "¡Ahorremos energía eléctrica!",
+              "conceptos_procedimientos": [
+                "Recursos naturales, bombillas eficientes, electricidad y energía",
+                "Explorar hechos y fenómenos",
+                "Analizar problemas",
+                "Observar, recoger y organizar información relevante",
+                "Compartir los resultados"
+              ],
+              "recursos": [
+                "Pliegos de cartulina",
+                "tijeras",
+                "revistas",
+                "periódicos",
+                "pegamento",
+                "marcadores de colores",
+                "regla"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

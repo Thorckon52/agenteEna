@@ -1,0 +1,1131 @@
+{
+  "asignatura": "Lenguaje",
+  "grados": {
+    "1": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Me conozco y me divierto",
+          "desempeno_general": "Reconocer y cuidar el cuerpo con hábitos saludables, mientras avanza en el reconocimiento de los sonidos del alfabeto.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¡Juego y me divierto!",
+              "nombre_completo": "Guía 1: Me muevo, juego y aprendo con las rondas infantiles",
+              "conceptos_procedimientos": ["Rondas infantiles", "Juegos", "Coordinación viso-motora", "Motricidad gruesa"],
+              "recursos": ["Grabadora", "Cartelera con acuerdos de convivencia", "Videos de rondas infantiles"]
+            },
+            {
+              "numero": 2,
+              "nombre": "¡Me muevo a la derecha y a la izquierda!",
+              "nombre_completo": "Guía 2: Me ubico espacialmente con respecto a mi derecha y a mi izquierda",
+              "conceptos_procedimientos": ["Juegos y rondas infantiles", "Motricidad fina: rasgado", "Nociones de izquierda y derecha"],
+              "recursos": ["Plastilina", "Pegamento", "Tiza", "Espejo", "Papel periódico"]
+            },
+            {
+              "numero": 3,
+              "nombre": "¡Me divierto haciendo trazos con mis manos!",
+              "nombre_completo": "Guía 3: Realizo trazos de izquierda a derecha",
+              "conceptos_procedimientos": ["Canciones infantiles", "Motricidad fina: trazos", "Lateralidad: izquierda y derecha"],
+              "recursos": ["Grabadora", "Cuentos", "Canciones infantiles"]
+            },
+            {
+              "numero": 4,
+              "nombre": "¡Conozco mi cuerpo!",
+              "nombre_completo": "Guía 4: Conozco y nombro las partes de mi cuerpo, mientras avanzo en el reconocimiento de la vocal a",
+              "conceptos_procedimientos": ["Partes del cuerpo", "Sonido vocálico /a/", "Ubicación: arriba y abajo"],
+              "recursos": ["Láminas sobre el alfabeto", "Espejo", "Caja de arena"]
+            },
+            {
+              "numero": 5,
+              "nombre": "¡Cuido mi cuerpo!",
+              "nombre_completo": "Guía 5: Conozco y cuido mi cuerpo para mantenerme saludable, mientras avanzo en el reconocimiento de la vocal e",
+              "conceptos_procedimientos": ["Cuidado del cuerpo", "Estatura y peso", "Sonido vocálico /e/", "Nociones de alto y bajo"],
+              "recursos": ["Metro", "Báscula", "Caja de arena"]
+            },
+            {
+              "numero": 6,
+              "nombre": "¡Aseo mi cuerpo!",
+              "nombre_completo": "Guía 6: Conozco y limpio mi cuerpo para mantenerme saludable, mientras avanzo en el reconocimiento de la vocal o",
+              "conceptos_procedimientos": ["Aseo e higiene personal", "Sonido vocálico /o/", "Nociones de estar sano y enfermo"],
+              "recursos": ["Caja de arena", "Cuentos", "Imágenes relacionadas con los cuentos"]
+            },
+            {
+              "numero": 7,
+              "nombre": "¡Hago deporte!",
+              "nombre_completo": "Guía 7: Conozco y ejercito mi cuerpo para mantenerme saludable, mientras avanzo en el reconocimiento de la vocal i",
+              "conceptos_procedimientos": ["Ejercitar el cuerpo para el bienestar corporal", "Sonido vocálico /i/", "Respeto por las normas"],
+              "recursos": ["Implementos deportivos", "Reglamento de algunos deportes", "Caja de arena"]
+            },
+            {
+              "numero": 8,
+              "nombre": "¡Me alimento saludable!",
+              "nombre_completo": "Guía 8: Me alimento de manera saludable para sentirme bien, mientras avanzo en el reconocimiento de la vocal u",
+              "conceptos_procedimientos": ["Alimentación saludable", "Desnutrición", "Sonido vocálico /u/", "Nociones de mucho y poco"],
+              "recursos": ["Lámina sobre los tipos de alimentos", "Videos sobre alimentación saludable", "Plastilina o arcilla", "Caja de arena"]
+            },
+            {
+              "numero": 9,
+              "nombre": "¿Me veo bien?",
+              "nombre_completo": "Guía 9: Cuido mi presentación personal, mientras avanzo en el reconocimiento de la consonante m",
+              "conceptos_procedimientos": ["Presentación personal", "Prendas de vestir", "Sonido consonántico /m/", "Nociones de antes y después"],
+              "recursos": ["Cuentos", "Láminas sobre las prendas de vestir", "Manual de convivencia escolar"]
+            },
+            {
+              "numero": 10,
+              "nombre": "¡Muestro mis habilidades y talentos!",
+              "nombre_completo": "Guía 10: Muestro mis habilidades y talentos, mientras avanzo en el reconocimiento de la consonante p",
+              "conceptos_procedimientos": ["Habilidades y talentos", "Expresiones artísticas del ser humano", "Sonido consonántico /p/"],
+              "recursos": ["Videos de diferentes expresiones artísticas", "Materiales necesarios para realizar estas actividades artísticas"]
+            },
+            {
+              "numero": 11,
+              "nombre": "¡Digo palabras cordiales!",
+              "nombre_completo": "Guía 11: Pongo en práctica expresiones de cortesía que me ayudan a convivir con los demás, mientras avanzo en el reconocimiento de la consonante d",
+              "conceptos_procedimientos": ["Expresiones de cortesía", "Sonido consonántico /d/", "Nociones espacio temporales: mañana, mediodía y tarde"],
+              "recursos": ["Láminas sobre las nociones temporales: mañana, mediodía y tarde", "Láminas sobre expresiones de cortesía"]
+            },
+            {
+              "numero": 12,
+              "nombre": "¡Me cuido y evito accidentes!",
+              "nombre_completo": "Guía 12: Pongo en práctica acciones que me ayuden a prevenir accidentes, mientras avanzo en el reconocimiento de la consonante t",
+              "conceptos_procedimientos": ["Prevención de accidentes", "Educación vial", "Lectura de señales de tránsito", "Sonido consonántico /t/"],
+              "recursos": ["Láminas con normas de tránsito y cuidados que debemos tener para prevenir accidentes"]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Aprendo y me divierto con las personas",
+          "desempeno_general": "Reconocer y valorar las personas con quienes comparte y aprende, mientras avanza en el reconocimiento de los sonidos del alfabeto.",
+          "guias": [
+            {
+              "numero": 13,
+              "nombre": "¡Valoro mi familia!",
+              "nombre_completo": "Guía 13: Reconozco y valoro el grupo familiar al que pertenezco, mientras avanzo en el reconocimiento de la consonante f",
+              "conceptos_procedimientos": ["La familia", "Tipos de familia", "Relaciones de parentesco: abuelos, nietos, tíos, sobrinos, primos", "Sonido consonántico /f/"],
+              "recursos": ["Fichas o fotos de diferentes tipos de familias", "Fichas con palabras que indiquen parentesco", "Fichas con sílabas que se han visto en clases"]
+            },
+            {
+              "numero": 14,
+              "nombre": "¡Me divierto con mis abuelos!",
+              "nombre_completo": "Guía 14: Reconozco y valoro a las personas de la tercera edad, mientras avanzo en el reconocimiento de la consonante b",
+              "conceptos_procedimientos": ["Abuelos maternos y paternos", "Descripción de personas", "La carta", "Sonido consonántico /b/ y su representación b"],
+              "recursos": ["Fichas con diferentes palabras que nombran a los abuelos: nona, abuela", "Fichas comparando las consonantes: p, b, d", "Hojas de papel"]
+            },
+            {
+              "numero": 15,
+              "nombre": "¡Aprendo y me divierto con mi profe!",
+              "nombre_completo": "Guía 15: Reconozco y valoro a mi profesor o profesora, mientras avanzo en el reconocimiento de la consonante v",
+              "conceptos_procedimientos": ["Los profesores y profesoras y su función", "Sonido consonántico /b/ y su representación v", "Diferencias y semejanzas entre las representaciones b y v"],
+              "recursos": ["Fichas con diferentes palabras que nombran a los profesores", "Fichas comparando las consonantes: b, v"]
+            },
+            {
+              "numero": 16,
+              "nombre": "¡Me divierto con mis amigos!",
+              "nombre_completo": "Guía 16: Reconozco y valoro la relación de amistad que tengo con las personas, mientras avanzo en el reconocimiento de la consonante g (ga, go, gu)",
+              "conceptos_procedimientos": ["La amistad", "Descripción de personas", "Uso de mayúscula en los nombres propios", "Sonido consonántico /g/", "Sílabas ga, go, gu"],
+              "recursos": ["Alimentos para compartir y con valores", "Fichas con la consonante g y con las sílabas ga, go, gu", "Hojas de colores"]
+            },
+            {
+              "numero": 17,
+              "nombre": "¡Canto con mis amigos!",
+              "nombre_completo": "Guía 17: Reconozco algunos instrumentos musicales, mientras avanzo en el reconocimiento de las sílabas gue, gui",
+              "conceptos_procedimientos": ["Instrumentos musicales", "Descripción de objetos", "Sonido consonántico /g/", "Sílabas gue, gui"],
+              "recursos": ["Fichas con las sílabas gue, gui", "Hojas de papel", "Lápices de colores", "Grabadora", "Videos o imágenes de instrumentos musicales"]
+            },
+            {
+              "numero": 18,
+              "nombre": "¡Me divierto escuchando cuentos!",
+              "nombre_completo": "Guía 18: Comprendo y disfruto la lectura de cuentos, mientras avanzo en el reconocimiento de la consonante l",
+              "conceptos_procedimientos": ["Lectura de cuentos", "Descripción de personajes de los cuentos", "Sonido consonántico /l/"],
+              "recursos": ["Libros de cuentos infantiles y otros tipos de textos", "Imágenes de varios personajes"]
+            },
+            {
+              "numero": 19,
+              "nombre": "¡Aprendo jugando en el parque!",
+              "nombre_completo": "Guía 19: Describo lugares, mientras avanzo en el reconocimiento de la consonante s",
+              "conceptos_procedimientos": ["Los parques", "Descripción de lugares", "Nociones de subir y bajar", "Sonido consonántico /s/"],
+              "recursos": ["Hojas blancas", "Lápices de colores o témperas", "Imágenes o videos donde se evidencien las nociones de subir o bajar"]
+            },
+            {
+              "numero": 20,
+              "nombre": "¡Aprendo en la granja!",
+              "nombre_completo": "Guía 20: Describo animales domésticos, mientras avanzo en el reconocimiento de las sílabas ce, ci",
+              "conceptos_procedimientos": ["Animales domésticos", "Descripción de animales", "Sonido consonántico /s/", "Sílabas ce, ci"],
+              "recursos": ["Imágenes y videos sobre la granja y los animales domésticos", "Hojas de papel", "Lápices de colores o témperas", "Plastilina"]
+            },
+            {
+              "numero": 21,
+              "nombre": "¡Aprendo en el zoológico!",
+              "nombre_completo": "Guía 21: Describo animales salvajes, mientras avanzo en el reconocimiento de la consonante z",
+              "conceptos_procedimientos": ["Animales salvajes", "Descripción de animales", "Sonido consonántico /s/ y su representación z", "Diferencias y semejanzas entre las representaciones s, c (ce, ci) y z"],
+              "recursos": ["Imágenes y videos sobre los zoológicos y los animales salvajes", "Hojas de papel", "Lápices de colores o témperas"]
+            },
+            {
+              "numero": 22,
+              "nombre": "¡Me divierto en mi escuela!",
+              "nombre_completo": "Guía 22: Describo actividades o acciones, mientras avanzo en el reconocimiento de la consonante k",
+              "conceptos_procedimientos": ["La escuela o colegio", "Descripción de actividades y acciones", "Sonido consonántico /K/ y su representación k"],
+              "recursos": ["Calendario", "Agenda", "Hojas de papel", "Lápices de colores"]
+            },
+            {
+              "numero": 23,
+              "nombre": "¡Me divierto con la música!",
+              "nombre_completo": "Guía 23: Disfruto de la música y la lectura de poemas, mientras avanzo en el reconocimiento de las sílabas ca, co y cu",
+              "conceptos_procedimientos": ["La música y los poemas", "Sonido consonántico /K/ y su representación c en las sílabas ca, co, cu", "Diferencias y semejanzas entre las representaciones k y c (ca, co, cu)"],
+              "recursos": ["Grabadora", "Diferentes tipos de música para escuchar", "Libro de poemas infantiles", "Libro con jeroglíficos para niños"]
+            },
+            {
+              "numero": 24,
+              "nombre": "¡Me divierto en el circo!",
+              "nombre_completo": "Guía 24: Aprendo sobre los circos, mientras avanzo en el reconocimiento de las sílabas que y qui",
+              "conceptos_procedimientos": ["Los circos", "Lenguaje corporal y gestual", "Sonido consonántico /K/ y su representación qu en las sílabas que y qui", "Diferencias y semejanzas entre las representaciones k, c (ca, co, cu) y qu (que, qui)"],
+              "recursos": ["Imágenes y videos sobre los circos", "Hojas de papel", "Lápices de colores o témperas", "Plastilina"]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Observo mi entorno, me divierto y aprendo",
+          "desempeno_general": "Observar y comprender el entorno, mientras avanza en el reconocimiento de los sonidos del alfabeto.",
+          "guias": [
+            {
+              "numero": 25,
+              "nombre": "¿Qué sabemos del día y la noche?",
+              "nombre_completo": "Guía 25: Caracterizo el día y la noche, mientras avanzo en el reconocimiento de la consonante n",
+              "conceptos_procedimientos": ["El día y la noche", "Características del día y la noche", "Sonido consonántico /n/"],
+              "recursos": ["Fichas o fotos que representen el día y la noche", "Papel", "Lápices de colores"]
+            },
+            {
+              "numero": 26,
+              "nombre": "¡Celebramos durante el día!",
+              "nombre_completo": "Guía 26: Reconozco y valoro las celebraciones que realizamos en familia, mientras avanzo en el reconocimiento de la consonante ñ",
+              "conceptos_procedimientos": ["Celebraciones", "Tipos de celebraciones", "Los meses del año", "Sonido de la consonante ñ"],
+              "recursos": ["Fichas o fotos que representen diferentes celebraciones que hacen las familias", "Hojas de papel y lápices de colores", "Alimento para compartir"]
+            },
+            {
+              "numero": 27,
+              "nombre": "¡Conozco la noche!",
+              "nombre_completo": "Guía 27: Caracterizo la noche y reconozco mis miedos, mientras avanzo en el reconocimiento del dígrafo ch",
+              "conceptos_procedimientos": ["La noche y la oscuridad", "Los temores", "Gestos", "Sonido del dígrafo ch"],
+              "recursos": ["Hojas de papel", "Lápices de colores", "Fichas con caras expresando diferentes emociones"]
+            },
+            {
+              "numero": 28,
+              "nombre": "¡Conozco el día!",
+              "nombre_completo": "Guía 28: Identifico las principales características del Sol, mientras avanzo en el reconocimiento de la letra h",
+              "conceptos_procedimientos": ["El día y el sol", "Cuidados de la piel", "La letra h"],
+              "recursos": ["Hojas de papel", "Lápices de colores", "Videos sobre el Sol y los movimientos de la Tierra"]
+            },
+            {
+              "numero": 29,
+              "nombre": "¿Qué sabemos sobre los animales salvajes?",
+              "nombre_completo": "Guía 29: Reconozco las características de algunos animales salvajes, mientras avanzo en el reconocimiento de la consonante j",
+              "conceptos_procedimientos": ["Los animales salvajes", "Textos poéticos y narrativos", "Sonido de la consonante j"],
+              "recursos": ["Videos sobre los animales salvajes", "Hojas de papel", "Lápices de colores", "Cuentos y poemas sobre animales salvajes"]
+            },
+            {
+              "numero": 30,
+              "nombre": "¡Viajemos con la imaginación!",
+              "nombre_completo": "Guía 30: Descubro el poder de la imaginación, mientras avanzo en el reconocimiento de las sílabas ge, gi",
+              "conceptos_procedimientos": ["La imaginación", "Los desiertos", "Las sílabas ge y gi"],
+              "recursos": ["Videos o imágenes sobre los desiertos", "Cuentos sobre los desiertos"]
+            },
+            {
+              "numero": 31,
+              "nombre": "¡Aprendo de los medios de comunicación!",
+              "nombre_completo": "Guía 31: Reconozco los medios de comunicación, mientras avanzo en el reconocimiento de la consonante r (suave o corta)",
+              "conceptos_procedimientos": ["Los medios de comunicación", "El periódico", "Sonido de la consonante r (suave o corta)"],
+              "recursos": ["Videos o imágenes de los medios de comunicación", "Periódicos", "Dos vasos", "Una cuerda"]
+            },
+            {
+              "numero": 32,
+              "nombre": "¡Aprendo más sobre los animales pequeños!",
+              "nombre_completo": "Guía 32: Reconozco la importancia de cuidar a los animales pequeños, mientras avanzo en el reconocimiento de la consonante r (fuerte o larga)",
+              "conceptos_procedimientos": ["Los animales pequeños como las ranas", "Textos informativos y poéticos", "Sonido de la consonante r (fuerte o larga)"],
+              "recursos": ["Videos o imágenes sobre las ranas y los sapos", "Un cuento sobre las ranas"]
+            },
+            {
+              "numero": 33,
+              "nombre": "¡Aprendo sobre los animales domésticos!",
+              "nombre_completo": "Guía 33: Reconozco la importancia de cuidar los animales domésticos, mientras avanzo en el reconocimiento de la consonante ll",
+              "conceptos_procedimientos": ["Los animales domésticos", "Las mascotas", "El cuidado de las mascotas", "Sonido de la consonante ll"],
+              "recursos": ["Imágenes o videos de animales domésticos", "Hojas de papel", "Lápices de colores"]
+            },
+            {
+              "numero": 34,
+              "nombre": "¿Sabemos qué es un yak?",
+              "nombre_completo": "Guía 34: Identifico las características de un yak, mientras avanzo en el reconocimiento de la letra y",
+              "conceptos_procedimientos": ["El yak y sus características", "Sonido de la consonante y", "Sonido vocálico de la y"],
+              "recursos": ["Imágenes o videos de un yak", "Hojas de papel", "Lápices de colores"]
+            },
+            {
+              "numero": 35,
+              "nombre": "¿Conocemos el páramo?",
+              "nombre_completo": "Guía 35: Identifico las características y la importancia de los páramos, mientras avanzo en el reconocimiento de la letra x",
+              "conceptos_procedimientos": ["Los páramos", "La importancia de los páramos", "Sonido de la consonante x"],
+              "recursos": ["Imágenes o videos de un páramo", "Hojas de papel", "Lápices de colores"]
+            },
+            {
+              "numero": 36,
+              "nombre": "¡Conozcamos a los indígenas Wayúu!",
+              "nombre_completo": "Guía 36: Identifico las características de los indígenas Wayúu, mientras avanzo en el reconocimiento de la letra w",
+              "conceptos_procedimientos": ["Los indígenas Wayúu", "Valor y respeto por las comunidades indígenas", "Sonido de la consonante w"],
+              "recursos": ["Imágenes o videos de los indígenas Wayúu", "Hojas de papel", "Lápices de colores", "Lana de colores"]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Pregunto, descubro y aprendo",
+          "desempeno_general": "Observar y comprender el entorno, mientras avanza en el reconocimiento de los sonidos del alfabeto.",
+          "guias": [
+            {
+              "numero": 37,
+              "nombre": "¿Dónde viven los pingüinos?",
+              "nombre_completo": "Guía 37: Reconozco las características de los pingüinos, mientras avanzo en el reconocimiento de las sílabas güe, güi",
+              "conceptos_procedimientos": ["Los pingüinos", "Clases de pingüinos", "Sílabas güe, güi"],
+              "recursos": ["Videos o imágenes de pingüinos", "Hojas de papel", "Lápices de colores"]
+            },
+            {
+              "numero": 38,
+              "nombre": "¿Cómo podemos medir el tiempo?",
+              "nombre_completo": "Guía 38: Reconozco las formas de medir el tiempo, mientras avanzo en el reconocimiento de la combinación pr",
+              "conceptos_procedimientos": ["El tiempo", "Formas de medir el tiempo", "Medidas de tiempo", "Sonidos de la combinación pr"],
+              "recursos": ["Imágenes sobre las formas de medir el tiempo", "Arena, recipiente, arcilla, tabla"]
+            },
+            {
+              "numero": 39,
+              "nombre": "¿Cómo podemos cuidar nuestro entorno?",
+              "nombre_completo": "Guía 39: Realizo campañas para cuidar el entorno, mientras avanzo en el reconocimiento de la combinación pl",
+              "conceptos_procedimientos": ["Cuidado del entorno", "Campañas para cuidar los animales, las plantas y sobre el uso adecuado de los recursos"],
+              "recursos": ["Videos sobre el cuidado del entorno", "Hojas de papel", "Lápices de colores", "Cartulina"]
+            },
+            {
+              "numero": 40,
+              "nombre": "¿Cuál es la historia de los libros?",
+              "nombre_completo": "Guía 40: Reconozco y valoro la historia de los libros, mientras avanzo en el reconocimiento de la combinación br",
+              "conceptos_procedimientos": ["La historia de los libros", "Características de los libros", "Los cuidados de los libros", "Sonidos de la combinación br"],
+              "recursos": ["Videos sobre la historia de los libros", "Hojas de papel", "Lápices de colores", "Recortes"]
+            },
+            {
+              "numero": 41,
+              "nombre": "¿Qué es una biblioteca?",
+              "nombre_completo": "Guía 41: Reconozco y valoro la biblioteca como un lugar para leer y aprender, mientras avanzo en el reconocimiento de la combinación bl",
+              "conceptos_procedimientos": ["La biblioteca", "Comportamiento en la biblioteca", "Sonidos de la combinación bl"],
+              "recursos": ["Videos sobre las bibliotecas", "Hojas de papel", "Lápices de colores", "Cuentos y poemas sobre animales salvajes"]
+            },
+            {
+              "numero": 42,
+              "nombre": "¿Cómo podemos hacer una brocheta de frutas?",
+              "nombre_completo": "Guía 42: Aprendo sobre las recetas, mientras avanzo en el reconocimiento de la combinación fr",
+              "conceptos_procedimientos": ["Las recetas", "Las frutas", "Textos instructivos", "Sonidos de la combinación fr"],
+              "recursos": ["Videos o imágenes sobre recetas", "Diferentes recetas infantiles", "Hojas de papel", "Lápices de colores"]
+            },
+            {
+              "numero": 43,
+              "nombre": "¿Qué es camuflaje?",
+              "nombre_completo": "Guía 43: Aprendo qué es camuflaje y para qué sirve, mientras avanzo en el reconocimiento de la combinación fl",
+              "conceptos_procedimientos": ["El camuflaje", "Propósito y función del camuflaje", "Animales y plantas que se camuflan", "Sonidos de la combinación fl"],
+              "recursos": ["Videos o imágenes sobre el camuflaje", "Hojas de papel", "Lápices de colores", "Vinilos de colores", "Pinceles"]
+            },
+            {
+              "numero": 44,
+              "nombre": "¿Por qué cantan los grillos?",
+              "nombre_completo": "Guía 44: Reconozco las características de los grillos, mientras avanzo en el reconocimiento de la combinación gr",
+              "conceptos_procedimientos": ["El canto de los grillos", "Textos informativos", "Cuidado de los animales pequeños", "Sonidos de la combinación gr"],
+              "recursos": ["Videos o imágenes sobre las ranas y los sapos", "Un cuento sobre las ranas"]
+            },
+            {
+              "numero": 45,
+              "nombre": "¿Qué es un iglú?",
+              "nombre_completo": "Guía 45: Encuentro semejanzas y diferencias entre varios tipos de vivienda, mientras avanzo en el reconocimiento de la combinación gl",
+              "conceptos_procedimientos": ["Tipos de vivienda", "Características de un iglú", "Sonidos de la combinación gl"],
+              "recursos": ["Imágenes o videos de diferentes tipos de vivienda y de un iglú", "Hojas de papel", "Lápices de colores"]
+            },
+            {
+              "numero": 46,
+              "nombre": "¿Qué son trabalenguas y retahílas?",
+              "nombre_completo": "Guía 46: Recito trabalenguas y retahílas, mientras avanzo en el reconocimiento de la combinación tr",
+              "conceptos_procedimientos": ["Trabalenguas y retahílas", "Textos poéticos", "Sonidos de la combinación tr"],
+              "recursos": ["Libros de trabalenguas y retahílas", "Hojas de papel", "Lápices de colores", "Cartón", "Tijeras", "Pegamento"]
+            },
+            {
+              "numero": 47,
+              "nombre": "¿Existen realmente los dragones?",
+              "nombre_completo": "Guía 47: Identifico las características de los dragones de Komodo, mientras avanzo en el reconocimiento de la combinación dr",
+              "conceptos_procedimientos": ["Los dragones de Komodo", "Textos narrativos e informativos", "Sonidos de la combinación dr"],
+              "recursos": ["Imágenes o videos de los dragones de Komodo", "Hojas de papel"]
+            },
+            {
+              "numero": 48,
+              "nombre": "¿Qué puede pinchar mi bicicleta?",
+              "nombre_completo": "Guía 48: Reconozco los medios de transporte, mientras avanzo en el reconocimiento de la combinación cl",
+              "conceptos_procedimientos": ["Medios de transporte", "El ciclismo", "Deportistas destacados", "Sonidos de la combinación cl"],
+              "recursos": ["Imágenes o videos de los medios de transporte", "Cartulina o cartón", "Lápices de colores", "Tijeras"]
+            }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "¡Me conozco y me gusta estudiar!",
+          "desempeno_general": "Aprendo a conocerme, a valorar mi cuerpo y a mejorar cada vez más mis actitudes frente a las personas que me rodean y con quienes me relaciono al hablar, escuchar, leer y escribir.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¿Quién soy yo?",
+              "nombre_completo": "Guía 1: ¿Quién soy yo?",
+              "conceptos_procedimientos": ["Mi cuerpo", "Mis sentidos", "Cuidados personales", "Sinónimos y antónimos"],
+              "recursos": ["Hojas blancas y de colores", "lápices de colores", "un vaso de plástico", "lana", "tijeras", "pegamento", "cuaderno", "lápiz", "Periódico mural"]
+            },
+            {
+              "numero": 2,
+              "nombre": "¿Conozco mi familia?",
+              "nombre_completo": "Guía 2: ¿Conozco mi familia?",
+              "conceptos_procedimientos": ["La familia", "El parentesco: abuelos, padres, tíos, primos, etc.", "Fonética de las letras c, k y q", "Juegos con rimas", "Abecedario de mayúsculas y minúsculas", "Nombres de las letras del alfabeto"],
+              "recursos": ["Papel", "lápices de colores", "pegamento", "tijeras", "cartón o cartulina", "marcadores de colores", "borrador", "libro de Mis creaciones"]
+            },
+            {
+              "numero": 3,
+              "nombre": "¿Conozco mi escuela o colegio?",
+              "nombre_completo": "Guía 3: ¿Conozco mi escuela o colegio?",
+              "conceptos_procedimientos": ["La escuela o colegio", "La descripción", "Palabras que nombran y describen", "Orden alfabético", "Fonética de la letra g"],
+              "recursos": ["Cartulina", "lápices de colores", "tijeras", "escuadra", "regla", "papel", "lápiz", "borrador"]
+            },
+            {
+              "numero": 4,
+              "nombre": "¿Qué me gusta hacer?",
+              "nombre_completo": "Guía 4: ¿Qué me gusta hacer?",
+              "conceptos_procedimientos": ["Los oficios y las profesiones", "Importancia del trabajo", "Palabras que nombran acciones", "Verbos"],
+              "recursos": ["Bolsa de plástico", "cuaderno", "lápiz", "borrador", "cartulina", "biblioteca o conexión a Internet", "periódicos", "revistas", "materiales para elaborar una obra de arte"]
+            },
+            {
+              "numero": 5,
+              "nombre": "¡Mi mente es creativa!",
+              "nombre_completo": "Guía 5: ¡Mi mente es creativa!",
+              "conceptos_procedimientos": ["Los inventos para volar", "La imaginación al crear", "Palabras con sílabas que enmudecen la vocal u: qu_, gu_", "Uso de las letras v y b"],
+              "recursos": ["Lápices de colores", "hojas blancas", "trozos de papel de colores", "pegamento", "cartulina", "tijeras", "regla", "lápiz", "borrador", "biblioteca o conexión a Internet"]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "¡Me ubico en el tiempo y el espacio!",
+          "desempeno_general": "Avanzo en mis habilidades comunicativas al hablar, escuchar, leer y escribir, a la vez que me ubico en el tiempo y en el espacio.",
+          "guias": [
+            {
+              "numero": 6,
+              "nombre": "¡Conozcamos los mensajes de la naturaleza!",
+              "nombre_completo": "Guía 6: ¡Conozcamos los mensajes de la naturaleza!",
+              "conceptos_procedimientos": ["El agua y el sol", "Los ciclos del agua", "Las sílabas", "El párrafo"],
+              "recursos": ["Cartulina", "lápices", "marcadores de diversos colores", "biblioteca o conexión a Internet", "Correo de la amistad"]
+            },
+            {
+              "numero": 7,
+              "nombre": "Hablemos del día y la noche",
+              "nombre_completo": "Guía 7: Hablemos del día y la noche",
+              "conceptos_procedimientos": ["El día", "La noche", "La hora solar", "El tiempo", "Antónimos"],
+              "recursos": ["Lápices de colores", "hojas blancas", "pegamento", "cartulina", "colores", "tijeras", "regla", "papel", "lápiz", "borrador", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 8,
+              "nombre": "¿Antes, ahora, después?",
+              "nombre_completo": "Guía 8: ¿Antes, ahora, después?",
+              "conceptos_procedimientos": ["Secuencias de tiempo: ayer, hoy, mañana", "Días de la semana", "Escritura de cuentos", "Los meses del año", "Juego La golosa"],
+              "recursos": ["Tizas para rayar el piso", "recipiente con agua y un pedazo de espuma", "trapo o esponja", "lápices de colores", "hojas blancas"]
+            },
+            {
+              "numero": 9,
+              "nombre": "¡Midamos el tiempo con palabras!",
+              "nombre_completo": "Guía 9: ¡Midamos el tiempo con palabras!",
+              "conceptos_procedimientos": ["El día, el mes y el año", "Fiestas familiares, regionales y nacionales", "Adverbios terminados en '-mente'"],
+              "recursos": ["Lápices de colores", "hojas blancas", "calendarios o almanaques", "Cuadernos u hojas para Mi diario"]
+            },
+            {
+              "numero": 10,
+              "nombre": "¿Cómo voy de un lugar a otro?",
+              "nombre_completo": "Guía 10: ¿Cómo voy de un lugar a otro?",
+              "conceptos_procedimientos": ["Medios de transporte", "Uso de las letras z, s y c", "Uso de las letras v y b", "Familias de palabras"],
+              "recursos": ["Lápices de colores", "hojas blancas", "un palo de escoba", "hilo", "aguja", "medias viejas", "tela", "algodón", "botones"]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "¡Actuamos, observamos y pensamos diferente!",
+          "desempeno_general": "Cada vez conozco más y mejor el lenguaje y aprendo a hablar, escuchar, leer, escribir y actuar sin temores y con actitud de respeto.",
+          "guias": [
+            {
+              "numero": 11,
+              "nombre": "¿Conocemos la historia de las cosas?",
+              "nombre_completo": "Guía 11: ¿Conocemos la historia de las cosas?",
+              "conceptos_procedimientos": ["Inventos del ser humano", "Funcionamiento de los objetos", "Número de sílabas en una palabra", "La exposición", "Palabras según su acento"],
+              "recursos": ["Lápices de colores", "hojas blancas", "lápiz", "borrador", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 12,
+              "nombre": "¡A jugar con las palabras!",
+              "nombre_completo": "Guía 12: ¡A jugar con las palabras!",
+              "conceptos_procedimientos": ["Trabalenguas", "Retahílas", "Versos", "Rimas", "Adivinanzas", "Los sonidos de la letra c"],
+              "recursos": ["Lápices de colores", "hojas blancas", "lápiz", "borrador", "pegamento", "cuerdas o fibras vegetales", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 13,
+              "nombre": "¡Identifiquemos voces y sonidos de nuestro entorno!",
+              "nombre_completo": "Guía 13: ¡Identifiquemos voces y sonidos de nuestro entorno!",
+              "conceptos_procedimientos": ["Los sonidos de los animales", "Juegos de voces y sonidos", "Gestos y señales", "Obras teatrales", "Las marionetas", "Las onomatopeyas"],
+              "recursos": ["Hojas blancas", "pegamento", "cartulina", "colores o témperas", "tijeras", "una escoba", "regla", "papel periódico", "hojas de revista o papel reciclado", "palitos de madera", "hilo", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 14,
+              "nombre": "Mejoro mi expresión escrita utilizando distintos textos",
+              "nombre_completo": "Guía 14: Mejoro mi expresión escrita utilizando distintos textos",
+              "conceptos_procedimientos": ["Descripciones", "El cuento", "Los animales", "Paisajes naturales"],
+              "recursos": ["Cuento Blanca Nieves", "cartulina", "colores", "tijeras", "papel", "lápiz", "borrador", "pegamento", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 15,
+              "nombre": "Conozco gestos, símbolos y señales",
+              "nombre_completo": "Guía 15: Conozco gestos, símbolos y señales",
+              "conceptos_procedimientos": ["Las señales naturales", "Gestos y símbolos", "Señales de tránsito: preventivas, informativas y reglamentarias"],
+              "recursos": ["Hojas blancas", "revistas", "pegamento", "cartulina", "colores", "tijeras", "regla", "papel", "lápiz", "borrador", "materiales para elaborar un títere"]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "¡Viajar y escribir alegran mi vivir!",
+          "desempeno_general": "Avanzo en el conocimiento y uso adecuado de los medios de comunicación como la radio, la televisión, las redes sociales y las utilizo como un medio para mejorar mis habilidades comunicativas.",
+          "guias": [
+            {
+              "numero": 16,
+              "nombre": "¿Sabías que existen diferentes tipos de textos?",
+              "nombre_completo": "Guía 16: ¿Sabías que existen diferentes tipos de textos?",
+              "conceptos_procedimientos": ["Los viajes", "Las señales de tránsito", "Los medios de transporte", "El semáforo y su función", "Tipos de textos: poético, instructivo, narrativo"],
+              "recursos": ["Hojas blancas o periódico", "revistas", "pegamento", "cartulina", "colores", "tijeras", "regla", "papel", "lápiz", "borrador", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 17,
+              "nombre": "¡A divertirnos y aprender con los libros!",
+              "nombre_completo": "Guía 17: ¡A divertirnos y aprender con los libros!",
+              "conceptos_procedimientos": ["Los libros", "Cuidados con los libros", "Palabras con br y bl"],
+              "recursos": ["Hojas blancas", "pegamento", "cartulina", "papel", "tijeras y materiales reciclables", "Tablero de juegos", "fichas o piedritas y dados", "Papa o zanahoria", "témpera o tinta", "Libros de la biblioteca"]
+            },
+            {
+              "numero": 18,
+              "nombre": "¿Conozco la historia de la escritura?",
+              "nombre_completo": "Guía 18: ¿Conozco la historia de la escritura?",
+              "conceptos_procedimientos": ["El alfabeto", "Jeroglíficos", "La escritura", "Los libros", "Signos de interrogación y de admiración", "Fonética y grafía de las letras del abecedario"],
+              "recursos": ["Hojas blancas", "revistas", "pegamento", "cartulina de colores", "tijeras", "regla", "papel o lana", "lápiz", "borrador", "colores", "conexión a Internet", "Libros sobre la historia de la escritura"]
+            },
+            {
+              "numero": 19,
+              "nombre": "¿Cómo utilizamos los medios de comunicación?",
+              "nombre_completo": "Guía 19: ¿Cómo utilizamos los medios de comunicación?",
+              "conceptos_procedimientos": ["Mensajes", "Importancia de los medios de comunicación", "Medios de comunicación cuyas palabras que los nombran tienen el sufijo '-fono'", "Uso de la televisión"],
+              "recursos": ["Hilo, pita o lana", "dos vasos de plástico", "cartulina", "colores", "tijeras", "regla", "papel", "lápiz", "borrador", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 20,
+              "nombre": "¡Aprendamos más sobre los medios de comunicación masiva!",
+              "nombre_completo": "Guía 20: ¡Aprendamos más sobre los medios de comunicación masiva!",
+              "conceptos_procedimientos": ["Los medios de comunicación masiva", "Los emoticonos", "Palabras con sílabas compuestas por _mb, _mp y _nv"],
+              "recursos": ["Hojas blancas", "pegamento", "cartulina", "colores", "tijeras", "regla", "papel", "lápiz", "borrador", "imágenes visuales"]
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "¡Leer y escribir enriquecen mi aprendizaje!",
+          "desempeno_general": "Identifico diversas maneras de expresar mis ideas: los juegos de palabras, los versos, los textos orales y escritos, y las utilizo de acuerdo con mis propósitos comunicativos.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¡Aprendo a narrar mis vivencias!",
+              "nombre_completo": "Guía 1: ¡Aprendo a narrar mis vivencias!",
+              "conceptos_procedimientos": ["Narración oral", "Uso de mayúsculas", "Las palabras y los gestos"],
+              "recursos": ["Colores", "hojas blancas", "pegamento", "cartulina", "tijeras", "regla", "papel", "lápiz", "borrador", "moldes de caras", "hilos o pitas", "Alambres"]
+            },
+            {
+              "numero": 2,
+              "nombre": "¡Conozco más sobre las palabras!",
+              "nombre_completo": "Guía 2: ¡Conozco más sobre las palabras!",
+              "conceptos_procedimientos": ["El abecedario", "Origen de la escritura", "Los jeroglíficos", "La jerigonza"],
+              "recursos": ["Juegos de tarjetas del abecedario", "hojas de papel", "lápices de colores", "pegante", "tijeras", "marcadores", "moldes del abecedario"]
+            },
+            {
+              "numero": 3,
+              "nombre": "¡Aprendo de los poemas y los versos!",
+              "nombre_completo": "Guía 3: ¡Aprendo de los poemas y los versos!",
+              "conceptos_procedimientos": ["Poemas", "Versos", "Rima"],
+              "recursos": ["Cuaderno", "lápices", "libros de poemas"]
+            },
+            {
+              "numero": 4,
+              "nombre": "¡Pronuncio claramente las palabras al expresarme!",
+              "nombre_completo": "Guía 4: ¡Pronuncio claramente las palabras al expresarme!",
+              "conceptos_procedimientos": ["Trabalenguas", "Retahílas", "La descripción", "Comparaciones"],
+              "recursos": ["Cuaderno", "lápices de colores", "hojas blancas", "hojas de colores", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 5,
+              "nombre": "¡Leer y escribir mejoran mi vivir!",
+              "nombre_completo": "Guía 5: ¡Leer y escribir mejoran mi vivir!",
+              "conceptos_procedimientos": ["Secuencia de ideas en los textos", "Textos informativo e instructivo", "Conectores al escribir", "El verbo"],
+              "recursos": ["Lápices de colores", "hojas blancas", "pegamento", "cartulina", "tijeras", "regla", "papel", "lápiz", "borrador", "siluetas de hojas de árboles", "Para sembrar una planta: semillas, tierra, abono, maceta o terreno fértil, agua"]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "¡Juguemos a describir e interpretar!",
+          "desempeno_general": "Utilizo la descripción para comprender e interpretar fenómenos, seres y objetos, y la relaciono con la estructura y los elementos de textos narrativos.",
+          "guias": [
+            {
+              "numero": 6,
+              "nombre": "¡Ayer, hoy, mañana...!",
+              "nombre_completo": "Guía 6: ¡Ayer, hoy, mañana...!",
+              "conceptos_procedimientos": ["El verbo", "Acciones y oficios", "Tiempos verbales", "Conjugación de verbos según la persona gramatical: yo, tú, él/ella"],
+              "recursos": ["Cuaderno", "lápices", "disfraces", "objetos cotidianos para usar en dramatizaciones"]
+            },
+            {
+              "numero": 7,
+              "nombre": "¡Observemos para describir!",
+              "nombre_completo": "Guía 7: ¡Observemos para describir!",
+              "conceptos_procedimientos": ["La descripción", "Adjetivos", "Adivinanzas"],
+              "recursos": ["Bolsa plástica o de tela", "lápices o crayolas de colores", "hojas blancas", "cartulina", "lápiz", "borrador", "arcilla o plastilina", "ramas pequeñas o palos de madera"]
+            },
+            {
+              "numero": 8,
+              "nombre": "¡Interpretemos signos!",
+              "nombre_completo": "Guía 8: ¡Interpretemos signos!",
+              "conceptos_procedimientos": ["Los gestos", "Las señales y los símbolos", "Comportamiento seguro al seguir las señales de tránsito", "El lenguaje corporal y la lengua de señas"],
+              "recursos": ["Lápices de colores", "hojas blancas", "regla", "papel", "lápiz", "borrador", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 9,
+              "nombre": "¿Conocemos la magia del cuento?",
+              "nombre_completo": "Guía 9: ¿Conocemos la magia del cuento?",
+              "conceptos_procedimientos": ["El cuento", "Estructura del cuento", "Elementos principales del cuento: título, personajes, acciones, lugares, autor", "Acciones ficcionales y no ficcionales", "Estructura de una narración: introducción, nudo y desenlace", "Tipos de textos narrativos"],
+              "recursos": ["Lápices de colores", "hojas blancas", "lápiz", "borrador", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 10,
+              "nombre": "¡Aprendamos a escribir una fábula!",
+              "nombre_completo": "Guía 10: ¡Aprendamos a escribir una fábula!",
+              "conceptos_procedimientos": ["La fábula", "Estructura y elementos principales de las fábulas", "La personificación", "Palabras con los dígrafos br, cr, dr, fr, gr, pr, tr, bl, fl, cl, pl, gl"],
+              "recursos": ["Lápices de colores", "hojas blancas", "lápiz", "recortes de revistas", "plastilina u otro recurso del medio disponible"]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "¡Las palabras tienen magia: actuemos!",
+          "desempeno_general": "Avanzo en el desarrollo de mi competencia comunicativa a través de mi participación en actividades de expresión oral, utilizando el lenguaje verbal y no verbal.",
+          "guias": [
+            {
+              "numero": 11,
+              "nombre": "¡Conozco mitos, leyendas y otras expresiones culturales!",
+              "nombre_completo": "Guía 11: ¡Conozco mitos, leyendas y otras expresiones culturales!",
+              "conceptos_procedimientos": ["Mitos y leyendas: del país y la región", "Tradiciones de la cultura de la región", "El mensaje publicitario"],
+              "recursos": ["Lápices de colores", "hojas blancas", "libros sobre mitos y leyendas", "conexión a Internet", "Mapa de Colombia"]
+            },
+            {
+              "numero": 12,
+              "nombre": "¿Qué sabemos de las canciones y los poemas?",
+              "nombre_completo": "Guía 12: ¿Qué sabemos de las canciones y los poemas?",
+              "conceptos_procedimientos": ["Versos", "Estrofas", "Poemas y canciones", "Diptongo, triptongo, hiato"],
+              "recursos": ["Lápices de colores", "hojas blancas", "libros sobre poemas", "conexión a Internet"]
+            },
+            {
+              "numero": 13,
+              "nombre": "¡Qué interesante es la actuación!",
+              "nombre_completo": "Guía 13: ¡Qué interesante es la actuación!",
+              "conceptos_procedimientos": ["Lenguaje no verbal", "Actuación", "Uso de la letra h", "Signos de puntuación"],
+              "recursos": ["Lápices de colores", "cuaderno", "lápiz", "borrador", "biblioteca", "conexión a Internet", "periódicos y revistas", "libros de cuentos", "Ropa vieja y otros objetos que no utilicen en casa para el Rincón de disfraces"]
+            },
+            {
+              "numero": 14,
+              "nombre": "¡Me gusta jugar con los títeres!",
+              "nombre_completo": "Guía 14: ¡Me gusta jugar con los títeres!",
+              "conceptos_procedimientos": ["El diálogo", "Historia de los títeres", "Elementos del teatro", "Actores, diálogo, acción", "La personificación"],
+              "recursos": ["Hojas blancas", "pegamento", "colores o marcadores de colores", "tijeras", "regla", "Libros de guiones de teatro para niños", "biblioteca", "conexión a Internet", "Bolsas de papel o medias viejas", "palos", "pelotas de ping pong o guantes", "papel periódico o plastilina"]
+            },
+            {
+              "numero": 15,
+              "nombre": "¡Interpretemos guiones!",
+              "nombre_completo": "Guía 15: ¡Interpretemos guiones!",
+              "conceptos_procedimientos": ["Guiones teatrales", "Elementos del guion: personajes y diálogo", "Oraciones interrogativas"],
+              "recursos": ["Hojas blancas", "pegamento", "marcadores de colores", "tijeras", "papel o lana", "lápiz", "borrador", "libros de cuentos", "materiales reciclables"]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "¡La comunicación enriquece mi pensamiento!",
+          "desempeno_general": "Utilizo adecuadamente las palabras en diversas situaciones y me expreso cada vez con mayor seguridad y capacidad de argumentar mis ideas.",
+          "guias": [
+            {
+              "numero": 16,
+              "nombre": "¡Practiquemos distintas formas de comunicación!",
+              "nombre_completo": "Guía 16: ¡Practiquemos distintas formas de comunicación!",
+              "conceptos_procedimientos": ["Gestos y señales", "Símbolos", "Lenguaje no verbal"],
+              "recursos": ["Hojas de papel", "lápices", "colores", "cartulina", "Biblioteca", "conexión a Internet"]
+            },
+            {
+              "numero": 17,
+              "nombre": "¿Cómo utilizamos las palabras para actuar?",
+              "nombre_completo": "Guía 17: ¿Cómo utilizamos las palabras para actuar?",
+              "conceptos_procedimientos": ["Obras de teatro", "Teatro de títeres"],
+              "recursos": ["Guiones de teatro", "cuaderno", "papel", "lápiz"]
+            },
+            {
+              "numero": 18,
+              "nombre": "¡Juguemos a actuar y representar personajes!",
+              "nombre_completo": "Guía 18: ¡Juguemos a actuar y representar personajes!",
+              "conceptos_procedimientos": ["Tipos de obras de teatro: títeres, marionetas, pantomimas, teatro de sombras", "Lenguaje no verbal en la puesta en escena de obras de teatro"],
+              "recursos": ["Disfraces o materiales reciclados para representar personajes", "elementos para maquillaje", "Cartulinas", "marcadores", "lápices de colores"]
+            },
+            {
+              "numero": 19,
+              "nombre": "¡Hablemos sobre el teatro!",
+              "nombre_completo": "Guía 19: ¡Hablemos sobre el teatro!",
+              "conceptos_procedimientos": ["El teatro", "Fábulas en verso", "Lenguaje no verbal en la puesta en escena"],
+              "recursos": ["Elementos de escenografía", "disfraces para representar personajes", "elementos para maquillaje", "Cartulinas", "marcadores", "colores"]
+            },
+            {
+              "numero": 20,
+              "nombre": "¡Hablemos sobre el Periódico mural!",
+              "nombre_completo": "Guía 20: ¡Hablemos sobre el Periódico mural!",
+              "conceptos_procedimientos": ["El periódico y el Periódico mural", "La noticia", "Estructura de una noticia: fecha, lugares, hechos, desenlace", "Oraciones exclamativas"],
+              "recursos": ["Hojas blancas", "pegamento", "lápices de colores", "tijeras", "conexión a Internet", "Periódicos locales, regionales o nacionales", "Anuncios publicitarios"]
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Las descripciones y narraciones enriquecen mi pensamiento",
+          "desempeno_general": "Identifico textos descriptivos y narrativos, y los utilizo en forma oral y escrita, para enriquecer el desarrollo de mi pensamiento y mi creatividad.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¿Quién soy yo?",
+              "nombre_completo": "Guía 1: ¿Cómo son los textos narrativos?",
+              "conceptos_procedimientos": ["El cuento", "El sustantivo: género y número"],
+              "recursos": ["Hojas de papel o bloc", "cartulina", "tijeras", "colores"]
+            },
+            {
+              "numero": 2,
+              "nombre": "¡Disfrutemos de los cuentos!",
+              "nombre_completo": "Guía 2: ¡Disfrutemos de los cuentos!",
+              "conceptos_procedimientos": ["Estructura del cuento: iniciación, nudo y desenlace", "Elementos del cuento: narrador, personajes, hechos, tiempo y espacio"],
+              "recursos": ["Libros de cuentos", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 3,
+              "nombre": "¿Cómo escribir mi propio cuento?",
+              "nombre_completo": "Guía 3: ¿Cómo escribir mi propio cuento?",
+              "conceptos_procedimientos": ["La estructura del cuento", "El artículo gramatical", "La oración: sujeto y predicado"],
+              "recursos": ["Libros de cuentos", "hojas de papel", "lápiz", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 4,
+              "nombre": "¿Conocemos y recordamos fábulas?",
+              "nombre_completo": "Guía 4: ¿Conocemos y recordamos fábulas?",
+              "conceptos_procedimientos": ["La fábula", "La moraleja", "Estructura de una fábula", "El verbo: terminaciones en ar, er, ir"],
+              "recursos": ["Libros de fábulas", "hojas de papel", "lápiz", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 5,
+              "nombre": "¡El mito y la leyenda son narraciones fascinantes!",
+              "nombre_completo": "Guía 5: ¡El mito y la leyenda son narraciones fascinantes!",
+              "conceptos_procedimientos": ["Mitos y leyendas", "La mesa redonda"],
+              "recursos": ["Libros de mitos y leyendas", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 6,
+              "nombre": "¿Cómo narramos y describimos?",
+              "nombre_completo": "Guía 6: ¿Cómo narramos y describimos?",
+              "conceptos_procedimientos": ["La descripción: prosopografía, etopeya, retrato, autoretrato, topografía", "El adjetivo"],
+              "recursos": ["Libros de adivinanzas y de descripciones", "biblioteca o conexión a Internet"]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "¡Los textos literarios poéticos despiertan mi creatividad!",
+          "desempeno_general": "Avanzo en el desarrollo de mi sensibilidad y creatividad mediante los textos poéticos, los juegos de palabras y el lenguaje en general.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "Nos gusta escribir poemas",
+              "nombre_completo": "Guía 7: Nos gusta escribir poemas",
+              "conceptos_procedimientos": ["Poemas: versos y estrofas", "La rima"],
+              "recursos": ["Disfraces para representar personajes", "Libros de poemas", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 8,
+              "nombre": "Actitud poética: ¡utilicemos figuras literarias!",
+              "nombre_completo": "Guía 8: Actitud poética: ¡utilicemos figuras literarias!",
+              "conceptos_procedimientos": ["Figuras literarias", "Comparación o símil", "Metáfora", "Personificación"],
+              "recursos": ["Libros de poema", "biblioteca o conexión a Internet", "Libro de Mis creaciones"]
+            },
+            {
+              "numero": 9,
+              "nombre": "¿Conocemos el valor de los poemas?",
+              "nombre_completo": "Guía 9: ¿Conocemos el valor de los poemas?",
+              "conceptos_procedimientos": ["El poema", "La estrofa, el verso y la rima", "Rimas consonantes y asonantes"],
+              "recursos": ["Disfraces para representar personajes", "hojas de papel", "lápiz", "Biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 10,
+              "nombre": "¡Escribo mis propios poemas!",
+              "nombre_completo": "Guía 10: ¡Escribo mis propios poemas!",
+              "conceptos_procedimientos": ["El poema", "Elementos para la composición de un poema"],
+              "recursos": ["Cartulinas", "lápices de colores", "recortes de revistas", "hojas de papel", "lápiz", "Periódico mural"]
+            },
+            {
+              "numero": 11,
+              "nombre": "¡Juguemos con letras y palabras!",
+              "nombre_completo": "Guía 11: ¡Juguemos con letras y palabras!",
+              "conceptos_procedimientos": ["Fonética y grafía de las palabras", "Juegos de palabras: caligramas, acrósticos, jitanjáforas y retahílas"],
+              "recursos": ["Libros con juegos de palabras", "hojas de papel", "lápiz", "Libro de Mis creaciones"]
+            },
+            {
+              "numero": 12,
+              "nombre": "¡Las obras de teatro nos divierten!",
+              "nombre_completo": "Guía 12: ¡Las obras de teatro nos divierten!",
+              "conceptos_procedimientos": ["Obras de teatro", "El mimo", "La pantomima", "El género dramático"],
+              "recursos": ["Disfraces y objetos para representar personajes", "hojas de papel", "lápiz", "Materiales para elaborar un títere"]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Luces, cámara... ¡acción y canción!",
+          "desempeno_general": "Participo en representaciones de obras y guiones teatrales, y utilizo el lenguaje verbal y el lenguaje no verbal para expresar ideas y sentimientos.",
+          "guias": [
+            {
+              "numero": 13,
+              "nombre": "¡Utilicemos palabras para escribir y describir!",
+              "nombre_completo": "Guía 13: ¡Conozco diversas técnicas de expresión oral: la entrevista",
+              "conceptos_procedimientos": ["La entrevista", "Lenguaje verbal y no verbal en las entrevistas", "Pronombres interrogativos: qué, quién, cuál, cuánto", "Diferencias entre 'por qué', 'porque' y 'porqué'"],
+              "recursos": ["Cuaderno", "hojas de papel", "lápiz", "colores"]
+            },
+            {
+              "numero": 14,
+              "nombre": "¡Disfrutemos y aprendamos de textos narrativos como los cuentos!",
+              "nombre_completo": "Guía 14: ¡Aprendamos a argumentar en mesas redondas y debates!",
+              "conceptos_procedimientos": ["Técnicas de comunicación: la mesa redonda y el debate"],
+              "recursos": ["Diccionario", "hojas de papel", "lápiz"]
+            },
+            {
+              "numero": 15,
+              "nombre": "¡Leamos textos narrativos: las fábulas!",
+              "nombre_completo": "Guía 15: ¡Interpretemos noticias y escribamos!",
+              "conceptos_procedimientos": ["La noticia", "Estructura de la noticia", "Intención comunicativa de diversas noticias"],
+              "recursos": ["Periódicos y revistas", "lápiz", "hojas de papel", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 16,
+              "nombre": "¡Leamos textos narrativos: los mitos!",
+              "nombre_completo": "Guía 16: ¡Cada vez me intereso más por la lectura!",
+              "conceptos_procedimientos": ["La lectura", "Los signos de puntuación: dos puntos, coma enumerativa, puntos suspensivos, signos de admiración e interrogación", "Tilde diacrítica"],
+              "recursos": ["Periódicos o revistas", "hojas de papel", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 17,
+              "nombre": "¡Leamos textos narrativos: las leyendas!",
+              "nombre_completo": "Guía 17: ¡Comprendamos y escribamos textos instructivos!",
+              "conceptos_procedimientos": ["El texto instructivo: recetas, mapas y guías turísticas"],
+              "recursos": ["Bolsa de papel", "hojas de papel", "lápiz", "regla", "pegante", "lápices de colores", "tijeras pegamento", "lana", "témperas", "algodón y escarcha"]
+            },
+            {
+              "numero": 18,
+              "nombre": "¡Podemos comunicarnos sin palabras!",
+              "nombre_completo": "Guía 18: ¡Aprendamos a tomar notas!",
+              "conceptos_procedimientos": ["El ensayo escrito", "La toma de notas", "El verbo: lexema y morfema", "Desinencias y conjugaciones del verbo"],
+              "recursos": ["Radio", "televisión", "revistas", "hojas de papel", "lápiz", "lápices de colores"]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "¡Los medios y la ética al comunicar!",
+          "desempeno_general": "Reconozco los diversos medios de comunicación masiva, los utilizo de manera adecuada, y avanzo en el uso y análisis de la información.",
+          "guias": [
+            {
+              "numero": 19,
+              "nombre": "Conozco diversas técnicas de expresión oral: la entrevista",
+              "nombre_completo": "Guía 19: Conozco diversas técnicas de expresión oral: la entrevista",
+              "conceptos_procedimientos": ["La entrevista", "Lenguaje verbal y no verbal en las entrevistas", "Pronombres interrogativos: qué, quién, cuál, cuánto", "Diferencias entre 'por qué', 'porque' y 'porqué'"],
+              "recursos": ["Cuaderno", "hojas de papel", "lápiz", "colores"]
+            },
+            {
+              "numero": 20,
+              "nombre": "¿Cómo nos comunicamos y qué medios utilizamos?",
+              "nombre_completo": "Guía 20: ¿Cómo nos comunicamos y qué medios utilizamos?",
+              "conceptos_procedimientos": ["Medios de comunicación masiva", "Ventajas y desventajas del uso de medios de comunicación masiva", "Radio, cine, televisión, prensa, Internet"],
+              "recursos": ["Revistas", "periódicos", "papel", "lápiz", "cartulina", "marcadores", "tijeras", "lápices de colores", "Conexión a Internet o biblioteca"]
+            },
+            {
+              "numero": 21,
+              "nombre": "¿Cómo trasmiten información los medios?",
+              "nombre_completo": "Guía 21: ¿Cómo trasmiten información los medios?",
+              "conceptos_procedimientos": ["Las noticias", "El uso de Internet", "Los anuncios publicitarios", "Preguntas de análisis: ¿qué, dónde, cuándo, quiénes?"],
+              "recursos": ["Textos escritos e ilustrados", "imágenes", "papel", "lápiz", "periódicos", "revistas", "Biblioteca", "conexión a Internet"]
+            },
+            {
+              "numero": 22,
+              "nombre": "¡Nuestros trabajos orales son importantes!",
+              "nombre_completo": "Guía 22: ¡Nuestros trabajos orales son importantes!",
+              "conceptos_procedimientos": ["Trabalenguas", "Retahílas", "Pronunciación"],
+              "recursos": ["Libros con trabalenguas y retahílas", "papel", "lápiz", "cartulinas", "lápices de colores"]
+            },
+            {
+              "numero": 23,
+              "nombre": "¡Aprendamos a comunicarnos mediante la exposición!",
+              "nombre_completo": "Guía 23: ¡Aprendamos a comunicarnos mediante la exposición!",
+              "conceptos_procedimientos": ["La exposición oral", "Valores de convivencia pacífica"],
+              "recursos": ["Hojas de papel", "lápiz", "Periódicos y revistas"]
+            },
+            {
+              "numero": 24,
+              "nombre": "¿Cómo y dónde busco información?",
+              "nombre_completo": "Guía 24: ¿Cómo y dónde busco información?",
+              "conceptos_procedimientos": ["La investigación", "Las palabras", "La encuesta", "Uso del punto"],
+              "recursos": ["Biblioteca", "tijeras", "periódicos", "revistas", "conexión a Internet"]
+            },
+            {
+              "numero": 25,
+              "nombre": "¿Cómo utilizo los textos informativos?",
+              "nombre_completo": "Guía 25: ¿Cómo utilizo los textos informativos?",
+              "conceptos_procedimientos": ["La encuesta", "Textos informativos", "Importancia de preguntar", "Uso de la coma"],
+              "recursos": ["Biblioteca", "cartulinas", "lápices de colores", "papel", "lápiz", "conexión a Internet"]
+            },
+            {
+              "numero": 26,
+              "nombre": "¡Publiquemos nuestros escritos!",
+              "nombre_completo": "Guía 26: ¡Publiquemos nuestros escritos!",
+              "conceptos_procedimientos": ["La prensa escrita", "Periódico escolar", "Secciones de un periódico"],
+              "recursos": ["Periódicos regionales", "lápices", "cuaderno", "hojas de papel", "pegamento", "tijeras", "Biblioteca", "conexión a Internet"]
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "¡Leo y construyo diversos textos narrativos y descriptivos!",
+          "desempeno_general": "Me relaciono y caracterizo claramente textos descriptivos y narrativos, y los utilizo para crear nuevos textos y así enriquecer el desarrollo de mi competencia comunicativa.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¡Observemos y pintemos el mundo con palabras!",
+              "nombre_completo": "Guía 1: ¡Observemos y pintemos el mundo con palabras!",
+              "conceptos_procedimientos": ["El texto descriptivo", "Pasos para elaborar una descripción", "Las comparaciones"],
+              "recursos": ["Lápices de colores", "papel", "lápiz", "cuaderno", "Libro de Mis creaciones"]
+            },
+            {
+              "numero": 2,
+              "nombre": "¡Utilicemos palabras para escribir y describir!",
+              "nombre_completo": "Guía 2: ¡Utilicemos palabras para escribir y describir!",
+              "conceptos_procedimientos": ["La descripción", "La oración: sujeto y predicado", "Sustantivos, adjetivos, verbos y adverbios"],
+              "recursos": ["Imágenes de paisajes", "papel", "lápiz", "cartulinas o fichas para escribir comparaciones"]
+            },
+            {
+              "numero": 3,
+              "nombre": "¡Disfrutemos y aprendamos de textos narrativos como los cuentos!",
+              "nombre_completo": "Guía 3: ¡Disfrutemos y aprendamos de textos narrativos como los cuentos!",
+              "conceptos_procedimientos": ["Estructura del cuento", "Elementos del cuento: personajes, ambiente o espacio, tiempo, hechos o acciones", "Planeación de la escritura de un cuento"],
+              "recursos": ["Elementos para narración oral", "libros de cuentos", "papel", "lápiz", "cartulinas", "lápices de colores"]
+            },
+            {
+              "numero": 4,
+              "nombre": "¡Leamos textos narrativos: las fábulas!",
+              "nombre_completo": "Guía 4: ¡Leamos textos narrativos: las fábulas!",
+              "conceptos_procedimientos": ["La fábula", "La moraleja", "Características de la fábula como texto narrativo", "Figuras literarias: personificación"],
+              "recursos": ["Libros de fábulas", "papel", "lápiz", "conexión a Internet", "Libro de Mis creaciones"]
+            },
+            {
+              "numero": 5,
+              "nombre": "¡Leamos textos narrativos: los mitos!",
+              "nombre_completo": "Guía 5: ¡Leamos textos narrativos: los mitos!",
+              "conceptos_procedimientos": ["Los mitos", "Características de los mitos", "Estructura de la oración: sujeto y predicado"],
+              "recursos": ["Libros de mitos", "lápices de colores", "papel", "lápiz", "conexión a Internet", "Buzón de sugerencias"]
+            },
+            {
+              "numero": 6,
+              "nombre": "¡Leamos textos narrativos: las leyendas!",
+              "nombre_completo": "Guía 6: ¡Leamos textos narrativos: las leyendas!",
+              "conceptos_procedimientos": ["Las leyendas", "Características y estructura de las leyendas", "Sujeto y predicado y sus respectivos núcleos: sustantivo y verbo"],
+              "recursos": ["Libros de leyendas", "papel", "lápiz", "colores", "cuaderno o Libro de Recuperación cultural", "conexión a Internet"]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "¡Descubramos el sonido y la imaginación en las palabras!",
+          "desempeno_general": "Reconozco y valoro cada vez más la importancia de la palabra oral y escrita como herramienta básica para comunicarnos.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "Nos gusta escribir poemas",
+              "nombre_completo": "Guía 7: Nos gusta escribir poemas",
+              "conceptos_procedimientos": ["Poemas: versos y estrofas", "La rima"],
+              "recursos": ["Disfraces para representar personajes", "Libros de poemas", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 8,
+              "nombre": "Actitud poética: ¡utilicemos figuras literarias!",
+              "nombre_completo": "Guía 8: Actitud poética: ¡utilicemos figuras literarias!",
+              "conceptos_procedimientos": ["Figuras literarias", "Comparación o símil", "Metáfora", "Personificación"],
+              "recursos": ["Libros de poema", "biblioteca o conexión a Internet", "Libro de Mis creaciones"]
+            },
+            {
+              "numero": 9,
+              "nombre": "¿Conocemos el valor de los poemas?",
+              "nombre_completo": "Guía 9: ¿Conocemos el valor de los poemas?",
+              "conceptos_procedimientos": ["El poema", "La estrofa, el verso y la rima", "Rimas consonantes y asonantes"],
+              "recursos": ["Disfraces para representar personajes", "hojas de papel", "lápiz", "Biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 10,
+              "nombre": "¡Escribo mis propios poemas!",
+              "nombre_completo": "Guía 10: ¡Escribo mis propios poemas!",
+              "conceptos_procedimientos": ["El poema", "Elementos para la composición de un poema"],
+              "recursos": ["Cartulinas", "lápices de colores", "recortes de revistas", "hojas de papel", "lápiz", "Periódico mural"]
+            },
+            {
+              "numero": 11,
+              "nombre": "¡Juguemos con letras y palabras!",
+              "nombre_completo": "Guía 11: ¡Juguemos con letras y palabras!",
+              "conceptos_procedimientos": ["Fonética y grafía de las palabras", "Juegos de palabras: caligramas, acrósticos, jitanjáforas y retahílas"],
+              "recursos": ["Libros con juegos de palabras", "hojas de papel", "lápiz", "Libro de Mis creaciones"]
+            },
+            {
+              "numero": 12,
+              "nombre": "¡Las obras de teatro nos divierten!",
+              "nombre_completo": "Guía 12: ¡Las obras de teatro nos divierten!",
+              "conceptos_procedimientos": ["Obras de teatro", "El mimo", "La pantomima", "El género dramático"],
+              "recursos": ["Disfraces y objetos para representar personajes", "hojas de papel", "lápiz", "Materiales para elaborar un títere"]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "¡Conozcamos formas de disfrutar y utilizar el lenguaje!",
+          "desempeno_general": "Identifico diversas formas de utilizar el lenguaje al comunicarnos y las aplico en las circunstancias cotidianas y en mi relación con los demás.",
+          "guias": [
+            {
+              "numero": 13,
+              "nombre": "¿Cómo utilizamos el lenguaje?",
+              "nombre_completo": "Guía 13: ¿Cómo utilizamos el lenguaje?",
+              "conceptos_procedimientos": ["Lengua", "Lenguaje cotidiano, científico y literario"],
+              "recursos": ["Libros científicos y literarios", "hojas de papel", "lápiz", "cartulinas", "lápices de colores", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 14,
+              "nombre": "¡Conozco más sobre las palabras!",
+              "nombre_completo": "Guía 14: ¡Conozco más sobre las palabras!",
+              "conceptos_procedimientos": ["Palabras polisémicas, homónimas, sinónimas y antónimas"],
+              "recursos": ["Cartulina", "lápices de colores", "papel", "lápiz", "conexión a Internet", "Buzón de sugerencias"]
+            },
+            {
+              "numero": 15,
+              "nombre": "¡Escribamos mensajes!",
+              "nombre_completo": "Guía 15: ¡Escribamos mensajes!",
+              "conceptos_procedimientos": ["La carta", "Tipos de carta: familiares, comerciales, de relaciones sociales"],
+              "recursos": ["Cartas", "hojas de papel", "lápiz", "colores", "cuaderno o Libro de Recuperación cultural", "conexión a Internet", "Buzón de sugerencias"]
+            },
+            {
+              "numero": 16,
+              "nombre": "¡Podemos comunicarnos sin palabras!",
+              "nombre_completo": "Guía 16: ¡Podemos comunicarnos sin palabras!",
+              "conceptos_procedimientos": ["La historieta", "Las viñetas", "Comunicación por gestos y señales"],
+              "recursos": ["Libros de historietas", "colores", "hojas de papel", "lápiz", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 17,
+              "nombre": "¡Juguemos a transmitir mensajes!",
+              "nombre_completo": "Guía 17: ¡Juguemos a transmitir mensajes!",
+              "conceptos_procedimientos": ["La oración", "Clases de oraciones: enunciativas, interrogativas, imperativas y admirativas o exclamativas"],
+              "recursos": ["Periódicos", "revistas", "tijeras", "cartulina", "hojas de papel", "lápiz", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 18,
+              "nombre": "¡Identifiquemos oraciones y párrafos al escribir!",
+              "nombre_completo": "Guía 18: ¡Identifiquemos oraciones y párrafos al escribir!",
+              "conceptos_procedimientos": ["El párrafo", "Tiempo, número y persona en los verbos"],
+              "recursos": ["Fichas para explicar los conectores", "hojas de papel", "lápiz"]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "¡Avancemos en el conocimiento del lenguaje!",
+          "desempeno_general": "Reconozco diversas formas de expresión oral y escrita, y valoro su importancia en el desarrollo de mi competencia comunicativa.",
+          "guias": [
+            {
+              "numero": 19,
+              "nombre": "Conozco diversas técnicas de expresión oral: la entrevista",
+              "nombre_completo": "Guía 19: Conozco diversas técnicas de expresión oral: la entrevista",
+              "conceptos_procedimientos": ["La entrevista", "Lenguaje verbal y no verbal en las entrevistas", "Pronombres interrogativos: qué, quién, cuál, cuánto", "Diferencias entre 'por qué', 'porque' y 'porqué'"],
+              "recursos": ["Cuaderno", "hojas de papel", "lápiz", "colores"]
+            },
+            {
+              "numero": 20,
+              "nombre": "¡Aprendamos a argumentar en mesas redondas y debates!",
+              "nombre_completo": "Guía 20: ¡Aprendamos a argumentar en mesas redondas y debates!",
+              "conceptos_procedimientos": ["Técnicas de comunicación: la mesa redonda y el debate"],
+              "recursos": ["Diccionario", "hojas de papel", "lápiz"]
+            },
+            {
+              "numero": 21,
+              "nombre": "¡Interpretemos noticias y escribamos!",
+              "nombre_completo": "Guía 21: ¡Interpretemos noticias y escribamos!",
+              "conceptos_procedimientos": ["La noticia", "Estructura de la noticia", "Intención comunicativa de diversas noticias"],
+              "recursos": ["Periódicos y revistas", "lápiz", "hojas de papel", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 22,
+              "nombre": "¡Cada vez me intereso más por la lectura!",
+              "nombre_completo": "Guía 22: ¡Cada vez me intereso más por la lectura!",
+              "conceptos_procedimientos": ["La lectura", "Los signos de puntuación: dos puntos, coma enumerativa, puntos suspensivos, signos de admiración e interrogación", "Tilde diacrítica"],
+              "recursos": ["Periódicos o revistas", "hojas de papel", "biblioteca o conexión a Internet"]
+            },
+            {
+              "numero": 23,
+              "nombre": "¡Comprendamos y escribamos textos instructivos!",
+              "nombre_completo": "Guía 23: ¡Comprendamos y escribamos textos instructivos!",
+              "conceptos_procedimientos": ["El texto instructivo: recetas, mapas y guías turísticas"],
+              "recursos": ["Bolsa de papel", "hojas de papel", "lápiz", "regla", "pegante", "lápices de colores", "tijeras pegamento", "lana", "témperas", "algodón y escarcha"]
+            },
+            {
+              "numero": 24,
+              "nombre": "¡Aprendamos a tomar notas!",
+              "nombre_completo": "Guía 24: ¡Aprendamos a tomar notas!",
+              "conceptos_procedimientos": ["El ensayo escrito", "La toma de notas", "El verbo: lexema y morfema", "Desinencias y conjugaciones del verbo"],
+              "recursos": ["Radio", "televisión", "revistas", "hojas de papel", "lápiz", "lápices de colores"]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

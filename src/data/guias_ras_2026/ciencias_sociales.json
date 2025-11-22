@@ -1,0 +1,1527 @@
+{
+  "asignatura": "Ciencias Sociales",
+  "grados": [
+    {
+      "grado": "2",
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "¡Nuestra vida en comunidad!",
+          "desempeño_general": "Identifico la conformación y la importancia de una familia y de una comunidad.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¿Cómo soy?",
+              "nombre_completo": "¿Cómo soy?",
+              "conceptos_procedimientos": [
+                "Características físicas y características personales",
+                "Registro civil de nacimiento"
+              ],
+              "recursos": [
+                "Diccionario de la lengua española",
+                "Hoja de papel",
+                "Espejo"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "¿Cómo es mi familia?",
+              "nombre_completo": "¿Cómo es mi familia?",
+              "conceptos_procedimientos": [
+                "El grupo familiar",
+                "Tipos de familia",
+                "Pasos para resolver un conflicto"
+              ],
+              "recursos": []
+            },
+            {
+              "numero": 3,
+              "nombre": "¿Cuáles son los derechos y deberes de los niños y las niñas?",
+              "nombre_completo": "¿Cuáles son los derechos y deberes de los niños y las niñas?",
+              "conceptos_procedimientos": [
+                "Derechos y deberes de los hogares",
+                "La importancia del aseo personal"
+              ],
+              "recursos": [
+                "Recurso Renueva S2U1G3A3",
+                "Tiza",
+                "Cuerda"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "¡Aprendamos más sobre nuestros derechos!",
+              "nombre_completo": "¡Aprendamos más sobre nuestros derechos!",
+              "conceptos_procedimientos": [
+                "Derechos y deberes de la niñez",
+                "Deberes familiares"
+              ],
+              "recursos": []
+            },
+            {
+              "numero": 5,
+              "nombre": "¿Por qué son importantes los grupos y las comunidades?",
+              "nombre_completo": "¿Por qué son importantes los grupos y las comunidades?",
+              "conceptos_procedimientos": [
+                "Conformación de un grupo y de una comunidad",
+                "Características de los grupos y comunidades humanas"
+              ],
+              "recursos": [
+                "Materiales necesarios para elaborar un cartel",
+                "Recurso Renueva S2U1G5A7",
+                "Materiales para una dramatización"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Conozcamos nuestro medio natural y social",
+          "desempeño_general": "Reconozco algunas características geográficas, culturales y económicas de la comunidad en donde vivo.",
+          "guias": [
+            {
+              "numero": 6,
+              "nombre": "Somos parte de una pequeña sociedad",
+              "nombre_completo": "Somos parte de una pequeña sociedad",
+              "conceptos_procedimientos": [
+                "Elementos que conforman una sociedad",
+                "La escuela se organiza como una sociedad"
+              ],
+              "recursos": []
+            },
+            {
+              "numero": 7,
+              "nombre": "¿Dónde estamos?",
+              "nombre_completo": "¿Dónde estamos?",
+              "conceptos_procedimientos": [
+                "La importancia del Sol para la orientación",
+                "Puntos cardinales",
+                "Orientación mediante los puntos cardinales"
+              ],
+              "recursos": [
+                "Cuatro piedras",
+                "Tiza",
+                "Dos hojas de block",
+                "Marcadores",
+                "Recurso Renueva S2U3G7A3",
+                "Colores"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "¿Cuáles son los elementos del paisaje geográfico?",
+              "nombre_completo": "¿Cuáles son los elementos del paisaje geográfico?",
+              "conceptos_procedimientos": [
+                "Elementos del paisaje geográfico"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Papel periódico",
+                "Plastilina",
+                "Tabla de madera",
+                "Revistas",
+                "Periódicos",
+                "Folletos"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "¡Hablemos del clima!",
+              "nombre_completo": "¡Hablemos del clima!",
+              "conceptos_procedimientos": [
+                "Relación entre el clima y el paisaje",
+                "Tipos de climas"
+              ],
+              "recursos": [
+                "Octavo de cartón paja o cartulina",
+                "Vinilos",
+                "Colores",
+                "Plastilina",
+                "Hojas secas"
+              ]
+            },
+            {
+              "numero": 10,
+              "nombre": "¿Por qué son importantes los trabajos?",
+              "nombre_completo": "¿Por qué son importantes los trabajos?",
+              "conceptos_procedimientos": [
+                "Importancia de las profesiones y oficios de los integrantes de nuestra comunidad"
+              ],
+              "recursos": [
+                "Materiales necesarios para realizar una dramatización"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Conozcamos nuestro entorno",
+          "desempeño_general": "Identifico y valoro las características culturales del lugar donde vivo.",
+          "guias": [
+            {
+              "numero": 11,
+              "nombre": "¿Cuáles son los trabajos del campo y de la ciudad?",
+              "nombre_completo": "¿Cuáles son los trabajos del campo y de la ciudad?",
+              "conceptos_procedimientos": [
+                "Beneficios y servicios de las diferentes profesiones y oficios"
+              ],
+              "recursos": [
+                "Recurso Renueva S2U3G11A5"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "¿Cómo es el lugar donde vivimos?",
+              "nombre_completo": "¿Cómo es el lugar donde vivimos?",
+              "conceptos_procedimientos": [
+                "Lugares que se encuentran en los distintos puntos cardinales de nuestro municipio o barrio"
+              ],
+              "recursos": [
+                "Colores",
+                "Mapa de nuestro municipio o ciudad"
+              ]
+            },
+            {
+              "numero": 13,
+              "nombre": "¿Cómo nació nuestra ciudad o municipio?",
+              "nombre_completo": "¿Cómo nació nuestra ciudad o municipio?",
+              "conceptos_procedimientos": [
+                "Historia del municipio",
+                "Toponimia"
+              ],
+              "recursos": [
+                "Colores",
+                "Biblioteca o Internet",
+                "Mapa de nuestro municipio o departamento"
+              ]
+            },
+            {
+              "numero": 14,
+              "nombre": "¿Cuáles son las riquezas de nuestra ciudad o de nuestro municipio?",
+              "nombre_completo": "¿Cuáles son las riquezas de nuestra ciudad o de nuestro municipio?",
+              "conceptos_procedimientos": [
+                "Recursos naturales de nuestro municipio o ciudad",
+                "Divisiones territoriales de nuestro municipio o ciudad"
+              ],
+              "recursos": [
+                "Hojas de papel",
+                "Mapa de nuestro municipio o ciudad",
+                "Hoja papel mantequilla",
+                "Pliegos de cartulina",
+                "Revistas",
+                "Tijeras",
+                "Colores",
+                "Marcadores"
+              ]
+            },
+            {
+              "numero": 15,
+              "nombre": "¿Cuáles son las características culturales de nuestro entorno?",
+              "nombre_completo": "¿Cuáles son las características culturales de nuestro entorno?",
+              "conceptos_procedimientos": [
+                "Nuestras características culturales",
+                "Viviendas del campo y de la ciudad"
+              ],
+              "recursos": [
+                "Biblioteca",
+                "Materiales necesarios para elaborar carteles"
+              ]
+            },
+            {
+              "numero": 16,
+              "nombre": "¿Cuáles son las celebraciones propias de nuestro barrio o municipio?",
+              "nombre_completo": "¿Cuáles son las celebraciones propias de nuestro barrio o municipio?",
+              "conceptos_procedimientos": [
+                "Nuestras fiestas o celebraciones"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Materiales necesarios para realizar una dramatización"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "¿Cómo está organizada nuestra ciudad o municipio?",
+          "desempeño_general": "Reconozco la importancia de las autoridades, los símbolos y de las organizaciones de nuestra ciudad o municipio.",
+          "guias": [
+            {
+              "numero": 17,
+              "nombre": "¿Cuáles son las autoridades de nuestra ciudad o de nuestro municipio?",
+              "nombre_completo": "¿Cuáles son las autoridades de nuestra ciudad o de nuestro municipio?",
+              "conceptos_procedimientos": [
+                "Organización política del municipio",
+                "Funciones del alcalde, el Concejo Municipal y la Junta Administradora Local"
+              ],
+              "recursos": [
+                "Constitución Política de Colombia",
+                "Biblioteca o Internet",
+                "Materiales necesarios para realizar una dramatización"
+              ]
+            },
+            {
+              "numero": 18,
+              "nombre": "¡Conozcamos las organizaciones de nuestra ciudad o municipio!",
+              "nombre_completo": "¡Conozcamos las organizaciones de nuestra ciudad o municipio!",
+              "conceptos_procedimientos": [
+                "Organizaciones de nuestra ciudad o municipio"
+              ],
+              "recursos": [
+                "Materiales necesarios para realizar un cartel"
+              ]
+            },
+            {
+              "numero": 19,
+              "nombre": "Estudiemos los medios de transporte de nuestro municipio o ciudad",
+              "nombre_completo": "Estudiemos los medios de transporte de nuestro municipio o ciudad",
+              "conceptos_procedimientos": [
+                "Medios de transporte",
+                "Tipos de medios de transporte"
+              ],
+              "recursos": [
+                "Hoja de block",
+                "Recurso Renueva S2U4G19A10"
+              ]
+            },
+            {
+              "numero": 20,
+              "nombre": "¿Cuáles son los símbolos de nuestra ciudad o municipio?",
+              "nombre_completo": "¿Cuáles son los símbolos de nuestra ciudad o municipio?",
+              "conceptos_procedimientos": [
+                "Símbolos municipales"
+              ],
+              "recursos": [
+                "Biblioteca",
+                "Himno de nuestra ciudad o municipio",
+                "Plastilina",
+                "Arcilla",
+                "Papel",
+                "Lápices de colores",
+                "Pegamento",
+                "Temperas",
+                "Cartulina",
+                "Tela"
+              ]
+            },
+            {
+              "numero": 21,
+              "nombre": "Conozcamos algunos grupos indígenas de Colombia",
+              "nombre_completo": "Conozcamos algunos grupos indígenas de Colombia",
+              "conceptos_procedimientos": [
+                "Características culturales de las familias chibcha, caribe y arawak",
+                "Cultura muisca"
+              ],
+              "recursos": []
+            },
+            {
+              "numero": 22,
+              "nombre": "¿Por qué son importantes los servicios públicos?",
+              "nombre_completo": "¿Por qué son importantes los servicios públicos?",
+              "conceptos_procedimientos": [
+                "Tipos e importancia de los servicios públicos",
+                "Uso responsable de los servicios públicos"
+              ],
+              "recursos": []
+            },
+            {
+              "numero": 23,
+              "nombre": "¿Por qué luchamos por la libertad?",
+              "nombre_completo": "¿Por qué luchamos por la libertad?",
+              "conceptos_procedimientos": [
+                "Lucha por la independencia de Colombia"
+              ],
+              "recursos": [
+                "Diccionario de la lengua castellana"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grado": "3",
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Trabajando en equipo alcanzaremos nuestras metas",
+          "desempeño_general": "Trabajo en equipo para mejorar la organización de mi escuela o colegio y de mi comunidad. Reconozco mis derechos y deberes como integrante de mi escuela o colegio y de mi comunidad.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "Las normas facilitan nuestra convivencia",
+              "nombre_completo": "Las normas facilitan nuestra convivencia",
+              "conceptos_procedimientos": [
+                "La importancia de las normas",
+                "Manual de Convivencia"
+              ],
+              "recursos": [
+                "Hojas de papel",
+                "Pliegos de cartulina",
+                "Marcadores",
+                "Manual de Convivencia"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "¿Cómo puedo cumplir las normas?",
+              "nombre_completo": "¿Cómo puedo cumplir las normas?",
+              "conceptos_procedimientos": [
+                "Importancia de las normas",
+                "Normas de prevención y normas de relación",
+                "Código Nacional de Tránsito",
+                "Señales de tránsito"
+              ],
+              "recursos": [
+                "Código Nacional de Tránsito",
+                "Señales de tránsito"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "Organicemos nuestro Gobierno Estudiantil",
+              "nombre_completo": "Organicemos nuestro Gobierno Estudiantil",
+              "conceptos_procedimientos": [
+                "Importancia y funciones del Gobierno Estudiantil",
+                "Consejo Estudiantil y Consejo Directivo"
+              ],
+              "recursos": [
+                "Diccionario",
+                "Cartulina",
+                "Revistas",
+                "Marcadores",
+                "Materiales necesarios para elaborar carteles, pancartas y afiches"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "Organizados trabajamos mejor",
+              "nombre_completo": "Organizados trabajamos mejor",
+              "conceptos_procedimientos": [
+                "Importancia de la organización y de los grupos"
+              ],
+              "recursos": [
+                "Hojas de block",
+                "Materiales necesarios para realizar un collage y una representación teatral"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "¡Viajemos por nuestro departamento!",
+          "desempeño_general": "Identifico la importancia de ubicarme en el espacio físico en el que me encuentro. Reconozco las características naturales, geográficas y administrativas del municipio y del departamento donde vivo.",
+          "guias": [
+            {
+              "numero": 5,
+              "nombre": "¡Quien se orienta nunca se pierde!",
+              "nombre_completo": "¡Quien se orienta nunca se pierde!",
+              "conceptos_procedimientos": [
+                "Orientación espacial",
+                "La rosa de los vientos",
+                "Brújula",
+                "Puntos cardinales"
+              ],
+              "recursos": [
+                "Una aguja",
+                "Un imán",
+                "Un corcho",
+                "Una hoja de block",
+                "Un recipiente con agua"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "Conozcamos nuestro municipio y departamento",
+              "nombre_completo": "Conozcamos nuestro municipio y departamento",
+              "conceptos_procedimientos": [
+                "El municipio",
+                "El departamento",
+                "Características geográficas del municipio y del departamento",
+                "Recursos naturales de Colombia"
+              ],
+              "recursos": [
+                "Colores",
+                "Atlas",
+                "Cartón o tabla",
+                "Plastilina",
+                "Arcilla",
+                "Palos",
+                "Hojas secas",
+                "Arena",
+                "Biblioteca o Internet",
+                "Recurso Renueva S3U2G6A4",
+                "Materiales necesarios para elaborar los mapas del municipio y departamento"
+              ]
+            },
+            {
+              "numero": 7,
+              "nombre": "Conozcamos las autoridades de nuestro departamento",
+              "nombre_completo": "Conozcamos las autoridades de nuestro departamento",
+              "conceptos_procedimientos": [
+                "Autoridades de nuestro departamento"
+              ],
+              "recursos": [
+                "Libros de Ciencias Sociales o diccionario",
+                "Constitución Política de Colombia",
+                "Materiales necesarios para representar al gobernador o a la gobernadora de nuestro departamento"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "¿Cuál es la división política y administrativa de nuestro municipio?",
+              "nombre_completo": "¿Cuál es la división política y administrativa de nuestro municipio?",
+              "conceptos_procedimientos": [
+                "División política del municipio",
+                "División política del departamento"
+              ],
+              "recursos": [
+                "Mapa de la división político-administrativa de Colombia",
+                "Libros de Ciencias Sociales o diccionario",
+                "Mapa político de nuestro departamento"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "Las autoridades y la ciudadanía",
+              "nombre_completo": "Las autoridades y la ciudadanía",
+              "conceptos_procedimientos": [
+                "Organismos de control del Estado"
+              ],
+              "recursos": [
+                "Hojas de block",
+                "Diccionario",
+                "Dos bolsas plásticas",
+                "Marcadores no borrables",
+                "Tijeras",
+                "Materiales necesarios para representar un noticiero"
+              ]
+            },
+            {
+              "numero": 10,
+              "nombre": "¿Cómo es la región donde vivimos?",
+              "nombre_completo": "¿Cómo es la región donde vivimos?",
+              "conceptos_procedimientos": [
+                "Regiones naturales de Colombia"
+              ],
+              "recursos": [
+                "Un mapa político de Colombia",
+                "Un cartón",
+                "Pegamento",
+                "Tijeras",
+                "Pedazos de papel",
+                "Bolsas",
+                "Materiales necesarios para elaborar un cartel"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Valoremos nuestras riquezas",
+          "desempeño_general": "Valoro las características culturales, naturales, de comunicación y de transporte de mi departamento.",
+          "guias": [
+            {
+              "numero": 11,
+              "nombre": "Comparemos un paisaje natural con un paisaje cultural",
+              "nombre_completo": "Comparemos un paisaje natural con un paisaje cultural",
+              "conceptos_procedimientos": [
+                "Paisaje natural",
+                "Paisaje cultural",
+                "Paisaje, actividades, construcciones, productos, mercado y medios de transporte de nuestra región"
+              ],
+              "recursos": [
+                "Grabadoras",
+                "Cámaras fotográficas"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "Conozcamos los recursos naturales de nuestra región",
+              "nombre_completo": "Conozcamos los recursos naturales de nuestra región",
+              "conceptos_procedimientos": [
+                "Recursos naturales de nuestro planeta",
+                "Recursos naturales de los departamentos de Colombia"
+              ],
+              "recursos": [
+                "Diccionario",
+                "Biblioteca o Internet",
+                "Materiales necesarios para elaborar carteles"
+              ]
+            },
+            {
+              "numero": 13,
+              "nombre": "¿Cómo es la cultura de nuestra región?",
+              "nombre_completo": "¿Cómo es la cultura de nuestra región?",
+              "conceptos_procedimientos": [
+                "Cultura de nuestra región"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Hojas de block",
+                "Materiales necesarios para realizar un cartel y una presentación sobre la cultura de nuestra región"
+              ]
+            },
+            {
+              "numero": 14,
+              "nombre": "¿Cuál es nuestro patrimonio cultural?",
+              "nombre_completo": "¿Cuál es nuestro patrimonio cultural?",
+              "conceptos_procedimientos": [
+                "La importancia de la cultura",
+                "Tradiciones culturales de nuestro país"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "Recursos Renueva S3U3G14A5 y S3U3G14B3",
+                "Revistas",
+                "Colores",
+                "Marcadores",
+                "Materiales necesarios para realizar carteles"
+              ]
+            },
+            {
+              "numero": 15,
+              "nombre": "¡Nuestros símbolos son importantes!",
+              "nombre_completo": "¡Nuestros símbolos son importantes!",
+              "conceptos_procedimientos": [
+                "Símbolos patrios: la Bandera, el Himno Nacional de Colombia, el Escudo, la Flor Nacional y el Árbol Nacional",
+                "Patriotismo"
+              ],
+              "recursos": [
+                "Biblioteca",
+                "Hojas blancas",
+                "Colores",
+                "Marcadores",
+                "Manual de Convivencia",
+                "Pliegos de cartulina",
+                "Tijeras",
+                "Revistas",
+                "Pegante"
+              ]
+            },
+            {
+              "numero": 16,
+              "nombre": "¿Qué medios utilizamos para comunicarnos y transportarnos?",
+              "nombre_completo": "¿Qué medios utilizamos para comunicarnos y transportarnos?",
+              "conceptos_procedimientos": [
+                "Medios de comunicación",
+                "Medios de transporte"
+              ],
+              "recursos": [
+                "Vinilos",
+                "Marcadores",
+                "Plastilina",
+                "Arcilla",
+                "Alambre",
+                "Hojas blancas"
+              ]
+            },
+            {
+              "numero": 17,
+              "nombre": "Valoremos nuestra cultura colombiana",
+              "nombre_completo": "Valoremos nuestra cultura colombiana",
+              "conceptos_procedimientos": [
+                "Diversidad cultural de Colombia",
+                "Estereotipo"
+              ],
+              "recursos": [
+                "Biblioteca",
+                "Un diccionario",
+                "Materiales necesarios para realizar una representación teatral"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "¡Conozcamos nuestra historia!",
+          "desempeño_general": "Estudio el legado histórico, social y cultural de mi país.",
+          "guias": [
+            {
+              "numero": 18,
+              "nombre": "¡Organicemos nuestro tiempo!",
+              "nombre_completo": "¡Organicemos nuestro tiempo!",
+              "conceptos_procedimientos": [
+                "El tiempo",
+                "La importancia de organizar el tiempo"
+              ],
+              "recursos": []
+            },
+            {
+              "numero": 19,
+              "nombre": "¡Recorramos algunos periodos de la Historia!",
+              "nombre_completo": "¡Recorramos algunos periodos de la Historia!",
+              "conceptos_procedimientos": [
+                "Los periodos de la Historia"
+              ],
+              "recursos": [
+                "Biblioteca",
+                "Materiales necesarios para realizar un cartel y una representación teatral"
+              ]
+            },
+            {
+              "numero": 20,
+              "nombre": "Acerquémonos a la historia de nuestro país",
+              "nombre_completo": "Acerquémonos a la historia de nuestro país",
+              "conceptos_procedimientos": [
+                "Épocas históricas de Colombia"
+              ],
+              "recursos": [
+                "Biblioteca",
+                "Materiales necesarios para realizar carteles o una representación teatral"
+              ]
+            },
+            {
+              "numero": 21,
+              "nombre": "¿Qué fue la Revolución de Independencia?",
+              "nombre_completo": "¿Qué fue la Revolución de Independencia?",
+              "conceptos_procedimientos": [
+                "Principales acontecimientos de la Revolución de Independencia",
+                "Vida y obra de Antonio Nariño"
+              ],
+              "recursos": [
+                "Biblioteca",
+                "Materiales necesarios para realizar una representación teatral"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grado": "4",
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Valoremos nuestros derechos y deberes",
+          "desempeño_general": "Reconozco los derechos de los niños y las niñas e identifico las instituciones que garantizan su protección.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¿Cuáles son nuestros derechos y deberes?",
+              "nombre_completo": "¿Cuáles son nuestros derechos y deberes?",
+              "conceptos_procedimientos": [
+                "Los derechos de los niños y las niñas",
+                "Relación entre los derechos y los deberes"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Pliegos de cartulina",
+                "Marcadores",
+                "Colores",
+                "Manual de Convivencia",
+                "Revistas",
+                "Tijeras",
+                "Pegante"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "¿Qué es el Código de Infancia y Adolescencia?",
+              "nombre_completo": "¿Qué es el Código de Infancia y Adolescencia?",
+              "conceptos_procedimientos": [
+                "El Código de Infancia y Adolescencia",
+                "Instituciones locales que protegen los derechos de los niños, las niñas y de sus familias"
+              ],
+              "recursos": [
+                "Pliegos de cartulina",
+                "Marcadores",
+                "Colores",
+                "Tijeras",
+                "Pegante",
+                "Biblioteca o Internet",
+                "Revistas o periódicos"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "¿Cuáles instituciones protegen nuestros derechos?",
+              "nombre_completo": "¿Cuáles instituciones protegen nuestros derechos?",
+              "conceptos_procedimientos": [
+                "Instituciones locales, nacionales e internacionales que protegen los derechos de los niños, las niñas y de sus familias",
+                "Servicios que prestan estas instituciones"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Pliego de cartulina",
+                "Hoja de block",
+                "Marcadores",
+                "Colores",
+                "Revistas",
+                "Tijeras",
+                "Pegante",
+                "Materiales necesarios para realizar una representación"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "Conozcamos nuestros derechos ambientales y sociales",
+              "nombre_completo": "Conozcamos nuestros derechos ambientales y sociales",
+              "conceptos_procedimientos": [
+                "Contexto social y contexto natural",
+                "Tipos de derechos sociales y ambientales"
+              ],
+              "recursos": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "El universo y nuestro origen",
+          "desempeño_general": "Ubico a Colombia geográficamente, usando sistemas de representación y localización. Identifico algunas características climáticas, naturales y culturales de Colombia.",
+          "guias": [
+            {
+              "numero": 5,
+              "nombre": "¡Ubiquémonos en el sistema solar!",
+              "nombre_completo": "¡Ubiquémonos en el sistema solar!",
+              "conceptos_procedimientos": [
+                "El sistema solar",
+                "La Tierra",
+                "Movimientos de rotación y traslación de los planetas del sistema solar"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Un pliego de cartulina",
+                "Un mapamundi o un planisferio",
+                "Nueve bolas de icopor",
+                "Marcadores",
+                "Temperas",
+                "Silicona o pegante",
+                "Recurso Renueva S4U2G5A11",
+                "Trompos"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "¿En qué lugar de la Tierra se encuentra Colombia?",
+              "nombre_completo": "¿En qué lugar de la Tierra se encuentra Colombia?",
+              "conceptos_procedimientos": [
+                "Posición astronómica y geográfica de Colombia",
+                "Ubicación de Colombia en América"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Colores",
+                "Marcadores",
+                "Revistas",
+                "Tijeras",
+                "Pegante",
+                "Hojas de papel",
+                "Una bolsa plástica",
+                "Regla"
+              ]
+            },
+            {
+              "numero": 7,
+              "nombre": "Estudiemos las principales características del clima",
+              "nombre_completo": "Estudiemos las principales características del clima",
+              "conceptos_procedimientos": [
+                "Características del clima",
+                "Factores climáticos",
+                "La capa de ozono",
+                "Relaciones entre el clima y la cultura"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Hojas de block",
+                "Un termómetro",
+                "Una veleta",
+                "Un pluviómetro o materiales necesarios para elaborar estos objetos: botella de gaseosa, plastilina, alcohol, agua, pitillo de plástico, colorante rojo, un cilindro, piedras, alfiler, un octavo de cartulina, tijeras, pegante, un lápiz, una botella de plástico, marcadores, cinta",
+                "Recurso Renueva S4U2G7A3",
+                "Un embudo"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "¿Qué grupos étnicos habitan las regiones naturales de Colombia?",
+              "nombre_completo": "¿Qué grupos étnicos habitan las regiones naturales de Colombia?",
+              "conceptos_procedimientos": [
+                "Origen de los grupos étnicos de Colombia",
+                "Regiones naturales de Colombia en las que habitan determinados grupos étnicos",
+                "Principales características de las regiones naturales de Colombia"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Un pliego de cartulina",
+                "Colores",
+                "Marcadores",
+                "Revistas",
+                "Tijeras",
+                "Pegante"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "Estudiemos algunas características del campo y de la ciudad",
+              "nombre_completo": "Estudiemos algunas características del campo y de la ciudad",
+              "conceptos_procedimientos": [
+                "Características del campo y de la ciudad",
+                "Densidad poblacional de Colombia"
+              ],
+              "recursos": [
+                "Tabla de madera",
+                "Cartulina",
+                "Cartón paja",
+                "Temperas",
+                "Tijeras",
+                "Papel periódico",
+                "Plastilina",
+                "Pegante",
+                "Biblioteca o Internet"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "América y la cultura de nuestro país",
+          "desempeño_general": "Identifico las causas y las consecuencias del descubrimiento, la Conquista y la Colonia en América. Valoro los aportes de las civilizaciones prehispánicas de América a la cultura de nuestro país.",
+          "guias": [
+            {
+              "numero": 10,
+              "nombre": "¿Cómo vivían nuestros antepasados americanos?",
+              "nombre_completo": "¿Cómo vivían nuestros antepasados americanos?",
+              "conceptos_procedimientos": [
+                "Comunidades nómadas y comunidades sedentarias",
+                "Adaptación del ser humano al medio de acuerdo con sus necesidades",
+                "Características de las civilizaciones prehispánicas de América"
+              ],
+              "recursos": [
+                "Mapa de América",
+                "Hojas papel mantequilla",
+                "Colores",
+                "Marcadores"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "¿Cuáles fueron las contribuciones culturales de las comunidades prehispánicas?",
+              "nombre_completo": "¿Cuáles fueron las contribuciones culturales de las comunidades prehispánicas?",
+              "conceptos_procedimientos": [
+                "Familias lingüísticas de Colombia: familia chibcha, familia caribe y familia arawak",
+                "La cooperación entre las comunidades prehispánicas"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Un pliego de cartulina",
+                "Marcadores",
+                "Colores",
+                "Tijeras",
+                "Revistas",
+                "Pegante",
+                "Una hoja de papel mantequilla"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "Conozcamos algunas características del descubrimiento de América",
+              "nombre_completo": "Conozcamos algunas características del descubrimiento de América",
+              "conceptos_procedimientos": [
+                "Causas y consecuencia del Descubrimiento de América",
+                "Hechos importantes que caracterizaron el descubrimiento de América"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Materiales necesarios para realizar una representación"
+              ]
+            },
+            {
+              "numero": 13,
+              "nombre": "¿Cómo sucedió la Conquista de América?",
+              "nombre_completo": "¿Cómo sucedió la Conquista de América?",
+              "conceptos_procedimientos": [
+                "Causas y consecuencias del Descubrimiento de América",
+                "Fundación de las primeras ciudades",
+                "Sometimiento de los indígenas por parte de los españoles"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Materiales necesarios para realizar una representación"
+              ]
+            },
+            {
+              "numero": 14,
+              "nombre": "¿Cómo fue la época colonial?",
+              "nombre_completo": "¿Cómo fue la época colonial?",
+              "conceptos_procedimientos": [
+                "Causas y consecuencias de la Colonia",
+                "Sistemas de trabajo durante la Colonia",
+                "Instituciones creadas por España durante la Colonia"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Materiales necesarios para realizar una representación"
+              ]
+            },
+            {
+              "numero": 15,
+              "nombre": "Estudiemos algunas características de la población afrocolombiana",
+              "nombre_completo": "Estudiemos algunas características de la población afrocolombiana",
+              "conceptos_procedimientos": [
+                "Características de África",
+                "Esclavitud en América",
+                "Características culturales de la población afrocolombiana"
+              ],
+              "recursos": [
+                "Biblioteca o Internet"
+              ]
+            },
+            {
+              "numero": 16,
+              "nombre": "Estudiemos la importancia de las ciudades colombianas del siglo XIX",
+              "nombre_completo": "Estudiemos la importancia de las ciudades colombianas del siglo XIX",
+              "conceptos_procedimientos": [
+                "Las ciudades fundadas durante el siglo XIX",
+                "Vida cotidiana en el siglo XIX",
+                "Razones por las cuales se fundaron algunas ciudades de Colombia"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Un mapa de Colombia",
+                "Cartón",
+                "Plastilina de varios colores",
+                "Papel periódico o higiénico",
+                "Pegante",
+                "Temperas",
+                "Pinceles",
+                "Un vaso con agua"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Estudiemos las necesidades y la organización de nuestra sociedad",
+          "desempeño_general": "Identifico hechos históricos que permitieron la independencia y la posterior organización político-administrativa de Colombia. Reconozco la importancia de satisfacer las necesidades básicas de las familias.",
+          "guias": [
+            {
+              "numero": 16,
+              "nombre": "¿Cuáles son las necesidades de nuestras familias?",
+              "nombre_completo": "¿Cuáles son las necesidades de nuestras familias?",
+              "conceptos_procedimientos": [
+                "Necesidades básicas de las familias",
+                "Consecuencias de no satisfacer las necesidades básicas",
+                "Organizaciones que ayudan a satisfacer las necesidades básicas"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Periódicos",
+                "Octavos de cartulina",
+                "Marcadores",
+                "Colores",
+                "Revistas",
+                "Tijeras",
+                "Pegante",
+                "Materiales necesarios para realizar una dramatización muda"
+              ]
+            },
+            {
+              "numero": 17,
+              "nombre": "¿Qué es la canasta familiar?",
+              "nombre_completo": "¿Qué es la canasta familiar?",
+              "conceptos_procedimientos": [
+                "Definición de canasta familiar",
+                "Bienes y servicios que conforman la canasta familiar"
+              ],
+              "recursos": [
+                "Hojas de block",
+                "Un pliego de cartulina",
+                "Marcadores",
+                "Colores",
+                "Revistas",
+                "Tijeras",
+                "Pegante",
+                "Biblioteca o Internet"
+              ]
+            },
+            {
+              "numero": 18,
+              "nombre": "¿Cómo está organizado nuestro país?",
+              "nombre_completo": "¿Cómo está organizado nuestro país?",
+              "conceptos_procedimientos": [
+                "División político-administrativa de Colombia",
+                "Participación política en Colombia"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Pliego de cartulina",
+                "Marcadores",
+                "Colores",
+                "Tijeras",
+                "Pegante",
+                "Mapa político de Colombia",
+                "Dos octavos de cartulina",
+                "Revistas",
+                "Una bolsa"
+              ]
+            },
+            {
+              "numero": 19,
+              "nombre": "¿Por qué son importantes los servicios públicos?",
+              "nombre_completo": "¿Por qué son importantes los servicios públicos?",
+              "conceptos_procedimientos": [
+                "Servicios públicos",
+                "Importancia y adecuada utilización de los servicios públicos"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Pliegos de cartulina",
+                "Colores",
+                "Marcadores",
+                "Tijeras",
+                "Pegante"
+              ]
+            },
+            {
+              "numero": 20,
+              "nombre": "¿Qué fue el Grito de independencia?",
+              "nombre_completo": "¿Qué fue el Grito de independencia?",
+              "conceptos_procedimientos": [
+                "Causas y consecuencias del Grito de independencia",
+                "Acontecimientos más importantes del Grito de independencia"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Un pliego de cartulina",
+                "Marcadores",
+                "Colores",
+                "Revistas",
+                "Pegante",
+                "Recurso Renueva S4U4G20A6",
+                "Tijeras"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grado": "5",
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Aprendamos a convivir",
+          "desempeño_general": "Identifico y reconozco la importancia de nuestros derechos y deberes para el bienestar personal, escolar y comunitario.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¿Cuáles son nuestros derechos y deberes escolares?",
+              "nombre_completo": "¿Cuáles son nuestros derechos y deberes escolares?",
+              "conceptos_procedimientos": [
+                "Derechos y deberes en la escuela o el colegio",
+                "Organizaciones estudiantiles"
+              ],
+              "recursos": [
+                "Manual de Convivencia",
+                "Hojas de block",
+                "Tijeras",
+                "Colores",
+                "Revistas",
+                "Biblioteca o Internet"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "Los derechos humanos son de todas las personas",
+              "nombre_completo": "Los derechos humanos son de todas las personas",
+              "conceptos_procedimientos": [
+                "Los Derechos Humanos",
+                "Los derechos fundamentales",
+                "Los derechos sociales, económicos y culturales",
+                "Instituciones que promueven los derechos en Colombia"
+              ],
+              "recursos": [
+                "Constitución Política de Colombia",
+                "Biblioteca o Internet",
+                "Hojas de block",
+                "Colores",
+                "Marcadores",
+                "Revistas",
+                "Pegante"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "Estudiemos la Constitución Política de Colombia",
+              "nombre_completo": "Estudiemos la Constitución Política de Colombia",
+              "conceptos_procedimientos": [
+                "Deberes y derechos que vigila y protege la Constitución Política de Colombia",
+                "La Constitución como manual de convivencia social"
+              ],
+              "recursos": [
+                "Constitución política de Colombia",
+                "Manual de Convivencia",
+                "Un pliego de cartulina",
+                "Colores",
+                "Marcadores",
+                "Revistas",
+                "Tijeras",
+                "Recurso Renueva S5U1G3A7",
+                "Pegante",
+                "Hojas de block"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "¿Qué es la cultura?",
+              "nombre_completo": "¿Qué es la cultura?",
+              "conceptos_procedimientos": [
+                "Las características de la cultura",
+                "Tradiciones culturales de diferentes países del mundo"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Hojas de block",
+                "Vestuario y otros elementos necesarios para realizar una representación"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "¡Exploremos nuestro país!",
+          "desempeño_general": "Reconozco las principales características naturales del territorio colombiano.",
+          "guias": [
+            {
+              "numero": 5,
+              "nombre": "¿Cómo es el territorio colombiano?",
+              "nombre_completo": "¿Cómo es el territorio colombiano?",
+              "conceptos_procedimientos": [
+                "Formas del relieve de Colombia",
+                "Principales fuentes hídricas",
+                "Condiciones que influyen en la variedad de climas del país"
+              ],
+              "recursos": [
+                "Colores",
+                "Hojas de papel mantequilla",
+                "Una tabla o un cartón rígido de aproximadamente 30 centímetros de lado",
+                "Plastilina de varios colores",
+                "Papel higiénico",
+                "Papel periódico",
+                "Lápices",
+                "Pegante",
+                "Temperas",
+                "Vaso con agua",
+                "Biblioteca o Internet"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "Estudiemos la ubicación geográfica y las fronteras de Colombia",
+              "nombre_completo": "Estudiemos la ubicación geográfica y las fronteras de Colombia",
+              "conceptos_procedimientos": [
+                "Límites geográficos del territorio colombiano",
+                "Relación con algunos países vecinos"
+              ],
+              "recursos": [
+                "Constitución Política de Colombia",
+                "Biblioteca o Internet",
+                "Atlas",
+                "Hojas de papel mantequilla",
+                "Recurso Renueva S5U2G6A11",
+                "Colores"
+              ]
+            },
+            {
+              "numero": 7,
+              "nombre": "¿Cuáles son las regiones naturales de Colombia?",
+              "nombre_completo": "¿Cuáles son las regiones naturales de Colombia?",
+              "conceptos_procedimientos": [
+                "Regiones geográficas o naturales de Colombia: Región Caribe, Región del Pacífico, Región Insular, Región Andina, Región de la Orinoquia, Región de la Amazonia"
+              ],
+              "recursos": [
+                "Octavos y pliegos de cartulina",
+                "Tijeras",
+                "Lápices",
+                "Dos bolsas",
+                "Una regla",
+                "Marcadores",
+                "Revistas",
+                "Pegante",
+                "Recurso Renueva S5U2G7A5",
+                "Biblioteca o Internet"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "¿Por qué es tan importante el suelo?",
+              "nombre_completo": "¿Por qué es tan importante el suelo?",
+              "conceptos_procedimientos": [
+                "Tipos y características del suelo",
+                "Capas de la Tierra",
+                "Clases de bosques",
+                "Pisos térmicos",
+                "Áreas protegidas de Colombia"
+              ],
+              "recursos": [
+                "Mapa político de Colombia",
+                "Plastilina",
+                "Arcilla",
+                "Materiales reciclables",
+                "Biblioteca o Internet"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "¿Cuáles son las regiones naturales del mundo?",
+              "nombre_completo": "¿Cuáles son las regiones naturales del mundo?",
+              "conceptos_procedimientos": [
+                "Principales regiones naturales del mundo: tundra, bosque de coníferas, pradera, bosque templado, desierto, selva húmeda, sabana tropical, chaparral y páramo"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Hojas de block",
+                "Colores",
+                "Marcadores",
+                "Escuadra",
+                "Pegante",
+                "Tijeras",
+                "Revistas"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Conozcamos otras culturas y el origen de nuestro país",
+          "desempeño_general": "Identifico y valoro los principales acontecimientos, organizaciones y personajes que caracterizaron la historia de Colombia desde su descubrimiento por parte de los españoles hasta su independencia.",
+          "guias": [
+            {
+              "numero": 10,
+              "nombre": "Conozcamos algunas grandes exploraciones",
+              "nombre_completo": "Conozcamos algunas grandes exploraciones",
+              "conceptos_procedimientos": [
+                "Exploraciones de la Antigüedad",
+                "Exploraciones del Medioevo",
+                "Exploraciones de la época actual",
+                "Condiciones de las exploraciones y los descubrimientos"
+              ],
+              "recursos": [
+                "Atlas",
+                "Hojas de papel mantequilla",
+                "Colores",
+                "Marcadores",
+                "Biblioteca o Internet"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "¿Cómo fue la época de la Colonia en Colombia?",
+              "nombre_completo": "¿Cómo fue la época de la Colonia en Colombia?",
+              "conceptos_procedimientos": [
+                "Formas de gobierno durante la Colonia",
+                "Fundación de las primeras ciudades de Colombia"
+              ],
+              "recursos": [
+                "Atlas",
+                "Hojas de papel mantequilla",
+                "Materiales necesarios para realizar una representación",
+                "Marcadores",
+                "Colores"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "¡Colombia se independizó de España!",
+              "nombre_completo": "¡Colombia se independizó de España!",
+              "conceptos_procedimientos": [
+                "Causas de la independencia",
+                "La Revolución de los Comuneros",
+                "Proceso de independencia de Colombia"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Recurso Renueva S5U3G12A15"
+              ]
+            },
+            {
+              "numero": 13,
+              "nombre": "Colombia: ¡república independiente!",
+              "nombre_completo": "Colombia: ¡república independiente!",
+              "conceptos_procedimientos": [
+                "Condiciones sociales, políticas y económicas de la República",
+                "Relación de estas condiciones con la época actual"
+              ],
+              "recursos": [
+                "Pliegos de cartulina",
+                "Colores",
+                "Marcadores",
+                "Revistas",
+                "Tijeras",
+                "Pegante",
+                "Biblioteca o Internet"
+              ]
+            },
+            {
+              "numero": 14,
+              "nombre": "¿De qué manera otras culturas enriquecieron la nuestra?",
+              "nombre_completo": "¿De qué manera otras culturas enriquecieron la nuestra?",
+              "conceptos_procedimientos": [
+                "Influencia extranjera durante la época de la Conquista, la Colonia y la República",
+                "Procesos de aculturación y transculturación"
+              ],
+              "recursos": [
+                "Tijeras",
+                "Cartulina",
+                "Pegamento",
+                "Hojas blancas",
+                "Hojas papel mantequilla",
+                "Lápices de colores"
+              ]
+            },
+            {
+              "numero": 15,
+              "nombre": "Conozcamos la cultura afrocolombiana",
+              "nombre_completo": "Conozcamos la cultura afrocolombiana",
+              "conceptos_procedimientos": [
+                "Características culturales de la población afrocolombiana",
+                "Proceso mediante el cual la población afrocolombiana logró ser libre",
+                "Situación actual de la población afrocolombiana"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Pliegos de cartulina",
+                "Colores",
+                "Marcadores",
+                "Revistas",
+                "Tijeras",
+                "Pegante",
+                "Hojas de block"
+              ]
+            },
+            {
+              "numero": 16,
+              "nombre": "Estudiemos la importancia de las ciudades colombianas del siglo XIX",
+              "nombre_completo": "Estudiemos la importancia de las ciudades colombianas del siglo XIX",
+              "conceptos_procedimientos": [
+                "Las ciudades fundadas durante el siglo XIX",
+                "Vida cotidiana en el siglo XIX",
+                "Razones por las cuales se fundaron algunas ciudades de Colombia"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Un mapa de Colombia",
+                "Cartón",
+                "Plastilina de varios colores",
+                "Papel periódico o higiénico",
+                "Pegante",
+                "Temperas",
+                "Pinceles",
+                "Un vaso con agua"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Conozcamos nuestro país en la actualidad",
+          "desempeño_general": "Reconozco los cambios sociales, culturales y económicos que se han presentado en Colombia desde su independencia de España hasta la actualidad.",
+          "guias": [
+            {
+              "numero": 17,
+              "nombre": "¿Qué ocurrió en Colombia durante el siglo XX?",
+              "nombre_completo": "¿Qué ocurrió en Colombia durante el siglo XX?",
+              "conceptos_procedimientos": [
+                "Independencia de Panamá",
+                "Principales actividades económicas del siglo XX",
+                "La Guerra de los Mil Días",
+                "Formación de partidos políticos"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Pliegos de cartulina",
+                "Colores",
+                "Marcadores",
+                "Tijeras",
+                "Pegante",
+                "Revistas",
+                "Una bolsa",
+                "Ocho tarjetas de cartulina",
+                "Hojas de block"
+              ]
+            },
+            {
+              "numero": 18,
+              "nombre": "¿Qué cambios ocurrieron en Colombia entre los siglos XIX y XX?",
+              "nombre_completo": "¿Qué cambios ocurrieron en Colombia entre los siglos XIX y XX?",
+              "conceptos_procedimientos": [
+                "Sucesos importantes para el desarrollo de Colombia en el siglo XX",
+                "Condiciones políticas y sociales de Colombia",
+                "Sucesos importantes del siglo XIX",
+                "República Conservadora y República Libertad"
+              ],
+              "recursos": [
+                "Biblioteca o Internet",
+                "Cartón",
+                "Temperas",
+                "Papel periódico",
+                "Pliegos de cartulina",
+                "Colores",
+                "Marcadores",
+                "Revistas",
+                "Tijeras",
+                "Pegante"
+              ]
+            },
+            {
+              "numero": 19,
+              "nombre": "¿Por qué son importantes los medios de comunicación?",
+              "nombre_completo": "¿Por qué son importantes los medios de comunicación?",
+              "conceptos_procedimientos": [
+                "Medios de comunicación",
+                "Elementos de la comunicación",
+                "Tipos de comunicación",
+                "Uso adecuado de los medios de comunicación"
+              ],
+              "recursos": [
+                "Pliegos de cartulina",
+                "Marcadores",
+                "Colores",
+                "Revistas",
+                "Tijeras",
+                "Pegante"
+              ]
+            },
+            {
+              "numero": 20,
+              "nombre": "¡Conozcamos cómo progresa Colombia!",
+              "nombre_completo": "¡Conozcamos cómo progresa Colombia!",
+              "conceptos_procedimientos": [
+                "Sector primario de la economía",
+                "Sector secundario de la economía",
+                "Sector terciario de la economía"
+              ],
+              "recursos": [
+                "Pliegos de cartulina",
+                "Marcadores",
+                "Revistas",
+                "Tijeras",
+                "Colores",
+                "Biblioteca o Internet"
+              ]
+            },
+            {
+              "numero": 21,
+              "nombre": "¿Qué fue la Campaña Libertadora?",
+              "nombre_completo": "¿Qué fue la Campaña Libertadora?",
+              "conceptos_procedimientos": [
+                "Campaña Libertadora",
+                "Ruta de la Campaña Libertadora"
+              ],
+              "recursos": [
+                "Pliegos de cartulina",
+                "Marcadores",
+                "Colores",
+                "Revistas",
+                "Tijeras",
+                "Pegante",
+                "Biblioteca o Internet",
+                "Materiales y trajes necesarios para una representación"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

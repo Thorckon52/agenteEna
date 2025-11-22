@@ -1,0 +1,2504 @@
+{
+  "asignatura": "Matemáticas",
+  "grados": [
+    {
+      "grado": "Preparatorio",
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "¿Adivina adivinador qué aprenderemos hoy?",
+          "desempeño_general": "Interpreto situaciones matemáticas relacionadas con cantidad, medida y posición.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¿En dónde estamos: arriba - abajo - cerca - lejos?",
+              "nombre_completo": "¿En dónde estamos: arriba - abajo - cerca - lejos?",
+              "conceptos_procedimientos": [
+                "Relación espacio - temporal",
+                "Ubicación en el entorno"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Pegamento",
+                "Vinilo",
+                "Aguja o punzón",
+                "Lazos",
+                "Tiza",
+                "Calendarios",
+                "Revistas o periódicos",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Objetos del entorno",
+                "Lentejas o piedras pequeñas"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "¡Contemos del 1 al 3!",
+              "nombre_completo": "¡Contemos del 1 al 3!",
+              "conceptos_procedimientos": [
+                "Conteo y representación gráfica del 1 al 3",
+                "Nombre de los números",
+                "Relación cantidad - número"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Pegamento",
+                "Vinilo",
+                "Aguja o punzón",
+                "Lazos",
+                "Tiza",
+                "Calendarios",
+                "Revistas o periódicos",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Objetos del entorno",
+                "Lentejas o piedras pequeñas"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "¡Hagamos grupos y conjuntos!",
+              "nombre_completo": "¡Hagamos grupos y conjuntos!",
+              "conceptos_procedimientos": [
+                "Relación conjunto - elemento",
+                "Representación de conjuntos hasta de 3 elementos",
+                "Relación conjunto - cantidad"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Pegamento",
+                "Vinilo",
+                "Aguja o punzón",
+                "Lazos",
+                "Tiza",
+                "Calendarios",
+                "Revistas o periódicos",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Objetos del entorno",
+                "Lentejas o piedras pequeñas"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "¡Dibujemos con diferentes líneas y bordes!",
+              "nombre_completo": "¡Dibujemos con diferentes líneas y bordes!",
+              "conceptos_procedimientos": [
+                "Clases de líneas",
+                "Relación de objetos y contorno según sus líneas y bordes"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Pegamento",
+                "Vinilo",
+                "Aguja o punzón",
+                "Lazos",
+                "Tiza",
+                "Calendarios",
+                "Revistas o periódicos",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Objetos del entorno",
+                "Lentejas o piedras pequeñas"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "¿Adivina adivinador cuántos estamos hoy?",
+          "desempeño_general": "Reconozco cantidades, empleando números para contar, y describir situaciones cotidianas.",
+          "guias": [
+            {
+              "numero": 5,
+              "nombre": "Delante - detrás - dentro - fuera, ahí nos encuentras",
+              "nombre_completo": "Delante - detrás - dentro - fuera, ahí nos encuentras",
+              "conceptos_procedimientos": [
+                "Relación espacio temporal",
+                "Ubicación en el entorno"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Papel de reciclaje",
+                "Pegamento",
+                "Vinilo, gorros de fiesta",
+                "Aguja o punzón",
+                "Plastilina o arcilla",
+                "Tizas",
+                "Revistas o periódicos",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Cartulina",
+                "Cartón",
+                "Tubos de cartón",
+                "Cajas de diferente tamaño",
+                "Bloques multibase",
+                "Objetos del entorno",
+                "Balones o pelotas"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "¡Ahora de 4 a 6 vamos a contar!",
+              "nombre_completo": "¡Ahora de 4 a 6 vamos a contar!",
+              "conceptos_procedimientos": [
+                "Conteo de 1 a 6",
+                "Representación gráfica de 4 a 6",
+                "Nombre de los números",
+                "Relación cantidad - número",
+                "Relación de orden"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Papel de reciclaje",
+                "Pegamento",
+                "Vinilo, gorros de fiesta",
+                "Aguja o punzón",
+                "Plastilina o arcilla",
+                "Tizas",
+                "Revistas o periódicos",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Cartulina",
+                "Cartón",
+                "Tubos de cartón",
+                "Cajas de diferente tamaño",
+                "Bloques multibase",
+                "Objetos del entorno",
+                "Balones o pelotas"
+              ]
+            },
+            {
+              "numero": 7,
+              "nombre": "¡Hagamos conjuntos más grandes!",
+              "nombre_completo": "¡Hagamos conjuntos más grandes!",
+              "conceptos_procedimientos": [
+                "Representación de conjuntos hasta de 6 elementos",
+                "Concepto de pertenencia",
+                "Comparación de conjuntos"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Papel de reciclaje",
+                "Pegamento",
+                "Vinilo, gorros de fiesta",
+                "Aguja o punzón",
+                "Plastilina o arcilla",
+                "Tizas",
+                "Revistas o periódicos",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Cartulina",
+                "Cartón",
+                "Tubos de cartón",
+                "Cajas de diferente tamaño",
+                "Bloques multibase",
+                "Objetos del entorno",
+                "Balones o pelotas"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "¡Construyamos sólidos geométricos!",
+              "nombre_completo": "¡Construyamos sólidos geométricos!",
+              "conceptos_procedimientos": [
+                "Sólidos geométricos: esfera, cubo, cilindro, cono"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Papel de reciclaje",
+                "Pegamento",
+                "Vinilo, gorros de fiesta",
+                "Aguja o punzón",
+                "Plastilina o arcilla",
+                "Tizas",
+                "Revistas o periódicos",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Cartulina",
+                "Cartón",
+                "Tubos de cartón",
+                "Cajas de diferente tamaño",
+                "Bloques multibase",
+                "Objetos del entorno",
+                "Balones o pelotas"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "¿Adivina adivinador qué otros números conozco yo?",
+          "desempeño_general": "Reconozco la importancia del pensamiento matemático en el desarrollo de la capacidad de comprensión y análisis.",
+          "guias": [
+            {
+              "numero": 9,
+              "nombre": "¡Busquemos encima - debajo - a la derecha - a la izquierda!",
+              "nombre_completo": "¡Busquemos encima - debajo - a la derecha - a la izquierda!",
+              "conceptos_procedimientos": [
+                "Relación espacio - temporal y direccionalidad",
+                "Ubicación en el entorno"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Papel de colores",
+                "Pegamento",
+                "Vinilo",
+                "Aguja o punzón",
+                "Lazos",
+                "Tizas",
+                "Revistas o periódicos",
+                "Calendarios",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Cartón",
+                "Cartulina",
+                "Bloques multibase",
+                "Objetos del entorno"
+              ]
+            },
+            {
+              "numero": 10,
+              "nombre": "¡Conozcamos los números del 7 al 9!",
+              "nombre_completo": "¡Conozcamos los números del 7 al 9!",
+              "conceptos_procedimientos": [
+                "Conteo y representación gráfica de los números del 7 al 9",
+                "Nombre de los números",
+                "Relación cantidad - número",
+                "Secuencias numéricas"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Papel de colores",
+                "Pegamento",
+                "Vinilo",
+                "Aguja o punzón",
+                "Lazos",
+                "Tizas",
+                "Revistas o periódicos",
+                "Calendarios",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Cartón",
+                "Cartulina",
+                "Bloques multibase",
+                "Objetos del entorno"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "¿A qué conjunto pertenece?",
+              "nombre_completo": "¿A qué conjunto pertenece?",
+              "conceptos_procedimientos": [
+                "Representación de conjuntos",
+                "Relación de pertenencia",
+                "Relación entre conjuntos",
+                "Comparación de conjuntos"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Papel de colores",
+                "Pegamento",
+                "Vinilo",
+                "Aguja o punzón",
+                "Lazos",
+                "Tizas",
+                "Revistas o periódicos",
+                "Calendarios",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Cartón",
+                "Cartulina",
+                "Bloques multibase",
+                "Objetos del entorno"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "¡Dibujemos con figuras planas!",
+              "nombre_completo": "¡Dibujemos con figuras planas!",
+              "conceptos_procedimientos": [
+                "Círculo",
+                "Cuadrado",
+                "Rectángulo",
+                "Triángulo"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Papel de colores",
+                "Pegamento",
+                "Vinilo",
+                "Aguja o punzón",
+                "Lazos",
+                "Tizas",
+                "Revistas o periódicos",
+                "Calendarios",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Cartón",
+                "Cartulina",
+                "Bloques multibase",
+                "Objetos del entorno"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "¿Adivina adivinador hasta cuánto cuento yo?",
+          "desempeño_general": "Reconozco el concepto y aplicación de unidad, decena y operaciones básicas en situaciones cotidianas.",
+          "guias": [
+            {
+              "numero": 13,
+              "nombre": "¡Aprendamos a medir: largo - corto - grande - pequeño!",
+              "nombre_completo": "¡Aprendamos a medir: largo - corto - grande - pequeño!",
+              "conceptos_procedimientos": [
+                "Tamaño: grande - pequeño",
+                "Comparación de tamaños",
+                "Comparación de magnitudes (longitud)",
+                "Largo y corto"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Papel de reciclaje",
+                "Pegamento",
+                "Vinilo",
+                "Aguja o punzón",
+                "Tizas",
+                "Revistas o periódicos",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Cartón",
+                "Cartulina",
+                "Bloques multibase",
+                "Ábaco",
+                "Regletas",
+                "Objetos del entorno"
+              ]
+            },
+            {
+              "numero": 14,
+              "nombre": "¡Estos son el 0 y el 10!",
+              "nombre_completo": "¡Estos son el 0 y el 10!",
+              "conceptos_procedimientos": [
+                "Conteo",
+                "Representación gráfica",
+                "Decena",
+                "Conjunto vacío",
+                "Relación cantidad - número",
+                "Secuencias numéricas"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Papel de reciclaje",
+                "Pegamento",
+                "Vinilo",
+                "Aguja o punzón",
+                "Tizas",
+                "Revistas o periódicos",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Cartón",
+                "Cartulina",
+                "Bloques multibase",
+                "Ábaco",
+                "Regletas",
+                "Objetos del entorno"
+              ]
+            },
+            {
+              "numero": 15,
+              "nombre": "Mientras vamos agrupando, vamos sumando",
+              "nombre_completo": "Mientras vamos agrupando, vamos sumando",
+              "conceptos_procedimientos": [
+                "Más que",
+                "Adición de números hasta 10",
+                "Resolución de situaciones problema"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Papel de reciclaje",
+                "Pegamento",
+                "Vinilo",
+                "Aguja o punzón",
+                "Tizas",
+                "Revistas o periódicos",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Cartón",
+                "Cartulina",
+                "Bloques multibase",
+                "Ábaco",
+                "Regletas",
+                "Objetos del entorno"
+              ]
+            },
+            {
+              "numero": 16,
+              "nombre": "Si quitamos, ¿cuánto nos queda?",
+              "nombre_completo": "Si quitamos, ¿cuánto nos queda?",
+              "conceptos_procedimientos": [
+                "Menos que",
+                "Adición de números hasta 10",
+                "Resolución de situaciones problema"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Papel de reciclaje",
+                "Pegamento",
+                "Vinilo",
+                "Aguja o punzón",
+                "Tizas",
+                "Revistas o periódicos",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Cartón",
+                "Cartulina",
+                "Bloques multibase",
+                "Ábaco",
+                "Regletas",
+                "Objetos del entorno"
+              ]
+            },
+            {
+              "numero": 17,
+              "nombre": "Encontremos la simetría en figuras de nuestro entorno",
+              "nombre_completo": "Encontremos la simetría en figuras de nuestro entorno",
+              "conceptos_procedimientos": [
+                "Simetría horizontal",
+                "Simetría vertical",
+                "Simetría diagonal"
+              ],
+              "recursos": [
+                "Colores",
+                "Tijeras",
+                "Papel de reciclaje",
+                "Pegamento",
+                "Vinilo",
+                "Aguja o punzón",
+                "Tizas",
+                "Revistas o periódicos",
+                "Tarjetas de números",
+                "Lana",
+                "Dados",
+                "Cartón",
+                "Cartulina",
+                "Bloques multibase",
+                "Ábaco",
+                "Regletas",
+                "Objetos del entorno"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grado": "1",
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "¡Acerquémonos a nuestros amigos: los números!",
+          "desempeño_general": "Utilizo los números para describir situaciones cotidianas por medio del conteo y el reconocimiento de cantidades.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "Represento mi entorno con números",
+              "nombre_completo": "Represento mi entorno con números",
+              "conceptos_procedimientos": [
+                "Conteo de 1 a 5",
+                "Lectura y escritura de los números del 1 a 5",
+                "Comparación y orden de los números"
+              ],
+              "recursos": [
+                "Tapas",
+                "fichas",
+                "palos",
+                "piedras",
+                "hojas",
+                "flores secas",
+                "tarjetas",
+                "papel periódico o cartulina",
+                "lápices de colores",
+                "revistas",
+                "granos como frijoles, lentejas o arroz"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "¡Aprendamos los números del 6 al 9!",
+              "nombre_completo": "¡Aprendamos los números del 6 al 9!",
+              "conceptos_procedimientos": [
+                "Representación de números",
+                "Conteo",
+                "Lectura y escritura de los números del 6 al 9",
+                "Elementos de una colección de objetos"
+              ],
+              "recursos": [
+                "Cuerdas",
+                "piedras",
+                "semillas",
+                "palitos",
+                "tijeras",
+                "lápices de colores",
+                "cartulina"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "¡Sigamos conociendo los números!",
+              "nombre_completo": "¡Sigamos conociendo los números!",
+              "conceptos_procedimientos": [
+                "Números ordinales",
+                "Relaciones de orden",
+                "Secuencia numérica ascendente",
+                "Resolución de problemas"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "hojas blancas"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "No hay nada",
+              "nombre_completo": "No hay nada",
+              "conceptos_procedimientos": [
+                "El número cero",
+                "Representación de números y cantidades",
+                "Conteo"
+              ],
+              "recursos": [
+                "Palitos",
+                "colores"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "¡Conozcamos la decena!",
+              "nombre_completo": "¡Conozcamos la decena!",
+              "conceptos_procedimientos": [
+                "La decena",
+                "Representación de números hasta el 10",
+                "Conteo de números hasta el 10"
+              ],
+              "recursos": [
+                "Piedritas",
+                "lápices de colores",
+                "ábacos"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "¿Cuánto tenemos ahora?",
+              "nombre_completo": "¿Cuánto tenemos ahora?",
+              "conceptos_procedimientos": [
+                "Composición de números hasta el 10",
+                "Símbolos de la adición",
+                "Suma o adición con números hasta 10",
+                "Representación de sumas",
+                "Secuencias de números"
+              ],
+              "recursos": [
+                "Objetos del Centro de recursos",
+                "tarjetas con números del 0 al 10",
+                "lápices de colores",
+                "hojas",
+                "regla",
+                "lápiz",
+                "ábaco",
+                "yupana",
+                "semillas o piedritas"
+              ]
+            },
+            {
+              "numero": 7,
+              "nombre": "Encontremos relaciones y agrupemos objetos",
+              "nombre_completo": "Encontremos relaciones y agrupemos objetos",
+              "conceptos_procedimientos": [
+                "Adición sin reagrupación con números hasta el 10",
+                "Resolución de problemas sencillos con la adición"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "yupana o ábaco",
+                "tarjetas con los números del 1 al 5",
+                "objetos del Centro de recursos"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Cuando contamos, aprendemos",
+          "desempeño_general": "Manejo el lenguaje matemático adecuado para interpretar y resolver problemas aditivos comunes.",
+          "guias": [
+            {
+              "numero": 8,
+              "nombre": "Si desagrupamos, ¿con cuánto quedamos?",
+              "nombre_completo": "Si desagrupamos, ¿con cuánto quedamos?",
+              "conceptos_procedimientos": [
+                "Representaciones numéricas",
+                "Sustracciones",
+                "Uso de los símbolos de la sustracción - , =",
+                "Secuencia numérica descendente"
+              ],
+              "recursos": [
+                "Ábaco o yupana",
+                "piedritas o semillas",
+                "decena de dados de colores",
+                "un vaso plástico no transparente"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "Utilicemos sustracciones en distintas situaciones",
+              "nombre_completo": "Utilicemos sustracciones en distintas situaciones",
+              "conceptos_procedimientos": [
+                "Sustracción de números hasta 10",
+                "Resta horizontal y vertical",
+                "Resolución de situaciones problema con la resta"
+              ],
+              "recursos": [
+                "Objetos del entorno (piedras, hojas o palos)",
+                "ábaco o yupana",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 10,
+              "nombre": "¡Encontremos la mejor solución!",
+              "nombre_completo": "¡Encontremos la mejor solución!",
+              "conceptos_procedimientos": [
+                "Planteamiento y solución de situaciones problema con la suma o la resta",
+                "Claves para resolver situaciones matemáticas"
+              ],
+              "recursos": [
+                "Ábaco o yupana"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "¡Representemos cantidades más grandes!",
+              "nombre_completo": "¡Representemos cantidades más grandes!",
+              "conceptos_procedimientos": [
+                "Conteo de 0 a 19",
+                "Agrupación de cantidades",
+                "Comparación de números",
+                "Secuencia numérica ascendente",
+                "Valor posicional"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "tiza"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "Y yo...¿cómo lo haría?",
+              "nombre_completo": "Y yo...¿cómo lo haría?",
+              "conceptos_procedimientos": [
+                "Representación de cantidades",
+                "Adición sin reagrupación con números hasta el 19",
+                "Resolución de situaciones problemas de adición"
+              ],
+              "recursos": [
+                "Palos de paleta",
+                "una baraja o naipe",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 13,
+              "nombre": "Si quitamos, ¿cuánto nos queda?",
+              "nombre_completo": "Si quitamos, ¿cuánto nos queda?",
+              "conceptos_procedimientos": [
+                "Resolución de situaciones de sustracción",
+                "Representación de sustracciones",
+                "Sustracciones con números hasta el 19"
+              ],
+              "recursos": [
+                "Ábaco",
+                "tapas o palitos",
+                "octavos de cartulina",
+                "lápices de colores",
+                "tarjetas de cartón o cartulina",
+                "hojas blancas"
+              ]
+            },
+            {
+              "numero": 14,
+              "nombre": "¡Aprendamos sobre líneas!",
+              "nombre_completo": "¡Aprendamos sobre líneas!",
+              "conceptos_procedimientos": [
+                "Líneas",
+                "Clasificación de líneas según su forma y posición",
+                "Líneas paralelas",
+                "Líneas perpendiculares"
+              ],
+              "recursos": [
+                "Lápices de colores"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Reconozcamos nuestro entorno y aprendamos de él.",
+          "desempeño_general": "Realizo procedimientos adecuados de cálculo e interpretación de información, para resolver una situación problema.",
+          "guias": [
+            {
+              "numero": 15,
+              "nombre": "Agrupando y comparando, los objetos vamos contando",
+              "nombre_completo": "Agrupando y comparando, los objetos vamos contando",
+              "conceptos_procedimientos": [
+                "Conteo hasta 50",
+                "Conformación de decenas exactas",
+                "Secuencias numéricas ascendentes y descendentes",
+                "Cálculo mental de secuencias con decenas"
+              ],
+              "recursos": [
+                "Objetos del entorno",
+                "semillas o piedras",
+                "lana",
+                "lápices de colores",
+                "regla",
+                "cartulina",
+                "marcadores",
+                "tiza"
+              ]
+            },
+            {
+              "numero": 16,
+              "nombre": "Entre más conocemos, más aprendemos",
+              "nombre_completo": "Entre más conocemos, más aprendemos",
+              "conceptos_procedimientos": [
+                "Patrones simples con números",
+                "Composición y descomposición de números",
+                "Elementos faltantes en una colección"
+              ],
+              "recursos": [
+                "Ábacos o yupanas",
+                "lápices de colores",
+                "papel periódico o cartulina",
+                "hojas blancas",
+                "fichas de juego de mesa",
+                "un dado",
+                "calculadora"
+              ]
+            },
+            {
+              "numero": 17,
+              "nombre": "¿Dónde estamos ubicados?",
+              "nombre_completo": "¿Dónde estamos ubicados?",
+              "conceptos_procedimientos": [
+                "Relación espacial de objetos del entorno",
+                "Expresiones de ubicación en el espacio"
+              ],
+              "recursos": [
+                "Objetos del entorno"
+              ]
+            },
+            {
+              "numero": 18,
+              "nombre": "Organicemos datos en tablas",
+              "nombre_completo": "Organicemos datos en tablas",
+              "conceptos_procedimientos": [
+                "Pictogramas",
+                "Lectura e interpretación",
+                "Recolección y clasificación de datos",
+                "Organización de datos en tablas",
+                "Registro de datos en tablas"
+              ],
+              "recursos": [
+                "Lápices de colores"
+              ]
+            },
+            {
+              "numero": 19,
+              "nombre": "¡Aprendamos a medir longitudes!",
+              "nombre_completo": "¡Aprendamos a medir longitudes!",
+              "conceptos_procedimientos": [
+                "Medidas arbitrarias",
+                "Medidas estandarizadas"
+              ],
+              "recursos": [
+                "Lápiz",
+                "hojas blancas",
+                "regletas de Cuisenaire",
+                "regla",
+                "tijeras",
+                "lápices de colores",
+                "pliegos de papel periódico",
+                "pegamento",
+                "cinta adhesiva"
+              ]
+            },
+            {
+              "numero": 20,
+              "nombre": "¿Cómo cambia el tiempo?",
+              "nombre_completo": "¿Cómo cambia el tiempo?",
+              "conceptos_procedimientos": [
+                "Relaciones de tiempo",
+                "El calendario",
+                "Los días de la semana y los meses del año",
+                "Unidades de medida de tiempo",
+                "Secuencias temporales"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "calendario",
+                "regla",
+                "hojas blancas"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Juguemos con las operaciones matemáticas",
+          "desempeño_general": "Razono adecuadamente ante una situación problema, atendiendo a las propiedades de los números.",
+          "guias": [
+            {
+              "numero": 21,
+              "nombre": "¡Conozcamos algunos sólidos geométricos y conozcamos figuras planas!",
+              "nombre_completo": "¡Conozcamos algunos sólidos geométricos y conozcamos figuras planas!",
+              "conceptos_procedimientos": [
+                "Sólidos geométricos (cono, cilindro, cubo, esfera)",
+                "Figuras planas (triángulo, cuadrado, círculo)"
+              ],
+              "recursos": [
+                "Plantillas de sólidos geométricos",
+                "Cajas",
+                "pelotas",
+                "tubos de cartón",
+                "lápices de colores",
+                "hojas de colores",
+                "cartulina",
+                "tijeras",
+                "regla",
+                "cuerda",
+                "pegamento",
+                "tapas de recipientes"
+              ]
+            },
+            {
+              "numero": 22,
+              "nombre": "¡Agrupemos y clasifiquemos elementos!",
+              "nombre_completo": "¡Agrupemos y clasifiquemos elementos!",
+              "conceptos_procedimientos": [
+                "Clasificación de objetos según sus características (color, forma, tamaño, longitud, etc.)"
+              ],
+              "recursos": [
+                "Palos",
+                "hojas o piedras",
+                "tizas o lazos",
+                "hojas blancas",
+                "botellas",
+                "cuadernos",
+                "borradores",
+                "distintos recipientes"
+              ]
+            },
+            {
+              "numero": 23,
+              "nombre": "¡Avanzamos en el conocimiento de los números!",
+              "nombre_completo": "¡Avanzamos en el conocimiento de los números!",
+              "conceptos_procedimientos": [
+                "Conteo de 0 a 99",
+                "Relación de orden",
+                "Comparación de números",
+                "Secuencias numéricas ascendentes y descendentes"
+              ],
+              "recursos": [
+                "Ábaco",
+                "hojas blancas",
+                "un par de dados",
+                "témpera azul y roja",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 24,
+              "nombre": "¡Nos divertimos resolviendo situaciones problema!",
+              "nombre_completo": "¡Nos divertimos resolviendo situaciones problema!",
+              "conceptos_procedimientos": [
+                "Adición de números hasta el 99",
+                "Claves para resolver un problema",
+                "Resolución de situaciones problema"
+              ],
+              "recursos": [
+                "Octavos de cartulina",
+                "regla",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 25,
+              "nombre": "Aprendamos a adicionar reagrupando",
+              "nombre_completo": "Aprendamos a adicionar reagrupando",
+              "conceptos_procedimientos": [
+                "Adición con reagrupación con números hasta 100",
+                "Cálculo mental de sumas con números hasta 100",
+                "Cálculo mental de adiciones"
+              ],
+              "recursos": [
+                "Palos de madera o palos de pincho",
+                "ábaco"
+              ]
+            },
+            {
+              "numero": 26,
+              "nombre": "¡Aprendamos a restar!",
+              "nombre_completo": "¡Aprendamos a restar!",
+              "conceptos_procedimientos": [
+                "Sustracción sin desagrupación con números hasta 100"
+              ],
+              "recursos": [
+                "Ábaco",
+                "palos de paleta",
+                "lápices de colores",
+                "hojas blancas",
+                "cartulina",
+                "fichas",
+                "dados",
+                "cartas o baraja de naipes"
+              ]
+            },
+            {
+              "numero": 27,
+              "nombre": "¡Desagrupemos para restar!",
+              "nombre_completo": "¡Desagrupemos para restar!",
+              "conceptos_procedimientos": [
+                "Sustracción con desagrupación con números hasta 100",
+                "Cálculo mental de sustracciones"
+              ],
+              "recursos": [
+                "Material base 10",
+                "tarjetas de papel",
+                "colores"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grado": "2",
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Cuanto más aprendemos, más crecemos",
+          "desempeño_general": "Empleo los números mayores que 100 para la solución de situaciones problema en distintos contextos.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¡Conozcamos la centena!",
+              "nombre_completo": "¡Conozcamos la centena!",
+              "conceptos_procedimientos": [
+                "Conteo de 0 a 100",
+                "Agrupar decenas y unidades para formar centenas",
+                "Composición y descomposición numérica"
+              ],
+              "recursos": [
+                "Palitos",
+                "semillas",
+                "piedritas",
+                "tapas",
+                "tarjetas con números de una y dos cifras",
+                "regla",
+                "lápices de colores",
+                "ábaco",
+                "pegamento",
+                "lápiz"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "¡Conozcamos los números del 100 al 500!",
+              "nombre_completo": "¡Conozcamos los números del 100 al 500!",
+              "conceptos_procedimientos": [
+                "Conteo hasta 500",
+                "Lectura y escritura de números hasta 500",
+                "Relación de orden",
+                "Relación entre agrupación de objetos y números"
+              ],
+              "recursos": [
+                "Ábaco",
+                "hojas de papel",
+                "regla",
+                "lápiz",
+                "tarjetas de cartulina",
+                "lápices de colores",
+                "bolsa no transparente",
+                "calendarios",
+                "revistas",
+                "periódicos",
+                "recurso Renueva M2U1G2A5"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "¡Sumemos y restemos centenas exactas!",
+              "nombre_completo": "¡Sumemos y restemos centenas exactas!",
+              "conceptos_procedimientos": [
+                "Planteamiento y resolución de situaciones problema con adición"
+              ],
+              "recursos": [
+                "Tarjetas de cartulina u hojas de papel",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "¡Estos son los números del 500 al 999!",
+              "nombre_completo": "¡Estos son los números del 500 al 999!",
+              "conceptos_procedimientos": [
+                "Conteo hasta 999",
+                "Secuencias numéricas",
+                "Relación de orden",
+                "Descomposición en unidades, decenas y centenas"
+              ],
+              "recursos": [
+                "Ábaco",
+                "regla",
+                "lápices de colores",
+                "tarjetas de cartulina",
+                "tiza o lazos",
+                "bolsa no transparente",
+                "tarjetas con los números del 0 al 9",
+                "recurso Renueva M2U1G4A5"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "¡Realicemos mediciones en nuestro entorno!",
+              "nombre_completo": "¡Realicemos mediciones en nuestro entorno!",
+              "conceptos_procedimientos": [
+                "Patrones de medida: arbitrarias y estandarizadas",
+                "Atributos medibles"
+              ],
+              "recursos": [
+                "Reglas",
+                "metros",
+                "tizas",
+                "cartulina o papel"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "¡Dibujemos puntos y líneas!",
+              "nombre_completo": "¡Dibujemos puntos y líneas!",
+              "conceptos_procedimientos": [
+                "Puntos",
+                "Líneas rectas, curvas, abiertas y cerradas"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores",
+                "hojas de papel"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Sigamos conociendo y aprendiendo",
+          "desempeño_general": "Utilizo los números hasta 999 para representar cantidades y resolver situaciones problema.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "¡Resolvamos problemas utilizando la adición!",
+              "nombre_completo": "¡Resolvamos problemas utilizando la adición!",
+              "conceptos_procedimientos": [
+                "Representaciones numéricas",
+                "Resolución de situaciones problema que involucran adición"
+              ],
+              "recursos": [
+                "Hojas de papel",
+                "regla",
+                "lápices de colores",
+                "ábaco"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "Resolvamos restas",
+              "nombre_completo": "Resolvamos restas",
+              "conceptos_procedimientos": [
+                "Resolución de situaciones problema que involucran sustracción"
+              ],
+              "recursos": [
+                "Regla",
+                "hojas de papel",
+                "cartulina",
+                "dados",
+                "ábaco"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "¡Conozcamos las propiedades de las operaciones!",
+              "nombre_completo": "¡Conozcamos las propiedades de las operaciones!",
+              "conceptos_procedimientos": [
+                "Propiedades de la suma y de la resta",
+                "Números pares/impares",
+                "Secuencias numéricas"
+              ],
+              "recursos": [
+                "Tapas",
+                "piedritas",
+                "palitos",
+                "lana",
+                "tizas",
+                "regla",
+                "lápices de colores",
+                "recurso Renueva M2U2G9A14"
+              ]
+            },
+            {
+              "numero": 10,
+              "nombre": "¡Exploremos todo lo que podemos hacer con líneas!",
+              "nombre_completo": "¡Exploremos todo lo que podemos hacer con líneas!",
+              "conceptos_procedimientos": [
+                "Líneas paralelas",
+                "Líneas perpendiculares"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "regla"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "Si seguimos la secuencia, ¿hasta dónde llegaremos?",
+              "nombre_completo": "Si seguimos la secuencia, ¿hasta dónde llegaremos?",
+              "conceptos_procedimientos": [
+                "Figuras geométricas bidimensionales",
+                "Secuencias geométricas"
+              ],
+              "recursos": [
+                "Lápices de colores"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "¿Qué forma tienen las figuras?",
+              "nombre_completo": "¿Qué forma tienen las figuras?",
+              "conceptos_procedimientos": [
+                "Figuras bidimensionales",
+                "El rectángulo",
+                "El cuadrado",
+                "El triángulo",
+                "El círculo"
+              ],
+              "recursos": [
+                "Geoplano",
+                "tiras de lana",
+                "hojas",
+                "cartulina",
+                "metro",
+                "regla"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Pongamos a prueba nuestro ingenio",
+          "desempeño_general": "Describo características de los objetos y aplico la multiplicación en la solución de situaciones propias de la vida diaria.",
+          "guias": [
+            {
+              "numero": 13,
+              "nombre": "Hagamos sumas con monedas",
+              "nombre_completo": "Hagamos sumas con monedas",
+              "conceptos_procedimientos": [
+                "Dinero, billetes y monedas",
+                "Tienda escolar"
+              ],
+              "recursos": [
+                "Billetes y monedas didácticas",
+                "empaques de productos",
+                "hojas blancas",
+                "lápices de colores",
+                "recurso Renueva M2U3G13A3"
+              ]
+            },
+            {
+              "numero": 14,
+              "nombre": "¡La multiplicación es una suma abreviada!",
+              "nombre_completo": "¡La multiplicación es una suma abreviada!",
+              "conceptos_procedimientos": [
+                "Concepto de multiplicación",
+                "Sumas sucesivas",
+                "Resolución de situaciones problema sencillas"
+              ],
+              "recursos": [
+                "Regletas de Cuisenaire",
+                "regla o metro"
+              ]
+            },
+            {
+              "numero": 15,
+              "nombre": "Juguemos agrupando objetos de características similares",
+              "nombre_completo": "Juguemos agrupando objetos de características similares",
+              "conceptos_procedimientos": [
+                "Aplicaciones de la multiplicación",
+                "Resolución de situaciones problema"
+              ],
+              "recursos": [
+                "Palos",
+                "semillas o piedras",
+                "regla",
+                "un pliego de cartulina",
+                "tapitas de gaseosa"
+              ]
+            },
+            {
+              "numero": 16,
+              "nombre": "¿Para qué nos sirven los planos y los mapas?",
+              "nombre_completo": "¿Para qué nos sirven los planos y los mapas?",
+              "conceptos_procedimientos": [
+                "Ubicación espacial",
+                "Localización de objetos en el plano",
+                "Direcciones y unidades de desplazamiento"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "regla"
+              ]
+            },
+            {
+              "numero": 17,
+              "nombre": "¡Calculemos el área de figuras planas!",
+              "nombre_completo": "¡Calculemos el área de figuras planas!",
+              "conceptos_procedimientos": [
+                "Área de figuras por recubrimiento",
+                "Secuencias geométricas"
+              ],
+              "recursos": [
+                "Hojas de papel",
+                "regla",
+                "tijeras"
+              ]
+            },
+            {
+              "numero": 18,
+              "nombre": "¿Para qué nos sirve el reloj?",
+              "nombre_completo": "¿Para qué nos sirve el reloj?",
+              "conceptos_procedimientos": [
+                "El reloj",
+                "Unidades de medida de tiempo"
+              ],
+              "recursos": [
+                "Palitos o semillas",
+                "cartulina",
+                "chinches o alfileres",
+                "palitos",
+                "relojes",
+                "lápices de colores",
+                "hojas de papel",
+                "cinta adhesiva",
+                "marcadores",
+                "plato plástico grande",
+                "tijeras"
+              ]
+            },
+            {
+              "numero": 19,
+              "nombre": "¿Qué son los cuerpos geométricos?",
+              "nombre_completo": "¿Qué son los cuerpos geométricos?",
+              "conceptos_procedimientos": [
+                "Cuerpos o sólidos geométricos: Poliedros",
+                "Cuerpos redondos"
+              ],
+              "recursos": [
+                "Caja de cartón",
+                "hojas de papel"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Repartamos equitativamente y representemos datos",
+          "desempeño_general": "Realizo procedimientos adecuados de cálculo e interpretación de información para resolver una situación problema.",
+          "guias": [
+            {
+              "numero": 20,
+              "nombre": "¿Cómo medimos la temperatura?",
+              "nombre_completo": "¿Cómo medimos la temperatura?",
+              "conceptos_procedimientos": [
+                "Altura",
+                "Clima",
+                "Temperatura, termómetro"
+              ],
+              "recursos": [
+                "Regla",
+                "termómetro",
+                "hojas de papel",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 21,
+              "nombre": "¡Aprendamos a dividir!",
+              "nombre_completo": "¡Aprendamos a dividir!",
+              "conceptos_procedimientos": [
+                "La división",
+                "Restas sucesivas"
+              ],
+              "recursos": [
+                "Lápiz",
+                "papel",
+                "piedritas",
+                "tapas",
+                "palitos"
+              ]
+            },
+            {
+              "numero": 22,
+              "nombre": "¿Cómo podemos resolver situaciones problema por medio de la división?",
+              "nombre_completo": "¿Cómo podemos resolver situaciones problema por medio de la división?",
+              "conceptos_procedimientos": [
+                "Repartos equitativos",
+                "Divisores",
+                "Resolución de problemas"
+              ],
+              "recursos": [
+                "Tapas",
+                "piedras",
+                "palos",
+                "regletas de Cuisenaire"
+              ]
+            },
+            {
+              "numero": 23,
+              "nombre": "¡Conozcamos un pictograma!",
+              "nombre_completo": "¡Conozcamos un pictograma!",
+              "conceptos_procedimientos": [
+                "Pictogramas",
+                "Organización de objetos y datos",
+                "Representar datos en tablas"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "regla"
+              ]
+            },
+            {
+              "numero": 24,
+              "nombre": "¡Representemos la información!",
+              "nombre_completo": "¡Representemos la información!",
+              "conceptos_procedimientos": [
+                "Organización de objetos y datos",
+                "Representar datos en tablas"
+              ],
+              "recursos": [
+                "Hojas",
+                "lápices de colores",
+                "regla",
+                "libros"
+              ]
+            },
+            {
+              "numero": 25,
+              "nombre": "¡Aprendamos sobre medidas de capacidad!",
+              "nombre_completo": "¡Aprendamos sobre medidas de capacidad!",
+              "conceptos_procedimientos": [
+                "Capacidad",
+                "Medidas arbitrarias",
+                "Medidas estandarizadas"
+              ],
+              "recursos": [
+                "Recipientes",
+                "regla",
+                "hojas",
+                "colores"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grado": "3",
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "¡Qué bueno que existen los números!",
+          "desempeño_general": "Utilizo propiedades y relaciones significativas entre los números en la solución de problemas cotidianos.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¡Reconozcamos las unidades de mil!",
+              "nombre_completo": "¡Reconozcamos las unidades de mil!",
+              "conceptos_procedimientos": [
+                "Conteo",
+                "Representaciones numéricas",
+                "Sistema de numeración",
+                "Planteamiento y resolución de situaciones problema"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "hojas blancas y cuadriculadas",
+                "ábacos"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "Números, ¡a sus puestos!",
+              "nombre_completo": "Números, ¡a sus puestos!",
+              "conceptos_procedimientos": [
+                "Valor posicional",
+                "Resolución de situaciones problema",
+                "Descomposición en unidades, decenas y centenas"
+              ],
+              "recursos": [
+                "Fichas de cartón o cartulina, que tengan un número escrito entre 0 y 9",
+                "hojas blancas",
+                "cinta adhesiva",
+                "ábaco",
+                "cartulina",
+                "cartón",
+                "lápices de colores",
+                "marcadores",
+                "regla"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "¡Lleguemos a resultados con la adición y la sustracción!",
+              "nombre_completo": "¡Lleguemos a resultados con la adición y la sustracción!",
+              "conceptos_procedimientos": [
+                "Adición y sustracción de números mayores que 1000"
+              ],
+              "recursos": [
+                "Ábacos",
+                "lápices de colores",
+                "regla"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "¡Hagamos cuentas!",
+              "nombre_completo": "¡Hagamos cuentas!",
+              "conceptos_procedimientos": [
+                "Resolución de situaciones problema, utilizando la adición y sustracción de números de más de cuatro cifras"
+              ],
+              "recursos": [
+                "Fichas de números",
+                "ábacos",
+                "elementos del Centro de recursos",
+                "colores",
+                "lápices",
+                "hojas de papel",
+                "tijeras",
+                "lápices de colores",
+                "marcadores",
+                "bolsa pequeña"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "¡Empleemos nuestro dinero de manera adecuada!",
+              "nombre_completo": "¡Empleemos nuestro dinero de manera adecuada!",
+              "conceptos_procedimientos": [
+                "Resolución de situaciones problema, utilizando la adición y sustracción de números",
+                "Denominaciones de la moneda colombiana",
+                "Características de los billetes y monedas de Colombia"
+              ],
+              "recursos": [
+                "Billetes y monedas didácticos"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "¡Conozcamos y descompongamos cantidades grandes!",
+              "nombre_completo": "¡Conozcamos y descompongamos cantidades grandes!",
+              "conceptos_procedimientos": [
+                "Valor posicional",
+                "Descomposición en valor posicional",
+                "Descomposición aditiva",
+                "Resolución de situaciones problema"
+              ],
+              "recursos": [
+                "Ábacos",
+                "tarjetas con números del 1 al 9"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "¿Qué más podemos hacer con los números?",
+          "desempeño_general": "Utilizo el cálculo mental para resolver problemas relacionados con unidades de medida.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "¡Reconozcamos las propiedades de la adición!",
+              "nombre_completo": "¡Reconozcamos las propiedades de la adición!",
+              "conceptos_procedimientos": [
+                "Propiedad conmutativa",
+                "Propiedad asociativa de la adición",
+                "Resolución de situaciones problema"
+              ],
+              "recursos": [
+                "Tres tarjetas con números de cuatro y cinco cifras",
+                "bolsa",
+                "lápices de colores",
+                "fósforos",
+                "palillos",
+                "tarjetas con números de 3, 4 y 5 dígitos"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "¡Clasifiquemos agrupando cantidades iguales!",
+              "nombre_completo": "¡Clasifiquemos agrupando cantidades iguales!",
+              "conceptos_procedimientos": [
+                "Significado de la igualdad",
+                "Resolución de situaciones problema",
+                "Ejercitación de procedimientos matemáticos"
+              ],
+              "recursos": [
+                "Regletas de Cuisenaire",
+                "regla",
+                "lápices de colores",
+                "recurso Renueva M3U2G8A6"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "Midamos algunos objetos",
+              "nombre_completo": "Midamos algunos objetos",
+              "conceptos_procedimientos": [
+                "El metro: múltiplos y submúltiplos"
+              ],
+              "recursos": [
+                "Cinta métrica",
+                "cartulina",
+                "regla",
+                "tijeras",
+                "lápices y colores"
+              ]
+            },
+            {
+              "numero": 10,
+              "nombre": "Utilicemos los números para describir objetos",
+              "nombre_completo": "Utilicemos los números para describir objetos",
+              "conceptos_procedimientos": [
+                "Medidas de longitud",
+                "Conversión de medidas de longitud",
+                "Patrones geométricos"
+              ],
+              "recursos": [
+                "Cintas métricas",
+                "vendas para realizar un juego",
+                "regla",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "¡Multipliquemos con mayor facilidad!",
+              "nombre_completo": "¡Multipliquemos con mayor facilidad!",
+              "conceptos_procedimientos": [
+                "Propiedades de las operaciones matemáticas",
+                "Multiplicación abreviada"
+              ],
+              "recursos": [
+                "Cuadernos",
+                "reglas",
+                "tapas",
+                "recurso Renueva M3U2G11A13"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Utilicemos adecuadamente los sistemas de medida",
+          "desempeño_general": "Utilizo los números decimales para representar situaciones cotidianas y solucionar problemas en contextos métricos.",
+          "guias": [
+            {
+              "numero": 12,
+              "nombre": "¡Hagamos repartos equitativos!",
+              "nombre_completo": "¡Hagamos repartos equitativos!",
+              "conceptos_procedimientos": [
+                "Divisiones exactas",
+                "Ejercitación de procedimientos matemáticos",
+                "Resolución de situaciones problema",
+                "Relación entre la división y la multiplicación"
+              ],
+              "recursos": [
+                "Regletas de Cuisenaire"
+              ]
+            },
+            {
+              "numero": 13,
+              "nombre": "¡Representemos gráficamente la información!",
+              "nombre_completo": "¡Representemos gráficamente la información!",
+              "conceptos_procedimientos": [
+                "Unidades de medida: peso y longitud",
+                "Representación de información"
+              ],
+              "recursos": [
+                "Objetos con diferente peso",
+                "balanza",
+                "cinta métrica",
+                "hojas blancas o cuadriculadas",
+                "lápices de colores",
+                "regla",
+                "báscula"
+              ]
+            },
+            {
+              "numero": 14,
+              "nombre": "¡Realicemos mediciones de tiempo y espacio!",
+              "nombre_completo": "¡Realicemos mediciones de tiempo y espacio!",
+              "conceptos_procedimientos": [
+                "Patrones de medida estandarizados",
+                "Metro lineal y metro cuadrado",
+                "Medidas de tiempo"
+              ],
+              "recursos": [
+                "Metro",
+                "cronómetro",
+                "costales",
+                "regla",
+                "lápices de colores",
+                "tizas"
+              ]
+            },
+            {
+              "numero": 15,
+              "nombre": "¡Es probable y seguro que aprenderemos!",
+              "nombre_completo": "¡Es probable y seguro que aprenderemos!",
+              "conceptos_procedimientos": [
+                "Probabilidad de ocurrencia de eventos",
+                "Probabilidad"
+              ],
+              "recursos": [
+                "Monedas de $500",
+                "hojas de papel",
+                "lápices de colores",
+                "marcadores",
+                "dados",
+                "fichas de parqués",
+                "regla",
+                "tijeras"
+              ]
+            },
+            {
+              "numero": 16,
+              "nombre": "¡Ubiquémonos en el espacio!",
+              "nombre_completo": "¡Ubiquémonos en el espacio!",
+              "conceptos_procedimientos": [
+                "Puntos cardinales",
+                "Plano cartesiano",
+                "Parejas ordenadas"
+              ],
+              "recursos": [
+                "Hojas blancas y cuadriculadas",
+                "monedas didácticas o fichas",
+                "regla",
+                "lápices de colores",
+                "recurso Renueva M3U3G16A7"
+              ]
+            },
+            {
+              "numero": 17,
+              "nombre": "¡Comparemos y midamos!",
+              "nombre_completo": "¡Comparemos y midamos!",
+              "conceptos_procedimientos": [
+                "Propiedades de los objetos",
+                "Atributos de los objetos",
+                "Área y perímetro de las figuras planas"
+              ],
+              "recursos": [
+                "Colores",
+                "regla"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Representemos matemáticamente nuestro entorno",
+          "desempeño_general": "Describo la ubicación espacial de un objeto, reconozco sus atributos medibles y analizo información del entorno.",
+          "guias": [
+            {
+              "numero": 18,
+              "nombre": "¿Cómo representamos una parte de la unidad?",
+              "nombre_completo": "¿Cómo representamos una parte de la unidad?",
+              "conceptos_procedimientos": [
+                "Repartos",
+                "Representación de fracciones"
+              ],
+              "recursos": [
+                "Frutas que se puedan partir con facilidad",
+                "regletas de Cuisenaire",
+                "hojas blancas o cuadriculadas",
+                "lápices de colores",
+                "regla",
+                "recurso Renueva M3U4G18A13"
+              ]
+            },
+            {
+              "numero": 19,
+              "nombre": "Ampliemos y reduzcamos figuras planas",
+              "nombre_completo": "Ampliemos y reduzcamos figuras planas",
+              "conceptos_procedimientos": [
+                "Semejanza entre figuras"
+              ],
+              "recursos": [
+                "Hojas cuadriculadas",
+                "revistas",
+                "periódicos",
+                "tijeras",
+                "regla",
+                "lápices y pegante",
+                "cartón o cartulina",
+                "palitos"
+              ]
+            },
+            {
+              "numero": 20,
+              "nombre": "Estudiemos las figuras y sus características",
+              "nombre_completo": "Estudiemos las figuras y sus características",
+              "conceptos_procedimientos": [
+                "Área y perímetro de figuras"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "marcadores",
+                "regla",
+                "geoplano",
+                "lanas de diferentes colores"
+              ]
+            },
+            {
+              "numero": 21,
+              "nombre": "¡Comparemos algunas figuras planas!",
+              "nombre_completo": "¡Comparemos algunas figuras planas!",
+              "conceptos_procedimientos": [
+                "Plano cartesiano",
+                "Ampliación y reducción de figuras"
+              ],
+              "recursos": [
+                "Material de reciclaje",
+                "regla",
+                "revistas",
+                "periódicos",
+                "pegamento",
+                "hojas de papel cuadriculadas",
+                "cartulina o cartón",
+                "palitos",
+                "regla"
+              ]
+            },
+            {
+              "numero": 22,
+              "nombre": "¡Construyamos objetos sólidos!",
+              "nombre_completo": "¡Construyamos objetos sólidos!",
+              "conceptos_procedimientos": [
+                "Cuerpos geométricos",
+                "Poliedros",
+                "Cuerpos redondos"
+              ],
+              "recursos": [
+                "Palos",
+                "bolas de cristal",
+                "cajas",
+                "cubos",
+                "borradores",
+                "tizas",
+                "vasos",
+                "tarros",
+                "bloques lógicos",
+                "cartulina",
+                "tijeras",
+                "regla",
+                "pegante",
+                "lápiz"
+              ]
+            },
+            {
+              "numero": 23,
+              "nombre": "Relacionemos equivalencias entre medidas",
+              "nombre_completo": "Relacionemos equivalencias entre medidas",
+              "conceptos_procedimientos": [
+                "Atributos medibles",
+                "Medidas de volumen, peso y capacidad",
+                "Resolución de problemas"
+              ],
+              "recursos": [
+                "Tijeras",
+                "cajas de diferente forma",
+                "cartulina",
+                "regla",
+                "pegamento",
+                "dados",
+                "balanza o báscula",
+                "botella plástica de un litro",
+                "arena y cubo o recipiente"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grado": "4",
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "¡Exploremos nuestro entorno!",
+          "desempeño_general": "Formulo y resuelvo problemas que para su solución requieren la realización de operaciones y la utilización de las propiedades de los números naturales.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¡Conozcamos algunos sólidos geométricos y conozcamos figuras planas!",
+              "nombre_completo": "¡Conozcamos algunos sólidos geométricos y conozcamos figuras planas!",
+              "conceptos_procedimientos": [
+                "Sistema de Numeración Decimal",
+                "Valor posicional y descomposición de números de más de seis cifras"
+              ],
+              "recursos": [
+                "Ábacos",
+                "regla",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "Realicemos operaciones matemáticas con números naturales",
+              "nombre_completo": "Realicemos operaciones matemáticas con números naturales",
+              "conceptos_procedimientos": [
+                "Adición y sustracción de números mayores de seis cifras"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "Conozcamos las propiedades de la multiplicación",
+              "nombre_completo": "Conozcamos las propiedades de la multiplicación",
+              "conceptos_procedimientos": [
+                "Propiedades conmutativa, asociativa, modulativa, anulativa y distributiva de la multiplicación"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "regla",
+                "tijeras",
+                "recurso Renueva M4U1G3A9"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "Hagamos repartos y organicemos datos",
+              "nombre_completo": "Hagamos repartos y organicemos datos",
+              "conceptos_procedimientos": [
+                "División exacta e inexacta con una o más cifras en el divisor"
+              ],
+              "recursos": [
+                "Fichas de colores",
+                "regla",
+                "tiza",
+                "piedritas"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "Describamos las relaciones de los cuerpos sólidos",
+              "nombre_completo": "Describamos las relaciones de los cuerpos sólidos",
+              "conceptos_procedimientos": [
+                "Atributos de los objetos",
+                "Clases de ángulos y triángulos",
+                "El transportador"
+              ],
+              "recursos": [
+                "Pitillos plásticos",
+                "tijeras",
+                "regla",
+                "lana",
+                "geoplano",
+                "palitos de igual longitud"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "¡Juguemos a identificar algunos polígonos!",
+              "nombre_completo": "¡Juguemos a identificar algunos polígonos!",
+              "conceptos_procedimientos": [
+                "Polígonos",
+                "Clases de polígonos"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores",
+                "cinta métrica",
+                "hojas blancas",
+                "caja",
+                "libro",
+                "regla"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Me divierto con mis conocimientos matemáticos",
+          "desempeño_general": "Aplico diferentes propiedades y operaciones de los números naturales para resolver situaciones cotidianas. Reconozco características y clases de figuras bidimensionales según sus componentes.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "Conozcamos algunas relaciones entre los números naturales",
+              "nombre_completo": "Conozcamos algunas relaciones entre los números naturales",
+              "conceptos_procedimientos": [
+                "Propiedades de los números: pares, impares, múltiplos, divisores"
+              ],
+              "recursos": [
+                "Cartulina blanca",
+                "tijeras",
+                "regletas de Cuisenaire"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "¿Cuándo un número divide a otro exactamente?",
+              "nombre_completo": "¿Cuándo un número divide a otro exactamente?",
+              "conceptos_procedimientos": [
+                "Múltiplos de un número",
+                "Cálculo del m.c.m.",
+                "Números compuestos y primos",
+                "Descomposición en factores primos"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "Conozcamos algunas propiedades de los números",
+              "nombre_completo": "Conozcamos algunas propiedades de los números",
+              "conceptos_procedimientos": [
+                "Criterios de divisibilidad",
+                "Cálculo del m.c.d."
+              ],
+              "recursos": [
+                "Regletas de Cuisenaire"
+              ]
+            },
+            {
+              "numero": 10,
+              "nombre": "Midiendo y midiendo, voy conociendo",
+              "nombre_completo": "Midiendo y midiendo, voy conociendo",
+              "conceptos_procedimientos": [
+                "Área y perímetro",
+                "Conversión de medidas de longitud"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores",
+                "instrumentos de medición de longitudes"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "¡Clasifiquemos triángulos!",
+              "nombre_completo": "¡Clasifiquemos triángulos!",
+              "conceptos_procedimientos": [
+                "Triángulos",
+                "Clasificación de triángulos según la medida de sus ángulos",
+                "Área y perímetro"
+              ],
+              "recursos": [
+                "Cartulina",
+                "tijeras",
+                "regla",
+                "hojas de papel",
+                "recurso Renueva M4U2G11A12"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "Fraccionemos cantidades numéricas",
+              "nombre_completo": "Fraccionemos cantidades numéricas",
+              "conceptos_procedimientos": [
+                "Repartos",
+                "Representación de fracciones",
+                "Resolución de problemas"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "¿Qué sucede cuando las unidades no están completas?",
+          "desempeño_general": "Aplico las propiedades y las operaciones de las fracciones para solucionar situaciones problema en contextos geométricos y métricos. Ubico figuras en el plano cartesiano.",
+          "guias": [
+            {
+              "numero": 13,
+              "nombre": "Utilicemos las fracciones en nuestro entorno",
+              "nombre_completo": "Utilicemos las fracciones en nuestro entorno",
+              "conceptos_procedimientos": [
+                "Suma y resta de fracciones homogéneas",
+                "Resolución de problemas"
+              ],
+              "recursos": [
+                "Regla",
+                "colores",
+                "lápiz",
+                "bloques lógicos",
+                "palitos",
+                "recurso Renueva M4U3G13A7"
+              ]
+            },
+            {
+              "numero": 14,
+              "nombre": "Ampliemos y reduzcamos las fracciones",
+              "nombre_completo": "Ampliemos y reduzcamos las fracciones",
+              "conceptos_procedimientos": [
+                "Equivalencia entre fracciones",
+                "Amplificación y simplificación de fracciones",
+                "Fracciones propias e impropias"
+              ],
+              "recursos": [
+                "Hojas de papel",
+                "tijeras",
+                "regla"
+              ]
+            },
+            {
+              "numero": 15,
+              "nombre": "Midamos usando fracciones",
+              "nombre_completo": "Midamos usando fracciones",
+              "conceptos_procedimientos": [
+                "Suma y resta de fracciones heterogéneas"
+              ],
+              "recursos": [
+                "Regla",
+                "elementos del Centro de recursos",
+                "regletas de Cuisenaire",
+                "colores",
+                "lápices",
+                "hojas de papel"
+              ]
+            },
+            {
+              "numero": 16,
+              "nombre": "¿En dónde más encontramos fracciones?",
+              "nombre_completo": "¿En dónde más encontramos fracciones?",
+              "conceptos_procedimientos": [
+                "Multiplicación y división de fracciones"
+              ],
+              "recursos": [
+                "Regletas de Cuisenaire"
+              ]
+            },
+            {
+              "numero": 17,
+              "nombre": "Ubiquémonos en el plano cartesiano",
+              "nombre_completo": "Ubiquémonos en el plano cartesiano",
+              "conceptos_procedimientos": [
+                "Ubicación de figuras en el plano",
+                "Localización de lugares en el plano"
+              ],
+              "recursos": [
+                "Hojas cuadriculadas",
+                "regla",
+                "recurso Renueva M4U3G17A3"
+              ]
+            },
+            {
+              "numero": 18,
+              "nombre": "Realicemos mediciones empleando otros números",
+              "nombre_completo": "Realicemos mediciones empleando otros números",
+              "conceptos_procedimientos": [
+                "Fracciones decimales"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores",
+                "cinta métrica",
+                "recurso Renueva M4U3G18A12"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "nombre": "Otros números… otros usos",
+          "desempeño_general": "Calculo y utilizo la representación decimal de una fracción en procesos de medición y en cálculo de áreas, perímetros y porcentajes.",
+          "guias": [
+            {
+              "numero": 19,
+              "nombre": "Comparemos algunos números",
+              "nombre_completo": "Comparemos algunos números",
+              "conceptos_procedimientos": [
+                "Números decimales",
+                "Conversión de números decimales a fracción y viceversa",
+                "Suma y resta de decimales"
+              ],
+              "recursos": [
+                "Empaques de productos comestibles"
+              ]
+            },
+            {
+              "numero": 20,
+              "nombre": "¿Cómo calculamos porcentajes?",
+              "nombre_completo": "¿Cómo calculamos porcentajes?",
+              "conceptos_procedimientos": [
+                "Porcentajes, conversión entre porcentajes, razones o fracciones y decimales"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores",
+                "recurso Renueva M4U4G20A8"
+              ]
+            },
+            {
+              "numero": 21,
+              "nombre": "¡Es hora de medir!",
+              "nombre_completo": "¡Es hora de medir!",
+              "conceptos_procedimientos": [
+                "Volumen, múltiplos y submúltiplos del metro cúbico",
+                "Comparación entre volumen, capacidad y peso"
+              ],
+              "recursos": [
+                "Vasos desechables",
+                "jarra de un litro",
+                "jeringa",
+                "cajas de fósforo",
+                "fríjoles",
+                "semillas",
+                "tabla de cartón",
+                "banda de caucho",
+                "clip",
+                "chinches",
+                "cinta métrica",
+                "algodón",
+                "arena",
+                "azúcar",
+                "cajas pequeñas de igual tamaño",
+                "palitos",
+                "puntillas",
+                "hojas blancas",
+                "lápices de colores",
+                "regla",
+                "empaques de alimentos",
+                "tajalápiz",
+                "llaves",
+                "monedas"
+              ]
+            },
+            {
+              "numero": 22,
+              "nombre": "¿Qué podemos hacer con la información recolectada?",
+              "nombre_completo": "¿Qué podemos hacer con la información recolectada?",
+              "conceptos_procedimientos": [
+                "Análisis de gráficas",
+                "Interpretación de información presentada en tablas"
+              ],
+              "recursos": [
+                "Hojas blancas",
+                "colores",
+                "regla"
+              ]
+            },
+            {
+              "numero": 23,
+              "nombre": "Establezcamos relaciones de variación",
+              "nombre_completo": "Establezcamos relaciones de variación",
+              "conceptos_procedimientos": [
+                "Proporcionalidad",
+                "Igualdades",
+                "Análisis de información contenida en tablas"
+              ],
+              "recursos": [
+                "Billetes, monedas didácticas"
+              ]
+            },
+            {
+              "numero": 24,
+              "nombre": "¿Es posible predecirlo?",
+              "nombre_completo": "¿Es posible predecirlo?",
+              "conceptos_procedimientos": [
+                "Experimentos o fenómenos aleatorios",
+                "Experimentos o fenómenos deterministas"
+              ],
+              "recursos": [
+                "Dados de colores",
+                "canicas o fichas de parqués",
+                "bolsa de papel"
+              ]
+            },
+            {
+              "numero": 25,
+              "nombre": "¡Hallemos proporciones!",
+              "nombre_completo": "¡Hallemos proporciones!",
+              "conceptos_procedimientos": [
+                "Proporcionalidad",
+                "Relaciones de proporcionalidad directa e inversa",
+                "Regla de tres directa",
+                "Regla de tres inversa"
+              ],
+              "recursos": [
+                "Regla"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grado": "5",
+      "unidades": [
+        {
+          "numero": 1,
+          "nombre": "Los números también cumplen reglas",
+          "desempeño_general": "Resuelvo situaciones problema en contextos aritméticos, métricos, geométricos y de proporcionalidad utilizando las propiedades de los números naturales, la teoría de números y la regla de tres simple directa e inversa.",
+          "guias": [
+            {
+              "numero": 1,
+              "nombre": "¿Cómo aplicamos el m.c.m. y el m.c.d. en la resolución de problemas?",
+              "nombre_completo": "¿Cómo aplicamos el m.c.m. y el m.c.d. en la resolución de problemas?",
+              "conceptos_procedimientos": [
+                "Múltiplos y divisores de números naturales",
+                "Descomposición en factores primos",
+                "Cálculo del m.c.m. y el m.c.d."
+              ],
+              "recursos": [
+                "Tarjetas con números primos",
+                "regla",
+                "tijeras"
+              ]
+            },
+            {
+              "numero": 2,
+              "nombre": "¡Utilicemos los números fraccionarios!",
+              "nombre_completo": "¡Utilicemos los números fraccionarios!",
+              "conceptos_procedimientos": [
+                "Fracciones homogéneas y heterogéneas",
+                "Representación de números fraccionarios en la recta numérica",
+                "Planteamiento y solución de situaciones con fracciones"
+              ],
+              "recursos": [
+                "Objetos del medio",
+                "semillas",
+                "piedras",
+                "láminas",
+                "tangram",
+                "regletas de Cuisenaire"
+              ]
+            },
+            {
+              "numero": 3,
+              "nombre": "Practiquemos algunas operaciones utilizando fracciones",
+              "nombre_completo": "Practiquemos algunas operaciones utilizando fracciones",
+              "conceptos_procedimientos": [
+                "Inverso multiplicativo de fracciones",
+                "Suma y resta de fracciones heterogéneas",
+                "División de fracciones",
+                "Planteamiento y solución de situaciones con fracciones"
+              ],
+              "recursos": [
+                "Regla",
+                "hojas cuadriculadas"
+              ]
+            },
+            {
+              "numero": 4,
+              "nombre": "¡Utilicemos los números mixtos!",
+              "nombre_completo": "¡Utilicemos los números mixtos!",
+              "conceptos_procedimientos": [
+                "Números mixtos",
+                "Fracciones propias e impropias"
+              ],
+              "recursos": [
+                "Tijeras",
+                "regletas de Cuisenaire"
+              ]
+            },
+            {
+              "numero": 5,
+              "nombre": "Hallemos equivalencias entre las fracciones y los números decimales",
+              "nombre_completo": "Hallemos equivalencias entre las fracciones y los números decimales",
+              "conceptos_procedimientos": [
+                "Números decimales y su clasificación",
+                "Conversión de número decimal a fracción y de fracción a decimal",
+                "Descomposición en décimas, centésimas y milésimas"
+              ],
+              "recursos": [
+                "Regla",
+                "hojas blancas"
+              ]
+            },
+            {
+              "numero": 6,
+              "nombre": "¡Calculemos el área y el perímetro de diferentes figuras!",
+              "nombre_completo": "¡Calculemos el área y el perímetro de diferentes figuras!",
+              "conceptos_procedimientos": [
+                "Medidas de longitud y superficie",
+                "Conversión de unidades",
+                "Cálculo de perímetros y áreas",
+                "Clasificación de polígonos"
+              ],
+              "recursos": [
+                "Regla",
+                "lápices de colores",
+                "hojas de papel o cartulina",
+                "cinta métrica"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Con los números podemos hacer muchos cálculos",
+          "desempeño_general": "Comprendo y aplico el concepto de número entero en operaciones como: logaritmación, potenciación y radicación.",
+          "guias": [
+            {
+              "numero": 7,
+              "nombre": "¡Realicemos operaciones con números decimales!",
+              "nombre_completo": "¡Realicemos operaciones con números decimales!",
+              "conceptos_procedimientos": [
+                "Suma, resta, multiplicación y división con números decimales",
+                "Resolución de situaciones problema"
+              ],
+              "recursos": [
+                "Empaques de productos comestibles",
+                "calculadora"
+              ]
+            },
+            {
+              "numero": 8,
+              "nombre": "Una nueva operación para solucionar problemas",
+              "nombre_completo": "Una nueva operación para solucionar problemas",
+              "conceptos_procedimientos": [
+                "Potenciación",
+                "Resolución de situaciones problema"
+              ],
+              "recursos": [
+                "27 cubos de igual tamaño",
+                "tablero de ajedrez",
+                "papel cuadriculado",
+                "tijeras",
+                "libra de arroz"
+              ]
+            },
+            {
+              "numero": 9,
+              "nombre": "Ahora relacionemos la potenciación con la radicación",
+              "nombre_completo": "Ahora relacionemos la potenciación con la radicación",
+              "conceptos_procedimientos": [
+                "Operaciones con números enteros",
+                "Potenciación",
+                "Elementos de la radicación"
+              ],
+              "recursos": [
+                "Regla y lápiz",
+                "regletas de Cuisenaire",
+                "8 cubos del mismo tamaño",
+                "27 dados o cubos de igual tamaño",
+                "hojas cuadriculadas",
+                "cartulina"
+              ]
+            },
+            {
+              "numero": 10,
+              "nombre": "¿Cómo aplicamos la potenciación, la radicación y la logaritmación?",
+              "nombre_completo": "¿Cómo aplicamos la potenciación, la radicación y la logaritmación?",
+              "conceptos_procedimientos": [
+                "Aplicación de la potenciación, radicación y logaritmación",
+                "Resolución de problemas",
+                "Justifico regularidades y propiedades de los números, sus relaciones y operaciones"
+              ],
+              "recursos": [
+                "Papel cuadriculado",
+                "cubos de colores o dados",
+                "cartulina",
+                "tijeras",
+                "regla"
+              ]
+            },
+            {
+              "numero": 11,
+              "nombre": "¡Ubiquemos objetos en el plano!",
+              "nombre_completo": "¡Ubiquemos objetos en el plano!",
+              "conceptos_procedimientos": [
+                "Plano cartesiano",
+                "Parejas ordenadas",
+                "Puntos en el plano cartesiano",
+                "Localizaciones"
+              ],
+              "recursos": [
+                "Lápices de colores",
+                "hojas cuadriculadas",
+                "regla"
+              ]
+            },
+            {
+              "numero": 12,
+              "nombre": "Empleemos el orden en las operaciones matemáticas",
+              "nombre_completo": "Empleemos el orden en las operaciones matemáticas",
+              "conceptos_procedimientos": [
+                "Orden en que se deben resolver las operaciones",
+                "Propiedad conmutativa",
+                "Propiedad distributiva"
+              ],
+              "recursos": [
+                "Cartulina",
+                "tijeras",
+                "regla",
+                "hojas de papel"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
