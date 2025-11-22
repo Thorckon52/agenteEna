@@ -366,25 +366,37 @@ ${JSON.stringify(
       ? `Sigue estrictamente estos lineamientos ENA 2025:\n${guidelines}\n\n`
       : "") + (typeof promptMsg2 !== 'undefined' ? promptMsg2 : promptMsg);
 
-    const resp = await openai.responses.create({
-      model: "gpt-4.1",
-      input: [
-        { role: "system", content: "Eres un asistente experto en planeación educativa." },
+    // 🔍 DEBUG FINAL: Mostrar el prompt completo que se envía
+    console.log('\n' + '='.repeat(80));
+    console.log('📤 PROMPT FINAL ENVIADO A OPENAI:');
+    console.log('='.repeat(80));
+    console.log('Longitud total del prompt:', effectivePrompt.length, 'caracteres');
+    console.log('\nIncluye guías ENA?', guiasENAContext.length > 0);
+    console.log('Incluye recursos alternativos?', recursosContext.length > 0);
+    console.log('Incluye perfil docente?', docenteContext.length > 0);
+    console.log('\n--- PREVIEW DEL PROMPT (últimos 2000 caracteres) ---');
+    console.log(effectivePrompt.slice(-2000));
+    console.log('='.repeat(80) + '\n');
+
+    const resp = await openai.chat.completions.create({
+      model: "gpt-4o-2024-08-06",
+      messages: [
+        { role: "system", content: "Eres un asistente experto en planeación educativa para Escuela Nueva Activa en Colombia." },
         { role: "user", content: effectivePrompt },
       ],
-      // Lineamientos en memoria; no se usa file_search
-      text: {
-        format: {
-          type: "json_schema",
+      response_format: {
+        type: "json_schema",
+        json_schema: {
           name: "PlanDocenteFlexible",
           strict: true,
           schema: jsonSchema,
         },
       },
+      temperature: 0.7,
     });
 
     // Extraer JSON generado
-    const text = resp.output_text;
+    const text = resp.choices[0].message.content;
     let parsed;
     try {
       parsed = JSON.parse(text);
