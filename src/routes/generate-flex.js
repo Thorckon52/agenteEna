@@ -137,19 +137,21 @@ router.post("/", async (req, res) => {
     if (docenteInput.guias_ena_recomendadas) {
       guiasENAContext = '\n\n📚 GUÍAS ENA RECOMENDADAS POR GRADO:\n';
       guiasENAContext += 'IMPORTANTE: Las actividades deben hacer referencia explícita a estas guías específicas de Escuela Nueva.\n';
-      guiasENAContext += 'En cada actividad, indica claramente qué guía(s) deben consultar los estudiantes.\n\n';
+      guiasENAContext += 'SIEMPRE menciona el GRADO ACADÉMICO cuando referencie una guía (ej: "Guía 10 de 3°" o "Guía 10 para Grado 3°").\n';
+      guiasENAContext += 'En cada actividad, indica claramente qué guía(s) y para qué grado deben consultar los estudiantes.\n\n';
 
       Object.entries(docenteInput.guias_ena_recomendadas).forEach(([grado, guias]) => {
         const gradoNum = grado.replace('grado_', '');
-        guiasENAContext += `\n${grado.toUpperCase()}:\n`;
+        guiasENAContext += `\nGRADO ${gradoNum}°:\n`;
         guias.forEach(guia => {
-          guiasENAContext += `  • Unidad ${guia.unidad}, Guía ${guia.guia}: "${guia.nombre}"\n`;
+          guiasENAContext += `  • Unidad ${guia.unidad}, Guía ${guia.guia} (Grado ${gradoNum}°): "${guia.nombre}"\n`;
         });
       });
 
       guiasENAContext += '\nEjemplo de cómo referenciar las guías en las actividades:\n';
-      guiasENAContext += '"Los estudiantes de 3° trabajarán con la Unidad 4, Guía 10 (Perímetro y área) realizando..."\n';
-      guiasENAContext += '"Consultar la Guía 11 de la Unidad 4 para profundizar en ángulos y triángulos..."\n';
+      guiasENAContext += '"Los estudiantes de 3° trabajarán con la Guía 10 de Grado 3° (Unidad 4: Perímetro y área) realizando..."\n';
+      guiasENAContext += '"Consultar la Guía 11 para Grado 3° (Unidad 4) para profundizar en ángulos y triángulos..."\n';
+      guiasENAContext += '"Los estudiantes de 4° utilizarán la Guía 8 de Grado 4° (Unidad 3: Fracciones) para..."\n';
     }
 
     // 📚 Análisis de recursos: comparar recursos requeridos vs disponibles
