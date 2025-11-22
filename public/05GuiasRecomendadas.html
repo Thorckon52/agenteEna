@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="es">
+
+  <head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>Guías ENA Recomendadas</title>
+    <link href="style.css" rel="stylesheet"/>
+    <style>
+      .guias-container {
+        margin-top: 2rem;
+      }
+
+      .grado-section {
+        background: #f8f9fa;
+        border-left: 4px solid #0C67B3;
+        padding: 1.5rem;
+        margin-bottom: 1.5rem;
+        border-radius: 8px;
+      }
+
+      .grado-title {
+        font-size: 1.3rem;
+        color: #0C67B3;
+        margin-bottom: 1rem;
+        font-weight: 600;
+      }
+
+      .unidades-info {
+        background: #e3f2fd;
+        padding: 0.5rem 1rem;
+        border-radius: 5px;
+        margin-bottom: 1rem;
+        font-size: 0.95rem;
+      }
+
+      .guia-card {
+        background: white;
+        padding: 1rem;
+        margin-bottom: 0.8rem;
+        border-radius: 6px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        transition: transform 0.2s;
+      }
+
+      .guia-card:hover {
+        transform: translateX(5px);
+        box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+      }
+
+      .guia-numero {
+        display: inline-block;
+        background: #0C67B3;
+        color: white;
+        padding: 0.2rem 0.6rem;
+        border-radius: 12px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        margin-right: 0.5rem;
+      }
+
+      .guia-nombre {
+        font-weight: 500;
+        color: #333;
+      }
+
+      .tema-header {
+        background: linear-gradient(135deg, #0C67B3 0%, #0a5490 100%);
+        color: white;
+        padding: 1.5rem;
+        border-radius: 8px;
+        margin-bottom: 2rem;
+      }
+
+      .tema-header h2 {
+        margin: 0;
+        font-size: 1.5rem;
+      }
+
+      .tema-header p {
+        margin: 0.5rem 0 0 0;
+        opacity: 0.95;
+      }
+
+      .no-guias-message {
+        background: #fff3cd;
+        border: 1px solid #ffc107;
+        padding: 1rem;
+        border-radius: 6px;
+        color: #856404;
+      }
+
+      .loading {
+        text-align: center;
+        padding: 3rem;
+        color: #666;
+      }
+
+      .print-button {
+        background: #4CAF50;
+        color: white;
+        padding: 0.8rem 1.5rem;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 1rem;
+        margin-top: 1rem;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .print-button:hover {
+        background: #45a049;
+      }
+
+      @media print {
+        .main-header, .form-buttons, .print-button, .progress-module {
+          display: none;
+        }
+        .guia-card {
+          page-break-inside: avoid;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <header class="main-header">
+      <div class="header-left">
+        <img alt="Logo Escuela Nueva" class="logo" src="Images/logo.png"/>
+        <h1 class="header-title">Asistente de Planeación Escuela Nueva Activa</h1>
+      </div>
+      <div class="header-right">
+        <div class="line-with-hexagon">
+          <svg fill="#fff" height="18" viewbox="0 0 17 18" width="17" xmlns="http://www.w3.org/2000/svg">
+            <path d="M5.5481 1.74664C5.66453 1.58825 5.85386 1.50841 6.03582 1.54099L12.2487 2.65368C12.4132 2.68319 12.5472 2.79993 12.6032 2.96312L14.9298 9.74299C14.9857 9.90615 14.9557 10.0921 14.8505 10.2353L10.8754 15.6439C10.759 15.8022 10.5696 15.882 10.3877 15.8495L4.17478 14.7368C4.01029 14.7074 3.87643 14.5905 3.82036 14.4274L1.49375 7.64751C1.43774 7.48427 1.46774 7.29845 1.57304 7.15519L5.5481 1.74664Z" stroke="#0C67B3" stroke-width="3"></path>
+          </svg>
+          <svg fill="none" height="3" viewbox="0 0 554 3" width="554" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0 1.5H553.457" stroke="#0C67B3" stroke-width="3"></path>
+          </svg>
+        </div>
+      </div>
+    </header>
+
+    <content>
+      <div class="form-wrapper">
+        <form class="form-card">
+          <div class="progress-module">
+            <div class="hex-steps">
+              <div class="hex inactive"><svg viewbox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+              <div class="hex inactive"><svg viewbox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+              <div class="hex inactive"><svg viewbox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+              <div class="hex inactive"><svg viewbox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+              <div class="hex active">
+                <svg viewbox="0 0 100 100"> <path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path> </svg>
+              </div>
+              <div class="hex inactive"><svg viewbox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+              <div class="hex inactive"><svg viewbox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+            </div>
+            <div class="progress-text">5 de 7</div>
+          </div>
+
+          <div class="modulo-hex-info">
+            <div class="hex-badge-img" data-step="5" role="img" aria-label="Paso 5"></div>
+            <div class="info-texto">
+              <h3 class="info-titulo">Guías ENA Recomendadas por Grado</h3>
+              <p class="info-subtitulo">Estas son las guías específicas que debes usar según el tema seleccionado</p>
+            </div>
+          </div>
+
+          <hr/>
+
+          <div id="contenido-guias">
+            <div class="loading">
+              <p>Cargando guías recomendadas...</p>
+            </div>
+          </div>
+
+          <div class="form-buttons">
+            <button type="button" id="atras" class="btn-secondary">Atrás</button>
+            <button type="button" id="imprimir" class="print-button" style="display:none;">
+              📄 Imprimir Guías
+            </button>
+            <button type="submit" id="continuar" class="btn-primary">Continuar</button>
+          </div>
+        </form>
+      </div>
+    </content>
+
+    <script src="temas-guias-mapper.js"></script>
+    <script src="main.js"></script>
+    <script>
+      // Cargar datos guardados del paso anterior
+      function cargarGuiasRecomendadas() {
+        const step2Data = window.getStepData(2); // Grados seleccionados
+        const step4Data = window.getStepData(4); // Área y tema general
+
+        if (!step2Data || !step4Data) {
+          document.getElementById('contenido-guias').innerHTML = `
+            <div class="no-guias-message">
+              <strong>⚠️ Información incompleta</strong>
+              <p>Por favor completa los pasos anteriores (selección de grados y área)</p>
+            </div>
+          `;
+          return;
+        }
+
+        const gradosSeleccionados = step2Data.grados || [];
+        const asignatura = step4Data.area;
+        const temaGeneral = step4Data.tema_general;
+        const edicionGuias = step4Data.edicion_guia;
+
+        // Crear el encabezado del tema
+        let html = `
+          <div class="tema-header">
+            <h2>${getNombreAsignatura(asignatura)}</h2>
+            <p><strong>Tema:</strong> ${formatearTemaGeneral(temaGeneral)}</p>
+            <p><strong>Edición de guías:</strong> ${edicionGuias}</p>
+          </div>
+        `;
+
+        // Obtener guías para cada grado seleccionado
+        gradosSeleccionados.forEach(grado => {
+          const gradoNum = grado.replace('grado_', '');
+          const resultado = obtenerGuiasEspecificas(asignatura, temaGeneral, parseInt(gradoNum));
+
+          if (resultado.error) {
+            html += `
+              <div class="grado-section">
+                <h3 class="grado-title">Grado ${gradoNum}°</h3>
+                <div class="no-guias-message">
+                  ${resultado.error}
+                </div>
+              </div>
+            `;
+          } else if (resultado.mensaje) {
+            html += `
+              <div class="grado-section">
+                <h3 class="grado-title">Grado ${gradoNum}°</h3>
+                <div class="no-guias-message">
+                  <strong>ℹ️ ${resultado.mensaje}</strong>
+                  <p>Grados disponibles: ${resultado.tema_disponible_en_grados}</p>
+                </div>
+              </div>
+            `;
+          } else {
+            html += `
+              <div class="grado-section">
+                <h3 class="grado-title">Grado ${gradoNum}°</h3>
+                <div class="unidades-info">
+                  <strong>📚 Unidades sugeridas:</strong> ${resultado.unidades.join(', ')}
+                </div>
+                <div class="guias-list">
+                  ${resultado.guias_especificas.map(guia => `
+                    <div class="guia-card">
+                      <span class="guia-numero">Unidad ${guia.unidad} - Guía ${guia.guia}</span>
+                      <span class="guia-nombre">${guia.nombre}</span>
+                    </div>
+                  `).join('')}
+                </div>
+              </div>
+            `;
+          }
+        });
+
+        document.getElementById('contenido-guias').innerHTML = html;
+        document.getElementById('imprimir').style.display = 'inline-flex';
+
+        // Guardar las guías recomendadas para el siguiente paso
+        const guiasRecomendadas = {};
+        gradosSeleccionados.forEach(grado => {
+          const gradoNum = grado.replace('grado_', '');
+          const resultado = obtenerGuiasEspecificas(asignatura, temaGeneral, parseInt(gradoNum));
+          if (resultado.guias_especificas) {
+            guiasRecomendadas[grado] = resultado.guias_especificas;
+          }
+        });
+
+        window.saveStepData(5, {
+          guias_recomendadas: guiasRecomendadas,
+          asignatura: asignatura,
+          tema_general: temaGeneral
+        });
+      }
+
+      function getNombreAsignatura(key) {
+        const nombres = {
+          'matematicas': 'Matemáticas',
+          'lenguaje': 'Lenguaje',
+          'sociales': 'Ciencias Sociales',
+          'Tecnología': 'Tecnología',
+          'Naturales': 'Ciencias Naturales',
+          'ética': 'Ética'
+        };
+        return nombres[key] || key;
+      }
+
+      function formatearTemaGeneral(tema) {
+        return tema.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+      }
+
+      // Event listeners
+      document.getElementById('atras').addEventListener('click', function() {
+        window.location.href = '04GuiasENAAreas.html';
+      });
+
+      document.getElementById('imprimir').addEventListener('click', function() {
+        window.print();
+      });
+
+      document.getElementById('continuar').addEventListener('click', function(e) {
+        e.preventDefault();
+        window.location.href = '07ActividadIntegración.html';
+      });
+
+      // Cargar guías al iniciar la página
+      window.addEventListener('DOMContentLoaded', cargarGuiasRecomendadas);
+    </script>
+  </body>
+</html>
