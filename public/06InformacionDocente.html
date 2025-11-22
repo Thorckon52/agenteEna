@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Información del Docente - Asistente ENA</title>
+    <link href="style.css" rel="stylesheet"/>
+</head>
+<body>
+    <header class="main-header">
+        <div class="header-left">
+            <img alt="Logo Escuela Nueva" class="logo" src="Images/logo.png"/>
+            <h1 class="header-title">Asistente de Planeación Escuela Nueva Activa</h1>
+        </div>
+        <div class="header-right">
+            <div class="line-with-hexagon">
+                <svg fill="#fff" height="18" viewBox="0 0 17 18" width="17" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M5.5481 1.74664C5.66453 1.58825 5.85386 1.50841 6.03582 1.54099L12.2487 2.65368C12.4132 2.68319 12.5472 2.79993 12.6032 2.96312L14.9298 9.74299C14.9857 9.90615 14.9557 10.0921 14.8505 10.2353L10.8754 15.6439C10.759 15.8022 10.5696 15.882 10.3877 15.8495L4.17478 14.7368C4.01029 14.7074 3.87643 14.5905 3.82036 14.4274L1.49375 7.64751C1.43774 7.48427 1.46774 7.29845 1.57304 7.15519L5.5481 1.74664Z" stroke="#0C67B3" stroke-width="3"></path>
+                </svg>
+                <svg fill="none" height="3" viewBox="0 0 554 3" width="554" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 1.5H553.457" stroke="#0C67B3" stroke-width="3"></path>
+                </svg>
+            </div>
+        </div>
+    </header>
+
+    <content>
+        <div class="form-wrapper">
+            <form class="form-card">
+                <div class="progress-module">
+                    <div class="hex-steps">
+                        <!-- 7 hexágonos -->
+                        <div class="hex inactive"><svg viewBox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+                        <div class="hex inactive"><svg viewBox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+                        <div class="hex inactive"><svg viewBox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+                        <div class="hex inactive"><svg viewBox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+                        <div class="hex inactive"><svg viewBox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+                        <div class="hex active">
+                            <svg viewBox="0 0 100 100"> <path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path> </svg>
+                        </div>
+                        <div class="hex inactive"><svg viewBox="0 0 100 100"><path d="M50 5 L90 25 L90 75 L50 95 L10 75 L10 25 Z"></path></svg></div>
+                    </div>
+                    <div class="progress-text">6 de 7</div>
+                </div>
+
+                <div class="modulo-hex-info">
+                    <div class="hex-badge-img" data-step="6" role="img" aria-label="Paso 6"></div>
+                    <div class="info-texto">
+                        <h3 class="info-titulo">Información del Docente</h3>
+                        <p class="info-subtitulo">Cuéntanos sobre tu experiencia y preferencias para personalizar mejor el plan</p>
+                    </div>
+                </div>
+
+                <hr/>
+
+                <fieldset class="form-fieldset">
+                    <legend>Datos del Docente</legend>
+
+                    <label for="nombre_docente">Nombre completo del docente</label>
+                    <input
+                        type="text"
+                        id="nombre_docente"
+                        placeholder="Ej: María Elena Rodríguez"
+                        required
+                    />
+
+                    <label for="experiencia_ena">Experiencia con Escuela Nueva Activa</label>
+                    <select id="experiencia_ena" required>
+                        <option value="">Selecciona tu nivel de experiencia</option>
+                        <option value="sin_experiencia">Sin experiencia (primera vez)</option>
+                        <option value="menos_1_año">Menos de 1 año</option>
+                        <option value="1_3_años">Entre 1 y 3 años</option>
+                        <option value="3_5_años">Entre 3 y 5 años</option>
+                        <option value="mas_5_años">Más de 5 años</option>
+                    </select>
+
+                    <label for="formacion_ena">¿Has recibido formación oficial en Escuela Nueva?</label>
+                    <select id="formacion_ena" required>
+                        <option value="">Selecciona una opción</option>
+                        <option value="si">Sí, he recibido formación oficial</option>
+                        <option value="no">No, pero he leído sobre el modelo</option>
+                        <option value="capacitacion_autonoma">No, estoy aprendiendo de forma autónoma</option>
+                    </select>
+                </fieldset>
+
+                <fieldset class="form-fieldset">
+                    <legend>Preferencias de Planificación (Opcional)</legend>
+
+                    <label for="enfoque_plan">Enfoque principal del plan</label>
+                    <select id="enfoque_plan">
+                        <option value="equilibrado">Equilibrado (teoría y práctica)</option>
+                        <option value="practico">Práctico (más actividades hands-on)</option>
+                        <option value="teorico">Teórico (más conceptual)</option>
+                        <option value="ludico">Lúdico (énfasis en juego y exploración)</option>
+                    </select>
+
+                    <label for="tiempo_disponible_semanal">Tiempo disponible por semana para esta área (minutos)</label>
+                    <input
+                        type="number"
+                        id="tiempo_disponible_semanal"
+                        placeholder="Ej: 180"
+                        min="60"
+                        max="600"
+                        value="180"
+                    />
+
+                    <label for="prioridad_evaluacion">Prioridad en evaluación</label>
+                    <select id="prioridad_evaluacion">
+                        <option value="proceso">Proceso (formativa, continua)</option>
+                        <option value="producto">Producto (evidencias finales)</option>
+                        <option value="mixta">Mixta (proceso y producto)</option>
+                    </select>
+                </fieldset>
+
+                <fieldset class="form-fieldset">
+                    <legend>Observaciones Adicionales (Opcional)</legend>
+
+                    <label for="necesidades_especiales">Necesidades especiales o consideraciones</label>
+                    <textarea
+                        id="necesidades_especiales"
+                        rows="3"
+                        placeholder="Ej: Estudiantes con discapacidad visual, contexto bilingüe, situaciones de desplazamiento, etc."
+                    ></textarea>
+
+                    <label for="objetivos_adicionales">Objetivos adicionales que quieres lograr</label>
+                    <textarea
+                        id="objetivos_adicionales"
+                        rows="3"
+                        placeholder="Ej: Fortalecer el trabajo en equipo, conectar con proyectos productivos de la comunidad, etc."
+                    ></textarea>
+                </fieldset>
+
+                <div class="form-buttons">
+                    <button type="button" id="atras" class="btn-secondary">Atrás</button>
+                    <button type="submit" id="continuar" class="btn-primary">Continuar</button>
+                </div>
+            </form>
+        </div>
+    </content>
+
+    <script src="main.js"></script>
+    <script>
+        document.getElementById("atras").addEventListener("click", function() {
+            window.location.href = "05GuiasRecomendadas.html";
+        });
+
+        document.getElementById("continuar").addEventListener("click", function(e) {
+            e.preventDefault();
+
+            // Validar campos requeridos
+            const requiredFields = document.querySelectorAll('[required]');
+            let allFilled = true;
+
+            requiredFields.forEach(field => {
+                if (!field.value || field.value === '') {
+                    allFilled = false;
+                    field.classList.add('error');
+                } else {
+                    field.classList.remove('error');
+                }
+            });
+
+            if (!allFilled) {
+                alert("Por favor complete todos los campos requeridos");
+                return;
+            }
+
+            // Guardar datos del paso 6
+            const stepData = {
+                nombre_docente: document.getElementById('nombre_docente').value,
+                experiencia_ena: document.getElementById('experiencia_ena').value,
+                formacion_ena: document.getElementById('formacion_ena').value,
+                enfoque_plan: document.getElementById('enfoque_plan').value || 'equilibrado',
+                tiempo_disponible_semanal: parseInt(document.getElementById('tiempo_disponible_semanal').value) || 180,
+                prioridad_evaluacion: document.getElementById('prioridad_evaluacion').value || 'mixta',
+                necesidades_especiales: document.getElementById('necesidades_especiales').value,
+                objetivos_adicionales: document.getElementById('objetivos_adicionales').value
+            };
+
+            window.saveStepData(6, stepData);
+            window.location.href = "07ActividadIntegración.html";
+        });
+    </script>
+</body>
+</html>
