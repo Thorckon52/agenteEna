@@ -224,7 +224,18 @@
                     ras_dba_referencia: []
                 },
                 // Incluir guías ENA recomendadas desde el paso 5
-                guias_ena_recomendadas: allData.step5?.guias_recomendadas || null
+                guias_ena_recomendadas: allData.step5?.guias_recomendadas || null,
+                // Incluir información del docente desde el paso 6
+                informacion_docente: {
+                    nombre: allData.step6?.nombre_docente || "Docente",
+                    experiencia_ena: allData.step6?.experiencia_ena || "sin_experiencia",
+                    formacion_ena: allData.step6?.formacion_ena || "no",
+                    enfoque_plan: allData.step6?.enfoque_plan || "equilibrado",
+                    tiempo_disponible_semanal: allData.step6?.tiempo_disponible_semanal || 180,
+                    prioridad_evaluacion: allData.step6?.prioridad_evaluacion || "mixta",
+                    necesidades_especiales: allData.step6?.necesidades_especiales || "",
+                    objetivos_adicionales: allData.step6?.objetivos_adicionales || ""
+                }
             };
 
             console.log('Enviando datos al backend:', requestData);

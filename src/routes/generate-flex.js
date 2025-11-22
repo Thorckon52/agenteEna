@@ -192,6 +192,155 @@ router.post("/", async (req, res) => {
       console.log('   ⚠️ No hay guías ENA recomendadas, saltando análisis de recursos');
     }
 
+    // 👨‍🏫 Contexto del docente para personalización
+    let docenteContext = '';
+    if (docenteInput.informacion_docente) {
+      const info = docenteInput.informacion_docente;
+
+      docenteContext = '\n\n' + '='.repeat(80) + '\n';
+      docenteContext += '👨‍🏫 PERFIL DEL DOCENTE Y PERSONALIZACIÓN DEL PLAN\n';
+      docenteContext += '='.repeat(80) + '\n\n';
+
+      docenteContext += `DOCENTE: ${info.nombre}\n\n`;
+
+      // Experiencia con ENA
+      const experienciaLabels = {
+        'sin_experiencia': 'Sin experiencia (primera vez con ENA)',
+        'menos_1_año': 'Menos de 1 año de experiencia con ENA',
+        '1_3_años': 'Entre 1 y 3 años de experiencia con ENA',
+        '3_5_años': 'Entre 3 y 5 años de experiencia con ENA',
+        'mas_5_años': 'Más de 5 años de experiencia con ENA'
+      };
+      docenteContext += `EXPERIENCIA ENA: ${experienciaLabels[info.experiencia_ena] || info.experiencia_ena}\n`;
+
+      // Formación
+      const formacionLabels = {
+        'si': 'Ha recibido formación oficial en Escuela Nueva',
+        'no': 'No ha recibido formación oficial (conoce el modelo por lectura)',
+        'capacitacion_autonoma': 'Está aprendiendo de forma autónoma'
+      };
+      docenteContext += `FORMACIÓN: ${formacionLabels[info.formacion_ena] || info.formacion_ena}\n\n`;
+
+      // Preferencias de planificación
+      const enfoqueLabels = {
+        'equilibrado': 'EQUILIBRADO (teoría y práctica)',
+        'practico': 'PRÁCTICO (énfasis en actividades hands-on)',
+        'teorico': 'TEÓRICO (más conceptual)',
+        'ludico': 'LÚDICO (énfasis en juego y exploración)'
+      };
+      docenteContext += `ENFOQUE PREFERIDO: ${enfoqueLabels[info.enfoque_plan] || info.enfoque_plan}\n`;
+
+      const evaluacionLabels = {
+        'proceso': 'PROCESO (evaluación formativa continua)',
+        'producto': 'PRODUCTO (evidencias finales)',
+        'mixta': 'MIXTA (proceso y producto)'
+      };
+      docenteContext += `PRIORIDAD EN EVALUACIÓN: ${evaluacionLabels[info.prioridad_evaluacion] || info.prioridad_evaluacion}\n`;
+      docenteContext += `TIEMPO DISPONIBLE SEMANAL: ${info.tiempo_disponible_semanal} minutos\n\n`;
+
+      // Necesidades especiales
+      if (info.necesidades_especiales && info.necesidades_especiales.trim()) {
+        docenteContext += `NECESIDADES ESPECIALES O CONSIDERACIONES:\n${info.necesidades_especiales}\n\n`;
+      }
+
+      // Objetivos adicionales
+      if (info.objetivos_adicionales && info.objetivos_adicionales.trim()) {
+        docenteContext += `OBJETIVOS ADICIONALES DEL DOCENTE:\n${info.objetivos_adicionales}\n\n`;
+      }
+
+      docenteContext += '='.repeat(80) + '\n';
+      docenteContext += '📋 INSTRUCCIONES DE PERSONALIZACIÓN SEGÚN PERFIL DEL DOCENTE:\n';
+      docenteContext += '='.repeat(80) + '\n\n';
+
+      // Instrucciones según experiencia
+      if (info.experiencia_ena === 'sin_experiencia' || info.experiencia_ena === 'menos_1_año') {
+        docenteContext += `1. LENGUAJE Y EXPLICACIONES:\n`;
+        docenteContext += `   - Usa lenguaje claro y sencillo\n`;
+        docenteContext += `   - Explica términos pedagógicos de ENA (trabajo colaborativo, rincones, etc.)\n`;
+        docenteContext += `   - Incluye pasos muy detallados en cada actividad\n`;
+        docenteContext += `   - Proporciona ejemplos concretos de cómo implementar cada estrategia\n\n`;
+      } else if (info.experiencia_ena === 'mas_5_años') {
+        docenteContext += `1. LENGUAJE Y EXPLICACIONES:\n`;
+        docenteContext += `   - Puedes usar terminología avanzada de ENA\n`;
+        docenteContext += `   - Enfócate en innovación y profundización\n`;
+        docenteContext += `   - Sugiere variaciones y extensiones de las actividades\n\n`;
+      } else {
+        docenteContext += `1. LENGUAJE Y EXPLICACIONES:\n`;
+        docenteContext += `   - Equilibra terminología ENA con explicaciones claras\n`;
+        docenteContext += `   - Proporciona detalles suficientes sin ser excesivamente básico\n\n`;
+      }
+
+      // Instrucciones según enfoque
+      if (info.enfoque_plan === 'practico') {
+        docenteContext += `2. DISEÑO DE ACTIVIDADES (Enfoque PRÁCTICO):\n`;
+        docenteContext += `   - PRIORIZA actividades manipulativas y experimentales\n`;
+        docenteContext += `   - Reduce explicaciones teóricas al mínimo necesario\n`;
+        docenteContext += `   - Incluye MUCHAS actividades hands-on con material concreto\n`;
+        docenteContext += `   - Enfatiza el aprendizaje por descubrimiento y exploración\n`;
+        docenteContext += `   - Cada concepto debe enseñarse primero con actividad práctica\n\n`;
+      } else if (info.enfoque_plan === 'ludico') {
+        docenteContext += `2. DISEÑO DE ACTIVIDADES (Enfoque LÚDICO):\n`;
+        docenteContext += `   - Convierte CADA actividad en un juego o desafío\n`;
+        docenteContext += `   - Usa gamificación: puntos, niveles, retos, misiones\n`;
+        docenteContext += `   - Incluye elementos de competencia amistosa entre equipos\n`;
+        docenteContext += `   - Aprovecha el juego libre y la exploración creativa\n`;
+        docenteContext += `   - Conecta los conceptos con historias, personajes o aventuras\n\n`;
+      } else if (info.enfoque_plan === 'teorico') {
+        docenteContext += `2. DISEÑO DE ACTIVIDADES (Enfoque TEÓRICO):\n`;
+        docenteContext += `   - Dedica tiempo a explicaciones conceptuales profundas\n`;
+        docenteContext += `   - Incluye análisis, comparaciones y clasificaciones\n`;
+        docenteContext += `   - Proporciona lecturas complementarias y definiciones formales\n`;
+        docenteContext += `   - Enfatiza la comprensión de principios y teorías\n\n`;
+      } else {
+        docenteContext += `2. DISEÑO DE ACTIVIDADES (Enfoque EQUILIBRADO):\n`;
+        docenteContext += `   - Balancea teoría y práctica en cada semana\n`;
+        docenteContext += `   - Alterna actividades conceptuales con manipulativas\n`;
+        docenteContext += `   - Asegura que cada concepto se explique Y se practique\n\n`;
+      }
+
+      // Instrucciones según prioridad de evaluación
+      if (info.prioridad_evaluacion === 'proceso') {
+        docenteContext += `3. EVALUACIÓN (Prioridad en PROCESO):\n`;
+        docenteContext += `   - Enfatiza evaluación formativa continua\n`;
+        docenteContext += `   - Incluye observación directa, retroalimentación inmediata\n`;
+        docenteContext += `   - Proporciona autoevaluación y coevaluación frecuentes\n`;
+        docenteContext += `   - Minimiza pruebas escritas finales\n\n`;
+      } else if (info.prioridad_evaluacion === 'producto') {
+        docenteContext += `3. EVALUACIÓN (Prioridad en PRODUCTO):\n`;
+        docenteContext += `   - Define productos finales claros y evaluables\n`;
+        docenteContext += `   - Incluye rúbricas específicas para cada producto\n`;
+        docenteContext += `   - Enfatiza evidencias tangibles del aprendizaje\n\n`;
+      } else {
+        docenteContext += `3. EVALUACIÓN (MIXTA - proceso y producto):\n`;
+        docenteContext += `   - Combina evaluación formativa durante el proceso\n`;
+        docenteContext += `   - Y evaluación sumativa de productos finales\n`;
+        docenteContext += `   - Balancea retroalimentación continua con evidencias tangibles\n\n`;
+      }
+
+      // Instrucciones para necesidades especiales
+      if (info.necesidades_especiales && info.necesidades_especiales.trim()) {
+        docenteContext += `4. ADAPTACIONES PARA NECESIDADES ESPECIALES:\n`;
+        docenteContext += `   - CONSIDERA las necesidades especiales mencionadas arriba\n`;
+        docenteContext += `   - Proporciona adaptaciones específicas cuando sea relevante\n`;
+        docenteContext += `   - Asegura que las actividades sean inclusivas y accesibles\n\n`;
+      }
+
+      // Instrucciones para objetivos adicionales
+      if (info.objetivos_adicionales && info.objetivos_adicionales.trim()) {
+        docenteContext += `5. OBJETIVOS ADICIONALES:\n`;
+        docenteContext += `   - INTEGRA los objetivos adicionales del docente en las actividades\n`;
+        docenteContext += `   - Busca oportunidades para abordar estos objetivos específicos\n\n`;
+      }
+
+      docenteContext += '='.repeat(80) + '\n\n';
+
+      console.log('\n👨‍🏫 DEBUG - Información del Docente:');
+      console.log(`   - Nombre: ${info.nombre}`);
+      console.log(`   - Experiencia: ${info.experiencia_ena}`);
+      console.log(`   - Enfoque: ${info.enfoque_plan}`);
+      console.log(`   - Contexto del docente generado: ${docenteContext.length} caracteres`);
+    }
+
     const promptMsg2 = `Genera un plan docente flexible personalizado por grado a partir del siguiente contexto. Distribuye el plan en ${semanas} semanas (aproximadamente entre 2 y 3 semanas) y, en cada actividad, indica 'Semana N:' dentro de la descripcion.
 
 IMPORTANTE: Para cada grado, el campo 'evaluacion' debe contener un array con estrategias e instrumentos de evaluación específicos. Incluye al menos 3-5 elementos que describan:
@@ -203,6 +352,7 @@ IMPORTANTE: Para cada grado, el campo 'evaluacion' debe contener un array con es
 Ejemplo de evaluacion: ["Observación directa del trabajo en clase usando lista de cotejo", "Revisión de ejercicios en el cuaderno con retroalimentación escrita", "Autoevaluación del estudiante sobre su comprensión del tema", "Prueba escrita corta al final de cada semana", "Exposición oral en grupo sobre el tema trabajado"]
 ${guiasENAContext}
 ${recursosContext}
+${docenteContext}
 
 No agregues campos fuera del schema.
 ${JSON.stringify(
