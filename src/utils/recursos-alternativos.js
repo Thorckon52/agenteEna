@@ -449,34 +449,88 @@ export function extraerRecursosDeGuias(guiasRecomendadas, todosLosJSONs, asignat
  */
 export function generarTextoSugerencias(analisisRecursos) {
   if (analisisRecursos.recursos_faltantes.length === 0) {
-    return "✅ El docente cuenta con todos los recursos necesarios para las actividades planificadas.";
+    return "\n✅ RECURSOS COMPLETOS: El docente cuenta con todos los recursos necesarios para las actividades planificadas.\n";
   }
 
-  let texto = "⚠️ ADAPTACIÓN DE RECURSOS:\n\n";
-  texto += `El docente NO cuenta con los siguientes recursos:\n`;
+  let texto = "\n" + "=".repeat(80) + "\n";
+  texto += "🚨 INSTRUCCIÓN CRÍTICA: ADAPTACIÓN DE RECURSOS FALTANTES\n";
+  texto += "=".repeat(80) + "\n\n";
+
+  texto += `⚠️ El docente NO tiene los siguientes ${analisisRecursos.recursos_faltantes.length} recursos:\n`;
+  texto += `${analisisRecursos.recursos_faltantes.map((r, i) => `${i + 1}. ${r}`).join('\n')}\n\n`;
+
+  texto += "📚 ALTERNATIVAS DISPONIBLES POR RECURSO:\n\n";
 
   analisisRecursos.sugerencias_alternativas.forEach((sug, index) => {
-    texto += `\n${index + 1}. **${sug.recurso_faltante}** (${sug.categoria})\n`;
-    texto += `   ALTERNATIVAS SUGERIDAS:\n`;
-    sug.alternativas.slice(0, 3).forEach(alt => {
-      texto += `   - ${alt}\n`;
+    texto += `${index + 1}. RECURSO FALTANTE: ${sug.recurso_faltante}\n`;
+    texto += `   Categoría: ${sug.categoria}\n`;
+    texto += `   \n`;
+    texto += `   ✅ USAR EN SU LUGAR:\n`;
+    sug.alternativas.slice(0, 3).forEach((alt, i) => {
+      texto += `      ${String.fromCharCode(97 + i)}) ${alt}\n`;
     });
+
     if (sug.instrucciones_fabricacion) {
-      texto += `   FABRICACIÓN: ${sug.instrucciones_fabricacion}\n`;
+      texto += `   \n`;
+      texto += `   🔧 CÓMO FABRICAR:\n`;
+      texto += `      ${sug.instrucciones_fabricacion}\n`;
     }
+
     if (sug.adaptacion_pedagogica) {
-      texto += `   ADAPTACIÓN PEDAGÓGICA: ${sug.adaptacion_pedagogica}\n`;
+      texto += `   \n`;
+      texto += `   📖 ADAPTACIÓN PEDAGÓGICA:\n`;
+      texto += `      ${sug.adaptacion_pedagogica}\n`;
     }
-    texto += `   Nota: ${sug.notas}\n`;
+
+    texto += `   \n`;
+    texto += `   💡 NOTA: ${sug.notas}\n`;
+    texto += `\n`;
   });
 
-  texto += `\n📋 INSTRUCCIÓN PARA EL PLAN:\n`;
-  texto += `En cada actividad que requiera recursos faltantes, DEBES:\n`;
-  texto += `1. Mencionar el recurso ideal de la guía ENA\n`;
-  texto += `2. Sugerir EXPLÍCITAMENTE las alternativas indicadas arriba\n`;
-  texto += `3. Adaptar la metodología si es necesario según la alternativa\n`;
-  texto += `4. Incluir instrucciones de fabricación cuando aplique\n\n`;
-  texto += `Ejemplo: "Los estudiantes trabajarán con Material Base 10 (Guía 8). Como alternativa, usarán palitos agrupados con ligas: 1 palito suelto = 1 unidad, 10 palitos atados = 1 decena."\n`;
+  texto += "=".repeat(80) + "\n";
+  texto += "📋 INSTRUCCIONES OBLIGATORIAS PARA GENERAR EL PLAN:\n";
+  texto += "=".repeat(80) + "\n\n";
+
+  texto += `CUANDO UNA ACTIVIDAD REQUIERA ALGUNO DE LOS ${analisisRecursos.recursos_faltantes.length} RECURSOS FALTANTES:\n\n`;
+
+  texto += `1. EN EL CAMPO "descripcion" de la actividad, DEBES incluir una sección RECURSOS:\n`;
+  texto += `   Ejemplo de formato:\n\n`;
+  texto += `   "Descripción: [texto de la actividad]\n\n`;
+  texto += `   RECURSOS NECESARIOS:\n`;
+  texto += `   1. [Nombre del recurso ideal] (de la Guía X)\n`;
+  texto += `      ❌ NO DISPONIBLE\n`;
+  texto += `      ✅ ALTERNATIVA: [alternativa específica de la lista arriba]\n`;
+  texto += `      📐 Instrucciones: [instrucciones de fabricación si aplica]\n\n`;
+  texto += `   Concepto: [explicación del concepto]\n`;
+  texto += `   Proceso: [pasos de la actividad adaptada con la alternativa]"\n\n`;
+
+  texto += `2. ADAPTA los pasos del "Proceso" para usar la alternativa, NO el recurso original\n\n`;
+
+  texto += `3. INCLUYE las instrucciones de fabricación en el proceso cuando sea necesario\n\n`;
+
+  texto += `4. Si el recurso faltante es TECNOLOGÍA (Computador/Internet):\n`;
+  texto += `   - Adapta completamente la actividad a formato sin TIC\n`;
+  texto += `   - Usa biblioteca física, material impreso, o trabajo de campo\n`;
+  texto += `   - Explica claramente la adaptación pedagógica\n\n`;
+
+  texto += `EJEMPLO COMPLETO DE ACTIVIDAD ADAPTADA:\n\n`;
+  texto += `{\n`;
+  texto += `  "nombre": "Midiendo perímetros",\n`;
+  texto += `  "descripcion": "Semana 1: Los estudiantes trabajarán con la Guía 10.\n\n`;
+  texto += `RECURSOS NECESARIOS:\n\n`;
+  texto += `1. REGLA (recurso ideal de la guía)\n`;
+  texto += `   ❌ NO DISPONIBLE\n`;
+  texto += `   ✅ ALTERNATIVA: Regla casera de cartón\n`;
+  texto += `   📐 Fabricación: Cortar cartón de 30 cm, marcar cada centímetro\n\n`;
+  texto += `Concepto: El perímetro es la suma de todos los lados.\n\n`;
+  texto += `Proceso:\n`;
+  texto += `1. Fabricar regla casera (15 min)\n`;
+  texto += `2. Medir objetos con regla casera\n`;
+  texto += `3. Calcular perímetro\n\n`;
+  texto += `Producto: Regla casera + tabla de medidas"\n`;
+  texto += `}\n\n`;
+
+  texto += "=".repeat(80) + "\n\n";
 
   return texto;
 }

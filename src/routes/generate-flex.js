@@ -154,9 +154,18 @@ router.post("/", async (req, res) => {
 
     // 📚 Análisis de recursos: comparar recursos requeridos vs disponibles
     let recursosContext = '';
+
+    console.log('\n🔍 DEBUG - Análisis de Recursos:');
+    console.log('   - guias_ena_recomendadas presente?', !!docenteInput.guias_ena_recomendadas);
+    console.log('   - contexto presente?', !!docenteInput.contexto);
+    console.log('   - recursos_aula:', docenteInput.contexto?.recursos_aula);
+
     if (docenteInput.guias_ena_recomendadas) {
       const todosLosJSONs = cargarJSONsRAS();
       const asignaturaActual = docenteInput.alineacion_curricular?.area || 'matematicas';
+
+      console.log(`   - Asignatura actual: ${asignaturaActual}`);
+
       const recursosRequeridos = extraerRecursosDeGuias(
         docenteInput.guias_ena_recomendadas,
         todosLosJSONs,
@@ -164,16 +173,23 @@ router.post("/", async (req, res) => {
       );
       const recursosDisponibles = docenteInput.contexto?.recursos_aula || [];
 
+      console.log(`   - Recursos requeridos extraídos: ${recursosRequeridos.length}`);
+      console.log(`   - Recursos requeridos:`, recursosRequeridos);
+      console.log(`   - Recursos disponibles del docente: ${recursosDisponibles.length}`);
+      console.log(`   - Recursos disponibles:`, recursosDisponibles);
+
       const analisisRecursos = analizarRecursos(recursosRequeridos, recursosDisponibles);
+
+      console.log(`   - Recursos completos: ${analisisRecursos.recursos_completos.length}`);
+      console.log(`   - Recursos faltantes: ${analisisRecursos.recursos_faltantes.length}`);
+      console.log(`   - Faltantes:`, analisisRecursos.recursos_faltantes);
+
       recursosContext = '\n\n' + generarTextoSugerencias(analisisRecursos) + '\n';
 
-      console.log(`📊 Análisis de recursos para ${asignaturaActual}:`);
-      console.log(`   - Recursos requeridos: ${recursosRequeridos.length}`);
-      console.log(`   - Recursos disponibles: ${recursosDisponibles.length}`);
-      console.log(`   - Recursos faltantes: ${analisisRecursos.recursos_faltantes.length}`);
-      if (recursosRequeridos.length > 0) {
-        console.log(`   - Ejemplo de recursos: ${recursosRequeridos.slice(0, 5).join(', ')}`);
-      }
+      console.log(`   - Longitud del contexto generado: ${recursosContext.length} caracteres`);
+      console.log(`   - Contexto de recursos:\n${recursosContext.substring(0, 500)}...`);
+    } else {
+      console.log('   ⚠️ No hay guías ENA recomendadas, saltando análisis de recursos');
     }
 
     const promptMsg2 = `Genera un plan docente flexible personalizado por grado a partir del siguiente contexto. Distribuye el plan en ${semanas} semanas (aproximadamente entre 2 y 3 semanas) y, en cada actividad, indica 'Semana N:' dentro de la descripcion.
