@@ -1,0 +1,650 @@
+{
+  "asignatura": "Tecnologia",
+  "grado": 5,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Luis G. Agudelo Camacho, Juana Carrizosa Umana, Pedro Alberto Sierra Guerrero",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "Identifica diferencias entre productos derivados de fuentes naturales y productos sintéticos.",
+    "Identifica en su entorno cercano el uso de productos sintéticos que facilitan el avance tecnológico .",
+    "Propone estrategias de aprovechamiento y correcta disposición posconsumo de productos sintéticos.",
+    "Identifica características generales de los medios de transporte, terrestres, acuáticos y aéreos.",
+    "Reconoce los avances tecnológicos que han sido necesarios en la evolución del transporte .",
+    "Experimenta con maquetas y modelos a escala que simulan medios de transporte y propone modificaciones y mejoras .",
+    "Reconoce cómo ha sido la evolución de las telecomunicaciones, la función que cumplen en la sociedad y los potenciales riesgos que presentan.",
+    "Propone estrategias de uso adecuado de los diferentes canales de comunicación (teléfono ,televisión, Internet).",
+    "Comprende la importancia del cuidado personal y de la ética en el uso de inteligencia artificial (IA) y la participación activa en diferentes redes sociales .",
+    "Identifica potenciales aprendizajes en la organización, ejecución y evaluación de la Feria de la Tecnología institucional."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Tecnología, información y comunicación",
+      "desempeno_general": "Analizo el uso de las tecnologías de la información y la comunicación en la vida cotidiana.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "¿Qué son las tecnologías de la información?",
+          "concepto": "Información, tecnología, TIC",
+          "desempeno": "Describo el proceso de obtención del caucho natural o látex.",
+          "ejes_tematicos": [
+            "Información",
+            "tecnología",
+            "TIC"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "marcadores",
+            "acceso a ejemplos impresos"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Realizamos la siguiente experiencia STEAM",
+              "descripcion": "Realizamos la siguiente experiencia STEAM. Traemos del Centro de recursos los siguientes materiales y herramientas. Seguimos las instrucciones: Construyamos aviones! STEAM Principios de aerodinamica, equilibrio, resistencia del aire. Uso de herramientas y aplicacion de tecnicas de construccion. Estabilidad, estructura funcional, modificacion y prot",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Respondemos las siguientes preguntas: a",
+              "descripcion": "Respondemos las siguientes preguntas: a. Que ideas les dariamos a Dedalo e Icaro para ayudarlos a salir de la isla? b. Compartimos nuestras ideas con los demas companeros y companeras. c. Valoramos las ventajas y desventajas de nuestras ideas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos la infografia de la siguiente pagina: 51 aviacion!aviacion!aviacion! Conozcamosmas sobre la aviacion!aviacion!aviacion! Conozcamosmas sobre",
+              "descripcion": "Observamos la infografia de la siguiente pagina: 51 aviacion!aviacion!aviacion! Conozcamosmas sobre la aviacion!aviacion!aviacion! Conozcamosmas sobre la transportar a 5 personas, con una altura de 396 m, en una distancia de 6 km y con un tiempo de 17 minutos. 1490 Leonardo Da Vinci disena un artefacto volador con un rotor helicoidal. 1958 Empieza ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con base en la informacion anterior, comentamos: a",
+              "descripcion": "Con base en la informacion anterior, comentamos: a. Que tipo de avion nos gusta? Por que? b. Como disenariamos nuestro propio avion? Que caracteristicas tendria?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Buscamos en la biblioteca o en Internet mas informacion sobre las partes de los aviones",
+              "descripcion": "Buscamos en la biblioteca o en Internet mas informacion sobre las partes de los aviones y su funcion. Tenemos en cuenta estos datos para desarrollar las actividades de practica. Comentamos el trabajo con la profesorao el profesor. BActividades de practica Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Entre todos resolvemos las dudas que tengamos sobre los aviones y ubicamos los mejores modelos",
+              "descripcion": "Entre todos resolvemos las dudas que tengamos sobre los aviones y ubicamos los mejores modelos en el centro de recursos. 56 Tecnologia 5 Comentamos el trabajo con laprofesorao el profesor. 57 Unidad 2, Guia 6 C Actividades de aplicacion Trabajo con mi familia",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Comentamos nuestras impresiones sobre la informacion anterior con nuestras companeras y companeros",
+              "descripcion": "Comentamos nuestras impresiones sobre la informacion anterior con nuestras companeras y companeros. 66 Tecnologia 5 BActividades de practica TrabajoconlaprofesoraoelprofesorTrabajo con la profesora o el profesor Materiales •Dos botellas de plastico•Un corcho •Una aguja para inflarbalones •Una bomba para inflarllantas de bicicleta •Carton •Una base ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Enorme antena de telecomunicacion en el espacio",
+              "descripcion": "Enorme antena de telecomunicacion en el espacio.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Asi conocemos al intercambio de informacion y a la interaccion con otros",
+              "descripcion": "Asi conocemos al intercambio de informacion y a la interaccion con otros.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Medios de comunicación a través del tiempo",
+          "concepto": "Medios de comunicación, evolución tecnológica",
+          "desempeno": "Identifico características fundamentales del caucho sintético y del plástico, además de describir algunos usos comunes.",
+          "ejes_tematicos": [
+            "Medios de comunicación",
+            "evolución tecnológica"
+          ],
+          "recursos": [
+            "Cartulina",
+            "imágenes impresas",
+            "colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar tomamos un juego o un juguete hecho de caucho o",
+              "descripcion": "Con ayuda de un familiar tomamos un juego o un juguete hecho de caucho o de plastico y respondemos las siguientes preguntas: a. Como se llama el juego o el juguete? b. Como se utiliza para jugar? c. De que material esta hecho? d. Que pasaria con ese juguete si fuera de papel? e. Que pasaria con ese juguete si fuera de tela?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Indago si en mi comunidad se realiza una adecuada disposicion de llantas usadas por parte",
+              "descripcion": "Indago si en mi comunidad se realiza una adecuada disposicion de llantas usadas por parte de entidades estatales o privadas. Comparto la informacion con mis companeros y companeras en la proxima clase. Tecnologia 5 24 Elprofesoroprofesorame autorizaaregistrar miprogreso, despuesde quevaloremosmisdesempenos al desarrollarestaguia. 3 Guia Desempeno: ",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Tecnología y solución de problemas",
+      "desempeno_general": "Aplico procesos tecnológicos para resolver problemas del entorno.",
+      "guias": [
+        {
+          "numero": 3,
+          "titulo": "Uso responsable de la información",
+          "concepto": "Uso ético, responsabilidad digital",
+          "desempeno": "Identifico los pasos para la correcta disposición de objetos usados de caucho, con el fin de ayudar a la conservación del medio ambiente.",
+          "ejes_tematicos": [
+            "Uso ético",
+            "responsabilidad digital"
+          ],
+          "recursos": [
+            "Hojas",
+            "cartelera"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con un adulto o un familiar, leemos el siguiente problema:",
+              "descripcion": "Con un adulto o un familiar, leemos el siguiente problema:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Reflexionamos sobre que podemos hacer para solucionar este problema, sin danar el medio ambiente",
+              "descripcion": "Reflexionamos sobre que podemos hacer para solucionar este problema, sin danar el medio ambiente.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Analizamos las desventajas que tiene para una comunidad dejar las llantas en el potrero, quemarlas",
+              "descripcion": "Analizamos las desventajas que tiene para una comunidad dejar las llantas en el potrero, quemarlas o tirarlas en las fuentes de agua, como los rios.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En una proxima clase, socializo mis respuestas con los companeros, companeras, profesor o profesora",
+              "descripcion": "En una proxima clase, socializo mis respuestas con los companeros, companeras, profesor o profesora. Las podemos escribir en carteles y carteleras y ubicarlas en lugares visibles de la institucion. Cada ano en nuestro pais se desechan aproximadamente 25 millones de neumaticos viejos. Es nuestra responsabilidad promover acciones para su produccion r",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Si el caucho es un producto natural, por que se convierte en un contaminante del",
+              "descripcion": "Si el caucho es un producto natural, por que se convierte en un contaminante del ambiente?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo en el cuaderno dos diferencias entre el caucho y el plastico sintetico",
+              "descripcion": "Escribo en el cuaderno dos diferencias entre el caucho y el plastico sintetico.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribo en el cuaderno el nombre de un artefacto que tenga alguna de sus partes",
+              "descripcion": "Escribo en el cuaderno el nombre de un artefacto que tenga alguna de sus partes de caucho y explico para que sirve esa parte y por que se usaria el caucho para fabricarla. Valoromis I. Leo, observo y analizo la informacion. Luego respondo en mi cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Escribo el nombre de cinco objetos elaborados con caucho y explico el uso que se",
+              "descripcion": "Escribo el nombre de cinco objetos elaborados con caucho y explico el uso que se le da a cada uno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "En el cuaderno, completo el siguiente cuadro escribiendo al frente de cada producto si es",
+              "descripcion": "En el cuaderno, completo el siguiente cuadro escribiendo al frente de cada producto si es hecho de caucho o plastico sintetico: Producto Hecho de Vasos desechables Bandas elasticas Botas pantaneras Sillas Manguera Laprofesorao el profesorvaloralosaprendizajesalcanzadoscon el desarrollode estaunidad y registramiprogreso.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Identificación de problemas tecnológicos",
+          "concepto": "Problema, necesidad, contexto",
+          "desempeno": "Reconozco cómo en el proceso de diseño y construcción de transporte se utilizan materiales naturales y artificiales, y se aplican diversos conocimientos tecnológicos.",
+          "ejes_tematicos": [
+            "Problema",
+            "necesidad",
+            "contexto"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Le pregunto a un familiar o un adulto: a",
+              "descripcion": "Le pregunto a un familiar o un adulto: a. Como se transportaban de un lugar a otro cuando eran ninos? b. Utilizaban animales para transportarse? Cuales? c. Era seguro este transporte? d. Que tipo de carga transportaban? e. Existia otra clase de transporte? Cual? Como funcionaba?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Despues de jugar con nuestra locomotora, respondemos las siguientes preguntas: a",
+              "descripcion": "Despues de jugar con nuestra locomotora, respondemos las siguientes preguntas: a. Que mecanismo hace que nuestra locomotora se mueva? b. Si le agregamos un vagon hecho del mismo material reciclable, se desplazara a la misma velocidad? Por que? c. Que podriamos hacer para que se desplace hacia adelante y hacia atras? d. Si ubicamos la locomotora en ",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Converso con mis familiares sobre los medios de transporte terrestre que usan a diario y",
+              "descripcion": "Converso con mis familiares sobre los medios de transporte terrestre que usan a diario y les pregunto: 42 Tecnologia 5 Elprofesoroprofesorame autoriza aregistrar miprogreso, despuesde quevaloremos misaprendizajes. a. Cual es el medio de transporte que utilizan con mas frecuencia? b. Que aspectos se podrian mejorar en ese medio de transporte? c. En ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Socializo el trabajo con mis companeros, companeras, profesor o profesora",
+              "descripcion": "Socializo el trabajo con mis companeros, companeras, profesor o profesora. 5 Guia Desempeno: • Expongocomolasembarcacionesemplean mecanismospara desplazarse porelaguatransportando carga ypasajeros. Por que flotan los barcos en el agua? AActividades basicas El desarrollo del transporte fluvial y maritimo ha permitido que el mundo se comunique, comer",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Bulbo de proa",
+              "descripcion": "Bulbo de proa",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Proa7. Cubierta8. Superestructura",
+              "descripcion": "Proa7. Cubierta8. Superestructura",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Energía, ambiente y tecnología",
+      "desempeno_general": "Reconozco la relación entre tecnología, energía y cuidado ambiental.",
+      "guias": [
+        {
+          "numero": 5,
+          "titulo": "Diseño de soluciones",
+          "concepto": "Diseño, boceto, propuesta",
+          "desempeno": "Expongo cómo las embarcaciones emplean mecanismos para desplazarse por el agua transportando carga y pasajeros.",
+          "ejes_tematicos": [
+            "Diseño",
+            "boceto",
+            "propuesta"
+          ],
+          "recursos": [
+            "Papel cuadriculado",
+            "regla",
+            "lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto con mucha atencion: Trabajo en parejas Dedalo e Icaro Cuenta un",
+              "descripcion": "Leemos el siguiente texto con mucha atencion: Trabajo en parejas Dedalo e Icaro Cuenta un mito griego que el rey de la isla de Creta, llamado Minos, le encargo al arquitecto Dedalo la construccion de un laberinto para encerrar al minotauro, un monstruo con cuerpo de hombre y cabeza de toro. Cuando Dedalo termino la construccion, el rey Minos lo enc",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Construcción de prototipos",
+          "concepto": "Prototipo, materiales",
+          "desempeno": "Reflexiono sobre cómo el ser humano diseña y construye máquinas que le permiten recorrer grandes distancias en un tiempo corto.",
+          "ejes_tematicos": [
+            "Prototipo",
+            "materiales"
+          ],
+          "recursos": [
+            "Cartón",
+            "pegamento",
+            "material reciclable"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar o un adulto consultamos en Internet o en la biblioteca:",
+              "descripcion": "Con ayuda de un familiar o un adulto consultamos en Internet o en la biblioteca: a. Que diferencia hay entre un motor de helice y uno de turbina? b. Que tipo de aviones utilizan motores de helice y que tipo de aviones utilizan los motores de turbina? c. Que instrumentos utilizan los aviones para orientarse en el aire y no estrellarse con otros avio",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Completo el siguiente cuadro comparativo sobre los medios de transporte en mi cuaderno: Valoromis1",
+              "descripcion": "Completo el siguiente cuadro comparativo sobre los medios de transporte en mi cuaderno: Valoromis1. Escribo en mi cuaderno cual de las siguientes opciones es considerada un medio de transporte de traccion animal:",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Socializo mi trabajo con los companeros, companeras, profesor o profesora en una proxima clase",
+              "descripcion": "Socializo mi trabajo con los companeros, companeras, profesor o profesora en una proxima clase. Aire de entrada Escape primario",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Escribo en mi cuaderno un texto que explique por que los barcos flotan en el",
+              "descripcion": "Escribo en mi cuaderno un texto que explique por que los barcos flotan en el agua.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Describo en el cuaderno como funciona la balsa de vapor que construi en el desarrollo",
+              "descripcion": "Describo en el cuaderno como funciona la balsa de vapor que construi en el desarrollo de las guias de esta unidad. Puedo hacerlo por medio de dibujos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Respondo en mi cuaderno: a",
+              "descripcion": "Respondo en mi cuaderno: a. Para que sirven los motores en medios de transporte como los aviones y las lanchas? Laprofesorao el profesorvaloralos aprendizajesalcanzadoscon el desarrollode estaunidad y registramiprogreso. b. Por que a los hermanos Orville y Wilbur Wright se les considera los pioneros de la aviacion? c. Que funcion cumple la cola en ",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Proyecto tecnológico",
+      "desempeno_general": "Desarrollo un proyecto tecnológico integrando saberes.",
+      "guias": [
+        {
+          "numero": 7,
+          "titulo": "Fuentes de energía y su uso",
+          "concepto": "Energía renovable y no renovable",
+          "desempeno": "Identifico la forma en que las telecomunicaciones han evolucionado desde los procesos más sencillos hasta las comunicaciones espaciales.",
+          "ejes_tematicos": [
+            "Energía renovable y no renovable"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "biblioteca o recursos impresos"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Nos organizamos por equipos, minimo de 5 integrantes cada uno",
+              "descripcion": "Nos organizamos por equipos, minimo de 5 integrantes cada uno. Luego: a. Traemos del centro de recursos una madeja de lana de cualquier color, aproximadamente de 20 metros. b. En compania del profesor o profesora salimos al patio. c. Formamos un circulo, ubicandonos a un metro de distancia, uno del otro. d. Un estudiante toma una punta de la lana, ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Impacto ambiental de la tecnología",
+          "concepto": "Impacto ambiental, sostenibilidad",
+          "desempeno": "Explico qué es la Internet y de qué manera permite la interacción entre las personas, sin importar tiempo y distancia.",
+          "ejes_tematicos": [
+            "Impacto ambiental",
+            "sostenibilidad"
+          ],
+          "recursos": [
+            "Hojas",
+            "marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento a mi familia que es una red de comunicaciones y reflexionamos sobre: a",
+              "descripcion": "Comento a mi familia que es una red de comunicaciones y reflexionamos sobre: a. Si existe una red de comunicaciones dentro de mi hogar y como funciona. b. Como se solucionan los problemas que se presentan en esta red de comunica- cion. c. El papel que cumplimos en la red de co- municacion familiar.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Escribo en mi cuaderno un texto que explique la importancia que tiene la comunicacion para",
+              "descripcion": "Escribo en mi cuaderno un texto que explique la importancia que tiene la comunicacion para nuestras vidas diarias. 76 Tecnologia 5 Informamos ala profesorao alprofesorsobrelas actividadesquerealizamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comentamos con base en la lectura: a",
+              "descripcion": "Comentamos con base en la lectura: a. Cual es nuestra opinion sobre las redes sociales en Internet? Nos parecen una buena herramienta? Por que? b. Pertenecemos a alguna red social en Internet? Por que? c. Como podemos proteger nuestra informacion personal en las redes sociales por Internet? d. Que consejo le dariamos a alguien que esta pensando en ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "El primer paso para aprovechar los recursos que nos ofrece la Internet, es decir redes",
+              "descripcion": "El primer paso para aprovechar los recursos que nos ofrece la Internet, es decir redes sociales e inteligencia artificial (IA) es abrir una cuenta de correo electronico. Aprendamos como hacerlo. Sigamos las instrucciones: a. Seleccionamos en que pagina deseamos crear nuestra cuenta de correo. b. Buscamos la opcion para registrarnos en la pagina que",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Despues de observar los anteriores pasos y comentarlos con el profesor o profesora, creamos nuestra",
+              "descripcion": "Despues de observar los anteriores pasos y comentarlos con el profesor o profesora, creamos nuestra cuenta de correo electronico. Nombre de cuenta @ Como quieres iniciar sesion? Crea tu contrasena Vuelve a escribir la contrasena tucorreo.com 8 caracteres como minimo, distingue mayusculas de minusculas",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titulo": "Unidad 5",
+      "desempeno_general": "Reconozco la relación entre tecnología, energía y cuidado ambiental.",
+      "guias": [
+        {
+          "numero": 9,
+          "titulo": "Tecnología para cuidar el ambiente",
+          "concepto": "Tecnología sostenible",
+          "desempeno": "Reconozco las ventajas de algunos artefactos y productos tecnológicos creados para mejorar nuestra calidad de vida.",
+          "ejes_tematicos": [
+            "Tecnología sostenible"
+          ],
+          "recursos": [
+            "Cartulina",
+            "colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Formamos equipos de 5 integrantes",
+              "descripcion": "Formamos equipos de 5 integrantes. Cada uno toma un cuaderno, un lapiz y 4 hilos de cuerda (piola) de tres metros. Luego, seguimos los pasos para crear nuestra propia red social: a. Cada equipo piensa en unas normas que deben cumplir los integrantes de la red social; al igual que los datos que se deben suministrar como requisito para pertenecer a e",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Respondemos las siguientes preguntas: a",
+              "descripcion": "Respondemos las siguientes preguntas: a. Consideramos que el trabajo que hemos realizado es una red social? Por que? b. Si es una red social, que nombre le podemos dar? c. Por que escogimos este nombre? d. Como hicimos para que los mensajes se desplazaran por los hilos desde las esta- ciones hasta el servidor y desde este hasta las estaciones corre",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En una proxima clase comparto mi trabajo con mis companeros, companeras y con el profesor",
+              "descripcion": "En una proxima clase comparto mi trabajo con mis companeros, companeras y con el profesor o profesora. 83 Valorocon laprofesorao el profesormiaprendizaje y registromiprogreso. ValoromisI. Leo, observo y analizo la informacion. Luego respondo en mi cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leo el siguiente texto y luego selecciono solo una de las opciones para responder la",
+              "descripcion": "Leo el siguiente texto y luego selecciono solo una de las opciones para responder la pregunta: Internet en la actualidad es una herramienta con multiples recursos pues el usuario puede acudir a ella para consultar diferente tipo de informacion. Cual es una de las desventajas de Internet? A. En Internet encontramos toda la informacion que necesitamo",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Respondo en mi cuaderno cual de los siguientes recursos web es considerado un motor de",
+              "descripcion": "Respondo en mi cuaderno cual de los siguientes recursos web es considerado un motor de busqueda: ValoromisI. Leo, observo y analizo la informacion. Luego respondo en mi cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Explico en mi cuaderno que son y como funcionan la Internet, las redes sociales y",
+              "descripcion": "Explico en mi cuaderno que son y como funcionan la Internet, las redes sociales y la Inteligencia artificial (IA).",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Explico en mi cuaderno paso a paso como puedo crear una cuenta de correo electronico",
+              "descripcion": "Explico en mi cuaderno paso a paso como puedo crear una cuenta de correo electronico.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Respondo en mi cuaderno cual de los siguientes nombres corresponde al del grupo de personas",
+              "descripcion": "Respondo en mi cuaderno cual de los siguientes nombres corresponde al del grupo de personas que se comunican virtualmente y que comparten intereses comunes: A. Grupo de negocios. B. Redes sociales. C. Negocios virtuales. D. Correo electronico.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribo en mi cuaderno dos ventajas y dos desventajas de las redes sociales",
+              "descripcion": "Escribo en mi cuaderno dos ventajas y dos desventajas de las redes sociales. Explico una ventaja y una desventaja. Laprofesorao el profesorvaloralosaprendizajesalcanzadoscon el desarrollode estaunidad y registramiprogreso. A. Microsoft Edge. B. Google. C. Mozilla Firefox. D. Microsoft Office Word.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Planeación del proyecto",
+          "concepto": "Planeación, objetivos",
+          "desempeno": "Comprendo cómo la televisión ha marcado un estilo de vida y la manera en que influye en las personas de mi familia y comunidad.",
+          "ejes_tematicos": [
+            "Planeación",
+            "objetivos"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pensamos y contestamos las siguientes preguntas: a",
+              "descripcion": "Pensamos y contestamos las siguientes preguntas: a. Sabemos que es una feria o hemos asistido alguna vez a una? b. Como es una feria o como era la feria a la que asistimos? c. Compartimos con nuestros companeros y companeras lo que sabemos sobre las ferias o nuestras experiencias al asistir a una de ellas. 95",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Desarrollo y evaluación del proyecto",
+          "concepto": "Evaluación, mejora",
+          "desempeno": "Participo activamente en la planeación y en la organización de la Feria de la tecno- logía.",
+          "ejes_tematicos": [
+            "Evaluación",
+            "mejora"
+          ],
+          "recursos": [
+            "Prototipos",
+            "rúbrica"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Explico a un familiar la manera como se organizo y realizo la Feria de la",
+              "descripcion": "Explico a un familiar la manera como se organizo y realizo la Feria de la tecnologia en nuestra escuela o colegio.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Le pregunto a un familiar o vecino como se organizaba la Feria de la tecnologia",
+              "descripcion": "Le pregunto a un familiar o vecino como se organizaba la Feria de la tecnologia en su escuela o colegio, a quienes invitaban y que proyectos presentaban.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Al momento de organizar nuestros comites y grupos de trabajo, tambien debemos tener en cuenta",
+              "descripcion": "Al momento de organizar nuestros comites y grupos de trabajo, tambien debemos tener en cuenta algunas habilidades que necesitamos para trabajar en equipo. Al respecto, leemos el siguiente texto: En el trabajo en equipo El trabajar en equipo implica que cada persona aporte desde su saber y experiencia y se apoye en sus companeros para mejorar su pro",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Tenemos en cuenta la siguiente informacion sobre ecologia, en el momento de organizar nuestra Feria",
+              "descripcion": "Tenemos en cuenta la siguiente informacion sobre ecologia, en el momento de organizar nuestra Feria de la tecnologia: 99 Conciencia Una sociedad con desarrollo sostenible es aquella que responde a las necesidades del presente sin comprometer la capacidad de las generaciones futuras para hacerse cargo de sus propias necesidades. Es la aplicacion de ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Hacemos un listado de temas que vamos a incluir sobre ecologia y cuidado del medio",
+              "descripcion": "Hacemos un listado de temas que vamos a incluir sobre ecologia y cuidado del medio ambiente en la Feria de la tecnologia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Reunimos todos los materiales que necesitamos para la organizacion de nuestra Feria de la tecnologia",
+              "descripcion": "Reunimos todos los materiales que necesitamos para la organizacion de nuestra Feria de la tecnologia y creamos las invitaciones (avisos) para que la comunidad educativa asista.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Luego de tener todo listo para la Feria de la tecnologia ejecutamos esta actividad teniendo",
+              "descripcion": "Luego de tener todo listo para la Feria de la tecnologia ejecutamos esta actividad teniendo en cuenta todos los pasos que hemos acordado anteriormente. Comentamosel trabajo con la profesorao el profesor. CActividades de aplicacion Trabajo con mi familiaTrabajo con mi familia",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Socialización de resultados",
+          "concepto": "Comunicación, retroalimentación",
+          "desempeno": "Identifico las fortalezas y debilidades en la planeación y ejecución eventos como la Feria de la tecnología.",
+          "ejes_tematicos": [
+            "Comunicación",
+            "retroalimentación"
+          ],
+          "recursos": [
+            "Cartelera",
+            "materiales del proyecto"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento a mis padres o familiares como nos fue al realizar la Feria de la",
+              "descripcion": "Comento a mis padres o familiares como nos fue al realizar la Feria de la tecnologia en la escuela o colegio. Explico la manera en que los distintos comites trabajaron para su realizacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Escribo en mi cuaderno cuales fueron para mi las principales ensenanzas que nos dejo la",
+              "descripcion": "Escribo en mi cuaderno cuales fueron para mi las principales ensenanzas que nos dejo la Feria de tecnologia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Escribo una breve reflexion sobre el cuidado del medio ambiente que me haya dejado este",
+              "descripcion": "Escribo una breve reflexion sobre el cuidado del medio ambiente que me haya dejado este evento.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Le presento el cuadro de evaluacion que hicimos en las actividades de practica a mis",
+              "descripcion": "Le presento el cuadro de evaluacion que hicimos en las actividades de practica a mis familiares, vecinos o amigos que estuvieron en la Feria de tecnologia. Les solicito que lo diligencien de acuerdo a su opinion sobre este evento. CActividades de aplicacion Elprofesoro profesorame autorizapararegistrar miprogreso, despuesde quevaloremos misdesempen",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Socializo con mis companeros, companeras y con el profesor o profesora las respuestas del cuadro",
+              "descripcion": "Socializo con mis companeros, companeras y con el profesor o profesora las respuestas del cuadro que diligencio mi familiar, vecino o amigo. ValoromisI. Leo, observo y analizo la informacion. Luego respondo en mi cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo en mi cuaderno los pasos que se deben tener en cuenta para elaborar una",
+              "descripcion": "Escribo en mi cuaderno los pasos que se deben tener en cuenta para elaborar una Feria de la tecnologia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Selecciono solo una respuesta y respondo en mi cuaderno: que comites se deben conformar para",
+              "descripcion": "Selecciono solo una respuesta y respondo en mi cuaderno: que comites se deben conformar para realizar una Feria de tecnologia? A. Comunicaciones, organizacion y planeacion. B. Planeacion, ejecucion y organizacion. C. Organizacion, planeacion y proyectos. D. Organizador, comunicaciones y logistica.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Explico en mi cuaderno por que es importante evaluar eventos como la Feria de la",
+              "descripcion": "Explico en mi cuaderno por que es importante evaluar eventos como la Feria de la tecnologia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribo en mi cuaderno que aspectos tendria en cuenta para evaluar una Feria de la",
+              "descripcion": "Escribo en mi cuaderno que aspectos tendria en cuenta para evaluar una Feria de la tecnologia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Ahora, evaluo mi propio trabajo en el area de Tecnologia",
+              "descripcion": "Ahora, evaluo mi propio trabajo en el area de Tecnologia. Para ello, escribo en mi cuaderno como me senti y que creo que fue lo mas importante que aprendi. Puedo hacer dibujos como estos: La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso. Lo que menos me gusto: Lo que mas me gusto:",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

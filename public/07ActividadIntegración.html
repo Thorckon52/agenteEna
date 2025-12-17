@@ -154,23 +154,58 @@
             summary += '<ul>';
 
             if (allData.step1) {
-                summary += '<li><strong>✓ Contextualización:</strong> Completada</li>';
+                summary += `<li><strong>Contexto:</strong> ${allData.step1.institucion || 'Institución'} - ${allData.step1.municipio || ''}, ${allData.step1.departamento || ''}</li>`;
             }
             if (allData.step2) {
-                summary += '<li><strong>✓ Cuerpo estudiantil:</strong> Completada</li>';
+                const grados = allData.step2.grados || [];
+                summary += `<li><strong>Grados:</strong> ${grados.join(', ') || 'Sin definir'}</li>`;
             }
             if (allData.step3) {
-                summary += '<li><strong>✓ Recursos e Instrumentos:</strong> Completada</li>';
+                const recursos = allData.step3.recursos || [];
+                summary += `<li><strong>Recursos:</strong> ${recursos.length} recurso(s) disponible(s)</li>`;
             }
             if (allData.step4) {
-                summary += '<li><strong>✓ Guías y Área:</strong> Completada</li>';
+                summary += `<li><strong>Área:</strong> ${allData.step4.area_nombre || allData.step4.area || 'Sin definir'}</li>`;
+            }
+            if (allData.step5 && allData.step5.guias_recomendadas) {
+                const guiasInfo = Object.entries(allData.step5.guias_recomendadas)
+                    .map(([grado, guias]) => {
+                        const gradoNum = grado.replace('grado_', '');
+                        return `Grado ${gradoNum}°: ${guias.length} guía(s)`;
+                    })
+                    .join(', ');
+                summary += `<li><strong>Guías seleccionadas:</strong> ${guiasInfo}</li>`;
+            } else {
+                summary += '<li><strong style="color: #e65100;">Guías:</strong> No seleccionadas</li>';
+            }
+            if (allData.step6) {
+                summary += `<li><strong>Docente:</strong> ${allData.step6.nombre_docente || 'Sin nombre'}</li>`;
             }
 
-            const completedSteps = Object.values(allData).filter(Boolean).length;
-            if (completedSteps < 4) {
-                summary += '</ul><p class="warning">⚠️ Faltan datos por completar. Por favor regresa y completa todos los pasos.</p>';
+            summary += '</ul>';
+
+            // Mostrar detalle de guías seleccionadas
+            if (allData.step5 && allData.step5.guias_recomendadas) {
+                summary += '<h4 style="margin-top: 15px;">Guías ENA a trabajar:</h4>';
+                Object.entries(allData.step5.guias_recomendadas).forEach(([grado, guias]) => {
+                    const gradoNum = grado.replace('grado_', '');
+                    summary += `<p style="margin: 5px 0;"><strong>Grado ${gradoNum}°:</strong></p>`;
+                    summary += '<ul style="margin: 0 0 10px 20px;">';
+                    guias.forEach(g => {
+                        summary += `<li>Unidad ${g.unidad}, Guía ${g.guia}: ${g.nombre}</li>`;
+                    });
+                    summary += '</ul>';
+                });
+            }
+
+            // Validar pasos completados
+            const requiredSteps = [allData.step1, allData.step2, allData.step4, allData.step5?.guias_recomendadas];
+            const completedRequired = requiredSteps.filter(Boolean).length;
+
+            if (completedRequired < 4) {
+                summary += '<p class="warning" style="background: #fff3e0; padding: 10px; border-radius: 6px; margin-top: 10px;">Faltan datos por completar. Por favor regresa y completa todos los pasos.</p>';
             } else {
-                summary += '</ul><p class="success">✓ Todos los datos necesarios están completos</p>';
+                summary += '<p class="success" style="background: #e8f5e9; padding: 10px; border-radius: 6px; margin-top: 10px;">Todos los datos necesarios están completos</p>';
             }
             summary += '</div>';
 
@@ -529,33 +564,178 @@
                 yPos += 2; // Espacio final
             }
 
-            // PLANIFICACIÓN POR GRADOS
-            if (plan.por_grados && plan.por_grados.length > 0) {
+            // CRONOGRAMA - 3 MOMENTOS
+            if (plan.cronograma) {
+                const cron = plan.cronograma;
+
+                // MOMENTO 1: ACTIVIDAD GRUPAL DE APERTURA
+                addSection('MOMENTO 1: ACTIVIDAD GRUPAL DE APERTURA');
+                if (cron.momento_1_grupal) {
+                    const m1 = cron.momento_1_grupal;
+                    addText(`${m1.nombre || 'Actividad de apertura'}`, 11, true, colors.primary);
+                    yPos += 3;
+                    if (m1.objetivo) {
+                        addText(`Objetivo: ${m1.objetivo}`, 9, false, colors.black, 5);
+                    }
+                    if (m1.duracion_min) {
+                        addText(`Duración: ${m1.duracion_min} minutos`, 9, false, colors.gray, 5);
+                    }
+                    yPos += 3;
+                    if (m1.descripcion) {
+                        addText('Descripción:', 10, true, colors.secondary);
+                        yPos += 2;
+                        addText(m1.descripcion, 9, false, colors.black, 5);
+                    }
+                    if (m1.dinamica) {
+                        yPos += 3;
+                        addText('Dinámica:', 10, true, colors.secondary);
+                        yPos += 2;
+                        addText(m1.dinamica, 9, false, colors.black, 5);
+                    }
+                    if (m1.materiales && m1.materiales.length > 0) {
+                        yPos += 3;
+                        addText('Materiales:', 10, true, colors.secondary);
+                        yPos += 2;
+                        m1.materiales.forEach(mat => addText(`• ${mat}`, 9, false, colors.black, 5));
+                    }
+                }
+
+                // MOMENTO 2: TRABAJO POR GRADOS
+                addSection('MOMENTO 2: TRABAJO INDIVIDUAL POR GRADOS');
+                if (cron.momento_2_por_grados && cron.momento_2_por_grados.length > 0) {
+                    cron.momento_2_por_grados.forEach((gradoPlan, index) => {
+                        addSubsection(`Grado ${gradoPlan.grado || 'N/A'}`);
+
+                        if (gradoPlan.guia_referencia) {
+                            addText(`Guía ENA: ${gradoPlan.guia_referencia}`, 10, true, colors.primary);
+                            yPos += 3;
+                        }
+
+                        if (gradoPlan.objetivos && gradoPlan.objetivos.length > 0) {
+                            addText('Objetivos:', 10, true, colors.secondary);
+                            yPos += 3;
+                            gradoPlan.objetivos.forEach(obj => {
+                                addText(`• ${obj}`, 9, false, colors.black, 5);
+                            });
+                            yPos += 4;
+                        }
+
+                        if (gradoPlan.actividades && gradoPlan.actividades.length > 0) {
+                            addText('Actividades:', 10, true, colors.secondary);
+                            yPos += 3;
+
+                            gradoPlan.actividades.forEach((act, idx) => {
+                                checkPageBreak(25);
+
+                                const tituloActividad = act.titulo || act.nombre || act.title || act.tipo || `Actividad ${idx + 1}`;
+
+                                doc.setFillColor(...colors.lightGray);
+                                doc.roundedRect(marginLeft + 5, yPos - 2, contentWidth - 10, 7, 1, 1, 'F');
+                                doc.setTextColor(...colors.primary);
+                                doc.setFontSize(10);
+                                doc.setFont('helvetica', 'bold');
+                                doc.text(`${idx + 1}. ${tituloActividad}`, marginLeft + 8, yPos + 3);
+                                yPos += 9;
+
+                                if (act.descripcion) {
+                                    doc.setTextColor(...colors.black);
+                                    doc.setFont('helvetica', 'normal');
+                                    doc.setFontSize(9);
+
+                                    let descripcionLimpia = act.descripcion
+                                        .replace(/[❌✅📐🔧📖💡🚨⚠️📚📋🟢🟡🔴]/g, '')
+                                        .replace(/={3,}/g, '---')
+                                        .trim();
+
+                                    const maxDescWidth = contentWidth - 25;
+                                    const descLines = doc.splitTextToSize(descripcionLimpia, maxDescWidth);
+
+                                    descLines.forEach(line => {
+                                        checkPageBreak(6);
+                                        doc.text(line, marginLeft + 10, yPos);
+                                        yPos += 5;
+                                    });
+                                }
+                                if (act.duracion_min) {
+                                    doc.setTextColor(...colors.gray);
+                                    doc.setFontSize(8);
+                                    doc.text(`Duración: ${act.duracion_min} minutos`, marginLeft + 10, yPos);
+                                    yPos += 6;
+                                }
+                                yPos += 4;
+                            });
+                        }
+
+                        if (gradoPlan.evaluacion && gradoPlan.evaluacion.length > 0) {
+                            yPos += 2;
+                            addText('Evaluación:', 10, true, colors.secondary);
+                            yPos += 3;
+                            gradoPlan.evaluacion.forEach(item => {
+                                addText(`• ${item}`, 9, false, colors.black, 5);
+                            });
+                            yPos += 3;
+                        }
+                        yPos += 5;
+                    });
+                }
+
+                // MOMENTO 3: ACTIVIDAD GRUPAL DE CIERRE
+                addSection('MOMENTO 3: ACTIVIDAD GRUPAL DE CIERRE');
+                if (cron.momento_3_grupal) {
+                    const m3 = cron.momento_3_grupal;
+                    addText(`${m3.nombre || 'Actividad de cierre'}`, 11, true, colors.primary);
+                    yPos += 3;
+                    if (m3.objetivo) {
+                        addText(`Objetivo: ${m3.objetivo}`, 9, false, colors.black, 5);
+                    }
+                    if (m3.duracion_min) {
+                        addText(`Duración: ${m3.duracion_min} minutos`, 9, false, colors.gray, 5);
+                    }
+                    yPos += 3;
+                    if (m3.descripcion) {
+                        addText('Descripción:', 10, true, colors.secondary);
+                        yPos += 2;
+                        addText(m3.descripcion, 9, false, colors.black, 5);
+                    }
+                    if (m3.dinamica) {
+                        yPos += 3;
+                        addText('Dinámica:', 10, true, colors.secondary);
+                        yPos += 2;
+                        addText(m3.dinamica, 9, false, colors.black, 5);
+                    }
+                    if (m3.materiales && m3.materiales.length > 0) {
+                        yPos += 3;
+                        addText('Materiales:', 10, true, colors.secondary);
+                        yPos += 2;
+                        m3.materiales.forEach(mat => addText(`• ${mat}`, 9, false, colors.black, 5));
+                    }
+                }
+            }
+
+            // COMPATIBILIDAD: Si aún viene por_grados (formato antiguo)
+            if (plan.por_grados && plan.por_grados.length > 0 && !plan.cronograma) {
                 addSection('PLANIFICACIÓN POR GRADO');
 
                 plan.por_grados.forEach((gradoPlan, index) => {
                     addSubsection(`Grado ${gradoPlan.grado || 'N/A'}`);
 
-                    if (gradoPlan.objetivos_grado && gradoPlan.objetivos_grado.length > 0) {
+                    if (gradoPlan.objetivos && gradoPlan.objetivos.length > 0) {
                         addText('Objetivos:', 10, true, colors.secondary);
-                        yPos += 3; // Más espacio después del subtítulo
-                        gradoPlan.objetivos_grado.forEach(obj => {
+                        yPos += 3;
+                        gradoPlan.objetivos.forEach(obj => {
                             addText(`• ${obj}`, 9, false, colors.black, 5);
                         });
-                        yPos += 4; // Más espacio entre bloques
+                        yPos += 4;
                     }
 
                     if (gradoPlan.actividades && gradoPlan.actividades.length > 0) {
                         addText('Actividades:', 10, true, colors.secondary);
-                        yPos += 3; // Más espacio después del subtítulo
+                        yPos += 3;
 
                         gradoPlan.actividades.forEach((act, idx) => {
                             checkPageBreak(25);
+                            const tituloActividad = act.titulo || act.nombre || `Actividad ${idx + 1}`;
 
-                            // Obtener el título de la actividad (puede estar en diferentes campos)
-                            const tituloActividad = act.titulo || act.nombre || act.title || act.tipo || `Actividad ${idx + 1}`;
-
-                            // Título de actividad en caja
                             doc.setFillColor(...colors.lightGray);
                             doc.roundedRect(marginLeft + 5, yPos - 2, contentWidth - 10, 7, 1, 1, 'F');
                             doc.setTextColor(...colors.primary);
@@ -568,17 +748,8 @@
                                 doc.setTextColor(...colors.black);
                                 doc.setFont('helvetica', 'normal');
                                 doc.setFontSize(9);
-
-                                // Limpiar emojis y caracteres especiales que pueden causar problemas en PDF
-                                let descripcionLimpia = act.descripcion
-                                    .replace(/[❌✅📐🔧📖💡🚨⚠️📚📋]/g, '') // Eliminar emojis comunes
-                                    .replace(/={3,}/g, '---') // Reemplazar líneas de iguales con guiones
-                                    .trim();
-
-                                // Ancho más conservador para evitar desbordamiento
-                                const maxDescWidth = contentWidth - 25;
-                                const descLines = doc.splitTextToSize(descripcionLimpia, maxDescWidth);
-
+                                let descripcionLimpia = act.descripcion.replace(/[❌✅📐🔧📖💡🚨⚠️📚📋]/g, '').replace(/={3,}/g, '---').trim();
+                                const descLines = doc.splitTextToSize(descripcionLimpia, contentWidth - 25);
                                 descLines.forEach(line => {
                                     checkPageBreak(6);
                                     doc.text(line, marginLeft + 10, yPos);
@@ -588,25 +759,23 @@
                             if (act.duracion_min) {
                                 doc.setTextColor(...colors.gray);
                                 doc.setFontSize(8);
-                                doc.text(`Duracion: ${act.duracion_min} minutos`, marginLeft + 10, yPos);
+                                doc.text(`Duración: ${act.duracion_min} minutos`, marginLeft + 10, yPos);
                                 yPos += 6;
                             }
-                            yPos += 4; // Más espacio entre actividades
+                            yPos += 4;
                         });
                     }
 
                     if (gradoPlan.evaluacion && gradoPlan.evaluacion.length > 0) {
-                        yPos += 2; // Espacio antes de evaluación
+                        yPos += 2;
                         addText('Evaluación:', 10, true, colors.secondary);
-                        yPos += 3; // Más espacio después del subtítulo
-
-                        // evaluacion es un array de strings
+                        yPos += 3;
                         gradoPlan.evaluacion.forEach(item => {
                             addText(`• ${item}`, 9, false, colors.black, 5);
                         });
-                        yPos += 3; // Espacio después de la evaluación
+                        yPos += 3;
                     }
-                    yPos += 5; // Más espacio entre grados
+                    yPos += 5;
                 });
             }
 

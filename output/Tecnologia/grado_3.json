@@ -1,0 +1,712 @@
+{
+  "asignatura": "Tecnologia",
+  "grado": 3,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Luis G. Agudelo Camacho, Juana Carrizosa Umana, Pedro Alberto Sierra Guerrero",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "Identifica partes y componentes de mecanismos y artefactos analógicos.",
+    "Analiza qué recursos y herramientas necesita para la planeación y construcción de dispositivos sencillos.",
+    "Sigue instrucciones en la planeación, ejecución y evaluación de artefactos analógicos sencillos",
+    "Utiliza racionalmente recursos naturales de su entorno para la elaboración de artefactos análogos.",
+    "Selecciona herramientas y procesos para la ejecución de secuencias de ensamble de artefactos y dispositivos.",
+    "Reconoce la importancia de los recursos naturales y el impacto de su pérdida para el medio ambiente.",
+    "Identifica fuentes diversas de luz, tanto natural como artificial.",
+    "Relaciona la energía lumínica con artefactos digitales que la convierten en otro tipo de energía.",
+    "Comprende la necesidad del cuidado del medio ambiente y su relación con situaciones de la vida cotidiana.",
+    "Relaciona diversos tipos de magnitudes que pueden estar asociados a situaciones de la vida cotidiana."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Aprendo sobre artefactos analógicos de mi entorno",
+      "desempeno_general": "Identifico artefactos analógicos de mi entorno y experimento con dispositivos simples siguiendo instrucciones gráficas.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "En el mundo hay objetos que giran y ruedan",
+          "concepto": "Girar, rodar, rotación, movimiento circular",
+          "desempeno": "Identifico artefactos analógicos de mi entorno que giran y ruedan.",
+          "ejes_tematicos": [
+            "Girar",
+            "rodar",
+            "rotación",
+            "movimiento circular"
+          ],
+          "recursos": [
+            "Cartulina",
+            "regla",
+            "tijeras punta roma",
+            "pegamento",
+            "palo de pincho",
+            "pelotas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Exploremos algunas caracteristicas fisicas de la madera con la siguiente experiencia STEAM",
+              "descripcion": "Exploremos algunas caracteristicas fisicas de la madera con la siguiente experiencia STEAM. Traemos del Centro de recursos los materiales y seguimos las instrucciones: Vamos a explorar algunas caracteristicas de la madera! cientifico, densidad y flotabilidad, propiedades de los materiales. Uso de herramientas de medicion, documentacion de resultado",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Realizamos el siguiente procedimiento: 55 Observamos los dostrozos demadera con la lupa",
+              "descripcion": "Realizamos el siguiente procedimiento: 55 Observamos los dostrozos demadera con la lupa.Escribimosenel1 2 Medimos la masa de cadatrozode madera.Escribimoscadavalorcon su Observamos los dostrozos demadera con la lupa.Escribimosenel1 2 Medimos la masa de cadatrozode madera.Escribimoscadavalorcon su cuaderno si sus fibras se ven iguales correspondient",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Imaginamos que tenemos dos trozos grandes de la misma madera: uno seco y otro mojado",
+              "descripcion": "Imaginamos que tenemos dos trozos grandes de la misma madera: uno seco y otro mojado. Pensamos: a. Cual de los dos trozos de madera escogeriamos para hacer una silla? Por que? b. Cual de los dos trozos de madera escogeriamos para tallarla? Por que? AlarmaAlarmaAlarmaEl profesor o la profesora manipula las puntillas y el martillo. Cuando aprendamos ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Explico como puedo saber la edad que tiene un arbol",
+              "descripcion": "Explico como puedo saber la edad que tiene un arbol.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Completo en el cuaderno el siguiente cuadro: Segueta Cepillo Tenazas",
+              "descripcion": "Completo en el cuaderno el siguiente cuadro: Segueta Cepillo Tenazas",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Senalo las herramientas que utilizaria para cortar madera",
+              "descripcion": "Senalo las herramientas que utilizaria para cortar madera. Explico por que. Serrucho Partes del tronco de un arbol Caracteristicas Duramen Albura Liber Corteza Trabajo individualTrabajo individual ValoromisI.Leo, analizo y respondo las preguntas en mi cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Elijo dos de las herramientas anteriores",
+              "descripcion": "Elijo dos de las herramientas anteriores. Explico para que sirven y como funcionan.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Escribo en mi cuaderno los siguientes nombres de las partes del arbol",
+              "descripcion": "Escribo en mi cuaderno los siguientes nombres de las partes del arbol. Al frente de cada nombre, escribo para que se utiliza. a. Tronco b. Corteza c. Semillas d. Frutos e. Hojas f. Raiz g. Flores.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribo el nombre de dos productos que se pueden elaborar con: La profesora o el",
+              "descripcion": "Escribo el nombre de dos productos que se pueden elaborar con: La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso. •Madera solida •Resina de los arboles •Celulosa de los arboles.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Explico el procedimiento que segui para crear el barco de vela",
+              "descripcion": "Explico el procedimiento que segui para crear el barco de vela. ValoromisEscofina Caladora",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Viajo sobre ruedas",
+          "concepto": "Rueda, transporte, tracción",
+          "desempeno": "Identifico cómo funciona un mecanismo analógico que simula un medio de transporte.",
+          "ejes_tematicos": [
+            "Rueda",
+            "transporte",
+            "tracción"
+          ],
+          "recursos": [
+            "Ruedas",
+            "palos de madera",
+            "cartón",
+            "plastilina",
+            "bandas de caucho",
+            "alambre"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Retomo la idea de mi propio juguete, que ya empece a planear en el numeral",
+              "descripcion": "Retomo la idea de mi propio juguete, que ya empece a planear en el numeral 2 de Actividades basicas. Reviso los pasos desarrollados: a. Realizo una lista de los materiales que voy a usar. b. Escribo e ilustro que pasos debo seguir para construir el juguete. c. Construyo mi juguete con la ayuda de un familiar, si es posible.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Busco algun libro o pelicula que trate de la invencion de artefactos y en la",
+              "descripcion": "Busco algun libro o pelicula que trate de la invencion de artefactos y en la que sus personajes sean ninos o ninas. Leo el libro o veo la pelicula, y luego realizo un resumen. Comparto mi trabajo con los companeros y companeras. Tecnologia 330La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso. ValoromisI.Leo, a",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Explico que hice para que el carro que construi en esta unidad rodara mejor",
+              "descripcion": "Explico que hice para que el carro que construi en esta unidad rodara mejor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Explico para que sirven las ruedas de los carros",
+              "descripcion": "Explico para que sirven las ruedas de los carros.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Recuerdo los juguetes que construi en clase",
+              "descripcion": "Recuerdo los juguetes que construi en clase. Luego, completo en mi cuaderno las siguientes oraciones: a. El helicoptero de papel giraba mas rapido cuando . b. El zumbador de boton giraba mas rapido cuando . c. El yoyo giraba mas rapido cuando . La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Jugamos con nuestro yoyo para ver como funciona",
+              "descripcion": "Jugamos con nuestro yoyo para ver como funciona. Luego, respondemos las siguientes preguntas: a. De que materiales esta hecho el yoyo? Como se juega con este objeto? b. Que podemos hacer para aumentar la velocidad a la que gira el yoyo? c. Que podemos hacer para mejorar nuestro yoyo?",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos algunas normas de seguridad que debemos tener en cuenta cuando juguemos con el yoyo",
+              "descripcion": "Escribimos algunas normas de seguridad que debemos tener en cuenta cuando juguemos con el yoyo que construimos. AlarmaAlarmaAlarmaUsemos los juguetes de manera apropiada. Antes de utilizar los juguetes y los juegos que se venden en el comercio, leamos en las etiquetas los requisitos, las normas de seguridad y las garantias. Trabajo con mi familiaTr",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Con ayuda de la profesora o el profesor, revisamos nuestras respuestas de la actividad anterior",
+              "descripcion": "Con ayuda de la profesora o el profesor, revisamos nuestras respuestas de la actividad anterior. Hacemos las correcciones necesarias. BActividades de practica Informamos a la profesora o al profesor sobre las actividades basicas que realizamos. TrabajoconelprofesorolaprofesoraTrabajo con el profesor o la profesora",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "¡Aprendamos a construir nuestros propios juguetes!",
+          "concepto": "Diseño, invención, prototipo",
+          "desempeno": "Construyo artefactos sencillos con base en instrucciones gráficas.",
+          "ejes_tematicos": [
+            "Diseño",
+            "invención",
+            "prototipo"
+          ],
+          "recursos": [
+            "Papel bond",
+            "botones",
+            "hilo",
+            "tijeras",
+            "regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Retomo la idea de mi propio juguete, que ya empece a planear en el numeral",
+              "descripcion": "Retomo la idea de mi propio juguete, que ya empece a planear en el numeral 2 de Actividades basicas. Reviso los pasos desarrollados: a. Realizo una lista de los materiales que voy a usar. b. Escribo e ilustro que pasos debo seguir para construir el juguete. c. Construyo mi juguete con la ayuda de un familiar, si es posible.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Lanzamos el helicoptero de diferentes formas y desde distintas alturas para ver que ocurre y",
+              "descripcion": "Lanzamos el helicoptero de diferentes formas y desde distintas alturas para ver que ocurre y respondemos las siguientes preguntas: a. Que debemos hacer si queremos que el helicoptero vuele mas rapido? b. Que podemos hacer para que el helicoptero gire en la direccion que queremos? c. Que podemos hacer para mejorar la estabilidad y el vuelo de nuestr",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Vamos a construir un zumbador! Traemos los siguientes materiales del centro de recursos y realizamos",
+              "descripcion": "Vamos a construir un zumbador! Traemos los siguientes materiales del centro de recursos y realizamos el procedimiento: Materiales • Boton •Hilo grueso. Vamos a construir un zumbador! 1 Pasamos el hilo a traves de los agujeros del boton. 2 Amarramos cada uno de los extremos de la cuerda con un nudo. 3 4 Tomamos el zumbador de los extremos. Le damos ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Probamos que sucede cuando le damos mas o menos vueltas a la cuerda del zumbador,",
+              "descripcion": "Probamos que sucede cuando le damos mas o menos vueltas a la cuerda del zumbador, o cuando la halamos haciendo mayor o menor fuerza. Luego, respondemos las siguientes preguntas: a. Se escucha igual cuando gira rapido y cuando gira lento? b. Que podemos hacer para que el zumbador gire a mayor velocidad? c. Que podemos hacer para que el zumbador gire",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Ahora, elaboramos otro tipo de juguete, un yoyo",
+              "descripcion": "Ahora, elaboramos otro tipo de juguete, un yoyo. Traemos del Centro de recursos los materiales y seguimos las instrucciones: Vamos a construir un yoyo! STEAM Habilidades para el siglo XXI: Pensamiento critico, resolucion de problemas, habilidades motoras finas, curiosidad cientifica. Tension fuerza, gravedad, transformacion de energia. Uso de Proto",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Jugamos con nuestro yoyo para ver como funciona",
+              "descripcion": "Jugamos con nuestro yoyo para ver como funciona. Luego, respondemos las siguientes preguntas: a. De que materiales esta hecho el yoyo? Como se juega con este objeto? b. Que podemos hacer para aumentar la velocidad a la que gira el yoyo? c. Que podemos hacer para mejorar nuestro yoyo?",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos algunas normas de seguridad que debemos tener en cuenta cuando juguemos con el yoyo",
+              "descripcion": "Escribimos algunas normas de seguridad que debemos tener en cuenta cuando juguemos con el yoyo que construimos. AlarmaAlarmaAlarmaUsemos los juguetes de manera apropiada. Antes de utilizar los juguetes y los juegos que se venden en el comercio, leamos en las etiquetas los requisitos, las normas de seguridad y las garantias. Trabajo con mi familiaTr",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "La madera es un recurso natural fundamental",
+      "desempeno_general": "Identifico la relación entre recursos naturales y artefactos tecnológicos.",
+      "guias": [
+        {
+          "numero": 4,
+          "titulo": "Aprendamos sobre la transformación de la madera",
+          "concepto": "Madera, recurso natural, transformación",
+          "desempeno": "Indago sobre el proceso de transformación de un recurso natural en artefactos comunes que facilitan la vida diaria de las personas.",
+          "ejes_tematicos": [
+            "Madera",
+            "recurso natural",
+            "transformación"
+          ],
+          "recursos": [
+            "Muestras de madera",
+            "regla",
+            "cartulina"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con un familiar, visito una carpinteria o un deposito de madera de mi ciudad o",
+              "descripcion": "Con un familiar, visito una carpinteria o un deposito de madera de mi ciudad o municipio. Alli realizo lo siguiente: a. Observo los tipos de madera que alli se encuentran. b. Averiguo los nombres de las maderas, sus caracteristicas y usos. c. Solicito, si es posible, que me regalen algunos trozos pequenos de madera. d. Escribo en el cuaderno lo que",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con base en la experiencia anterior, respondemos: a",
+              "descripcion": "Con base en la experiencia anterior, respondemos: a. Que criterios tuvimos para seleccionar las hojas y luego colocarlas en nuestro herbario? Tecnologia 338 Unidad 2, Guia 4b. Que aprendizajes sobre las plantas adquirimos? c. Por que razones es importante el cuidado de las diversas plantas de nuestro entorno? d. Que funcion cumplen las plantas en n",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la biblioteca o en Internet, buscamos una historia sobre el origen de algun arbol",
+              "descripcion": "En la biblioteca o en Internet, buscamos una historia sobre el origen de algun arbol. Escribimos la historia que consultamos en el Cuaderno viajero. AlarmaAlarmaAlarmaCuando utilizamos herramientas para pulir y ensamblar piezas de madera, debemos ser muy cuidadosos con los filos, puntas y texturas. Ademas, es importante mantener el lugar de trabajo",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Construyamos artefactos con madera",
+          "concepto": "Herramientas, ensamblaje",
+          "desempeno": "Sigo instrucciones de procedimientos que implican uso de madera en la construcción de artefactos o dispositivos análogos.",
+          "ejes_tematicos": [
+            "Herramientas",
+            "ensamblaje"
+          ],
+          "recursos": [
+            "Palos de madera",
+            "lija",
+            "martillo",
+            "clavos",
+            "pegamento"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Escribo en el cuaderno el siguiente texto",
+              "descripcion": "Escribo en el cuaderno el siguiente texto. Luego, en casa, lo leo a mis familiares: La importancia de los arboles Los arboles son muy importantes. Ademas de proporcionarnos su madera, nos proveen de alimento a los seres humanos y los animales. Tambien sirven de vivienda para las aves y otras especies. Con el oxigeno que desprenden, los arboles puri",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Siembro un arbol en compania de un familiar",
+              "descripcion": "Siembro un arbol en compania de un familiar. Luego, realizo lo siguiente: a. Escribo en el cuaderno el nombre del arbol. Explico el proceso que seguimos para sembrarlo. b. Averiguo cuanto tiempo demora en crecer este arbol y los usos que se le pueden dar a su madera. c. Comparto mi experiencia de sembrar el arbol con los companeros y companeras, y ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Respondemos las preguntas: a",
+              "descripcion": "Respondemos las preguntas: a. Que dificultades tuvimos durante el proceso de construir la caja? b. Como solucionamos las dificultades que tuvimos al construir la caja? Comentamos nuestro trabajo con el profesor o la profesora. CActividades de aplicacion Trabajo con mi familiaTrabajo con mi familia",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Del árbol sale más que madera",
+          "concepto": "Derivados de la madera, impacto ambiental",
+          "desempeno": "Identifico otros productos que se derivan de la madera y que son de uso cotidiano.",
+          "ejes_tematicos": [
+            "Derivados de la madera",
+            "impacto ambiental"
+          ],
+          "recursos": [
+            "Trozos de madera",
+            "recipiente con agua",
+            "báscula"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Escribo el nombre de tres arboles que conozco",
+              "descripcion": "Escribo el nombre de tres arboles que conozco.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Explico por que algunas maderas son duras y otras blandas",
+              "descripcion": "Explico por que algunas maderas son duras y otras blandas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Escribo tres razones por las que se puede danar o deteriorar la madera",
+              "descripcion": "Escribo tres razones por las que se puede danar o deteriorar la madera.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Explico como puedo saber la edad que tiene un arbol",
+              "descripcion": "Explico como puedo saber la edad que tiene un arbol.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Completo en el cuaderno el siguiente cuadro: Segueta Cepillo Tenazas",
+              "descripcion": "Completo en el cuaderno el siguiente cuadro: Segueta Cepillo Tenazas",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Senalo las herramientas que utilizaria para cortar madera",
+              "descripcion": "Senalo las herramientas que utilizaria para cortar madera. Explico por que. Serrucho Partes del tronco de un arbol Caracteristicas Duramen Albura Liber Corteza Trabajo individualTrabajo individual ValoromisI.Leo, analizo y respondo las preguntas en mi cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Elijo dos de las herramientas anteriores",
+              "descripcion": "Elijo dos de las herramientas anteriores. Explico para que sirven y como funcionan.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Escribo en mi cuaderno los siguientes nombres de las partes del arbol",
+              "descripcion": "Escribo en mi cuaderno los siguientes nombres de las partes del arbol. Al frente de cada nombre, escribo para que se utiliza. a. Tronco b. Corteza c. Semillas d. Frutos e. Hojas f. Raiz g. Flores.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribo el nombre de dos productos que se pueden elaborar con: La profesora o el",
+              "descripcion": "Escribo el nombre de dos productos que se pueden elaborar con: La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso. •Madera solida •Resina de los arboles •Celulosa de los arboles.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Explico el procedimiento que segui para crear el barco de vela",
+              "descripcion": "Explico el procedimiento que segui para crear el barco de vela. ValoromisEscofina Caladora",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "¡La luz se transforma!",
+      "desempeno_general": "Comprendo cómo la luz es fundamental para procesos naturales y tecnológicos.",
+      "guias": [
+        {
+          "numero": 7,
+          "titulo": "Luces y sombras",
+          "concepto": "Fuentes de luz, sombras",
+          "desempeno": "Diferencio fuentes de luz natural y luz artificial. Identifico materiales que permiten o evitan el paso de la luz.",
+          "ejes_tematicos": [
+            "Fuentes de luz",
+            "sombras"
+          ],
+          "recursos": [
+            "Linterna",
+            "cartulina",
+            "espejos"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Decimos nuestros colores favoritos en la ropa, en los helados y en la tinta de",
+              "descripcion": "Decimos nuestros colores favoritos en la ropa, en los helados y en la tinta de los esferos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Escribimos en el cuaderno que color creemos que aparecera si mezclamos los siguientes colores: Amarillo",
+              "descripcion": "Escribimos en el cuaderno que color creemos que aparecera si mezclamos los siguientes colores: Amarillo + azul = Amarillo + azul + rojo = Azul + rojo = Rojo + amarillo =",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, utilizamos lapices de colores y experimentamos para ver que color aparece cuando",
+              "descripcion": "En el cuaderno, utilizamos lapices de colores y experimentamos para ver que color aparece cuando mezclamos los siguientes colores: Amarillo + azul = Rojo + amarillo = Azul + rojo = Amarillo + azul + rojo = 684. Leemos el siguiente texto:",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Aprendamos sobre la descomposición de la luz",
+          "concepto": "Luz blanca, colores",
+          "desempeno": "Indago sobre procesos de descomposición de la luz, evidentes en situaciones cotidianas.",
+          "ejes_tematicos": [
+            "Luz blanca",
+            "colores"
+          ],
+          "recursos": [
+            "Papel celofán",
+            "recipientes con agua",
+            "linterna"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la ayuda de un familiar, hago pompas de jabon: a",
+              "descripcion": "Con la ayuda de un familiar, hago pompas de jabon: a. Consigo los siguientes materiales: b. Escribo y sigo estas recomendaciones antes de empezar: •Si voy a usar detergente, pido a un adulto que caliente un poco el agua para que el detergente se disuelva bien. •Para preparar la solucion, calculo, por cada litro de agua, cuatro cucharadas soperas de",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comparto mi experiencia con los companeros y companeras, y el profesor o profesora",
+              "descripcion": "Comparto mi experiencia con los companeros y companeras, y el profesor o profesora. La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso. Materiales•Un recipiente plastico•Jabon liquido o detergente•Agua •Pitillos•Aros de alambre•Trapo para secar.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "¿Se puede capturar la luz?",
+          "concepto": "Energía lumínica, fotografía",
+          "desempeno": "Experimento con las propiedades de la energía lumínica para conocer la manera en que dispositivos analógicos y digitales capturan imágenes.",
+          "ejes_tematicos": [
+            "Energía lumínica",
+            "fotografía"
+          ],
+          "recursos": [
+            "Cajas",
+            "papel aluminio",
+            "papel mantequilla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Consulto con los adultos mayores de mi familia: • Como hacian para fotografiar a sus",
+              "descripcion": "Consulto con los adultos mayores de mi familia: • Como hacian para fotografiar a sus seres queridos, para registrar sus fiestas o para guardar un recuerdo de sus lugares favoritos, antes de que existieran las camaras digitales?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Consulto en la biblioteca o en Internet: a",
+              "descripcion": "Consulto en la biblioteca o en Internet: a. Que son las camaras analogas? Como funcionan? b. Que son las camaras digitales? Como funcionan? Tecnologia 3823. Elaboro un cuadro comparativo que incluya las caracteristicas, ventajas y desventajas de las camaras analogas y de las camaras digitales.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leo las siguientes afirmaciones y las escribo en mi cuaderno",
+              "descripcion": "Leo las siguientes afirmaciones y las escribo en mi cuaderno. Luego, senalo con una (x) la (F) si son falsas o la (V) si son verdaderas: a. Los materiales translucidos no dejan pasar la luz. (F) (V) b. Los materiales transparentes dejan pasar la luz. (F) (V) c. Los materiales opacos no dejan pasar la luz. (F) (V)",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Describimos lo que observamos al realizar el paso 8 del procedimiento",
+              "descripcion": "Describimos lo que observamos al realizar el paso 8 del procedimiento.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Experimentamos, variando el tamano y la forma del orificio por donde entra la luz",
+              "descripcion": "Experimentamos, variando el tamano y la forma del orificio por donde entra la luz. Escribimos en el cuaderno lo que observamos. CActividades de aplicacion Trabajo con mi familiaTrabajo con mi familia Comentamos nuestro trabajo con el profesor o la profesora.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo para que se usan los siguientes artefactos: a",
+              "descripcion": "Escribo para que se usan los siguientes artefactos: a. Gafas b. Microscopio c. Camara d. Periscopio.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Explico el procedimiento que segui para elaborar mis gafas 3D",
+              "descripcion": "Explico el procedimiento que segui para elaborar mis gafas 3D. Describo como funcionan estas gafas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Dibujo la camara oscura que construi y explico por escrito como funciona",
+              "descripcion": "Dibujo la camara oscura que construi y explico por escrito como funciona. Con la profesora o el profesor valoro mis aprendizajes y registro mi progreso. Trabajo individualTrabajo individual ValoromisI.Leo, analizo y respondo las preguntas en mi cuaderno:",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Aprendamos a ubicarnos en el espacio y el tiempo",
+      "desempeno_general": "Identifico y uso instrumentos de medición y dispositivos tecnológicos.",
+      "guias": [
+        {
+          "numero": 10,
+          "titulo": "¿Qué significa medir?",
+          "concepto": "Medición, magnitudes",
+          "desempeno": "Reconozco y construyo instrumentos que sirven para medir.",
+          "ejes_tematicos": [
+            "Medición",
+            "magnitudes"
+          ],
+          "recursos": [
+            "Botellas plásticas",
+            "hilo",
+            "regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En la biblioteca o en Internet, consulto como se hacia en epocas anteriores Comento mi",
+              "descripcion": "En la biblioteca o en Internet, consulto como se hacia en epocas anteriores Comento mi trabajo con la profesora o el profesor. CActividades de aplicacion Trabajo con mi familiaTrabajo con mi familia para conocer y predecir el clima en una region. Escribo lo que investigue en mi cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Consulto que instrumentos se utilizan para medir los sismos",
+              "descripcion": "Consulto que instrumentos se utilizan para medir los sismos. Con mi familia, escribo un plan sobre como actuar y que hacer en caso de que se produzca un sismo en el lugar donde vivo. Comparto mi trabajo en la proxima clase. Tecnologia 396La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Escogemos el lugar en donde vamos a instalar el pluviometro: a",
+              "descripcion": "Escogemos el lugar en donde vamos a instalar el pluviometro: a. Para hacer el soporte del pluviometro, unimos el palo de escoba a la tabla con el tornillo. La tabla debe quedar ajustada y recta. b. Colocamos el soporte, enterrando el palo en un lugar descubierto. Cubrimos la tira de papel con la cinta pegante transparente, Verificamos que quede ubi",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Elaboramos el siguiente cuadro en el cuaderno, para registrar la cantidad de lluvia que cae",
+              "descripcion": "Elaboramos el siguiente cuadro en el cuaderno, para registrar la cantidad de lluvia que cae a diario por una semana en nuestra region. Seguimos el ejemplo: 95 Mes: Semana: Ano: Total de la semana: 12 cm 11 cm 10 cm 9 cm 8 cm 7 cm 6 cm 5 cm 4 cm 3 cm 2 cm 1 cm Dias Lunes Martes Miercoles Jueves Viernes Sabado Domingo Cantidad de lluvia (cm.) http://",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "¿Qué es un dispositivo inteligente?",
+          "concepto": "Analógico, digital, dispositivo inteligente",
+          "desempeno": "Identifico en el contexto cercano artefactos analógicos y digitales, y aprendo sobre las funciones de algunos de ellos.",
+          "ejes_tematicos": [
+            "Analógico",
+            "digital",
+            "dispositivo inteligente"
+          ],
+          "recursos": [
+            "Cartulina",
+            "marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Dialogo con mis familiares sobre como ha cambiado la tecnologia",
+              "descripcion": "Dialogo con mis familiares sobre como ha cambiado la tecnologia. Me guio CActividades de aplicacion Trabajo con mi familiaTrabajo con mi familia con las siguientes situaciones: a. Indago sobre la manera en que se comunicaban. Pregunto que disponibilidad habia del servicio de telefonia hace unos anos, la forma en que hacian o recibian llamadas y los",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Describimos su funcionalidad",
+              "descripcion": "Describimos su funcionalidad. Usando el pensamiento computacional, cada uno de nosotros explica: a. Que hace la aplicacion? b. Como se usa? (toques, deslizamientos, comandos de voz). c. Que personas necesitan esta aplicacion? (podemos pensar en personas con necesidades especificas de salud, o de transporte, por ejemplo. d. Que pasos o “algoritmo” d",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Quien busca, encuentra",
+          "concepto": "Mapas, orientación, GPS",
+          "desempeno": "Diseño rutas y mapas utilizando dispositivos analógicos y digitales.",
+          "ejes_tematicos": [
+            "Mapas",
+            "orientación",
+            "GPS"
+          ],
+          "recursos": [
+            "Papel cuadriculado",
+            "brújula",
+            "colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la ayuda de un familiar, dibujo el recorrido que hago desde la casa hasta",
+              "descripcion": "Con la ayuda de un familiar, dibujo el recorrido que hago desde la casa hasta el colegio o escuela, en medio pliego de papel periodico o cartulina. Senalo los puntos importantes, las senales, construcciones u objetos que sirven de orientacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Expongo la cartelera que elabore en el salon de clases",
+              "descripcion": "Expongo la cartelera que elabore en el salon de clases. En la siguiente clase, la comparo con la de los demas companeros y companeras para ver: a. Quien vive mas cerca y quien vive mas lejos. b. Cuanto tiempo dura el recorrido de cada estudiante. c. Que tipo de transporte utiliza cada uno para hacer el recorrido por la ruta. d. Que puntos de refere",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la biblioteca o en Internet, consulto datos, noticias y experiencias sobre paises y ciudades",
+              "descripcion": "En la biblioteca o en Internet, consulto datos, noticias y experiencias sobre paises y ciudades que me interesa conocer. Escribo esta informacion en el cuaderno y la comparto en la clase siguiente. Tecnologia 3110La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso. ValoromisI.Leo, analizo y respondo las pregunta",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Escribo tres medidas de prevencion que debo tener en cuenta para evitar accidentes de transito",
+              "descripcion": "Escribo tres medidas de prevencion que debo tener en cuenta para evitar accidentes de transito.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Respondo las siguientes preguntas: a",
+              "descripcion": "Respondo las siguientes preguntas: a. Para que me sirve aprender a leer mapas? b. Que pais del mundo me gustaria conocer? Por que? c. En donde puedo buscar informacion para saber mas sobre el pais que quiero conocer? La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso. Nombre artefac",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 74,
+          "titulo": ". Respondemos las siguientes preguntas en el cuader",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Experimentemos con la luz! Desarrollamos la siguiente experiencia STEAM",
+              "descripcion": "Experimentemos con la luz! Desarrollamos la siguiente experiencia STEAM. Traemos del Centro de recursos los materiales y seguimos las instrucciones: a. Oscurecemos el salon de clases, tapando las ventanas con una tela o cartulina oscura. BActividades de practica TrabajoconelprofesorolaprofesoraTrabajo con el profesor o la profesora Me comprometo a ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Ahora experimentamos que sucede al colocar objetos de diferentes materiales al frente de una fuente",
+              "descripcion": "Ahora experimentamos que sucede al colocar objetos de diferentes materiales al frente de una fuente de luz: a. Del centro de recursos, traemos objetos de diferente material (vidrio, tela, papel, madera y metal). b. Colocamos, uno por uno, los objetos frente a la luz de la linterna. Observamos cuanta luz deja pasar cada objeto. Tecnologia 3 64c. Org",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Ahora, escribimos nuestro nombre sobre un papel",
+              "descripcion": "Ahora, escribimos nuestro nombre sobre un papel. Del centro de recursos, traemos un vidrio, un espejo y una cuchara de metal. a. Realizamos lo siguiente: • A traves del vidrio, observamos las cosas que estan en el salon de clases y el nombre que escribimos en el papel. • Frente al espejo, miramos nuestra cara y el nombre que escribimos en el papel.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con base en las experiencias anteriores, dialogamos sobre la forma en que la luz se",
+              "descripcion": "Con base en las experiencias anteriores, dialogamos sobre la forma en que la luz se comporta en cada caso. a. Que objetos son traspasados por la luz? b. Que objetos no pueden ser traspasados?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Consultamos, en libros o en Internet, algunos de los usos que tienen los siguientes materiales:",
+              "descripcion": "Consultamos, en libros o en Internet, algunos de los usos que tienen los siguientes materiales: a. El vidrio b. Las telas translucidas c. La madera. Informamos a la profesora o al profesor sobre las actividades basicas que realizamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Que aprendimos de las experiencias anteriores? TrabajoconlaprofesoraoelprofesorTrabajo con la profesora o el profesor",
+              "descripcion": "Que aprendimos de las experiencias anteriores? TrabajoconlaprofesoraoelprofesorTrabajo con la profesora o el profesor",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Compartimos las dificultades que tuvimos al construir el periscopio",
+              "descripcion": "Compartimos las dificultades que tuvimos al construir el periscopio. Ademas, explicamos como las solucionamos. Comentamos nuestro trabajo con el profesor o la profesora. CActividades de aplicacion Trabajo con mi familiaTrabajo con mi familia",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -45,10 +45,10 @@
 </div>
 
 <div class="modulo-hex-info">
-  <div class="hex-badge-img" data-step="4" role="img" aria-label="Paso 3"></div>
+  <div class="hex-badge-img" data-step="4" role="img" aria-label="Paso 4"></div>
   <div class="info-texto">
     <h3 class="info-titulo">Guías de Aprendizaje ENA y Área</h3>
-    <p class="info-subtitulo">Ahora especifiquemos la edición de tus Guías y el Área a trabajar, para ver los temas que se conectan</p>
+    <p class="info-subtitulo">Selecciona la edición de tus Guías y el Área a trabajar</p>
   </div>
 </div>
 
@@ -60,33 +60,25 @@
 </div>
 
 <fieldset class="form-fieldset">
-   <label for="materia">Área a trabajar</label>  
+   <label for="materia">Área a trabajar</label>
     <select id="materia" required="">
-        <option value="">Selecciona el Área</option>
-    <option value="matematicas">Matemáticas</option>
-    <option value="lenguaje">Lenguaje</option>
-    <option value="sociales">Sociales</option>
-    <option value="Tecnología">Tecnología</option>
-    <option value="Naturales">Naturales</option>
-    <option value="ética">Ética</option>
+        <option value="">Cargando áreas...</option>
     </select>
-    
+
    <label for="edicion_guia">Edición de las Guías ENA</label>
     <select id="edicion_guia" required="">
         <option value="">Selecciona la edición de las guías</option>
         <option value="2026">Edición 2026</option>
         <option value="2016">Edición 2016</option>
         <option value="2015">Edición 2015</option>
-        <option value="2015">Edición 2012</option>
-        <option value="2015">Edición 2008</option>
-          </select>
-
-    <label for="temas_generales">Temas Generales (según área seleccionada)</label>
-    <select id="temas_generales" required="" disabled="">
-        <option value="">Primero selecciona un área</option>
+        <option value="2012">Edición 2012</option>
+        <option value="2008">Edición 2008</option>
     </select>
 
-    <div id="guiasContainer"></div>
+    <div id="edicion-warning" class="warning-edicion" style="display: none;">
+        <img src="Images/iconDanger.svg" alt="advertencia">
+        <span>Esta edición no está disponible. Solo tenemos acceso a las guías de la edición 2026.</span>
+    </div>
 
       </fieldset>
       
@@ -95,95 +87,60 @@
   <button type="submit" id = "Continuar"class="btn-primary">Continuar</button>
 </div>
 
- <script>
-  // Temas transversales por asignatura (RAS 2026)
-  const temasGeneralesPorAsignatura = {
-    'matematicas': [
-      'Resolución de problemas',
-      'Valor posicional y sistema decimal',
-      'Operaciones básicas (suma, resta, multiplicación, división)',
-      'Números racionales (fracciones y decimales)',
-      'Geometría (figuras planas y cuerpos geométricos)',
-      'Medición (longitud, masa, capacidad, tiempo)',
-      'Estadística y datos',
-      'Pensamiento algebraico (patrones y secuencias)'
-    ],
-    'lenguaje': [
-      'Alfabetización inicial',
-      'Comprensión lectora',
-      'Producción textual (narrativa, descriptiva, expositiva)',
-      'Literatura (cuento, fábula, mito, poesía, teatro)',
-      'Comunicación oral',
-      'Medios de comunicación',
-      'Gramática y ortografía',
-      'Lenguaje corporal y simbólico'
-    ],
-    'sociales': [
-      'Familia y comunidad',
-      'Organización política y territorial (municipio, departamento, país)',
-      'Geografía y medio ambiente',
-      'Historia de Colombia (pueblos indígenas, Conquista, Colonia, Independencia)',
-      'Derechos y deberes ciudadanos',
-      'Símbolos patrios y cultura',
-      'Economía (necesidades, trabajo, servicios)',
-      'Medios de transporte y comunicación'
-    ],
-    'Tecnología': [
-      'Materiales y transformación (naturales, artificiales, sintéticos)',
-      'Diseño y construcción de artefactos',
-      'Energía y fenómenos físicos (luz, calor, sonido, movimiento)',
-      'Sostenibilidad y medio ambiente',
-      'Pensamiento computacional y tecnología digital',
-      'Historia de la tecnología (inventos y evolución)',
-      'Sistemas tecnológicos (vivienda, transporte, comunicación)',
-      'Solución de problemas con tecnología'
-    ],
-    'Naturales': [
-      'Seres vivos (clasificación, características, ciclos de vida)',
-      'Ecosistemas y medio ambiente',
-      'Cuerpo humano (sistemas corporales, salud)',
-      'Materia y energía',
-      'Fuerzas y movimiento',
-      'Sistema solar y Tierra',
-      'Método científico y experimentación',
-      'Recursos naturales y conservación'
-    ],
-    'ética': [
-      'Autoconocimiento (autoimagen, emociones, sentidos)',
-      'Convivencia y valores morales',
-      'Familia como núcleo social',
-      'Resolución de conflictos',
-      'Derechos humanos y dignidad',
-      'Bienestar y salud',
-      'Diversión sana y tiempo libre',
-      'Comunidad y participación ciudadana'
-    ]
-  };
+<script>
+  // Estado global
+  let areasData = [];
+  let edicionesDisponibles = [];
 
-  // Evento para cambiar temas según el área seleccionada
-  document.getElementById("materia").addEventListener("change", function() {
-    const areaSeleccionada = this.value;
-    const selectTemas = document.getElementById("temas_generales");
+  // Elementos del DOM
+  const selectMateria = document.getElementById("materia");
+  const selectEdicion = document.getElementById("edicion_guia");
+  const warningEdicion = document.getElementById("edicion-warning");
 
-    // Limpiar opciones previas
-    selectTemas.innerHTML = '<option value="">Selecciona un tema general</option>';
+  // Cargar áreas al iniciar
+  async function cargarAreas() {
+    try {
+      const response = await fetch("/api/guias-data/areas");
+      const result = await response.json();
 
-    if (areaSeleccionada && temasGeneralesPorAsignatura[areaSeleccionada]) {
-      // Habilitar el select de temas
-      selectTemas.disabled = false;
+      if (result.success) {
+        areasData = result.data.areas;
+        edicionesDisponibles = result.data.edicionesDisponibles;
 
-      // Agregar los temas correspondientes
-      temasGeneralesPorAsignatura[areaSeleccionada].forEach(tema => {
-        const option = document.createElement('option');
-        option.value = tema.toLowerCase().replace(/\s+/g, '_');
-        option.textContent = tema;
-        selectTemas.appendChild(option);
-      });
-    } else {
-      selectTemas.disabled = true;
-      selectTemas.innerHTML = '<option value="">Primero selecciona un área</option>';
+        selectMateria.innerHTML = '<option value="">Selecciona el Área</option>';
+        areasData.forEach(area => {
+          const option = document.createElement("option");
+          option.value = area.id;
+          option.textContent = area.nombre;
+          selectMateria.appendChild(option);
+        });
+      }
+    } catch (error) {
+      console.error("Error al cargar áreas:", error);
+      selectMateria.innerHTML = '<option value="">Error al cargar áreas</option>';
     }
-  });
+  }
+
+  // Verificar si la edición está disponible
+  function verificarEdicion() {
+    const edicion = selectEdicion.value;
+
+    if (!edicion) {
+      warningEdicion.style.display = "none";
+      return false;
+    }
+
+    if (!edicionesDisponibles.includes(edicion)) {
+      warningEdicion.style.display = "flex";
+      return false;
+    }
+
+    warningEdicion.style.display = "none";
+    return true;
+  }
+
+  // Event listeners
+  selectEdicion.addEventListener("change", verificarEdicion);
 
   document.getElementById("atras").addEventListener("click", function() {
     window.location.href = "03RecursosInstrumentos.html";
@@ -191,32 +148,44 @@
 
   document.getElementById("Continuar").addEventListener("click", function(e) {
     e.preventDefault();
-    const requiredFields = document.querySelectorAll('[required]');
-    let allFilled = true;
 
-    requiredFields.forEach(field => {
-      if (!field.value) {
-        allFilled = false;
-        field.classList.add('error');
-      } else {
-        field.classList.remove('error');
-      }
-    });
-
-    if (allFilled) {
-      // Guardar datos del paso 4
-      const stepData = {
-        area: document.getElementById('materia').value,
-        edicion_guia: document.getElementById('edicion_guia').value,
-        tema_general: document.getElementById('temas_generales').value
-      };
-
-      window.saveStepData(4, stepData);
-      window.location.href = "05GuiasRecomendadas.html";
-    } else {
-      alert("Por favor complete todos los campos requeridos");
+    // Verificar edición disponible
+    if (!edicionesDisponibles.includes(selectEdicion.value)) {
+      alert("La edición seleccionada no está disponible. Por favor selecciona la edición 2026.");
+      return;
     }
+
+    // Validar campos
+    if (!selectMateria.value) {
+      alert("Por favor selecciona un área");
+      selectMateria.classList.add('error');
+      return;
+    }
+
+    if (!selectEdicion.value) {
+      alert("Por favor selecciona una edición");
+      selectEdicion.classList.add('error');
+      return;
+    }
+
+    selectMateria.classList.remove('error');
+    selectEdicion.classList.remove('error');
+
+    // Guardar datos del paso 4
+    const areaOption = selectMateria.options[selectMateria.selectedIndex];
+
+    const stepData = {
+      area: selectMateria.value,
+      area_nombre: areaOption ? areaOption.textContent : "",
+      edicion_guia: selectEdicion.value
+    };
+
+    window.saveStepData(4, stepData);
+    window.location.href = "05GuiasRecomendadas.html";
   });
+
+  // Inicializar
+  cargarAreas();
 </script>
 
 </form></div>

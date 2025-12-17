@@ -1,0 +1,1197 @@
+{
+  "asignatura": "Matematicas",
+  "grado": 3,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Maria J. Botero Acevedo, Campo E. Guevara Alvarez, Pedro A. Sierra Guerrero",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "Se ubica correctamente en el espacio."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "¡Qué bueno que existen los números!",
+      "desempeno_general": "Utilizo números hasta la unidad de mil para describir, comparar y resolver situaciones de la vida cotidiana.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "¡Reconozcamos las unidades de mil!",
+          "concepto": "Sistema de numeración decimal, Unidad, decena, centena y mil",
+          "desempeno": "Identifico la unidad de mil en diferentes contextos. Represento cantidades hasta 1.000.",
+          "ejes_tematicos": [
+            "Sistema de numeración decimal",
+            "Unidad, decena, centena y mil"
+          ],
+          "recursos": [
+            "Ábacos",
+            "Hojas blancas y cuadriculadas",
+            "Lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, busco empaques de productos que hay en la casa",
+              "descripcion": "Con ayuda de un familiar, busco empaques de productos que hay en la casa. Los empaques deben tener escritas las unidades de mil que aprendimos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En una hoja, puede ser cuadriculada, elaboramos la siguiente sopa de letras:",
+              "descripcion": "En una hoja, puede ser cuadriculada, elaboramos la siguiente sopa de letras:",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Escribimos las siguientes preguntas y oraciones debajo de la sopa de letras que elaboramos: a",
+              "descripcion": "Escribimos las siguientes preguntas y oraciones debajo de la sopa de letras que elaboramos: a Cuantas unidades tiene una decena? b Que unidad de mil esta antes del numero 9 000 y despues del numero 7 000? c Que numero representan dos decenas? d Una centena son unidades e Cuantos dias hay en una semana? f 100 decenas forman 1 unidad de 18 Matematica",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Planteo dos situaciones matematicas utilizando la informacion de los empaques y las resuelvo",
+              "descripcion": "Planteo dos situaciones matematicas utilizando la informacion de los empaques y las resuelvo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dibujo en el cuaderno varios abacos",
+              "descripcion": "Dibujo en el cuaderno varios abacos. Luego represento en ellos los precios de los productos de los empaques. La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso. Trabajo con mi familia Actividades de aplicacion Presentamos nuestro trabajo a la profesora o al profesor.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Números, ¡a sus puestos!",
+          "concepto": "Valor posicional, Descomposición numérica",
+          "desempeno": "Reconozco el valor posicional de los números.",
+          "ejes_tematicos": [
+            "Valor posicional",
+            "Descomposición numérica"
+          ],
+          "recursos": [
+            "Fichas numéricas",
+            "Cartulina",
+            "Regla",
+            "Marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Juego con los numeros! a. Pido ayuda a un familiar. Tomo un trozo de cartulina",
+              "descripcion": "Juego con los numeros! a. Pido ayuda a un familiar. Tomo un trozo de cartulina y recorto cinco cuadrados del mismo tamano. b. Escribo en cada cuadrado un numero del 0 al 9. c. Formo con los cuadrados un numero de cinco digitos. d. Pego el numero en el cuaderno y escribo al frente su nombre en letras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el cuaderno, escribo el nombre de cada integrante de mi familia",
+              "descripcion": "En el cuaderno, escribo el nombre de cada integrante de mi familia. Al lado del nombre, escribo el ano de su nacimiento en letras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Recuerdo tres o cuatro articulos o alimentos que se compren con frecuencia en mi casa",
+              "descripcion": "Recuerdo tres o cuatro articulos o alimentos que se compren con frecuencia en mi casa. Luego hago lo siguiente: a. Escribo en el cuaderno el precio de cada uno. b. Digo cuantas unidades, decenas, centenas y unidades de mil tiene el precio. Por ejemplo: 5: unidades de mil 6: centenas 5: decenas 0: unidades La profesora o el profesor valora los desem",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Respondemos las siguientes preguntas sobre la familia que viajo: a",
+              "descripcion": "Respondemos las siguientes preguntas sobre la familia que viajo: a. Cuanto tiempo gasto la familia viajando desde Pasto hasta Buenaventura? b. Natalia y Juan Carlos tenian inicialmente $90.000 ahorrados. Les sobro algun dinero para sus proximas vacaciones? Cuanto? c. Por que es necesario ahorrar dinero? 30 Matematicas 3",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Hago la siguiente tabla en mi cuaderno",
+              "descripcion": "Hago la siguiente tabla en mi cuaderno. Escribo cada numero en letras o en cifras, segun corresponda. Tambien lo represento descomponiendolo: No olvidemos la importancia del ahorro. Podemos disfrutar el dinero ahorrado junto con nuestra familia. Trabajo individual Numero en letras Numero en cifras Descomposicion Novecientos ochenta y tres 983 500+4",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "¡Lleguemos a resultados con la adición y la sustracción!",
+          "concepto": "Adición, Sustracción",
+          "desempeno": "Resuelvo problemas aditivos.",
+          "ejes_tematicos": [
+            "Adición",
+            "Sustracción"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Averiguo cuales fueron los gastos principales que tuvimos en mi casa la semana pasada",
+              "descripcion": "Averiguo cuales fueron los gastos principales que tuvimos en mi casa la semana pasada. Escribo el valor de cada uno y hago la suma de todos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dibujamos la siguiente tabla en el cuaderno Ubicamos los numeros de las siguientes operaciones en",
+              "descripcion": "Dibujamos la siguiente tabla en el cuaderno Ubicamos los numeros de las siguientes operaciones en ella Luego hacemos las sumas y restas correspondientes: a 2 415 + 324 + 5 915 = b 250 + 2 957 + 4 892 = c 2 925 - 1 504 = d 8 942 - 4 325 = umum 37 ccdduudmdm 38 Matematicas 3",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Invento una situacion cuya respuesta requiera de una resta o sustraccion de numeros de cuatro",
+              "descripcion": "Invento una situacion cuya respuesta requiera de una resta o sustraccion de numeros de cuatro cifras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, comparto con mis companeros y companeras las actividades que desarrolle",
+              "descripcion": "En la proxima clase, comparto con mis companeros y companeras las actividades que desarrolle. En una finca, se recogieron 4.839 huevos. Luego se vendieron 2.745. • Cuantos huevos quedaron?",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "¡Hagamos cuentas!",
+          "concepto": "Cálculo mental, Algoritmos",
+          "desempeno": "Utilizo estrategias de cálculo.",
+          "ejes_tematicos": [
+            "Cálculo mental",
+            "Algoritmos"
+          ],
+          "recursos": [
+            "Tarjetas",
+            "Cuaderno"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En compania de un adulto, voy a la tienda",
+              "descripcion": "En compania de un adulto, voy a la tienda. Le pregunto al encargado de vendernos las cosas como hace para registrar todas las cuentas. Le preguntamos: lo hace escribiendo el dinero que recibe y que gasta en un cuaderno?, utiliza una calculadora o lo hace mentalmente?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Escribo en el cuaderno lo que aprendi en la tienda",
+              "descripcion": "Escribo en el cuaderno lo que aprendi en la tienda. Lo comparto con mis companeros y companeras la proxima clase.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Planteo y resuelvo un problema relacionado con los gastos que se realizan en mi familia",
+              "descripcion": "Planteo y resuelvo un problema relacionado con los gastos que se realizan en mi familia semanalmente. Analizo si es necesario reducir los gastos y explico por que. c. Con el dinero recogido, pudieron comprar todo lo que querian? Les sobro dinero? Les falto dinero? d. Podrian comprar un tarro de helado mas? Que otras cosas de la lista podrian compra",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "¡Empleemos nuestro dinero de manera adecuada!",
+          "concepto": "Sistema monetario, Suma y resta con dinero",
+          "desempeno": "Resuelvo situaciones usando dinero.",
+          "ejes_tematicos": [
+            "Sistema monetario",
+            "Suma y resta con dinero"
+          ],
+          "recursos": [
+            "Monedas y billetes didácticos"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pido a un familiar que me muestre billetes de distintas denominaciones",
+              "descripcion": "Pido a un familiar que me muestre billetes de distintas denominaciones. Observo que personaje se exalta en cada uno y escribo sus nombres en mi cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el cuaderno, dibujo los billetes necesarios para representar con el menor numero de billetes",
+              "descripcion": "En el cuaderno, dibujo los billetes necesarios para representar con el menor numero de billetes las siguientes cantidades: a. $795.000 b. $805.000 c. $95.000 Presentamos nuestro trabajo a la profesora o al profesor. La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso. Actividades de apli",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos la siguiente imagen: • En el cuaderno, escribimos el valor de cada billete y",
+              "descripcion": "Observamos la siguiente imagen: • En el cuaderno, escribimos el valor de cada billete y moneda de la imagen anterior en numeros y en letras.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "¿Qué más podemos hacer con los números?",
+      "desempeno_general": "Aplico propiedades y operaciones matemáticas en diferentes contextos.",
+      "guias": [
+        {
+          "numero": 6,
+          "titulo": "¡Conozcamos y descompongamos cantidades grandes!",
+          "concepto": "Descomposición aditiva",
+          "desempeno": "Descompongo números mayores.",
+          "ejes_tematicos": [
+            "Descomposición aditiva"
+          ],
+          "recursos": [
+            "Ábaco",
+            "Fichas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leo con mis familiares la siguiente situacion:",
+              "descripcion": "Leo con mis familiares la siguiente situacion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Realizo en mi cuaderno de Matematicas las operaciones necesarias para resolver la siguiente pregunta y",
+              "descripcion": "Realizo en mi cuaderno de Matematicas las operaciones necesarias para resolver la siguiente pregunta y realizar las actividades indicadas: a. Cuanto dinero recolectaron los estudiantes de tercero por la venta de las prendas de mujer, de hombre y de nino? b. Hallo la diferencia entre el valor recolectado por la venta de prendas para hombre y el valo",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Elaboro y completo en el cuaderno la siguiente tabla",
+              "descripcion": "Elaboro y completo en el cuaderno la siguiente tabla. Escribo las unidades de mil que tiene el numero anterior y el numero siguiente al numero dado: Unidades de mil del numero anterior Numero Unidades de mil del numero siguiente 1.000 2.000 3.000 8.000 5.000 7.000 Trabajo individual 60 II. Leo y resuelvo: El monitor de Matematicas de grado tercero ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Cual es el valor total de los billetes que habia en el salon? 8",
+              "descripcion": "Cual es el valor total de los billetes que habia en el salon? 8. 2 decenas de mil mas 12 unidades de mil, mas 2 centenas, mas 15 decenas, mas 24 unidades. A. 32.548 B. 32.239 C. 32.374 9. 6 unidades de mil mas 1 centena, mas 22 decenas, mas 168 unidades. A. 6.388 B. 6.290 C. 6.488 A. 637 B. 935 C. 647 7. 4 centenas mas 32 decenas, mas 215 unidades.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Cual es el billete que se encuentra mas veces? A",
+              "descripcion": "Cual es el billete que se encuentra mas veces? A. $20.000. B. $10.000. C. $5.000.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "La diferencia entre el valor que representan los billetes de $5",
+              "descripcion": "La diferencia entre el valor que representan los billetes de $5.000 y el valor que representan los billetes de $ 2.000 es A. $29.000. B. $25.000. C. $19.000. III. Encuentro el numero correcto que se forma en cada caso teniendo en cuenta su composicion: A. $288.000. B. $286.000. C. $236.000. $ 1.000 $2.000 $5.000 $10.000 $20.000 $50.000 8 7 6 5 4 3 ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "¡Reconozcamos las propiedades de la adición!",
+          "concepto": "Propiedad conmutativa, Propiedad asociativa",
+          "desempeno": "Identifico propiedades de la suma.",
+          "ejes_tematicos": [
+            "Propiedad conmutativa",
+            "Propiedad asociativa"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pido ayuda a un familiar. Consulto los precios de tres alimentos con los que puedo",
+              "descripcion": "Pido ayuda a un familiar. Consulto los precios de tres alimentos con los que puedo preparar un delicioso y saludable desayuno. Luego los anoto en el cuaderno. Finalmente, respondo: que operacion debo realizar para saber el costo total de los alimentos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Agrupo de tres formas distintas la operacion que debo realizar para saber el costo total",
+              "descripcion": "Agrupo de tres formas distintas la operacion que debo realizar para saber el costo total de los alimentos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Escribo los resultados de las agrupaciones de la actividad anterior",
+              "descripcion": "Escribo los resultados de las agrupaciones de la actividad anterior. Menciono si los resultados son distintos o no y explico por que.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observo las siguientes imagenes",
+              "descripcion": "Observo las siguientes imagenes. Luego invento un problema que se pueda solucionar haciendo uso de la propiedad conmutativa y de la propiedad asociativa de la suma. Hago uso de los siguientes datos para el problema. Finalmente, se la explico a mis familiares: Actividades de aplicacion Trabajo con mi familia La profesora o el profesor valora los des",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "¡Clasifiquemos agrupando cantidades iguales!",
+          "concepto": "Agrupación, Multiplicación",
+          "desempeno": "Agrupo cantidades iguales.",
+          "ejes_tematicos": [
+            "Agrupación",
+            "Multiplicación"
+          ],
+          "recursos": [
+            "Semillas",
+            "Fichas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Busco en mi casa un recibo del agua",
+              "descripcion": "Busco en mi casa un recibo del agua. Con el, realizo lo siguiente: a. Con ayuda de un familiar, leo y escribo en mi cuaderno la cantidad de metros cubicos de agua que consumimos durante el mes. b. Hallo el numero de metros cubicos de agua que consumiriamos en un ano si seguimos consumiendo lo mismo que este mes. c. Finalmente, respondo: de que mane",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En una cartulina de 25 cm por 25 cm, construyo la tabla de multiplicar de",
+              "descripcion": "En una cartulina de 25 cm por 25 cm, construyo la tabla de multiplicar de doble entrada. La llevo al colegio y la muestro al profesor o profesora. La consulto cuando sea necesario.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Invento un problema en el que aplique la multiplicacion para resolverlo",
+              "descripcion": "Invento un problema en el que aplique la multiplicacion para resolverlo. Puedo guiarme por el valor de algun articulo que compramos en la casa.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leo con atencion la siguiente situacion: En la escuela La Primavera, se realizo una competencia",
+              "descripcion": "Leo con atencion la siguiente situacion: En la escuela La Primavera, se realizo una competencia de Matematicas. Dos estudiantes del grado tercero, Carolina y Daniel, decidieron participar y enfrentarse. Ellos tenian que conseguir diez dados y lanzarlos. Luego agrupaban los dados que caian en el mismo numero y sumaban los puntos de todos los dados. ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con base en la informacion de la situacion anterior, respondo las siguientes preguntas en el",
+              "descripcion": "Con base en la informacion de la situacion anterior, respondo las siguientes preguntas en el cuaderno: a. Cuantos puntos obtuvo Carolina con su lanzamiento de dados? b. Cuantos puntos obtuvo Daniel despues de lanzar los dados? c. Quien gano el concurso?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En el cuaderno, represento en forma de multiplicacion cada uno de los grupos de dados",
+              "descripcion": "En el cuaderno, represento en forma de multiplicacion cada uno de los grupos de dados formados por Carolina y Daniel.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "En el cuaderno, escribo las siguientes operaciones",
+              "descripcion": "En el cuaderno, escribo las siguientes operaciones. Luego encuentro los valores desconocidos para que se cumplan las igualdades: a. x 7 = 84 d. x = 81 b. 15 x = 90 e. x 16 = 48 c. 90 x = 630",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comparo mi trabajo con el de mis companeros y companeras",
+              "descripcion": "Comparo mi trabajo con el de mis companeros y companeras. Si tengo dudas, las consulto con el profesor o profesora. 77 Presento mi trabajo a la profesora o al profesor. 78 Matematicas 3 Actividades de aplicacion Trabajo con mi familia La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Midamos algunos objetos",
+          "concepto": "Longitud, Peso",
+          "desempeno": "Realizo mediciones.",
+          "ejes_tematicos": [
+            "Longitud",
+            "Peso"
+          ],
+          "recursos": [
+            "Regla",
+            "Balanza"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con una cinta metrica, mido en centimetros mi estatura y la de los integrantes de",
+              "descripcion": "Con una cinta metrica, mido en centimetros mi estatura y la de los integrantes de mi familia. Luego realizo lo siguiente: a. Encuentro el resultado de la suma de todas las estaturas. b. En el cuaderno, registro las medidas en un cuadro. Las situo por orden de menor a mayor. c. Expreso en decimetros y en centimetros el resultado de la suma hecha. d.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Consulto a que distancia se encuentra la ciudad mas cercana a mi municipio",
+              "descripcion": "Consulto a que distancia se encuentra la ciudad mas cercana a mi municipio. Escribo esa distancia en kilometros, e n hectometros y en metros. Matematicas 3 Guia 1010 88 Quien vive mas lejos de la escuela? Yo vivo mas o menos a 500 metros Yo vivo a de la escuela. 100 metros de la escuela! Mi papa dice que vivimos a dos Sara kilometros. Miguel Lorena",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Vamos a jugar a Los trenes ciegos! Realizamos lo siguiente: Preparacion del juego: • Traemos",
+              "descripcion": "Vamos a jugar a Los trenes ciegos! Realizamos lo siguiente: Preparacion del juego: • Traemos una cinta metrica del Centro de recursos. • Salimos al patio. • Formamos grupos de cinco ninos y ninas. •Marcamos la ruta del tren. Senalamos la estacion o punto de salida, el recorrido y la estacion o punto de llegada. •Cada grupo hace una fila. •Los cuatr",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Comparamos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Comparamos nuestro trabajo con el de los demas companeros y companeras. Corregimos las respuestas si es necesario.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Utilicemos los números para describir objetos",
+          "concepto": "Comparación, Medición",
+          "desempeno": "Describo objetos usando números.",
+          "ejes_tematicos": [
+            "Comparación",
+            "Medición"
+          ],
+          "recursos": [
+            "Cuaderno"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, averiguo el limite maximo de velocidad en que puede desplazarse",
+              "descripcion": "Con ayuda de un familiar, averiguo el limite maximo de velocidad en que puede desplazarse un carro en donde vivo. Expreso el limite de velocidad en hectometros por hora, decametros por hora y metros por hora.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Hago un listado de las actividades de la vida diaria en las cuales usamos medidas",
+              "descripcion": "Hago un listado de las actividades de la vida diaria en las cuales usamos medidas de longitud. Por ejemplo, al momento de comprar tubos o varillas para construccion, debemos saber la medida de ellos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En mi cuaderno, escribo cuanto puede medir mi zancada",
+              "descripcion": "En mi cuaderno, escribo cuanto puede medir mi zancada. La mido con la cinta metrica y digo que tanto me aproxime.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos con atencion las siguientes situaciones y las resolvemos en el cuaderno: a",
+              "descripcion": "Leemos con atencion las siguientes situaciones y las resolvemos en el cuaderno: a. Maria deseaba cambiar las cortinas de la casa. Entonces, decidio comprar 5 m de tela blanca y 3 m de tela verde clara. Cada decimetro de la tela le costo $2.500. • Cuanto le costo toda la tela que compro?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Explicamos a otras parejas el procedimiento que seguimos para resolver los anteriores problemas",
+              "descripcion": "Explicamos a otras parejas el procedimiento que seguimos para resolver los anteriores problemas. Luego les decimos el resultado que obtuvimos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En mi cuaderno, elaboro la tabla que aparece a continuacion",
+              "descripcion": "En mi cuaderno, elaboro la tabla que aparece a continuacion. Luego observo el procedimiento que se realiza para convertir 3.000 metros a hectometros: Entonces, 3.000 m equivalen a 30 hm. b. Jorge recorrio en bicicleta 18 km el sabado y 21 km el domingo. • Cuantos metros recorrio Jorge en total el sabado y el domingo? 96 Matematicas 3 4.300 mm a dam",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Ahora utilizo la tabla que elabore para hacer las siguientes conversiones:",
+              "descripcion": "Ahora utilizo la tabla que elabore para hacer las siguientes conversiones:",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comparo mi trabajo con el de mis companeros y companeras",
+              "descripcion": "Comparo mi trabajo con el de mis companeros y companeras. Lo corrijo si es necesario.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Utilicemos las operaciones matemáticas en diferentes situaciones",
+      "desempeno_general": "Aplico operaciones para resolver situaciones cotidianas.",
+      "guias": [
+        {
+          "numero": 11,
+          "titulo": "¡Multipliquemos con mayor facilidad!",
+          "concepto": "Multiplicación",
+          "desempeno": "Resuelvo multiplicaciones.",
+          "ejes_tematicos": [
+            "Multiplicación"
+          ],
+          "recursos": [
+            "Regletas",
+            "Semillas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con un familiar, juego a encontrar los minutos que hay en 10 horas, en 100",
+              "descripcion": "Con un familiar, juego a encontrar los minutos que hay en 10 horas, en 100 horas y en 1.000 horas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Ahora juego a encontrar las horas que hay en 10 dias, en 100 dias y",
+              "descripcion": "Ahora juego a encontrar las horas que hay en 10 dias, en 100 dias y en 1.000 dias.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Respondo: cuantos meses tiene un siglo? Cuanto he aprendido? 109",
+              "descripcion": "Respondo: cuantos meses tiene un siglo? Cuanto he aprendido? 109",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Cual es la cantidad de monedas que ahorro Lina el sexto dia? A",
+              "descripcion": "Cual es la cantidad de monedas que ahorro Lina el sexto dia? A. 30. C. 35. B. 42. D. 48.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Cuantas monedas de $200 ahorro Lina durante los quince dias? A",
+              "descripcion": "Cuantas monedas de $200 ahorro Lina durante los quince dias? A. 210. C. 182. B. 90. D. 240.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Cuanto dinero ahorro Lina durante los quince dias? A",
+              "descripcion": "Cuanto dinero ahorro Lina durante los quince dias? A. $24.000. C. $48.000. B. $12.000. D. $36.000.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Lina se acerco al banco para cambiar las monedas ahorradas por billetes",
+              "descripcion": "Lina se acerco al banco para cambiar las monedas ahorradas por billetes. Escribo 3 posibles combinaciones de billetes que le dio el banco. $650.000 $681.000 $681.500 II. Leo la siguiente situacion y respondo las preguntas 4, 5, 6 y 7: Lina decidio ahorrar durante 15 dias para ir a cine el fin de mes con su mejor amiga. Ella utilizo una forma difere",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Los estudiantes de grado tercero asignaron frutas distintas a los numeros 1",
+              "descripcion": "Los estudiantes de grado tercero asignaron frutas distintas a los numeros 1.000, 100, 10 y 1 asi: Usando la asignacion anterior que los estudiantes realizaron, un estudiante dibujo: Que numero se representa en el dibujo del estudiante: A. 2.436 B. 3.462 C. 6.342 D. 4.632",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Aprendamos a registrar nuestros ahorros! a",
+              "descripcion": "Aprendamos a registrar nuestros ahorros! a. Con ayuda de nuestra profesora o profesor, aprendemos como podemos hacer una tabla de tres columnas: fecha, dinero ahorrado y dinero gastado. b. Hacemos la tabla en el cuaderno. c. Escribimos en la tabla el dinero que ahorramos y gastamos durante la semana.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Leemos las siguientes situaciones problema",
+              "descripcion": "Leemos las siguientes situaciones problema. Identificamos los datos en ellas y analizamos las preguntas que debemos resolver. Las solucionamos mentalmente y escribimos el resultado en el cuaderno: a. Hay una funcion de teatro. Cada nino o nina asiste acompanado de dos adultos. Asisten a la funcion 723 ninos y ninas. • Cuantas personas en total asis",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Resolvemos la siguiente situacion problema en nuestro cuaderno: Monica tiene tres blusas: amarilla, cafe y",
+              "descripcion": "Resolvemos la siguiente situacion problema en nuestro cuaderno: Monica tiene tres blusas: amarilla, cafe y azul. Tambien tiene tres jeans: azul, cafe y negro. • Cuantas posibles combinaciones entre las blusas y los jeans puede lucir Monica? 108 Matematicas 3 Presentamos nuestro trabajo a la profesora o al profesor. Actividades de aplicacion La prof",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Leemos con atencion la siguiente situacion y resolvemos las preguntas mentalmente",
+              "descripcion": "Leemos con atencion la siguiente situacion y resolvemos las preguntas mentalmente. Luego escribimos las respuestas en nuestro cuaderno: La siguiente tabla muestra el numero de bombillos producidos en una fabrica. En la tabla, aparece la produccion de los primeros seis meses del ano. Cada bombillo de la tabla representa 20 bombillos: a. Cual fue el ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "¡Hagamos repartos equitativos!",
+          "concepto": "División",
+          "desempeno": "Resuelvo situaciones de división.",
+          "ejes_tematicos": [
+            "División"
+          ],
+          "recursos": [
+            "Fichas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pregunto a un familiar cuanto dinero gasta a diario en pasajes",
+              "descripcion": "Pregunto a un familiar cuanto dinero gasta a diario en pasajes. Resuelvo la multiplicacion en el cuaderno para hallar el total de dinero que gasta mi familiar en una semana.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Soluciono en mi cuaderno las siguientes situaciones: a",
+              "descripcion": "Soluciono en mi cuaderno las siguientes situaciones: a. Carlos lleno un album con 1.440 laminas. En cada pagina pego ocho laminas. • Cuantas paginas tiene el album? b. Camilo compro una bolsa de 24 paquetes de papas en 22.800 pesos. • Cuanto dinero cuesta un paquete de papas? • Si vende cada paquete en 1.000 pesos, gana dinero o no gana dinero? Por",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, hacemos la tabla que dibujamos en el tablero",
+              "descripcion": "En el cuaderno, hacemos la tabla que dibujamos en el tablero. Ponemos tambien los datos recolectados y luego respondemos las preguntas de la siguiente pagina: Yo tambien naci en enero. Pongo otra rayita en ese mes. Como yo naci en enero, me registro con una rayita en ese mes. Trabajo en equipo Trabajo en parejas b. En la tabla, registramos cuantos ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Encuentro el valor desconocido en cada caso: a",
+              "descripcion": "Encuentro el valor desconocido en cada caso: a. 54 ÷ 4 = b. ÷ 7 = 6 c. 864 ÷ 9 = d. 125 ÷ = 25 e. 4.200 ÷ = 140 La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso. Guia 1313 123",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "¡Representemos gráficamente la información!",
+          "concepto": "Gráficos, Pictogramas",
+          "desempeno": "Interpreto gráficos.",
+          "ejes_tematicos": [
+            "Gráficos",
+            "Pictogramas"
+          ],
+          "recursos": [
+            "Cartulina",
+            "Marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Escribo en mi cuaderno el nombre de cada una de las personas que viven en",
+              "descripcion": "Escribo en mi cuaderno el nombre de cada una de las personas que viven en mi casa. Frente al nombre de cada una, escribo el numero de horas que generalmente duerme diariamente.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Reviso la informacion que recolecte en la actividad anterior",
+              "descripcion": "Reviso la informacion que recolecte en la actividad anterior. Construyo una grafica de barras y hallo la moda de la informacion que recolecte.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pregunto minimo a 15 personas cual es su color favorito",
+              "descripcion": "Pregunto minimo a 15 personas cual es su color favorito. Luego organizo la informacion recolectada en una tabla como la siguiente: Actividades de aplicacion Trabajo con mi familia La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso. Presento mi trabajo a la profesora o al profesor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Observo los procedimientos que realice para responder las preguntas de la anterior actividad",
+              "descripcion": "Observo los procedimientos que realice para responder las preguntas de la anterior actividad. Comparo los procedimientos y los resultados con los de mis companeros y companeras. Si es necesario, corrijo. Color favorito Numero de veces que se repite Azul Rosado Blanco Negro Total Guia 1414 131",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "¡Realicemos mediciones de tiempo y espacio!",
+          "concepto": "Tiempo, Longitud",
+          "desempeno": "Utilizo medidas de tiempo y longitud.",
+          "ejes_tematicos": [
+            "Tiempo",
+            "Longitud"
+          ],
+          "recursos": [
+            "Reloj",
+            "Metro"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, realizo estas actividades",
+              "descripcion": "Con ayuda de un familiar, realizo estas actividades. En mi cuaderno, registro en segundos el tiempo que tardo para hacer lo siguiente: a. Medir el largo y el ancho de una habitacion. b. Encontrar el area de mi habitacion en metros cuadrados. c. Dibujar en el cuaderno el area del piso de mi habitacion con sus medidas respectivas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Mido el ancho y el largo del lugar que mas me agrada de mi casa",
+              "descripcion": "Mido el ancho y el largo del lugar que mas me agrada de mi casa. Le pido ayuda a mi familiar para dibujarlo y describirlo en mi cuaderno. Luego le coloco las medidas correspondientes.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con ayuda de un familiar, realizo lo siguiente: a",
+              "descripcion": "Con ayuda de un familiar, realizo lo siguiente: a. Mido el tiempo que demoro desde mi casa a la escuela. b. Mido la distancia aproximada entre mi casa y la escuela. c. Luego registro durante una semana el tiempo que me gasto de mi casa a mi escuela. d. Analizo que sucede con el tiempo y la distancia si se aumenta la velocidad. Tiempo en minutos 20 ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos y analizamos la siguiente situacion: El profesor de natacion de Jairo decide establecer una",
+              "descripcion": "Leemos y analizamos la siguiente situacion: El profesor de natacion de Jairo decide establecer una rutina para su entrenamiento diario. Jairo entrena cada dia en una piscina diferente. Asi, va aumentando la distancia en metros recorrida y el tiempo empleado. Podemos observar su progreso en la siguiente secuencia: Tiempo ? Tiempo ? Tiempo 60 min 75 ",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con base en la informacion de la situacion anterior, respondemos con nuestra companera o companero",
+              "descripcion": "Con base en la informacion de la situacion anterior, respondemos con nuestra companera o companero las siguientes preguntas: a. Cuantos minutos y metros aumenta el recorrido de Jairo cada dia? b. Si entrena 600 metros en una piscina, en cuanto tiempo Jairo hara el recorrido? c. En 20 minutos, Jairo recorre la primera piscina por todo el borde. Cuan",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Completamos las siguientes tablas en el cuaderno",
+              "descripcion": "Completamos las siguientes tablas en el cuaderno. En la primera tabla, hacemos la comparacion entre el perimetro de cada piscina y su area: Medida del lado de la piscina en metros 25 75 Perimetro en metros 100 200 300 400 500 600 Area en metros cuadrados 625 5.625 Tiempo en segundos 1.200 3.600 138 Matematicas 3 • Si Jairo nada 400 m en 20 minutos,",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "¡Es probable y seguro que aprenderemos!",
+          "concepto": "Probabilidad",
+          "desempeno": "Analizo situaciones aleatorias.",
+          "ejes_tematicos": [
+            "Probabilidad"
+          ],
+          "recursos": [
+            "Dados",
+            "Fichas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mi familia, consigo dos dados",
+              "descripcion": "Con ayuda de mi familia, consigo dos dados. Con los dados, realizo lo siguiente: a. Escribo cuales puntajes tienen posibilidad de salir si lanzo los dos dados. Tengo en cuenta que el puntaje es la suma de los numeros que salen despues de lanzar los dados. Actividades de aplicacion Trabajo con mi familia b. Escribo cual puntaje tiene mayor posibilid",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Lanzo los dos dados 20 veces",
+              "descripcion": "Lanzo los dos dados 20 veces. Escribo cuantas veces salio cada uno de los puntajes. Ahora respondo: • Cual puntaje salio mas veces?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Voy a practicar la prediccion! a",
+              "descripcion": "Voy a practicar la prediccion! a. Represento los dias de este mes en una tabla como la siguiente. b. Registro mediante un dibujo el estado del tiempo durante las dos semanas siguientes. Semana 1 Semana 2 Semana 3 Semana 4 Lunes Sabado Predicciones mes 1Predicciones mes 1 Martes Domingo Jueves Viernes Miercoles c. Predigo, segun el analisis hecho a ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Escribo en mi cuaderno mis conclusiones de la actividad anterior",
+              "descripcion": "Escribo en mi cuaderno mis conclusiones de la actividad anterior. Luego las presento a la profesora o profesor. Matematicas3150 La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso. Guia 1616 151 Ubiquemonos en el espacio! Desempeno: • Encuentro la posicion de un objeto con relacion a un ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Analizamos los siguientes casos",
+              "descripcion": "Analizamos los siguientes casos. Determinamos el espacio muestral y el evento de cada caso: a. Lanzar un dado y que caiga un numero impar. b. Lanzar un dado y que caiga un numero mayor que tres. c. Lanzar dos monedas, una seguida de la otra y que la primera caiga en sello y, la segunda, en cara.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Representemos matemáticamente nuestro entorno",
+      "desempeno_general": "Represento y analizo información matemática.",
+      "guias": [
+        {
+          "numero": 16,
+          "titulo": "¡Ubiquémonos en el espacio!",
+          "concepto": "Puntos cardinales, Plano cartesiano",
+          "desempeno": "Me ubico usando referencias espaciales.",
+          "ejes_tematicos": [
+            "Puntos cardinales",
+            "Plano cartesiano"
+          ],
+          "recursos": [
+            "Hojas cuadriculadas",
+            "Regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Traemos cinco objetos de diferente masa del Centro de recursos",
+              "descripcion": "Traemos cinco objetos de diferente masa del Centro de recursos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Tomamos como referencia o unidad de medida un objeto de los que trajimos",
+              "descripcion": "Tomamos como referencia o unidad de medida un objeto de los que trajimos. Comparamos la masa de los otros cuatro objetos con la masa del objeto que tomamos como referencia. Desempeno: • Realizo comparaciones y estimaciones de medidas de longitud y masa utilizando instrumentos de medida estandarizados y no estandarizados, para resolver diferentes pr",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Escribo en mi cuaderno la direccion de algunos sitios de mi barrio que considero importantes",
+              "descripcion": "Escribo en mi cuaderno la direccion de algunos sitios de mi barrio que considero importantes.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con ayuda de un familiar, realizo lo siguiente: a",
+              "descripcion": "Con ayuda de un familiar, realizo lo siguiente: a. Escondo un objeto en algun lugar de nuestra casa. b. Escribo en una hoja las indicaciones para encontrarlo. c. Utilizo palabras como: derecha, izquierda, arriba, abajo, oriente, occidente, norte o sur. d. Mi familia debe encontrar el objeto. e. Mi familia me cuenta como le fue con las indicaciones.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "¡Comparemos y midamos!",
+          "concepto": "Área, Perímetro",
+          "desempeno": "Comparo y mido objetos.",
+          "ejes_tematicos": [
+            "Área",
+            "Perímetro"
+          ],
+          "recursos": [
+            "Regla",
+            "Colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, escribo en mi cuaderno la siguiente informacion: a",
+              "descripcion": "Con ayuda de un familiar, escribo en mi cuaderno la siguiente informacion: a. El nombre de cuatro productos que se venden por libras. b. El nombre de cuatro productos que se venden por gramos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Respondo las siguientes preguntas: a",
+              "descripcion": "Respondo las siguientes preguntas: a. Cual es la masa corporal y la estatura adecuadas para mi edad? b. Como puedo lograr o alcanzar la estatura y la masa corporal adecuadas?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con ayuda de un familiar, hago una lista de los alimentos que consumimos en la",
+              "descripcion": "Con ayuda de un familiar, hago una lista de los alimentos que consumimos en la casa. Luego respondo: • Cuantas libras en total consumimos semanalmente con mi familia?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Mido la talla y la masa corporal de los integrantes de mi familia",
+              "descripcion": "Mido la talla y la masa corporal de los integrantes de mi familia. Luego organizo los datos de mayor a menor estatura y de menor a mayor masa corporal.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con ayuda de un familiar, contesto y justifico la siguiente pregunta: • La persona mas",
+              "descripcion": "Con ayuda de un familiar, contesto y justifico la siguiente pregunta: • La persona mas alta es siempre la que tiene mas masa corporal? El aumento regular de masa y talla nos indica que gozamos de un buen estado de salud y nos desarrollamos adecuadamente. Actividades de aplicacion Trabajo con mi familia La profesora o el profesor valora los desempen",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "El perimetro de la cubeta de huevos es A",
+              "descripcion": "El perimetro de la cubeta de huevos es A. 62 cm. B. 96 cm. C. 124 cm. D. 124 cm2. Trabajo individual 172 IV. Leo la siguiente situacion y respondo las preguntas 9 y 10: Maria necesita chinches para fijar los trabajos de sus estudiantes en el Periodico mural. Ella compra dos cajas de chinches con 24 unidades cada una. Para colocar cada trabajo, se n",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Cual es la probabilidad de sacar un numero par de la bolsa? A",
+              "descripcion": "Cual es la probabilidad de sacar un numero par de la bolsa? A. B. C.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Cual es la probabilidad de sacar un numero del 1 al 4 de la bolsa?",
+              "descripcion": "Cual es la probabilidad de sacar un numero del 1 al 4 de la bolsa? A. 4 entre 12. B. 1 entre 2. C. 5 entre 12. 3 entre 4. 6 entre 12. 2 entre 5. 6. 10. 8. 80. 100. 40. Lunes Martes Miercoles Jueves Viernes Sabado Domingo 100 90 80 70 60 50 40 30 20 10 Cubetas vendidas Dia de la semana V. Respondo la pregunta 11 con base en la siguiente situacion: D",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Completo la siguiente tabla en el cuaderno colocando la masa de cada producto en gramos:",
+              "descripcion": "Completo la siguiente tabla en el cuaderno colocando la masa de cada producto en gramos: Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Completo en el cuaderno las siguientes oraciones: a",
+              "descripcion": "Completo en el cuaderno las siguientes oraciones: a. 100 miligramos equivalen a gramos (g). b. 13 kilogramos equivalen a hectogramos (hg). c. Dos kilogramos equivalen a gramos (g). d. Siete libras equivalen a gramos (g). 1 libra es igual a 500 gramos aproximadamente. • Tres libras de carne. • Siete libras de pollo. • Dos libras de cebolla. • Una li",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "De las siguientes afirmaciones, la que no corresponde con la informacion que muestra la grafica",
+              "descripcion": "De las siguientes afirmaciones, la que no corresponde con la informacion que muestra la grafica es A. El dia que mas huevos vendio don Jorge fue el miercoles. B. La cantidad de cubetas de huevos que vendio durante la semana fue 320. C. El miercoles ya se habia vendido la mitad de cubetas de huevos. D. Los dias que menos cubetas se vendieron fueron ",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "La trayectoria total recorrida por el avion desde Panama a Armenia es A la derecha",
+              "descripcion": "La trayectoria total recorrida por el avion desde Panama a Armenia es A la derecha aparece la trayectoria y el desplazamiento que hace un avion desde Panama hasta Armenia: Ciudad de Panama MAR CARIBE OCEANO PACIFICO NORTE Panama - Bogota (775 Km) Bogota - Armenia (282 Km) A. 775 km. B. 282 km. C. 1.057 km. D. 987 km.",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Completo en mi cuaderno las siguientes oraciones: A",
+              "descripcion": "Completo en mi cuaderno las siguientes oraciones: A. La longitud de la trayectoria es la . B. El es la distancia o longitud que existe entre la posicion inicial y la posicion final del movimiento de un cuerpo. C. La es el camino que se forma al unir todas las posiciones sucesivas de un objeto o ser vivo. Unidad Representemos matematicamente nuestro",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "¿Cómo representamos una parte de la unidad?",
+          "concepto": "Fracción",
+          "desempeno": "Reconozco fracciones sencillas.",
+          "ejes_tematicos": [
+            "Fracción"
+          ],
+          "recursos": [
+            "Hojas blancas",
+            "Colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observo la ilustracion de la derecha y escribo las fracciones en el cuaderno",
+              "descripcion": "Observo la ilustracion de la derecha y escribo las fracciones en el cuaderno. Luego represento con figuras geometricas cada una de las fracciones que escribi.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pregunto a mis padres en que situaciones de la vida cotidiana se usan las fracciones",
+              "descripcion": "Pregunto a mis padres en que situaciones de la vida cotidiana se usan las fracciones. Luego escribo para que se usan las fracciones. Escribo en mi cuaderno sus respuestas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Escribo una receta de cocina donde se vea el uso de las fracciones",
+              "descripcion": "Escribo una receta de cocina donde se vea el uso de las fracciones.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Comparto la proxima clase mi trabajo con mis companeros, companeras y profesor o profesora",
+              "descripcion": "Comparto la proxima clase mi trabajo con mis companeros, companeras y profesor o profesora. Presento mi trabajo a la profesora o al profesor. Actividades de aplicacion",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Represento en forma de fraccion la relacion entre el numero de vasos y el numero",
+              "descripcion": "Represento en forma de fraccion la relacion entre el numero de vasos y el numero de jarras de jugo de cada uno de los siguientes casos. Luego escribo en el cuaderno las relaciones: La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso. Trabajo con mi familia a. Un vaso de una jarra = 15 b.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Ampliemos y reduzcamos figuras planas",
+          "concepto": "Ampliación, Reducción",
+          "desempeno": "Realizo transformaciones.",
+          "ejes_tematicos": [
+            "Ampliación",
+            "Reducción"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Tomo un dibujo de una revista o album",
+              "descripcion": "Tomo un dibujo de una revista o album. Pego el dibujo en mi cuaderno y le trazo una cuadricula de 1 cm de separacion entre lineas. Luego amplio la figura triplicando el tamano de cada cuadradito. S abias q u e... El pictograma es una herramienta usada para representar cosas reales a traves de dibujos o simbolos. Yo puedo elegir mis propios dibujos ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Averiguo en que situaciones o profesiones se utiliza la ampliacion y reduccion de figuras",
+              "descripcion": "Averiguo en que situaciones o profesiones se utiliza la ampliacion y reduccion de figuras. Tambien averiguo con que propositos se utilizan. Luego escribo en mi cuaderno lo que averigue.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Hallamos las medidas del borde del asiento de nuestra silla con la cuerda",
+              "descripcion": "Hallamos las medidas del borde del asiento de nuestra silla con la cuerda. Despues cubrimos la superficie del asiento de nuestra silla con las hojas de reciclaje. Respondemos: a. Cuantas cuerdas mide el borde del asiento de nuestra silla? b. Cuantas hojas fueron necesarias para cubrir toda la superficie del asiento de la silla?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos la siguiente situacion y analizamos como podemos responder las preguntas: La profesora, los estudiantes",
+              "descripcion": "Leemos la siguiente situacion y analizamos como podemos responder las preguntas: La profesora, los estudiantes y los padres de familia de una escuela se reunieron. Ellos decidieron recolectar la mayor informacion posible sobre el terreno en donde esta construida su escuela. Ellos querian cercar el terreno y construir una huerta escolar.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dibujo una cuadricula. Luego planteo una actividad de ampliacion de una figura geometrica o de",
+              "descripcion": "Dibujo una cuadricula. Luego planteo una actividad de ampliacion de una figura geometrica o de una imagen que me guste mucho. Amplio la imagen o figura en la cuadricula. Trabajo individual 196 Matematicas 3",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Comparto con mis companeros y companeras la imagen ampliada",
+              "descripcion": "Comparto con mis companeros y companeras la imagen ampliada. Seleccionamos entre todos la imagen que mas nos guste. Finalmente, colocamos las imagenes en un mural. Estudiemos las figuras y sus caracteristicas Desempeno: • Realizo operaciones para calcular areas y perimetros de figuras planas, de acuerdo con sus caracteristicas. Guia 2020 197",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Estudiemos las figuras y sus características",
+          "concepto": "Figuras geométricas",
+          "desempeno": "Reconozco figuras planas.",
+          "ejes_tematicos": [
+            "Figuras geométricas"
+          ],
+          "recursos": [
+            "Figuras geométricas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Traigo una hoja de papel y pido ayuda a un familiar para esta actividad",
+              "descripcion": "Traigo una hoja de papel y pido ayuda a un familiar para esta actividad. Trazo con una regla las siguientes figuras y las recorto: a. Un rectangulo de 6 cm x 14 cm. b. Un rectangulo de 7 cm x 3 cm. Presentamos nuestro trabajo a la profesora o al profesor. b. Cuantas tabletas debe comprar don Fabio para recubrir la mitad de la pared teniendo en cuen",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Recordamos los modelos expuestos en la guia",
+              "descripcion": "Recordamos los modelos expuestos en la guia. Encontramos el area y el perimetro de cada figura geometrica recortada en la actividad anterior. Actividades basicas Matematicas 3 Guia 2121 206",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "¡Comparemos algunas figuras planas!",
+          "concepto": "Área, Perímetro",
+          "desempeno": "Comparo figuras.",
+          "ejes_tematicos": [
+            "Área",
+            "Perímetro"
+          ],
+          "recursos": [
+            "Regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, dibujo en mi cuaderno la siguiente figura: a",
+              "descripcion": "Con ayuda de un familiar, dibujo en mi cuaderno la siguiente figura: a. b. Presentamos nuestro trabajo a la profesora o al profesor. Actividades de aplicacion Trabajo con mi familia La figura debe tener las siguientes medidas: • Cada linea vertical esta formada por cinco cuadraditos del cuaderno. • Cada linea horizontal esta formada por diez cuadra",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Ahora hago una figura que sea congruente y otra que sea semejante a la figura",
+              "descripcion": "Ahora hago una figura que sea congruente y otra que sea semejante a la figura de la actividad anterior. Realizo estas dos nuevas figuras en el cuaderno. Luego las coloreo y las decoro.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observo en mi casa objetos que tengan forma de poligonos",
+              "descripcion": "Observo en mi casa objetos que tengan forma de poligonos. Dibujo en mi cuaderno los objetos. Luego clasifico en una tabla los objetos segun el numero de lados. Guia 2222 215",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En mi cuaderno, dibujo una figura semejante a cada una de las siguientes figuras:",
+              "descripcion": "En mi cuaderno, dibujo una figura semejante a cada una de las siguientes figuras:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Observamos, dibujamos y completamos en el cuaderno la siguiente tabla:",
+              "descripcion": "Observamos, dibujamos y completamos en el cuaderno la siguiente tabla:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Encontramos el poligono desconocido en cada uno de los siguientes casos",
+              "descripcion": "Encontramos el poligono desconocido en cada uno de los siguientes casos. Luego los dibujamos en el cuaderno: a. Tiene ocho lados de igual longitud, ocho vertices y ocho angulos internos. b. Tiene cuatro lados, cuatro vertices y cuatro angulos. c. Tiene tres lados, tres vertices y tres angulos. Trabajo en parejas Numero de lados 3 Numero de angulos ",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Observamos las siguientes figuras",
+              "descripcion": "Observamos las siguientes figuras. Escribimos en el cuaderno las semejanzas y las diferencias entre estas figuras:",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "¡Construyamos objetos sólidos!",
+          "concepto": "Cuerpos geométricos",
+          "desempeno": "Construyo cuerpos geométricos.",
+          "ejes_tematicos": [
+            "Cuerpos geométricos"
+          ],
+          "recursos": [
+            "Cartulina",
+            "Tijeras"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Hago una lista de los solidos o cuerpos geometricos que hay en mi casa",
+              "descripcion": "Hago una lista de los solidos o cuerpos geometricos que hay en mi casa. Elijo uno de ellos, lo dibujo en mi cuaderno y hallo el area de cada una de sus caras. Por ejemplo: Actividades de aplicacion Trabajo con mi familia",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de un adulto, mido el largo, el ancho y el alto de una",
+              "descripcion": "Con ayuda de un adulto, mido el largo, el ancho y el alto de una habitacion de la casa. Luego realizo, con las medidas que tomamos, lo siguiente: a. Hallo el area total del interior de la habitacion. b. Hallo el volumen de la habitacion en centimetros cubicos. La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta gui",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Comparo los dos objetos de la actividad anterior",
+              "descripcion": "Comparo los dos objetos de la actividad anterior. Luego respondo en mi cuaderno de Matematicas las siguientes preguntas: a. Son congruentes entre si los objetos? Por que? b. Son semejantes entre si los objetos? Por que?",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Relacionemos equivalencias entre medidas",
+          "concepto": "Equivalencias de medida",
+          "desempeno": "Establezco equivalencias.",
+          "ejes_tematicos": [
+            "Equivalencias de medida"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Consulto con un familiar las siguientes preguntas: a",
+              "descripcion": "Consulto con un familiar las siguientes preguntas: a. Cuantos litros de agua se utilizan aproximadamente en la preparacion de los alimentos diarios? b. Cuantos kilogramos de arroz consumimos en la semana? c. Cuantos litros de agua empleamos para la preparacion del arroz de una semana? Proteger y cuidar el agua es otra forma de preservar el medio am",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Expreso en kilogramos y en gramos la cantidad de arroz consumida en la semana",
+              "descripcion": "Expreso en kilogramos y en gramos la cantidad de arroz consumida en la semana.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Analizo un recibo del agua con ayuda de un familiar",
+              "descripcion": "Analizo un recibo del agua con ayuda de un familiar. Luego busco la cantidad promedio de agua que consumimos en un mes. Expreso esta cantidad en cm3 y en dm3. Trabajo con mi familia La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso. Cuanto he aprendido? 235 Lunes: 80 litros Martes: 120",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Pensamos en las imagenes de la anterior actividad",
+              "descripcion": "Pensamos en las imagenes de la anterior actividad. Luego respondemos en el cuaderno: • Que podemos medir con cada uno de estos objetos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Escribimos en el cuaderno las siguientes oraciones",
+              "descripcion": "Escribimos en el cuaderno las siguientes oraciones. Luego completamos las oraciones con las palabras de la lista. Finalmente, leemos las oraciones ante nuestros companeros y companeras. Si es necesario, las corregimos: • El volumen es el espacio que un cuerpo. • Este espacio (volumen) se puede teniendo en cuenta las del recipiente que lo contiene. ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En el cuaderno, ordenamos los siguientes alimentos de mayor a menor masa",
+              "descripcion": "En el cuaderno, ordenamos los siguientes alimentos de mayor a menor masa. Escribimos los numeros del uno al cinco, debajo de cada alimento, para establecer el orden: 9 kg • liquidas • ocupa • gaseosas • recipiente • medir • dimensiones 7 kg 3 kg 234 Matematicas 3",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "La fraccion que representa la parte que no se ha cubierto con baldosas es A",
+              "descripcion": "La fraccion que representa la parte que no se ha cubierto con baldosas es A. 66 B. 44 C. 36 110 110 110 Luis Angel esta cubriendo la pared del bano con baldosas verdes. El se dio cuenta de que la cantidad de baldosas que tenia no era suficiente. El alcanzo a cubrir la pared con la siguiente cantidad de baldosas verdes: 237 III. Observo con atencion",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Escribo las siguientes oraciones en el cuaderno y las completo: A",
+              "descripcion": "Escribo las siguientes oraciones en el cuaderno y las completo: A. El bus esta ubicado en la carrera con calle . B. La pelota esta ubicada en la carrera con calle . C. La foca esta ubicada en la carrera con calle . D. El abaco esta ubicado en la carrera con calle . E. El tambor esta ubicado en la carrera con calle . F. El avion esta ubicado en la c",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Dibujo un plano cartesiano",
+              "descripcion": "Dibujo un plano cartesiano. Ubico las figuras de la cuadricula anterior en las siguientes posiciones: A. Traslado el tambor 2 cuadraditos hacia arriba y 3 cuadraditos hacia la derecha. B. Traslado el avion 2 cuadritos a la izquierda, 5 hacia arriba y 1 cuadro a la derecha. 238",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Observo las siguientes figuras y escojo las respuestas correctas: • Los objetos que tienen forma",
+              "descripcion": "Observo las siguientes figuras y escojo las respuestas correctas: • Los objetos que tienen forma semejante entre si son A. B. C. • Las caras de la caja de cereales son A. B. C. • El area de la base de la caja de cereales es A. B. C. El dado y el libro. Rectangulares. 124 cm2. El libro y la caja. Rectangulares y cuadradas. 125 cm2. El dado y la caja",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Cristian tiene la Cartilla de aprendizaje de Matematicas y una regleta de Cuisineaire amarilla como",
+              "descripcion": "Cristian tiene la Cartilla de aprendizaje de Matematicas y una regleta de Cuisineaire amarilla como se observa en la imagen. Es correcto decir que las dos figuras tienen: A. La misma forma pero diferente tamano. B. Igual tamano y el mismo numero de lados. C. La misma forma y el mismo tamano. D. Igual tamano y diferente numero de lados. Si Cristian ",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Observo los siguientes triangulos: Bibliografia AFLATOUN CHILD SAVINGS INTERNATIONAL",
+              "descripcion": "Observo los siguientes triangulos: Bibliografia AFLATOUN CHILD SAVINGS INTERNATIONAL. The Aflakit Aflatoun, Child Social and Financial Education. Amsterdam, The Netherlands, 2005. COLBERT, Vicky; RAMIREZ, Pedro Pablo y CASTRO CARMONA, Heriberto. Como elaborar guias de aprendizaje para educacion basica. Bogota, D.C., 1998. FUNDACION ESCUELA NUEVA VO",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

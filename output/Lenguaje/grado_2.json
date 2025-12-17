@@ -1,0 +1,244 @@
+{
+  "asignatura": "Lenguaje",
+  "grado": 2,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Aura Marina Castro de Ramirez",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "DBA 6: Predice y analiza los contenidos y estructuras de diversos tipos de texto, a partir de sus conocimientos",
+    "DBA 4: Comprende diversos textos literarios a partir de sus propias vivencias.",
+    "DBA 8: Produce diferentes tipos de textos para atender a un propsito comunicativo particular.",
+    "DBA 7: Expresa sus ideas atendiendo a las caracteristicas del contexto comunicativo en que las enuncia (interlocutores, temas, lugares).",
+    "DBA 5: Identifica las palabras relevantes de un mensaje y las agrupa en unidades significativas: sonidos en palabras y palabras en oraciones.",
+    "DBA 2: Identifica la funcin que cumplen las seales y simbolos que aparecen en su entorno."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Me comunico con los demás",
+      "desempeno_general": "Expreso ideas, sentimientos y experiencias de manera oral y escrita.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "Escucho y hablo con respeto",
+          "concepto": "Comunicación oral, Escucha activa, Turnos de palabra",
+          "desempeno": "Escucho atentamente a mis compañeros. Expreso ideas de forma clara y respetuosa.",
+          "ejes_tematicos": [
+            "Comunicación oral",
+            "Escucha activa",
+            "Turnos de palabra"
+          ],
+          "recursos": [
+            "Aula organizada en semicírculo",
+            "Docente como moderador",
+            "Tarjetas con turnos de palabra",
+            "Situaciones cotidianas preparadas por el docente"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Contamos historias",
+          "concepto": "Narración, Personajes, Inicio, nudo y final",
+          "desempeno": "Relato hechos reales e imaginarios.",
+          "ejes_tematicos": [
+            "Narración",
+            "Personajes",
+            "Inicio, nudo y final"
+          ],
+          "recursos": [
+            "Cuentos impresos o leídos por el docente",
+            "Láminas ilustradas",
+            "Hojas blancas",
+            "Colores o crayones"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Jugamos con las palabras",
+          "concepto": "Vocabulario, Sinónimos y antónimos",
+          "desempeno": "Reconozco palabras nuevas y su significado.",
+          "ejes_tematicos": [
+            "Vocabulario",
+            "Sinónimos y antónimos"
+          ],
+          "recursos": [
+            "Tarjetas de palabras",
+            "Tarjetas con imágenes",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": []
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Leo y comprendo textos",
+      "desempeno_general": "Comprendo textos sencillos y reconozco información explícita.",
+      "guias": [
+        {
+          "numero": 4,
+          "titulo": "Leemos para comprender",
+          "concepto": "Lectura comprensiva, Idea principal",
+          "desempeno": "Comprendo textos narrativos cortos.",
+          "ejes_tematicos": [
+            "Lectura comprensiva",
+            "Idea principal"
+          ],
+          "recursos": [
+            "Textos impresos",
+            "Cuaderno",
+            "Lápiz",
+            "Preguntas preparadas por el docente"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Identificamos personajes y lugares",
+          "concepto": "Personajes, Lugar",
+          "desempeno": "Reconozco personajes y escenarios.",
+          "ejes_tematicos": [
+            "Personajes",
+            "Lugar"
+          ],
+          "recursos": [
+            "Texto narrativo",
+            "Cuaderno",
+            "Colores",
+            "Espacio para socialización"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 6,
+          "titulo": "Comprendo lo que leo",
+          "concepto": "Comprensión lectora",
+          "desempeno": "Respondo preguntas sobre el texto leído.",
+          "ejes_tematicos": [
+            "Comprensión lectora"
+          ],
+          "recursos": [
+            "Libros",
+            "Fichas de preguntas",
+            "Aula organizada en grupos"
+          ],
+          "actividades": []
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Escribo para expresarme",
+      "desempeno_general": "Produzco textos escritos sencillos con sentido.",
+      "guias": [
+        {
+          "numero": 7,
+          "titulo": "Escribo palabras y oraciones",
+          "concepto": "Palabra, Oración",
+          "desempeno": "Escribo palabras y oraciones simples.",
+          "ejes_tematicos": [
+            "Palabra",
+            "Oración"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz",
+            "Oraciones incompletas impresas"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 8,
+          "titulo": "Escribimos pequeños textos",
+          "concepto": "Texto, Coherencia",
+          "desempeno": "Produzco textos breves.",
+          "ejes_tematicos": [
+            "Texto",
+            "Coherencia"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz",
+            "Borrador",
+            "Espacio para lectura en voz alta"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 9,
+          "titulo": "Revisamos lo que escribimos",
+          "concepto": "Revisión, Corrección",
+          "desempeno": "Reviso mis escritos con ayuda.",
+          "ejes_tematicos": [
+            "Revisión",
+            "Corrección"
+          ],
+          "recursos": [
+            "Texto escrito",
+            "Lápiz",
+            "Borrador",
+            "Acompañamiento del docente"
+          ],
+          "actividades": []
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Descubro el lenguaje en mi entorno",
+      "desempeno_general": "Reconozco el lenguaje como medio para interactuar con el entorno.",
+      "guias": [
+        {
+          "numero": 10,
+          "titulo": "Leemos imágenes y señales",
+          "concepto": "Lenguaje visual, Señales",
+          "desempeno": "Interpreto imágenes y señales.",
+          "ejes_tematicos": [
+            "Lenguaje visual",
+            "Señales"
+          ],
+          "recursos": [
+            "Imágenes impresas",
+            "Señales del entorno escolar",
+            "Aula o espacio abierto"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 11,
+          "titulo": "El lenguaje en la vida diaria",
+          "concepto": "Lenguaje cotidiano",
+          "desempeno": "Reconozco usos del lenguaje cotidiano.",
+          "ejes_tematicos": [
+            "Lenguaje cotidiano"
+          ],
+          "recursos": [
+            "Tarjetas con situaciones cotidianas",
+            "Espacio para trabajo en grupo"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 12,
+          "titulo": "Me comunico mejor cada día",
+          "concepto": "Comunicación, Convivencia",
+          "desempeno": "Uso el lenguaje para convivir mejor.",
+          "ejes_tematicos": [
+            "Comunicación",
+            "Convivencia"
+          ],
+          "recursos": [
+            "Tarjetas de roles",
+            "Espacio amplio",
+            "Orientación del docente"
+          ],
+          "actividades": []
+        }
+      ]
+    }
+  ]
+}

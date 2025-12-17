@@ -1,0 +1,862 @@
+{
+  "asignatura": "Tecnologia",
+  "grado": 4,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Luis G. Agudelo Camacho, Juana Carrizosa Umana, Pedro Alberto Sierra Guerrero",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "Identifica características de evolución de artefactos tecnológicos de uso diario.",
+    "Propone modificaciones a situaciones cotidianas o al uso de artefactos analógicos caseros.",
+    "Innova en diseño de objetos de uso diario, con criterios de eficiencia en el uso de materiales y herramientas.",
+    "Propone estrategias de aprovechamiento de la basura que se genera en la Institución educativa o en las viviendas familiares.",
+    "Propone, junto con sus compañeros, estrategias de cuidado y aprovechamiento del agua.",
+    "Identifica potenciales soluciones tecnológicas a situaciones o necesidades de su vivienda familiar.",
+    "Identifica en su entorno cercano artefactos analógicos y digitales que emiten calor y son usados en situaciones de la vida diaria.",
+    "Propone estrategias comunicativas a partir de la elaboración de podcast para comunicar sus ideas.",
+    "Comprende la importancia de artefactos analógicos y digitales, como el microscopio, que son usados regularmente en procesos científicos.",
+    "Propone estrategias sencillas de cuidado del medio ambiente, aplicables a su contexto cotidiano."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Los artefactos tecnológicos y su evolución",
+      "desempeno_general": "Analizo cómo los artefactos tecnológicos han evolucionado para facilitar la vida del ser humano.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "Los artefactos a través del tiempo",
+          "concepto": "Artefacto, tecnología, evolución",
+          "desempeno": "Reconozco que las soluciones tecnológicas evolucionan con el tiempo, en función de resolver problemas y satisfacer necesidades humanas.",
+          "ejes_tematicos": [
+            "Artefacto",
+            "tecnología",
+            "evolución"
+          ],
+          "recursos": [
+            "Cartulina",
+            "reglas",
+            "colores",
+            "imágenes impresas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Dialogo sobre como vivian nuestros abuelos: a",
+              "descripcion": "Dialogo sobre como vivian nuestros abuelos: a. Como se divertian. b. Como hacian para comunicarse con los familiares que vivian lejos. c. Escribo lo que averigue sobre la vida de los abuelos para compartirlo con los companeros y companeras y el profesor o profesora, en la proxima clase.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Averiguo en libros o Internet acerca del origen y funcionamiento de los relojes analogos y",
+              "descripcion": "Averiguo en libros o Internet acerca del origen y funcionamiento de los relojes analogos y digitales. a. Escribo en el cuaderno tres caracteristicas de cada uno. b. Comparto mi consulta en la proxima clase con los demas companeros y companeras. Tecnologia 4 16Valoromisaprendizajescon el profesoro la profesoray registromiprogreso. 2 Guia 17 A Activi",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con ayuda de la profesora o del profesor, calibramos la posicion de nuestro reloj de",
+              "descripcion": "Con ayuda de la profesora o del profesor, calibramos la posicion de nuestro reloj de sol, usando un reloj analogo o digital. 15",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "A partir de la experiencia anterior, respondemos: a",
+              "descripcion": "A partir de la experiencia anterior, respondemos: a. Que relacion encontramos entre nuestro reloj de sol y la rotacion de la Tierra? b. Por que en un dia nublado no funciona? c. Que conceptos matematicos podemos aprender de esta experiencia?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Traemos del centro de recursos un reloj",
+              "descripcion": "Traemos del centro de recursos un reloj. Lo comparamos con el reloj de sol que construimos. Comentamos las conclusiones a las que llegamos. Comentamos nuestro trabajo con la profesorao el profesor. CActividades de aplicacion Trabajo con mi familiaTrabajo con mi familia",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribimos en el cuaderno tres ejemplos de fibras naturales y tres de fibras artificiales",
+              "descripcion": "Escribimos en el cuaderno tres ejemplos de fibras naturales y tres de fibras artificiales. Consultamos en libros o en Internet sobre el proceso de transformacion de la lana en prendas de vestir. .",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Función y uso de los artefactos tecnológicos",
+          "concepto": "Función, necesidad, uso",
+          "desempeno": "Identifico que en la fabricación de las prendas de vestir se han utilizado fibras que pueden ser de origen natural o artificial.",
+          "ejes_tematicos": [
+            "Función",
+            "necesidad",
+            "uso"
+          ],
+          "recursos": [
+            "Objetos tecnológicos cotidianos",
+            "cuaderno"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Recuerdo mi desayuno de hoy, los alimentos que comi y la cantidad de alimentos que",
+              "descripcion": "Recuerdo mi desayuno de hoy, los alimentos que comi y la cantidad de alimentos que consumi. Luego, pienso en donde se producen estos alimentos, es decir, de donde provienen. 242. Elaboro el siguiente cuadro en el cuaderno: Mi desayuno de hoy Que alimentos comi? Que cantidad comi? De donde proviene este alimento? 1. 2. 3. 4.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Respondo las preguntas que se encuentran en el cuadro",
+              "descripcion": "Respondo las preguntas que se encuentran en el cuadro.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Tecnología y sociedad",
+          "concepto": "Impacto tecnológico, sociedad",
+          "desempeno": "Identifico los artefactos y procesos que la humanidad ha desarrollado para conservar y almacenar los alimentos.",
+          "ejes_tematicos": [
+            "Impacto tecnológico",
+            "sociedad"
+          ],
+          "recursos": [
+            "Hojas",
+            "marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Cual de los siguientes grupos no esta compuesto por fibras textiles naturales? A",
+              "descripcion": "Cual de los siguientes grupos no esta compuesto por fibras textiles naturales? A. Rayon, nailon. B. Algodon, lana. C. Lino, seda. D. Algodon, seda.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Aprendo a preparar helados con mi familia: a",
+              "descripcion": "Aprendo a preparar helados con mi familia: a. Que necesito para prepararlos? b. Que medidas de higiene debo seguir durante la preparacion? c. Como los preparo? d. Cuanto tiempo se demoraran en congelarse?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparto con mis companeros y companeras la receta para hacer helados que aprendi con mi",
+              "descripcion": "Comparto con mis companeros y companeras la receta para hacer helados que aprendi con mi familia. Entre todos escogemos la que mas nos gusta para escribirla en el Cuaderno viajero. CActividades de aplicacion Trabajo con mi familiaTrabajo con mi familia El profesoro profesoravaloramisaprendizajesy me autorizaaregistrar miprogreso. ValoromisI.Selecci",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Describo las herramientas con las que nuestros antepasados primitivos hacian sus vestidos",
+              "descripcion": "Describo las herramientas con las que nuestros antepasados primitivos hacian sus vestidos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Escribo tres productos en los que se utilizan fibras tejidas",
+              "descripcion": "Escribo tres productos en los que se utilizan fibras tejidas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo una recomendacion a alguien que tiene problemas con las polillas en su armario",
+              "descripcion": "Escribo una recomendacion a alguien que tiene problemas con las polillas en su armario.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Completoelsiguientecuadroen micuaderno:",
+              "descripcion": "Completoelsiguientecuadroen micuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Explicocomose utilizaestetelar: Trabajo individualTrabajo individual ValoromisI",
+              "descripcion": "Explicocomose utilizaestetelar: Trabajo individualTrabajo individual ValoromisI.Selecciono la respuesta correcta y la escribo en mi cuaderno formando oraciones completas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribo dos caracteristicas por las que se pueden diferenciar los alimentos naturales de los alimentos",
+              "descripcion": "Escribo dos caracteristicas por las que se pueden diferenciar los alimentos naturales de los alimentos procesados. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Doy tres ejemplosde alimentosde origen: a",
+              "descripcion": "Doy tres ejemplosde alimentosde origen: a. Vegetal b. Animal c. Mineral.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Escribo en mi cuaderno cuales recomendaciones de higiene debo tener en cuenta al preparar helados",
+              "descripcion": "Escribo en mi cuaderno cuales recomendaciones de higiene debo tener en cuenta al preparar helados caseros.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Realizo un dibujo que explique las temperaturas internas y externas de una nevera",
+              "descripcion": "Realizo un dibujo que explique las temperaturas internas y externas de una nevera. Caracteristicas Fibras naturales Fibras artificiales De donde se obtienen? Para que sirven? Ejemplos",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Materiales y procesos tecnológicos",
+      "desempeno_general": "Identifico materiales y procesos utilizados en la elaboración de artefactos.",
+      "guias": [
+        {
+          "numero": 4,
+          "titulo": "Materiales naturales y artificiales",
+          "concepto": "Materiales, propiedades",
+          "desempeno": "Reconozco cómo en el proceso de diseño y construcción de viviendas humanas se utilizan materiales naturales y artificiales, y se aplican diversos conocimientos tecnológicos.",
+          "ejes_tematicos": [
+            "Materiales",
+            "propiedades"
+          ],
+          "recursos": [
+            "Muestras de materiales",
+            "cartulina"
+          ],
+          "actividades": [
+            {
+              "numero": 2,
+              "titulo": "Realizo una maqueta que represente mi casa",
+              "descripcion": "Realizo una maqueta que represente mi casa.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Llevo la maqueta al salon de clases para exponerla",
+              "descripcion": "Llevo la maqueta al salon de clases para exponerla. Explico a los companeros y companeras, y al profesor o profesora como fue el proceso de construccion. Tecnologia 4 38Elprofesoro profesoravaloramisaprendizajesy me autorizaaregistrarmiprogreso. 5GuiaAActividades basicas 1.Pensamos en el agua que bebemos en nuestra casa. Respondemos las siguientes ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Cuando tengamos nuestro boceto desarrollado, podemos usar el computador para digitalizar nuestro plano",
+              "descripcion": "Cuando tengamos nuestro boceto desarrollado, podemos usar el computador para digitalizar nuestro plano. Aprovechemos las ventajas de la informatica para mejorar nuestros procesos de diseno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Consultamos en libros o en Internet sobre la Domotica",
+              "descripcion": "Consultamos en libros o en Internet sobre la Domotica. Escribimos en el cuaderno un resumen sobre la informacion obtenida. Sabias que... Sabias que... En la construccion de una casa se deben tener en cuenta las siguientes etapas: •Etapa de diseno: se elaboran los planos. •Etapa estructural: se prepara el terreno, se completan las obras de instalaci",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Pensamos que le mejorariamos a nuestra vivienda con base en la consulta que realizamos: a",
+              "descripcion": "Pensamos que le mejorariamos a nuestra vivienda con base en la consulta que realizamos: a. Identificamos las cosas que no funcionan bien o que nos gustaria mejorar en nuestra vivienda y las escribimos en el cuaderno. b. Pensamos como realizar estas mejoras. c. Escribimos en el cuaderno las ideas para mejorar nuestra vivienda. d. Compartimos nuestra",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Procesos de transformación",
+          "concepto": "Transformación, proceso productivo",
+          "desempeno": "Explico la importancia del diseño y la creación de artefactos, procesos y sistemas tecnológicos para la obtención y uso del agua como un recurso fundamental para la vida de los seres humanos.",
+          "ejes_tematicos": [
+            "Transformación",
+            "proceso productivo"
+          ],
+          "recursos": [
+            "Hojas",
+            "colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con mis familiares voy a compartir los conocimientos sobre la ruta del agua y pensamos:",
+              "descripcion": "Con mis familiares voy a compartir los conocimientos sobre la ruta del agua y pensamos: a. En los problemas o fallas relacionadas con el agua potable dentro de nuestra vivienda y como los solucionamos. b. En los usos que le damos al agua en nuestro hogar y lo que hacemos para ahorrarla. c. Escribo en el cuaderno las conclusiones de nuestra conversa",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comento con mis familiares sobre la importancia de: a",
+              "descripcion": "Comento con mis familiares sobre la importancia de: a. Hervir el agua que bebemos. b. Lavar las verduras y las frutas. c. No desperdiciar el agua.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparto con mis companeros y companeras y el profesor o profesora el trabajo que hice",
+              "descripcion": "Comparto con mis companeros y companeras y el profesor o profesora el trabajo que hice con mi familia. Tecnologia 4 46Elprofesoroprofesoravaloramisaprendizajesy me autorizaaregistrarmiprogreso. 6 Guia 47 A Actividades basicas",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Consultamos en libros o en Internet sobre el recorrido que hace la basura desde que",
+              "descripcion": "Consultamos en libros o en Internet sobre el recorrido que hace la basura desde que la depositamos en bolsas y canecas hasta llegar al relleno sanitario o planta incineradora. Realizamos en el cuaderno un dibujo que ilustre el recorrido. Tecnologia 4 48 Sabiasque...Sabiasque...Sabias que... Sabiasque...Sabiasque...Sabias que... Los residuos peligro",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con orientacion del profesor o la profesora establecemos el procedimiento que podriamos seguir para aprovechar",
+              "descripcion": "Con orientacion del profesor o la profesora establecemos el procedimiento que podriamos seguir para aprovechar las basuras que se generan en la escuela o la casa. Hacemos un listado de los actividades, las herramientas necesarias y los resultados del procedimiento propuesto. GlosarioGlosarioGlosario Dioxinas:son compuestos quimicos producidos por l",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Respondemos las siguientes pregunta: a",
+              "descripcion": "Respondemos las siguientes pregunta: a. Que materiales tendriamos que conseguir para construir un torno como estos? b. Que herramientas necesitariamos para construirlo? c. Que pasos tenemos que seguir para construir un torno? d. Que uso podemos darle al torno? De que manera funciona para extraer agua de un pozo profundo? CActividades de aplicacion ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Uso responsable de los materiales",
+          "concepto": "Reciclaje, reutilización",
+          "desempeno": "Identifico el funcionamiento y la disposición adecuada de los residuos sólidos y líquidos.",
+          "ejes_tematicos": [
+            "Reciclaje",
+            "reutilización"
+          ],
+          "recursos": [
+            "Material reciclable",
+            "tijeras",
+            "pegamento"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Los seres humanos debemos beber el agua A",
+              "descripcion": "Los seres humanos debemos beber el agua A. proveniente de la lluvia. B. que pasa por un filtro casero. C. hervida. D. de rios y mares.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Cuales de los siguientes materiales fueron usados para la construccion del filtro casero? A",
+              "descripcion": "Cuales de los siguientes materiales fueron usados para la construccion del filtro casero? A. Gravilla de diferentes grosores. B. Carton y lana. C. Latas de gaseosa. D. Iman.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "De los siguientes residuos solidos, cual es el que corresponde a materia organica? A",
+              "descripcion": "De los siguientes residuos solidos, cual es el que corresponde a materia organica? A. Caja de carton. B. Frascodevidrio. C. Cascara de fruta. D. Lata de metal. II.Desarrollo las siguientes actividades en mi cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Escribo la actividad que realiza cada una de estas personas en el proceso de construcciondeuna",
+              "descripcion": "Escribo la actividad que realiza cada una de estas personas en el proceso de construcciondeuna vivienda: a. Maestro de obra b. Ingeniero c. Arquitecto d. Plomero.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Escribo las diferencias y semejanzas que existen entre un plano y una maqueta",
+              "descripcion": "Escribo las diferencias y semejanzas que existen entre un plano y una maqueta. Completoen mi cuadernoelsiguientecuadro: Trabajo individualTrabajo individual ValoromisI.Selecciono la respuesta correcta y la escribo en mi cuaderno formando oraciones completas. Tengo en cuenta explicar cada una de las respuestas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Describo paso a paso como construielplanode mi vivienda:",
+              "descripcion": "Describo paso a paso como construielplanode mi vivienda:",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En un dibujo muestro como se distribuye el agua potable a traves del acueducto desde",
+              "descripcion": "En un dibujo muestro como se distribuye el agua potable a traves del acueducto desde la represa hasta llegar a las casas, y como sale el agua residual por el alcantarillado hasta llegar a su destino final. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso. CaracteristicasPlanoMaque",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Energía y tecnología",
+      "desempeno_general": "Reconozco la energía como elemento fundamental en la tecnología.",
+      "guias": [
+        {
+          "numero": 7,
+          "titulo": "Fuentes de energía",
+          "concepto": "Energía renovable y no renovable",
+          "desempeno": "Reconozco artefactos que usan la energía calórica y que han sido diseñados para satisfacer necesidades humanas.",
+          "ejes_tematicos": [
+            "Energía renovable y no renovable"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "acceso a biblioteca"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Entre todos, dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Entre todos, dialogamos sobre las siguientes preguntas: a. Que musica es la que mas nos gusta? Cual es nuestro cantante favorito? b. Que sentido es el que nos permite escuchar? Sabemos como funciona? c. Como un medico puede oir nuestro corazon? d. Que instrumento musical me gustaria aprender a interpretar? e. Que estaciones de radio hay en mi comun",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Imaginamos que hacemos aparte de la emisora local o escolar y que queremos preparar nuestro",
+              "descripcion": "Imaginamos que hacemos aparte de la emisora local o escolar y que queremos preparar nuestro programa radial. Completamos el siguiente recuadro: Programacion Nombres de locutores escolares Horario y recursos necesarios Tipodemusica: Tipodenoticias: Informacion en general",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Escuchar la radio, producir un podcast, o interpretar el instrumento musical que nos gusta, son",
+              "descripcion": "Escuchar la radio, producir un podcast, o interpretar el instrumento musical que nos gusta, son todas manifestaciones del sonido. Aprendamos al respecto en la siguiente lectura: El viaje del sonido Los sonidos nos dan informacion sobre lo que nos rodea. Los sonidos que producen las personas nos indican si estan alegres, tristes, enojadas o asustada",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "La energía en los artefactos",
+          "concepto": "Consumo energético",
+          "desempeno": "Identifico generalidades del sonido y aprendo sobre su aplicación en situaciones de uso cotidiano o de comunicación de mis ideas.",
+          "ejes_tematicos": [
+            "Consumo energético"
+          ],
+          "recursos": [
+            "Etiquetas energéticas",
+            "cuaderno"
+          ],
+          "actividades": [
+            {
+              "numero": 2,
+              "titulo": "Nos reunimos en grupos de cuatro companeros o companeras y elaboramos el siguiente cuadro en",
+              "descripcion": "Nos reunimos en grupos de cuatro companeros o companeras y elaboramos el siguiente cuadro en nuestro cuaderno. Dejamos suficiente espacio en cada casilla para escribir las respuestas a las preguntas. AActividades basicas Trabajo en equipoTrabajo en equipo A que te veo, microbio! Desempeno: • Reconozco lasventajasdealgunosartefactosyproductostecnolo",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Ahorro y uso eficiente de la energía",
+          "concepto": "Eficiencia energética",
+          "desempeno": "Reconozco las ventajas de algunos artefactos y productos tecnológicos creados para combatir las enfermedades y mejorar nuestra calidad de vida.",
+          "ejes_tematicos": [
+            "Eficiencia energética"
+          ],
+          "recursos": [
+            "Cartulina",
+            "marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Averiguo con mi familia cuales son las vacunas que me han aplicado y las dosis",
+              "descripcion": "Averiguo con mi familia cuales son las vacunas que me han aplicado y las dosis de refuerzo que tengo. a. Elaboro en el cuaderno el siguiente esquema de vacunacion. Luego, lo completo con la edad o la fecha en que me aplicaron cada vacuna. b. Escribo el numero de dosis de refuerzo que he recibido. c. Escribo las vacunas que necesito para completar m",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comparto mi esquema de vacunacion con mi familia y, si es posible, con un profesional",
+              "descripcion": "Comparto mi esquema de vacunacion con mi familia y, si es posible, con un profesional de la salud para ver si esta correcto y si necesito alguna dosis de refuerzo. Asi me aseguro de estar protegido contra estas enfermedades. 83Valoromisaprendizajescon el profesoro la profesoray registromiprogreso. ValoromisI. Selecciono la respuesta correcta y la e",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leocon atencion y completoeltexto: Anton van Leeuwenhoek era un senor holandes que trabajaba como vendedor",
+              "descripcion": "Leocon atencion y completoeltexto: Anton van Leeuwenhoek era un senor holandes que trabajaba como vendedor de panos en un almacen, pero su aficion era pulir pequenos lentes de vidrio hasta que quedaran perfectos. Un dia, estudiando una gota de agua sucia con uno de esos lentes, vio algo que nadie habiavistoniimaginado hastaentonces:animales diminut",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Recuerdo el horno solar que construi y completo en mi cuaderno el siguiente cuadro: Trabajo",
+              "descripcion": "Recuerdo el horno solar que construi y completo en mi cuaderno el siguiente cuadro: Trabajo individualTrabajo individual ValoromisI. Selecciono la respuesta correcta y la escribo en mi cuaderno formando oraciones completas. Tengo en cuenta explicar cada una de las respuestas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dibujo mi instrumento musical favorito y escribo: a",
+              "descripcion": "Dibujo mi instrumento musical favorito y escribo: a. Que materiales se utilizan en la construccion de este instrumento musical? b. Como produce el sonido este instrumento?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo dos diferencias entre una guitarra acustica y una guitarra electrica",
+              "descripcion": "Escribo dos diferencias entre una guitarra acustica y una guitarra electrica.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Explico como se pueden transmitir las enfermedades contagiosas",
+              "descripcion": "Explico como se pueden transmitir las enfermedades contagiosas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Explicopaso a paso comoelabore unode estos dos microscopios simples: La profesora o el profesor valora",
+              "descripcion": "Explicopaso a paso comoelabore unode estos dos microscopios simples: La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso. Cocinar en un horno solar... Ventajas Desventajas",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Diseño y solución de problemas",
+      "desempeno_general": "Aplico el proceso de diseño para solucionar problemas del entorno.",
+      "guias": [
+        {
+          "numero": 10,
+          "titulo": "El proceso de diseño tecnológico",
+          "concepto": "Problema, solución, diseño",
+          "desempeno": "Explico cómo nuestras acciones influyen sobre el medio ambiente, y que existen tecnologías para cuidarlo.",
+          "ejes_tematicos": [
+            "Problema",
+            "solución",
+            "diseño"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Caracteristicas del producto Nombre: Marca: Ingredientesocomposicion: Instruccionespara eluso delproducto: Lugardefabricacion: Fechadevencimiento: Materialdel envase: Formadel envase:",
+              "descripcion": "Caracteristicas del producto Nombre: Marca: Ingredientesocomposicion: Instruccionespara eluso delproducto: Lugardefabricacion: Fechadevencimiento: Materialdel envase: Formadel envase: Tamanodel envase: Cantidad deproductoque vieneempacado: Reflexiono: Para que puedo reutilizar el envase cuando se termine el producto?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Elaboro en el cuaderno el siguiente cuadro y lo completo con los datos del producto:",
+              "descripcion": "Elaboro en el cuaderno el siguiente cuadro y lo completo con los datos del producto:",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparto mi trabajo con los companeros y companeras, y el profesor o la profesora, en",
+              "descripcion": "Comparto mi trabajo con los companeros y companeras, y el profesor o la profesora, en la clase siguiente. • Tecnologia 4 92Elprofesoroprofesoravaloramisaprendizajesy me autorizaaregistrarmiprogreso. 11 Guia 931. Dibujamos el paisaje del lugar en donde vivimos y lo que se encuentra alli: las plantas, los animales, las fuentes de agua, los medios de ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos el siguiente texto: AActividades basicas Trabajo en parejas Las energias limpias se renuevan? Desempeno:",
+              "descripcion": "Leemos el siguiente texto: AActividades basicas Trabajo en parejas Las energias limpias se renuevan? Desempeno: • Reconozco como,alusarenergiasrenovables,se disminuye la contaminacion del planeta Tierra. En esta guia aprenderemos algunos tipos de energias limpias o renovables y su importancia en la conservacion del medio ambiente. 11 Guia 931. Dibu",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Diseño y construcción de prototipos",
+          "concepto": "Prototipo, maqueta",
+          "desempeno": "Reconozco cómo, al usar energías renovables, se disminuye la contaminación del planeta Tierra.",
+          "ejes_tematicos": [
+            "Prototipo",
+            "maqueta"
+          ],
+          "recursos": [
+            "Cartón",
+            "pegamento",
+            "regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Consulto sobre el principio de conservacion de la energia",
+              "descripcion": "Consulto sobre el principio de conservacion de la energia. Escribo la informacion en el cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Consulto sobre la transformacion de la energia que se produce en una hidroelectrica",
+              "descripcion": "Consulto sobre la transformacion de la energia que se produce en una hidroelectrica. Realizo un dibujo que represente dichas transformaciones.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparto las consultas realizadas con los demas companeros y companeras y la profesora o profesor,",
+              "descripcion": "Comparto las consultas realizadas con los demas companeros y companeras y la profesora o profesor, en la proxima clase. Tecnologia 4 100Elprofesoroprofesoravaloramisaprendizajesy me autorizaaregistrarmiprogreso. 12 Guia AActividades basicas",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Observamos lo que sucede cuando se aumenta y disminuye la fuerza del agua",
+              "descripcion": "Observamos lo que sucede cuando se aumenta y disminuye la fuerza del agua.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Comparamos en que se parece la rueda hidraulica que hicimos con un molino de viento",
+              "descripcion": "Comparamos en que se parece la rueda hidraulica que hicimos con un molino de viento. Comentamosel trabajo con la profesorao el profesor. CActividades de aplicacion Trabajo con mi familiaTrabajo con mi familia",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Evaluación y mejora",
+          "concepto": "Evaluación, mejora continua",
+          "desempeno": "Identifico que los artefactos electrónicos evolucionan tecnológicamente para responder eficazmente a las necesidades de las personas.",
+          "ejes_tematicos": [
+            "Evaluación",
+            "mejora continua"
+          ],
+          "recursos": [
+            "Prototipos elaborados",
+            "rúbrica"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Cual de las siguientes fuentes de energia es renovable? A",
+              "descripcion": "Cual de las siguientes fuentes de energia es renovable? A. Eolica. B. Petroleo. C. Carbon. D. Gas natural.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Un ejemplo de combustible fosil es A",
+              "descripcion": "Un ejemplo de combustible fosil es A. el agua. B. el petroleo. C. la luz solar. D. la biomasa.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Cual de las siguientes es la mejor manera para deshacernos de las pilas cuando ya",
+              "descripcion": "Cual de las siguientes es la mejor manera para deshacernos de las pilas cuando ya estan gastadas? A. Botarlas en la caneca de basura. B. Sellar los polos y depositarlas en un frasco cerrado. C. Dejarlas en casa guardadas. D. Depositarlas en frascos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Como se obtiene la energia geotermica? A",
+              "descripcion": "Como se obtiene la energia geotermica? A. Corriendo B. Mediante el movimiento de las corrientes de aire. C. Mediante el movimiento y fuerza de las corrientes de agua. D. Mediante el calor que proviene del interior de la tierra. II.Desarrollo las siguientes actividades en mi cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Reflexionoyrespondo lassiguientespreguntasen elcuaderno: a",
+              "descripcion": "Reflexionoyrespondo lassiguientespreguntasen elcuaderno: a. Por que no debemos usar combustibles fosiles? b. A que llamamos energias limpias? ValoromisTrabajo individualTrabajo individual I.Selecciono la respuesta correcta y la escribo en mi cuaderno formando oraciones completas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Completo el siguiente cuadro explicando de donde se obtienen las energias renovables: Energias Renovables De",
+              "descripcion": "Completo el siguiente cuadro explicando de donde se obtienen las energias renovables: Energias Renovables De donde se obtiene? Energia Solar Energia Hidraulica o Hidrica Energia Eolica Energia Geotermica Energia de la Biomasa",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribo dos formas de aprovechar la energia hidrica",
+              "descripcion": "Escribo dos formas de aprovechar la energia hidrica.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Completo el siguiente cuadro en mi cuaderno, escribiendo lo que puedo hacer con estos objetos",
+              "descripcion": "Completo el siguiente cuadro en mi cuaderno, escribiendo lo que puedo hacer con estos objetos cuando ya no los use, con el fin de contribuir a cuidar el ambiente: Objetos Que puedo hacer con estos objetos cuando ya no los utilizo? Ropa Juguetes Muebles",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribo tres propuestas que puedo desarrollar con mi familia para contribuir a limpiar la atmosfera",
+              "descripcion": "Escribo tres propuestas que puedo desarrollar con mi familia para contribuir a limpiar la atmosfera del gas llamado CO2 .",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Recuerdo la experienciade comunicacion utilizando elcodigo Morse y escribo: a",
+              "descripcion": "Recuerdo la experienciade comunicacion utilizando elcodigo Morse y escribo: a. Una ventaja de este tipo de comunicacion. b. Una desventaja de este tipo de comunicacion. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titulo": "Unidad 5",
+      "desempeno_general": "",
+      "guias": [
+        {
+          "numero": 17,
+          "titulo": "A Actividades basicas",
+          "concepto": "",
+          "desempeno": "Escribo lo que averigue sobre la vida de los abuelos para compartirlo con los companeros y companeras y el profesor o profesora, en la proxima clase.",
+          "ejes_tematicos": [
+            "Observamos con mucho detalle las imagenes:",
+            "Trabajo en parejas"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos con mucho detalle las imagenes: Trabajo en parejas A proteger el cuerpo! Desempeno: •",
+              "descripcion": "Observamos con mucho detalle las imagenes: Trabajo en parejas A proteger el cuerpo! Desempeno: • Identifico que en la fabricacion de las prendas de vestir se han utilizado fibras que pueden ser de origen natural o artificial. Es dif icil saber en que momento los seres humanos empezaron a cubrirse el cuerpo. Lo que sabemos del uso de la ropa y la fo",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Reflexionamos sobre lo siguiente y respondemos en el cuaderno: a",
+              "descripcion": "Reflexionamos sobre lo siguiente y respondemos en el cuaderno: a. De que materiales estan hechos los vestidos de los primeros humanos? b. Que proceso tuvo el vestido de los antiguos humanos? Cual es su origen? c. Como pudo evolucionar la ropa hasta nuestros dias? d. Como creemos que sera la ropa en cien anos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Ahora pensamos como nos vestimos nosotros y respondemos las siguientes preguntas: a",
+              "descripcion": "Ahora pensamos como nos vestimos nosotros y respondemos las siguientes preguntas: a. Que materiales se utilizaron en la fabricacion de las prendas que usamos hoy? b. Como creemos que es el proceso de elaboracion de nuestra ropa? c. Que herramientas o maquinas creemos que se utilizaron para confeccionar nuestra ropa?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos el siguiente texto: utilizan para fabricar nuestra ropa son fibras naturales, artificiales o sinteticas",
+              "descripcion": "Leemos el siguiente texto: utilizan para fabricar nuestra ropa son fibras naturales, artificiales o sinteticas de las que se sacan los hilos y los tejidos. no exigen mas que un proceso En nuestra vida diaria utilizamos muchos objetos que en un comienzo fueron elementos naturales a los que llamamos materias primas. Las materias primas que se Las Fib",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Respondemos las siguientes preguntas en el cuaderno: a",
+              "descripcion": "Respondemos las siguientes preguntas en el cuaderno: a. Cual es la diferencia entre la seda natural y la artificial? b. De donde surgen las fibras naturales? Cual es su diferencia con las fibras artificiales? c. Que es la materia prima?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribimos en el cuaderno tres ejemplos de fibras naturales y tres de fibras artificiales",
+              "descripcion": "Escribimos en el cuaderno tres ejemplos de fibras naturales y tres de fibras artificiales. Consultamos en libros o en Internet sobre el proceso de transformacion de la lana en prendas de vestir. . Unidad 1, Guia 2 19Presentamosnuestrotrabajo ala profesorao al profesor. Tecnologia 4 20 B Actividades de practica",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos el siguiente texto: a",
+              "descripcion": "Leemos el siguiente texto: a. Consultamos por que la comida se conserva a bajas temperaturas. b. Escribimos en el cuaderno las conclusiones de nuestra consulta. Como funciona una nevera? Una nevera funciona mediante un ciclo de refrigeracion que extrae el calor del interior y lo libera al exterior, manteniendo los alimentos frescos. Este proceso se",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Explicocomose utilizaestetelar: Trabajo individualTrabajo individual ValoromisI",
+              "descripcion": "Explicocomose utilizaestetelar: Trabajo individualTrabajo individual ValoromisI.Selecciono la respuesta correcta y la escribo en mi cuaderno formando oraciones completas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Doy tres ejemplosde alimentosde origen: a",
+              "descripcion": "Doy tres ejemplosde alimentosde origen: a. Vegetal b. Animal c. Mineral.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Escribo en mi cuaderno cuales recomendaciones de higiene debo tener en cuenta al pr",
+              "descripcion": "Escribo en mi cuaderno cuales recomendaciones de higiene debo tener en cuenta al pr",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 39,
+          "titulo": "AActividades basicas",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con mis familiares voy a compartir los conocimientos sobre la ruta del agua y pensamos:",
+              "descripcion": "Con mis familiares voy a compartir los conocimientos sobre la ruta del agua y pensamos: a. En los problemas o fallas relacionadas con el agua potable dentro de nuestra vivienda y como los solucionamos. b. En los usos que le damos al agua en nuestro hogar y lo que hacemos para ahorrarla. c. Escribo en el cuaderno las conclusiones de nuestra conversa",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Describimos lo que ocurrio al hacer pasar el agua por el filtro que construimos",
+              "descripcion": "Describimos lo que ocurrio al hacer pasar el agua por el filtro que construimos. Explicamos por que creemos que sucedio esto. Tecnologia 4 44 por misiones espaciales como el Lunar Crater Observation and Sensing Satellite (LCROSS) y el Lunar Reconnaissance Orbiter (LRO). El agua se encuentra principalmente como hielo en los crateres polares que nunc",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "De manera individual, escribimos en el cuaderno los conceptos mas importantes de 3",
+              "descripcion": "De manera individual, escribimos en el cuaderno los conceptos mas importantes de 3.De manera individual, escribimos en el cuaderno los conceptos mas importantes de la lectura anterior. Luego, elaboramos un crucigrama y lo intercambiamos. El o ella descifraran los conceptos mios y yo hare lo mismo con los de el o ella. Tecnologia 4 421.Desarrollamos",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Reflexionamos sobre las condiciones necesarias para usar el agua que se encuentra en la Luna,",
+              "descripcion": "Reflexionamos sobre las condiciones necesarias para usar el agua que se encuentra en la Luna, nuestro profesor o profesora nos orientan con preguntas motivadoras. Sabiasque...Sabiasque...Sabias que... Desde hace mucho",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Observamos la siguiente imagen que representa un tiempo, para sacar el modelo de torno: agua",
+              "descripcion": "Observamos la siguiente imagen que representa un tiempo, para sacar el modelo de torno: agua de los pozos, los seres humanos han 45inventado maquinas, algunas simples y otras mas complejas. Una de las maquinas simples usadas para esta labor es la llamada torno o manivela, la cual sirve para desplazar cargas en sentido vertical. Cuerda Resistencia (",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Respondemos las siguientes pregunta: a",
+              "descripcion": "Respondemos las siguientes pregunta: a. Que materiales tendriamos que conseguir para construir un torno como estos? b. Que herramientas necesitariamos para construirlo? c. Que pasos tenemos que seguir para construir un torno? d. Que uso podemos darle al torno? De que manera funciona para extraer agua de un pozo profundo? CActividades de aplicacion ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En un dibujo muestro como se distribuye el agua potable a traves del acueducto desde",
+              "descripcion": "En un dibujo muestro como se distribuye el agua potable a traves del acueducto desde la represa hasta llegar a las casas, y como sale el agua residual por el alcantarillado hasta llegar a su destino final. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso. CaracteristicasPlanoMaque",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 47,
+          "titulo": "A Actividades basicas",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Respondemos las siguientes preguntas: Trabajo en parejas a",
+              "descripcion": "Respondemos las siguientes preguntas: Trabajo en parejas a. Que cosas arrojamos a la basura en nuestra vivienda? b. A donde va la basura cuando sale de nuestra vivienda? c. Que sucede con el agua despues de que la utilizamos para asearnos, lavar la loza o lavar la ropa? d. Por donde viaja el agua que ya utilizamos? e. A donde llega finalmente el ag",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leemos el siguiente texto: Se puede aprovechar la basura? Desempeno: • Identifico el funcionamiento y",
+              "descripcion": "Leemos el siguiente texto: Se puede aprovechar la basura? Desempeno: • Identifico el funcionamiento y la disposicion adecuada de los residuos solidos y liquidos. Los seres humanos producimos desperdicios a los que llamamos residuos y estos pueden ser solidos o liquidos. En esta guia aprenderemos como se deben almacenar y manipular. Residuos solidos",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Escribimos en el cuaderno un resumen sobre la lectura anterior",
+              "descripcion": "Escribimos en el cuaderno un resumen sobre la lectura anterior.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Consultamos en libros o en Internet sobre el recorrido que hace la basura desde que",
+              "descripcion": "Consultamos en libros o en Internet sobre el recorrido que hace la basura desde que la depositamos en bolsas y canecas hasta llegar al relleno sanitario o planta incineradora. Realizamos en el cuaderno un dibujo que ilustre el recorrido. Tecnologia 4 48 Sabiasque...Sabiasque...Sabias que... Sabiasque...Sabiasque...Sabias que... Los residuos peligro",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con orientacion del profesor o la profesora establecemos el procedimiento que podriamos seguir para aprovechar",
+              "descripcion": "Con orientacion del profesor o la profesora establecemos el procedimiento que podriamos seguir para aprovechar las basuras que se generan en la escuela o la casa. Hacemos un listado de los actividades, las herramientas necesarias y los resultados del procedimiento propuesto. GlosarioGlosarioGlosario Dioxinas:son compuestos quimicos producidos por l",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Describo paso a paso como construielplanode mi vivienda:",
+              "descripcion": "Describo paso a paso como construielplanode mi vivienda:",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En un dibujo muestro como se distribuye el agua potable a traves del acueducto desde",
+              "descripcion": "En un dibujo muestro como se distribuye el agua potable a traves del acueducto desde la represa hasta llegar a las casas, y como sale el agua residual por el alcantarillado hasta llegar a su destino final. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso. CaracteristicasPlanoMaque",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 761,
+          "titulo": ". Pensamos en lo que sucede cuando nos enfermamos.",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 931,
+          "titulo": ". Dibujamos el paisaje del lugar en donde",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        }
+      ]
+    }
+  ]
+}

@@ -43,19 +43,19 @@ function cargarJSONsRAS() {
 
 function ensureDefaults(obj) {
   obj.metadatos ||= {
-    version_schema: "1.0.0",
+    version_schema: "2.0.0",
     fecha_generacion: new Date().toISOString().slice(0, 10),
     autor: "Agente ENA",
   };
   obj.contexto ||= {
-    institucion: "Instituci�n",
+    institucion: "Institución",
     departamento: "Departamento",
     municipio: "Municipio",
     zona: "Rural",
     tipo_aula: "multigrado",
-    grados: ["3�"],
+    grados: ["3°"],
     duracion_clase_min: 60,
-    estudiantes_por_grado: { "3�": 1 },
+    estudiantes_por_grado: { "3°": 1 },
     recursos_aula: []
   };
   if (obj.contexto) {
@@ -68,8 +68,8 @@ function ensureDefaults(obj) {
     obj.contexto.dificultades_escritura.por_grado ||= {};
     obj.contexto.dificultades_comprension ||= { hay: false, por_grado: {} };
     obj.contexto.dificultades_comprension.por_grado ||= {};
-    obj.contexto.organizacion_salon ||= "filas";
-    obj.contexto.frecuencia_uso_recursos ||= "sin_definir";
+    obj.contexto.organizacion_salon ||= "grupos";
+    obj.contexto.frecuencia_uso_recursos ||= "regular";
     if (typeof obj.contexto.gobierno_estudiantil_activo !== "boolean") {
       obj.contexto.gobierno_estudiantil_activo = false;
     }
@@ -78,7 +78,7 @@ function ensureDefaults(obj) {
     obj.contexto.instrumentos_aula ||= [];
   }
   obj.alineacion_curricular ||= {
-    area: "Matemática",
+    area: "Matemáticas",
     temas_prioritarios: ["Tema"],
     desempenos_esperados: ["Desempeño"],
     ras_dba_referencia: [],
@@ -87,7 +87,26 @@ function ensureDefaults(obj) {
     modalidad: "flexible",
     duracion_total_plan_min: 180,
   };
-  obj.por_grados ||= [];
+  // Nueva estructura de cronograma con 3 momentos
+  obj.cronograma ||= {
+    momento_1_grupal: {
+      nombre: "Actividad de apertura grupal",
+      descripcion: "Actividad inicial para todos los grados",
+      duracion_min: 15,
+      objetivo: "Motivar y contextualizar el tema",
+      materiales: [],
+      dinamica: "Todos los estudiantes participan juntos"
+    },
+    momento_2_por_grados: [],
+    momento_3_grupal: {
+      nombre: "Actividad de cierre grupal",
+      descripcion: "Actividad de cierre para todos los grados",
+      duracion_min: 15,
+      objetivo: "Consolidar y compartir aprendizajes",
+      materiales: [],
+      dinamica: "Socialización grupal"
+    }
+  };
   obj.adaptaciones ||= {
     ritmos_aprendizaje: [],
     estrategias_multigrado: [],
@@ -157,8 +176,16 @@ router.post("/", async (req, res) => {
     // 📚 Análisis de recursos: comparar recursos requeridos vs disponibles
     let recursosContext = '';
 
-    console.log('\n🔍 DEBUG - Análisis de Recursos:');
+    console.log('\n📚 DEBUG - Guías ENA Seleccionadas:');
     console.log('   - guias_ena_recomendadas presente?', !!docenteInput.guias_ena_recomendadas);
+    if (docenteInput.guias_ena_recomendadas) {
+      Object.entries(docenteInput.guias_ena_recomendadas).forEach(([grado, guias]) => {
+        console.log(`   - ${grado}: ${guias.length} guía(s)`);
+        guias.forEach(g => console.log(`     * Unidad ${g.unidad}, Guía ${g.guia}: ${g.nombre}`));
+      });
+    }
+
+    console.log('\n🔍 DEBUG - Análisis de Recursos:');
     console.log('   - contexto presente?', !!docenteInput.contexto);
     console.log('   - recursos_aula:', docenteInput.contexto?.recursos_aula);
 
@@ -343,15 +370,68 @@ router.post("/", async (req, res) => {
       console.log(`   - Contexto del docente generado: ${docenteContext.length} caracteres`);
     }
 
-    const promptMsg2 = `Genera un plan docente flexible personalizado por grado a partir del siguiente contexto. Distribuye el plan en ${semanas} semanas (aproximadamente entre 2 y 3 semanas) y, en cada actividad, indica 'Semana N:' dentro de la descripcion.
+    const promptMsg2 = `Genera un plan docente flexible personalizado por grado a partir del siguiente contexto.
 
-IMPORTANTE: Para cada grado, el campo 'evaluacion' debe contener un array con estrategias e instrumentos de evaluación específicos. Incluye al menos 3-5 elementos que describan:
-- Estrategias de evaluación formativa (observación, retroalimentación, autoevaluación, coevaluación)
-- Instrumentos específicos (rúbricas, listas de cotejo, portafolios, pruebas escritas, exposiciones orales)
-- Criterios de evaluación alineados con los objetivos del grado
-- Formas de evaluar el proceso y el producto
+═══════════════════════════════════════════════════════════════════════════════
+📋 ESTRUCTURA OBLIGATORIA DEL CRONOGRAMA - 3 MOMENTOS
+═══════════════════════════════════════════════════════════════════════════════
 
-Ejemplo de evaluacion: ["Observación directa del trabajo en clase usando lista de cotejo", "Revisión de ejercicios en el cuaderno con retroalimentación escrita", "Autoevaluación del estudiante sobre su comprensión del tema", "Prueba escrita corta al final de cada semana", "Exposición oral en grupo sobre el tema trabajado"]
+El plan DEBE seguir la estructura de 3 MOMENTOS dentro del campo "cronograma":
+
+🟢 MOMENTO 1: ACTIVIDAD GRUPAL DE APERTURA (momento_1_grupal)
+   - Duración: 10-20 minutos aproximadamente
+   - TODOS los grados participan JUNTOS en la misma actividad
+   - Objetivo: Motivar, contextualizar el tema, activar conocimientos previos
+   - Ejemplos: dinámica de grupo, pregunta generadora, video corto, lectura en voz alta,
+     lluvia de ideas, juego introductorio, exploración de materiales
+   - El docente dirige esta actividad mientras todos los estudiantes participan
+   - Campo "dinamica": describe cómo interactúan todos los grados juntos
+
+🟡 MOMENTO 2: TRABAJO INDIVIDUAL POR GRADOS (momento_2_por_grados)
+   - Este es el MOMENTO MÁS LARGO (60-80% del tiempo total)
+   - Cada grado trabaja con SU PROPIA GUÍA ENA de forma autónoma
+   - Mientras un grado trabaja solo, el docente puede atender a otro grado
+   - Para CADA grado incluir:
+     * "grado": el grado (ej: "3°")
+     * "guia_referencia": la guía ENA específica que trabajan (ej: "Unidad 1, Guía 2: Números a sus puestos")
+     * "objetivos": objetivos específicos para ese grado
+     * "actividades": array con las actividades detalladas
+     * "evaluacion": estrategias de evaluación específicas
+     * "observaciones": notas para el docente
+   - Las actividades deben ser progresivas y permitir trabajo autónomo
+   - Incluir al menos 2-3 actividades por grado
+   - En la descripción de cada actividad, indicar "Semana N:"
+
+🔴 MOMENTO 3: ACTIVIDAD GRUPAL DE CIERRE (momento_3_grupal)
+   - Duración: 10-20 minutos aproximadamente
+   - TODOS los grados vuelven a reunirse
+   - Objetivo: Socializar aprendizajes, consolidar, resolver dudas, conectar contenidos
+   - Ejemplos: puesta en común, exposición de trabajos, reflexión grupal,
+     juego de repaso, compromiso para la siguiente clase
+   - Permite que estudiantes de diferentes grados compartan y aprendan entre sí
+   - Campo "dinamica": describe cómo se cierra la sesión con todos
+
+═══════════════════════════════════════════════════════════════════════════════
+⏱️ DISTRIBUCIÓN DEL TIEMPO
+═══════════════════════════════════════════════════════════════════════════════
+
+Distribuye el plan en ${semanas} semanas (aproximadamente entre 2 y 3 semanas).
+En cada actividad del momento 2, indica "Semana N:" al inicio de la descripción.
+
+Distribución típica para una sesión de 60 minutos:
+- Momento 1 (Grupal apertura): ~10-15 minutos
+- Momento 2 (Por grados): ~35-45 minutos (el más extenso)
+- Momento 3 (Grupal cierre): ~10-15 minutos
+
+═══════════════════════════════════════════════════════════════════════════════
+📝 EVALUACIÓN POR GRADO
+═══════════════════════════════════════════════════════════════════════════════
+
+Para cada grado en momento_2_por_grados, el campo 'evaluacion' debe contener:
+- Estrategias de evaluación formativa (observación, retroalimentación, autoevaluación)
+- Instrumentos específicos (rúbricas, listas de cotejo, portafolios)
+- Criterios alineados con los objetivos del grado
+
 ${guiasENAContext}
 ${recursosContext}
 ${docenteContext}

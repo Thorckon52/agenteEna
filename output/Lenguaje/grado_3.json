@@ -1,0 +1,1111 @@
+{
+  "asignatura": "Lenguaje",
+  "grado": 3,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Aura M. Castro de Ramirez",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "DBA 2: Comprende que algunos escritos y manifestaciones artisticas pueden estar compuestos por texto,",
+    "DBA 1: Comprende las funciones que cumplen los medios de comunicacion propios de su contexto.",
+    "DBA 8: Produce textos verbales y no verbales en los que tiene en cuenta aspectos gramaticales y ortograficos. Unidad1Leer y escribir enriquecen mi aprendizaje Unidad1Leer y escribir enriquecen mi aprendizaje 11 13 Aprendo a narrar mis vivencias! 1. Observamos la ilustracion y comentamos: a. Que hacen los n",
+    "DBA 5: Identifica el papel del emisor y el receptor y sus propositos comunicativos en una situacion especifica. estructura narrativa, a partir de la recreacion y disfrute de los mismos.",
+    "DBA 7: Produce textos orales breves de diferente tipo ajustando el volumen, el tono de la voz, los movimientos",
+    "DBA 8: Produce textos verbales y no verbales en los que tiene en cuenta aspectos gramaticales y ortograficos.",
+    "DBA 8: Produce textos verbales y no verbales en los que tiene en cuenta aspectos gramaticales y ortograficos. Unidad4Unidad 4 La comunicacion enriqueceLa comunicacion enriquece mipensamiento!mi pensamiento! Desempeno general: Utilizo adecuadamente las palabras en diversas situaciones y me expreso cada vez",
+    "DBA 8: Produce textos verbales y no verbales en los que tiene en cuenta aspectos gramaticales y ortograficos. corporales y los gestos, al tema y a la situacion comunicativa. Criterios de desempeno:",
+    "DBA 3: Reconoce algunas caracteristicas de los textos narrativos, tales como el concepto de narrador y sonido e imagenes.",
+    "DBA 6: Interpreta el contenido y la estructura del texto, respondiendo preguntas de orden inferencial y critico."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Me expreso y escucho a los demás",
+      "desempeno_general": "Expreso ideas, sentimientos y opiniones de manera oral, clara y respetuosa.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "Escuchar para comprender",
+          "concepto": "Escucha activa, Comunicación oral",
+          "desempeno": "Escucho con atención diferentes mensajes orales. Respeto los turnos de palabra.",
+          "ejes_tematicos": [
+            "Escucha activa",
+            "Comunicación oral"
+          ],
+          "recursos": [
+            "Aula organizada en círculo",
+            "Texto oral leído por el docente",
+            "Tarjetas de preguntas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Dialogo con mis familiares sobre: • Que anecdotas les sucedieron durante su primer dia de",
+              "descripcion": "Dialogo con mis familiares sobre: • Que anecdotas les sucedieron durante su primer dia de clases en la escuela o colegio?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En la proxima clase, cuento a mis companeros y companeras lo que converse con mis",
+              "descripcion": "En la proxima clase, cuento a mis companeros y companeras lo que converse con mis familiares. Recuerdo hablar claramente ante ellos cuando me exprese oralmente. Trabajo con mi familia Actividades de aplicacion La profesora o el profesor valora las actividades que realizamos. Al terminar esta guia y despues de valorar mis aprendizajes con el profeso",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Con el profesor o la profesora, decidimos como utilizaremos nuestros moviles",
+              "descripcion": "Con el profesor o la profesora, decidimos como utilizaremos nuestros moviles.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Hablamos para compartir ideas",
+          "concepto": "Expresión oral, Entonación",
+          "desempeno": "Expreso ideas con claridad frente a un grupo.",
+          "ejes_tematicos": [
+            "Expresión oral",
+            "Entonación"
+          ],
+          "recursos": [
+            "Espacio amplio",
+            "Tarjetas con situaciones",
+            "Disfraces sencillos (opcional)"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, recorto de un periodico o una revista palabras que sean",
+              "descripcion": "Con ayuda de un familiar, recorto de un periodico o una revista palabras que sean monosilabas, bisilabas, trisilabas y polisilabas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Elaboro el siguiente cuadro en el cuaderno",
+              "descripcion": "Elaboro el siguiente cuadro en el cuaderno. Lo completo con las palabras que recorte. Por ejemplo: Actividades de aplicacion Trabajo con mi familia Al terminar esta guia y despues de valorar mis aprendizajes con el profesor o la profesora, registro mi progreso. Monosilabas Bisilabas Trisilabas Polisilabas pan salon pupitre profesora 31 33",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos las ilustraciones y respondemos: • De que hablaran los siguientes poemas? La gallinita Puso",
+              "descripcion": "Observamos las ilustraciones y respondemos: • De que hablaran los siguientes poemas? La gallinita Puso un huevito y muy pronto nacio su hijo el pollito, y rapido crecio!",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Despues de leer, analizamos y comentamos: a",
+              "descripcion": "Despues de leer, analizamos y comentamos: a. De que tratan los poemas? Que nos dicen sobre cada uno de los animales? b. Cual de estos animales conocemos y nos gusta mas? Por que? Con una corona plateada y bordada, llego mi vecina la buena gallina. El conejo El conejo rabito se metio en su huequito, calientito se durmio, de manana desperto, se comio",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Volvemos a leer los poemas anteriores y nos fijamos como estan escritos",
+              "descripcion": "Volvemos a leer los poemas anteriores y nos fijamos como estan escritos. Luego, comentamos: a. Estos poemas se parecen a un cuento o a una carta? Por que? b. Quien o quienes narran cada poema? Trabajo con la profesora o el profesor 33 a a a b i j p j m e f a g w s l n k h xz i ja a a b i j p j m e f a g w s l n k h xz i",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Observamos y leemos las siguientes palabras: saltamontes espantapajaros parachoques tajalapiz radiopatrulla mediodia medianoche ilogramo",
+              "descripcion": "Observamos y leemos las siguientes palabras: saltamontes espantapajaros parachoques tajalapiz radiopatrulla mediodia medianoche ilogramo",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Con base en las anteriores palabras compuestas, realizamos lo siguiente: a",
+              "descripcion": "Con base en las anteriores palabras compuestas, realizamos lo siguiente: a. Escribimos estas palabras en el cuaderno. b. Con un guion, separamos las palabras. Por ejemplo: c. Comparamos nuestro trabajo con el de los demas companeros y companeras. Lo corregimos si es necesario. saltamontes = salta - montes medianoche = media - noche Trabajo en parej",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Jugamos con las palabras",
+          "concepto": "Sinónimos, Antónimos",
+          "desempeno": "Amplío mi vocabulario.",
+          "ejes_tematicos": [
+            "Sinónimos",
+            "Antónimos"
+          ],
+          "recursos": [
+            "Fichas de palabras",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Declamo ante mis familiares uno de los poemas que aprendi en esta guia",
+              "descripcion": "Declamo ante mis familiares uno de los poemas que aprendi en esta guia. Les pido que me escuchen y me digan como declamo y como puedo hacerlo cada vez mejor. Actividades de aplicacion Trabajo con mi familia Al terminar esta guia y despues de valorar mis aprendizajes con el profesor o la profesora, registro mi progreso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Solicito a mis familiares que me ensenen un poema que ellos conozcan",
+              "descripcion": "Solicito a mis familiares que me ensenen un poema que ellos conozcan. Lo escribo en el cuaderno e identifico su numero de estrofas y de versos. 39 44",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Senalo el numero de versos y de estrofas en el poema que elegi",
+              "descripcion": "Senalo el numero de versos y de estrofas en el poema que elegi. Luego, identifico las palabras que riman. Esta es una rosa, este es un clavel. Esta es mi nina bordando un mantel. Esta es la luna, este es un lucero. Este es mi nino del mar marinero. (Rimas populares) Pajara Pinta jaspeada, iba loca de pintureada, por el aire como llevada. (Gabriela ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Leemos cuentos",
+          "concepto": "Texto narrativo, Idea principal",
+          "desempeno": "Identifico ideas principales en textos narrativos.",
+          "ejes_tematicos": [
+            "Texto narrativo",
+            "Idea principal"
+          ],
+          "recursos": [
+            "Libro de cuentos",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Digo ante mis familiares los trabalenguas y las retahilas que aprendi en esta guia",
+              "descripcion": "Digo ante mis familiares los trabalenguas y las retahilas que aprendi en esta guia. Si queremos, los aprendemos y practicamos juntos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el libro de Mis creaciones, escribo un trabalenguas y una retahila de los que",
+              "descripcion": "En el libro de Mis creaciones, escribo un trabalenguas y una retahila de los que aprendi en clase. Los represento mediante un dibujo o con recortes de revistas. Actividades de aplicacion Trabajo con mi familia Recorde mos Mis creaciones puede ser una carpeta, un cuaderno pequeno o una gran hoja plegable. Alli puedo incluir mis trabajos mas creativo",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con base en el texto instructivo anterior, completamos el siguiente parrafo en el cuaderno",
+              "descripcion": "Con base en el texto instructivo anterior, completamos el siguiente parrafo en el cuaderno. Recordamos no rayar ni escribir en la guia. Si quiero par ticipar en el proceso de cultivo de una planta, lo primero que debo hacer es , luego, . Despues, . Finalmente, . Instrucciones: a. Preparamos la tierra y el abono para sembrar. b. Tomamos las semillas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Observo los dibujos. En la sopa de letras, descubro los nombres de estos animales. Escribo",
+              "descripcion": "Observo los dibujos. En la sopa de letras, descubro los nombres de estos animales. Escribo estas palabras en el cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comparto mi trabajo con los companeros y companeras y el profesor o la profesora",
+              "descripcion": "Comparto mi trabajo con los companeros y companeras y el profesor o la profesora. Lenguaje 48 Lenguaje 3",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leo las siguientes oraciones y las completo en mi cuaderno: • El elefante es tan",
+              "descripcion": "Leo las siguientes oraciones y las completo en mi cuaderno: • El elefante es tan como la ballena. • La hormiga es tan como la abeja. • La mariposa es tan como el arco iris.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Leo ante los companeros y companeras el texto que escribi",
+              "descripcion": "Leo ante los companeros y companeras el texto que escribi. Escucho sus sugerencias y mejoro mi trabajo. Gra mat ic a Algunas palabras nos sirven para comparar. Estas se llaman elementos de relacion o conectores. Por ejemplo: Es tan grande como yo. Comento mi trabajo con el profesor o la profesora. Al terminar esta guia y despues de valorar mis apre",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Personajes y escenarios",
+          "concepto": "Personaje, Escenario",
+          "desempeno": "Identifico personajes y lugares en los textos.",
+          "ejes_tematicos": [
+            "Personaje",
+            "Escenario"
+          ],
+          "recursos": [
+            "Hojas blancas",
+            "Colores",
+            "Texto leído"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pregunto a mis familiares: a",
+              "descripcion": "Pregunto a mis familiares: a. Como se siembra y se cuida una planta. b. Que plantas conocen. c. Para que sirven estas plantas. Escribo uno o dos parrafos sobre lo que ellos me cuenten. Comparto mi trabajo con el Comite de Ambiente de la escuela o el colegio.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, describo una planta que conozca y que me guste",
+              "descripcion": "Con ayuda de mis familiares, describo una planta que conozca y que me guste. Ilustro mi trabajo con dibujos o fotografias. Recuerdo utilizar conectores en mi escrito.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Llevo mis trabajos a la escuela o el colegio",
+              "descripcion": "Llevo mis trabajos a la escuela o el colegio. Los comparto con mis companeros y companeras y el profesor o la profesora.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "A Juan le parecio raro el marciano porque A",
+              "descripcion": "A Juan le parecio raro el marciano porque A. era muy verde con brazos cortos. B. tenia trompa y pies muy grandes. C. era todo verde, con antenas en lugar de orejas, una trompa y brazos muy largos. D. era verde, con trompa en lugar de orejas y brazos muy largos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el texto, la palabra “alli ” se refiere a A",
+              "descripcion": "En el texto, la palabra “alli ” se refiere a A. Juan. B. el paisaje. C. el bosque. D. Marte.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Juan desperto del sueno cuando A",
+              "descripcion": "Juan desperto del sueno cuando A. hablaba con el marciano. B. sintio mucho frio. C. salio el marciano del bosquecito. D. comenzaba a medir el largo de los brazos del marciano.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "El texto que acabo de leer narra A",
+              "descripcion": "El texto que acabo de leer narra A. una historia narrada por Juan. B. el sueno de Juan narrado por un autor desconocido. C. el sueno de un marciano. D. una historia narrada por un marciano. 60 Dona ana Dona ana no esta aqui, esta en su vergel. Estos son los estudiantes que pasan por aqui abriendo la rosa y cerrando el clavel. Ni de dia ni de noche ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Despues de leer el texto, considero que A",
+              "descripcion": "Despues de leer el texto, considero que A. la palabra “perejil” se escribe con p mayuscula. B. la palabra “clavel” se escribe con b. C. la palabra “ana” se escribe con a mayuscula. D. la palabra “rosa” se escribe con rr.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Me inspiro en la naturaleza para crear! a",
+              "descripcion": "Me inspiro en la naturaleza para crear! a. Con la profesora o el profesor, observo las diversas hojas de las plantas que hay en mi escuela o colegio o en sus alrededores. Me fijo en sus formas y las comparo con otras que yo conozca. b. A partir de lo que observe, elaboro mi propio cuadro artistico para mostrar cuanto se sobre las formas de las hoja",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Las palabras que riman del texto anterior son A",
+              "descripcion": "Las palabras que riman del texto anterior son A. clavel y rosa. B. aqui y vergel. C. clavel y vergel. D. dormir y noche. 61 El profesor o la profesora valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Quien dice “ni de dia ni de noche, me dejan dormir ” es A",
+              "descripcion": "Quien dice “ni de dia ni de noche, me dejan dormir ” es A. Dona Ana. B. los estudiantes. C. la rosa. D. el clavel. V. Leo la siguiente situacion y luego respondo la pregunta: Un nino de grado Tercero estaba tratando de describir a Dona Ana y redacto lo siguiente: Dona Ana es una senora alta delgada.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Considero que el conector que ayuda a unir las dos ideas es A",
+              "descripcion": "Considero que el conector que ayuda a unir las dos ideas es A. o. B. y. C. pero. D. luego. VI. Completo el siguiente cuadro en el cuaderno: Palabras Silabas Nombre de las palabras segun el numero de silabas Ana Clavel Cla-vel Bisilabas Ver Dormir Perejil Unidad 2 Juguemos a describir e interpretar Unidad2Juguemos a describir e interpretar 66 63 Aye",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Comprendo lo que leo",
+      "desempeno_general": "Comprendo textos narrativos e informativos sencillos.",
+      "guias": [
+        {
+          "numero": 6,
+          "titulo": "Comprendo textos informativos",
+          "concepto": "Texto informativo",
+          "desempeno": "Reconozco información explícita.",
+          "ejes_tematicos": [
+            "Texto informativo"
+          ],
+          "recursos": [
+            "Texto impreso",
+            "Lápiz",
+            "Regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Me reuno con mi familia y miramos fotografias de cuando yo era bebe",
+              "descripcion": "Me reuno con mi familia y miramos fotografias de cuando yo era bebe. Busco una foto mia y la pego en el cuaderno. Luego, escribo lo que mi mama, mi papa u otro familiar cercano me cuente acerca de mis primeros anos de vida.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Hablo con un familiar y le pido que me cuente como se formo nuestro hogar",
+              "descripcion": "Hablo con un familiar y le pido que me cuente como se formo nuestro hogar. Escribo esta historia en el cuaderno de Mis creaciones.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Llevo mi trabajo a clase y lo comparto con los companeros y companeras",
+              "descripcion": "Llevo mi trabajo a clase y lo comparto con los companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leo mis respuestas ante los companeros y companeras",
+              "descripcion": "Leo mis respuestas ante los companeros y companeras. Al terminar esta guia y despues de valorar mis aprendizajes con el profesor o la profesora, registro mi progreso. Trabajo con mi familia Comento mi trabajo con el profesor o la profesora. Actividades de aplicacion Gram atic a En nuestro idioma espanol, los verbos o acciones terminan con silabas f",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "En el cuaderno, escribo nuevas situaciones inventadas por mi",
+              "descripcion": "En el cuaderno, escribo nuevas situaciones inventadas por mi. Utilizo los verbos de los recuadros para describir acciones. Por ejemplo: • Que pasaria si yo pierdo el lapiz antes de escribir? • Que sucederia si las mesas del salon se agrandan de repente? Lenguaje 77 70 Lenguaje 3 Amigo secreto Materiales: Como jugamos: a. Cada uno escribe correctame",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Escribo oraciones",
+          "concepto": "Oración, Signos de puntuación básicos",
+          "desempeno": "Construyo oraciones con sentido.",
+          "ejes_tematicos": [
+            "Oración",
+            "Signos de puntuación básicos"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Juego con mis familiares a las adivinanzas",
+              "descripcion": "Juego con mis familiares a las adivinanzas. Comparto con ellos las adivinanzas que aprendi en clase. Luego, en hojas recicladas, escribo otras que ellos conozcan.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pienso en mis juguetes. Escojo mi juguete preferido para describirlo. Lo observo detenidamente y respondo",
+              "descripcion": "Pienso en mis juguetes. Escojo mi juguete preferido para describirlo. Lo observo detenidamente y respondo lo siguiente: a. Que forma tiene? b. De que color es? c. De que material esta hecho? d. Para que lo utilizo? e. Con que puedo compararlo?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, dibujo mi juguete preferido y respondo las preguntas anteriores",
+              "descripcion": "En el cuaderno, dibujo mi juguete preferido y respondo las preguntas anteriores.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Llevo mi trabajo a clase y lo comparto con los companeros y companeras",
+              "descripcion": "Llevo mi trabajo a clase y lo comparto con los companeros y companeras. Presentamos nuestro trabajo al profesor o la profesora. Valoro con el profesor o la profesora mis fortalezas y debilidades para ser cada vez mejor. Actividades de aplicacion Trabajo con mi familia 88 78 Lenguaje 3",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Escribimos textos cortos",
+          "concepto": "Coherencia, Secuencia",
+          "desempeno": "Produzco textos narrativos breves.",
+          "ejes_tematicos": [
+            "Coherencia",
+            "Secuencia"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz",
+            "Borrador"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pido a mis familiares que me ensenen algunas senales de transito que conozcan",
+              "descripcion": "Pido a mis familiares que me ensenen algunas senales de transito que conozcan. Tambien, les solicito que me ensenen a leer signos de la naturaleza. Por ejemplo: • El sol ascendiendo indica que va a amanecer. Actividades de aplicacion Trabajo con mi familia 87 99",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dibujo las senales que aprendi con mi familia y las llevo a la escuela o",
+              "descripcion": "Dibujo las senales que aprendi con mi familia y las llevo a la escuela o el colegio.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, comparto mi trabajo con los companeros y companeras",
+              "descripcion": "En la proxima clase, comparto mi trabajo con los companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Compartimos nuestras respuestas con los demas companeros y companeras y el profesor o la profesora",
+              "descripcion": "Compartimos nuestras respuestas con los demas companeros y companeras y el profesor o la profesora. Hago caso al agente porque esta organizando el traf ico. b. En la esquina hay muchas motos y bicicletas pasando. Siempre observo a la izquierda y a la derecha. Busco el cruce peatonal o el lugar mas seguro para cruzar. d. Un agente de transito nos in",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Observamos y leemos el siguiente comic o historieta: Trabajo con la profesora o el profesor",
+              "descripcion": "Observamos y leemos el siguiente comic o historieta: Trabajo con la profesora o el profesor Te lo dije... ajajmUnidad 2, Guia 811.Con base en la historieta anterior, respondemos en el cuaderno: a.a. Que sucede en la historieta? b.b. Por que se estrello el carro rojo? c.c. Como nos parece la actitud del carro rojo? Por que? d.d. Debemos respetar las",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Investigamos en Internet o en la biblioteca como se comunican las personas sordas o con",
+              "descripcion": "Investigamos en Internet o en la biblioteca como se comunican las personas sordas o con discapacidad auditiva. Tomamos nota de la informacion mas importante que consultamos. Comentamos nuestro trabajo con el profesor o la profesora. Al terminar esta guia y despues de valorar mis aprendizajes con el profesor o la profesora, registro mi progreso.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Revisamos lo que escribimos",
+          "concepto": "Revisión, Corrección",
+          "desempeno": "Reviso y mejoro mis textos.",
+          "ejes_tematicos": [
+            "Revisión",
+            "Corrección"
+          ],
+          "recursos": [
+            "Texto escrito",
+            "Lápiz",
+            "Borrador"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Llevo a casa el cuento que invente para leerlo en familia",
+              "descripcion": "Llevo a casa el cuento que invente para leerlo en familia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pido a mis familiares que entre todos escribamos un cuento sobre un tema que nos",
+              "descripcion": "Pido a mis familiares que entre todos escribamos un cuento sobre un tema que nos guste. Les doy las pautas o pistas que aprendi en la guia. c. Ahora, a crear mi cuento! Utilizo lo que planee anteriormente y empiezo a escribir mi historia en el libro de Mis creaciones, con palabras como: Un dia... Habia una vez... En ocurrio que... Hace un tiempo...",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Exponemos nuestro trabajo ante los demas grupos",
+              "descripcion": "Exponemos nuestro trabajo ante los demas grupos. Escuchamos con atencion y luego comentamos que opinamos del trabajo de las companeras y companeros.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Ahora, reconstruimos el cuento El te de lagrimas, pero dandole un final distinto",
+              "descripcion": "Ahora, reconstruimos el cuento El te de lagrimas, pero dandole un final distinto. Recordemos que los cuentos tienen introduccion, nudo y desenlace. Trabajo individual 94 Lenguaje 3",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Llego la hora de planear como escribir mi propio cuento! Recuerdo que para crear un",
+              "descripcion": "Llego la hora de planear como escribir mi propio cuento! Recuerdo que para crear un cuento, debo identificar la introduccion, el nudo y el desenlace. a. Planeo la escritura de mi cuento: • Antes de escribir el cuento, respondo estas preguntas: b. En hojas blancas, elaboro un lindo dibujo de los posibles personajes de mi cuento. Recuerdo que puedo p",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Participamos y organizamos La hora del cuento, con ayuda del profesor o la profesora",
+              "descripcion": "Participamos y organizamos La hora del cuento, con ayuda del profesor o la profesora. Alli narramos los cuentos que sabemos o que hemos inventado. Cuando narro un cuento ante otras personas, debo pronunciar claramente todas las palabras que utilizo. Si. Pero ademas de la correcta pronunciacion, es necesario tener ideas claras para expresarlas. Trab",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Leemos imágenes",
+          "concepto": "Lenguaje visual",
+          "desempeno": "Interpreto imágenes.",
+          "ejes_tematicos": [
+            "Lenguaje visual"
+          ],
+          "recursos": [
+            "Láminas o imágenes",
+            "Aula"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento a mi familia lo que aprendi en clase sobre las fabulas, que es personificacion",
+              "descripcion": "Comento a mi familia lo que aprendi en clase sobre las fabulas, que es personificacion y ensenanza o moraleja. Tambien, comparto con ellos la fabula que escribi en clase junto a mis companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de un familiar mayor, escribo en el libro de Mis creaciones una fabula",
+              "descripcion": "Con ayuda de un familiar mayor, escribo en el libro de Mis creaciones una fabula acerca de la importancia del respeto y la confianza en la familia. Ilustro nuestra fabula con un dibujo o con recortes de revistas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, narro ante los companeros y companeras la fabula que escribi con",
+              "descripcion": "En la proxima clase, narro ante los companeros y companeras la fabula que escribi con mi familia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Cuando el leon dice: “Gracias, amigo",
+              "descripcion": "Cuando el leon dice: “Gracias, amigo. Me salvaste la vida ”, indica que A. el leon esta molesto con el raton por su imprudencia. B. el leon reconoce su error, esta arrepentido y agradecido con el raton. C. el leon y el raton son muy buenos amigos. D. el leon no esta arrepentido y no reconoce su error.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "El texto El leon y el raton es A",
+              "descripcion": "El texto El leon y el raton es A. un cuento. B. un poema. C. una retahila. D. una fabula. III. En el cuaderno, escribo la ensenanza o moraleja que me deja el texto El leon y el raton. IV. Observo las siguientes imagenes que expresan un mensaje. Luego, respondo las preguntas. 107",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Las imagenes que nos dejan como mensaje “Puedes llegar al hospital, pero debes llevar sombrilla”",
+              "descripcion": "Las imagenes que nos dejan como mensaje “Puedes llegar al hospital, pero debes llevar sombrilla” son A. las imagenes dos y tres. B. las imagenes uno y dos. C. las imagenes tres y uno. D. todas las imagenes.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Las imagenes uno y tres son A",
+              "descripcion": "Las imagenes uno y tres son A. palabras dibujadas. B. senales de transito. C. formas de comunicarnos con otros. D. figuras geometricas. V. Creo y escribo un cuento con los siguientes personajes. Para ello, recuerdo incluir las partes de los textos narrativos y los elementos de la narracion: El profesor o la profesora valora los aprendizajes alcanza",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Ahora, elaboramos el siguiente cuadro",
+              "descripcion": "Ahora, elaboramos el siguiente cuadro. Lo completamos con palabras que tengan silabas con las combinaciones bl, fl, pl, cl, y gl. Seguimos los ejemplos: Trabajo con mi familia Actividades de aplicacion Al terminar esta guia y despues de valorar mis aprendizajes con el profesor o la profesora, registro mi progreso. Presentamos nuestro trabajo al pro",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Escribo para comunicar",
+      "desempeno_general": "Produzco textos escritos cortos con coherencia.",
+      "guias": [
+        {
+          "numero": 11,
+          "titulo": "El lenguaje en la vida diaria",
+          "concepto": "Lenguaje cotidiano",
+          "desempeno": "Identifico usos del lenguaje cotidiano.",
+          "ejes_tematicos": [
+            "Lenguaje cotidiano"
+          ],
+          "recursos": [
+            "Tarjetas con situaciones",
+            "Espacio de trabajo"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Narro ante mis familiares un mito o una leyenda que haya aprendido en clase",
+              "descripcion": "Narro ante mis familiares un mito o una leyenda que haya aprendido en clase. Les pregunto que opinan de esta historia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pido a mis abuelos, tios u otros familiares que me cuenten una leyenda de mi",
+              "descripcion": "Pido a mis abuelos, tios u otros familiares que me cuenten una leyenda de mi region. La escribo en el cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, leo o narro la leyenda ante mis companeros y companeras",
+              "descripcion": "En la proxima clase, leo o narro la leyenda ante mis companeros y companeras. Ubicamos las leyendas que mas nos gusten en el Rincon del Lenguaje. 1212 118 Lenguaje 3",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Seleccionamos tres de los elementos culturales que propusimos en la anterior actividad",
+              "descripcion": "Seleccionamos tres de los elementos culturales que propusimos en la anterior actividad. Nos organizamos para realizar una de las siguientes actividades con base en esos elementos: • Dramatizar un mito, una leyenda o una historia que se relacione con estos elementos. • Danzar un rito o un baile folclorico conocido por todos. • Tocar un instrumento p",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Me comunico mejor cada día",
+          "concepto": "Comunicación, Convivencia",
+          "desempeno": "Uso el lenguaje para convivir mejor.",
+          "ejes_tematicos": [
+            "Comunicación",
+            "Convivencia"
+          ],
+          "recursos": [
+            "Espacio amplio",
+            "Tarjetas de roles"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, creo un poema donde exprese el amor que nos tenemos",
+              "descripcion": "Con ayuda de mis familiares, creo un poema donde exprese el amor que nos tenemos. Lo escribo en una hoja y lo incluyo en el libro de Mis creaciones.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En la proxima clase, comparto mi trabajo con los companeros y companeras",
+              "descripcion": "En la proxima clase, comparto mi trabajo con los companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Compartimos nuestras noticias con las companeras y companeros, imitando a un locutor de un boletin",
+              "descripcion": "Compartimos nuestras noticias con las companeras y companeros, imitando a un locutor de un boletin informativo. Recordamos que mientras un companero o una companera habla, los demas escuchamos con respeto.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos las siguientes palabras que expresan acciones",
+              "descripcion": "Leemos las siguientes palabras que expresan acciones. Escogemos la accion que mas nos guste para representarla: Trabajo con el profesor o la profesora La actuacion es una actividad divertida e interesante. Para actuar u observar a alguien que actua, debemos identif icar las caracteristicas del personaje representado. Por ejemplo: • Su actitud. • Su",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos atentamente:",
+              "descripcion": "Leemos atentamente:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Con ayuda del profesor o la profesora, jugamos a silabear las siguientes palabras con nuestras",
+              "descripcion": "Con ayuda del profesor o la profesora, jugamos a silabear las siguientes palabras con nuestras palmas: a-bue-la buey pa-la-cios dor-mi-an nie-to miau com-pa-ni-a cuen-to sue-no",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Ahora, leemos con atencion el siguiente texto: Trabajo con la profesora o el profesor",
+              "descripcion": "Ahora, leemos con atencion el siguiente texto: Trabajo con la profesora o el profesor",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Elaboramos la siguiente tabla en el cuaderno",
+              "descripcion": "Elaboramos la siguiente tabla en el cuaderno. En ella, clasificamos las palabras de los recuadros segun si son hiatos, diptongos o triptongos. Por ejemplo: Trabajo en parejas ra matica G ramatica Hiatos, diptongos y tr iptongos Una silaba puede estar compuesta por dos o tres vocales seguidas. Por ejemplo: abue-la miau Existen distintas secuencias d",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Compartimos nuestro trabajo con los demas companeros y companeras y el profesor o la profesora",
+              "descripcion": "Compartimos nuestro trabajo con los demas companeros y companeras y el profesor o la profesora. Lo corregimos si es necesario. La profesora o el profesor valora las actividades que realizamos. Actividades de aplicacion Trabajo con mi familia fue-go ba-ul guau le-on hue-vo U-ru-guay ca-ca-o rei-na Hiatos Diptongos Triptongos re-ir hue-so Pa-ra-guay ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Que interesante es la actuacion!..................",
+          "concepto": "",
+          "desempeno": "Guia 11 Conozco mitos, leyendas y otras expresiones culturales! Guia 12 Que sabemos de las canciones y los poemas?",
+          "ejes_tematicos": [
+            "interesante es",
+            "la actuacion!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Juego con mis familiares a actuar como si yo fuera papa, mama u otro adulto",
+              "descripcion": "Juego con mis familiares a actuar como si yo fuera papa, mama u otro adulto trabajando. Imito sus acciones y luego hago mi representacion ante ellos. Les pido que jueguen conmigo y me imiten tambien. Actividades de aplicacion Al terminar esta guia y despues de valorar mis aprendizajes con el profesor o la profesora, registro mi progreso. Trabajo co",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Llevo a la escuela o el colegio: ropa, zapatos, maquillaje o cosas que ya no",
+              "descripcion": "Llevo a la escuela o el colegio: ropa, zapatos, maquillaje o cosas que ya no se utilicen en casa y que esten a mi alcance para disfrazarme. Les propongo a mis companeras y companeros iniciar el Rincon de disfraces.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Me gusta jugar con los titeres! ..................",
+          "concepto": "",
+          "desempeno": "Guia 11 Conozco mitos, leyendas y otras expresiones culturales! Guia 12 Que sabemos de las canciones y los poemas? Guia 13 Que interesante es la actuacion!",
+          "ejes_tematicos": [
+            "jugar con los",
+            "titeres!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Recuerdo una cancion, un poema o un cuento",
+              "descripcion": "Recuerdo una cancion, un poema o un cuento. Lo presento ante mis familiares utilizando el titere que elaboramos en clase. Enseno a mis hermanos, hermanas o vecinos como manejarlo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de un familiar, elaboro un titere",
+              "descripcion": "Con ayuda de un familiar, elaboro un titere. Juego a ponerle un nombre y a darle caracteristicas de un personaje: quien es, donde vive, que le gusta hacer, etc. Llevo mi titere al salon de clases para presentarlo, diciendo que cosas sabe hacer.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comento con los companeros y companeras como elabore el titere con mi familia",
+              "descripcion": "Comento con los companeros y companeras como elabore el titere con mi familia. Comentamos nuestro trabajo con el profesor o la profesora. Trabajo con mi familia Actividades de aplicacion Al terminar esta guia y despues de valorar mis aprendizajes con el profesor o la profesora, registro mi progreso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Pensamos que le puede susurrar el viento a cada uno de los personajes del texto",
+              "descripcion": "Pensamos que le puede susurrar el viento a cada uno de los personajes del texto anterior. Escribimos lo que imaginamos en el cuaderno. 144 1515 Lenguaje 3",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Interpretemos guiones! ...........................",
+          "concepto": "",
+          "desempeno": "Guia 11 Conozco mitos, leyendas y otras expresiones culturales! Guia 12 Que sabemos de las canciones y los poemas? Guia 13 Que interesante es la actuacion! Guia 14 Me gusta jugar con los titeres!",
+          "ejes_tematicos": [
+            "guiones!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Sorprendo a mi familia representando el personaje que interprete en la obra teatral",
+              "descripcion": "Sorprendo a mi familia representando el personaje que interprete en la obra teatral. Les pregunto que opinan de mi actuacion. Escribo sus comentarios en el cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, elaboro una mascara de Mama Osa o de Osito Pepin",
+              "descripcion": "Con ayuda de mis familiares, elaboro una mascara de Mama Osa o de Osito Pepin. Puedo utilizar papel, lapices de colores o materiales reciclados.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Llevo mi mascara a la proxima clase",
+              "descripcion": "Llevo mi mascara a la proxima clase. Dramatizo algunas lineas del guion de la actividad A3 junto a mis companeros y companeras. Con estas expresiones, inventamos un juego o ejercicio para seguir haciendo preguntas. Por ejemplo, jugamos a interpretar a un reportero que entrevista varios personajes famosos. Para ello, tenemos en cuenta hacer y respon",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la vineta o recuadro cuatro, ocurre que A",
+              "descripcion": "En la vineta o recuadro cuatro, ocurre que A. Valeria y su mascota estan heridos por su accidente. B. Valeria descansa feliz y tranquila como siempre. C. Valeria y su mascota duermen despues de viajar por el bosque. D. Valeria y su mascota observan el cielo para saber si llovera pronto.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Creo que la actitud de la tia de Valeria fue A",
+              "descripcion": "Creo que la actitud de la tia de Valeria fue A. valiente y generosa. B. cuidadosa e inteligente. C. de enojo y castigo. D. generosa, comprensiva e inteligente. III. Imagino que soy amigo o amiga de Valeria. Como conozco el final de esta historia, el mensaje que compartiria a Valeria es: A. Que tristeza que hayan desobedecido a su tia! B. Felicitaci",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En pedazos de papel o cartulina, escribimos las siguientes expresiones: Ortografia En las oraciones interrogativas,",
+              "descripcion": "En pedazos de papel o cartulina, escribimos las siguientes expresiones: Ortografia En las oraciones interrogativas, siempre debemos escribir un signo al comienzo y otro al final. Por ejemplo: Como estas? !!",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "El lenguaje y mi entorno",
+      "desempeno_general": "Reconozco el lenguaje como herramienta para interactuar con mi entorno.",
+      "guias": [
+        {
+          "numero": 16,
+          "titulo": "Que divertido es leer y escribir!.................",
+          "concepto": "",
+          "desempeno": "Guia 15: Interpretemos guiones! .",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Explico a mis familiares como utilizamos el Correo de la amistad y el Buzon de",
+              "descripcion": "Explico a mis familiares como utilizamos el Correo de la amistad y el Buzon de sugerencias en la escuela o colegio. Les pido que participen, enviando mensajes a la profesora o el profesor, o a mis companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el libro de Mis creaciones, elaboro un escrito sobre un tema que me interese",
+              "descripcion": "En el libro de Mis creaciones, elaboro un escrito sobre un tema que me interese mucho. Para realizar esta actividad, escribo un texto poetico, narrativo o expositivo, y recuerdo lo que aprendi en esta guia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparto mi trabajo con los companeros y companeras en la proxima clase",
+              "descripcion": "Comparto mi trabajo con los companeros y companeras en la proxima clase. Trabajo con el profesor o la profesora",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Con orientacion del profesor o la profesora, dialogamos acerca de como fue nuestro desempeno durante",
+              "descripcion": "Con orientacion del profesor o la profesora, dialogamos acerca de como fue nuestro desempeno durante la exposicion. Escuchamos atentamente sus comentarios y los escribimos en el cuaderno. Recordamos estos comentarios para mejorar en futuras exposiciones. La profesora o el profesor valora las actividades que realizamos. Actividades de aplicacion Tra",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Por que es importante escribir?...................",
+          "concepto": "",
+          "desempeno": "Guia 16 Que divertido es leer y escribir!",
+          "ejes_tematicos": [
+            "importante",
+            "escribir?"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento con mi familia: a. Que mensajes escritos utilizamos para comunicarnos? Por ejemplo: las notas",
+              "descripcion": "Comento con mi familia: a. Que mensajes escritos utilizamos para comunicarnos? Por ejemplo: las notas que dejamos sobre la mesa, un mensaje de texto, tarjetas para felicitar a un familiar... b. Que tipo de mensajes prefiere escribir cada uno de nosotros? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de un familiar adulto, escribo un mensaje a un amigo o amiga del",
+              "descripcion": "Con ayuda de un familiar adulto, escribo un mensaje a un amigo o amiga del salon de clases, expresandole mi aprecio. El mensaje puede ser una carta breve o una tarjeta sencilla. Llevo mi mensaje al Correo de la amistad. 176 1818 Lenguaje 3 Actividades basicas",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Escribo una carta dirigida al presidente del Gobierno Estudiantil",
+              "descripcion": "Escribo una carta dirigida al presidente del Gobierno Estudiantil. Le cuento mi opinion acerca de como esta funcionando el Buzon de sugerencias y el Correo de la amistad en nuestro salon de clases. Ademas, le propongo ideas sobre como podemos mejorar su funcionamiento. Incluyo nuestros datos en el sobre de la carta. Luego, la envio a traves del Buz",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Aprendamos sobre la comunicacion y sus elementos!",
+          "concepto": "",
+          "desempeno": "Trabajo individual Tiempo despues, la fiera cayo en las redes tendidas por un cazador y como, a pesar de su fuerza, no podia liberarse, atrono la selva con sus furiosos rugidos.",
+          "ejes_tematicos": [
+            "Lenguaje 3"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mi familia, escucho una noticia que se transmita por la radio",
+              "descripcion": "Con ayuda de mi familia, escucho una noticia que se transmita por la radio. Luego, respondo en el cuaderno: a. En que emisora se presenta la noticia? b. Cual es el tema principal de la noticia? c. Quien es la persona o las personas que hablan? Que edad cremos que tienen? Como es su actitud?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de un familiar mayor, elaboro un afiche donde describa como se usan los",
+              "descripcion": "Con ayuda de un familiar mayor, elaboro un afiche donde describa como se usan los medios de comunicacion masiva en mi barrio o vereda.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, comparto mi trabajo con los demas companeros y companeras",
+              "descripcion": "En la proxima clase, comparto mi trabajo con los demas companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno, escribimos las ideas mas importantes de las exposiciones de nuestros companeros y",
+              "descripcion": "En el cuaderno, escribimos las ideas mas importantes de las exposiciones de nuestros companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Dialogamos con los companeros y companeras sobre como fue nuestro desempeno durante la exposicion",
+              "descripcion": "Dialogamos con los companeros y companeras sobre como fue nuestro desempeno durante la exposicion. Escuchamos atentamente sus comentarios para tenerlos en cuenta en futuras presentaciones. 186 1919 Lenguaje 3",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Como usamos Internet?.............................",
+          "concepto": "",
+          "desempeno": "Guia 16 Que divertido es leer y escribir! Guia 17 Por que es importante escribir? Guia 18 Aprendamos sobre la comunicacion y sus elementos!",
+          "ejes_tematicos": [
+            "Internet?"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento con mis familiares lo que aprendi en clase acerca de Internet",
+              "descripcion": "Comento con mis familiares lo que aprendi en clase acerca de Internet. Dialogo con ellos sobre lo siguiente: a. Que beneficios podemos tener de Internet? b. Como debemos utilizar Internet nosotros los ninos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de un familiar, investigo si mi comunidad, barrio, vereda o municipio tiene un",
+              "descripcion": "Con ayuda de un familiar, investigo si mi comunidad, barrio, vereda o municipio tiene un sitio web oficial. Lo consulto y escribo en el cuaderno que recursos o temas puedo encontrar en el. Actividades de aplicacion Trabajo con mi familia Al terminar esta guia y despues de valorar mis aprendizajes con el profesor o la profesora, registro mi progreso",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Busco un periodico de mi escuela o colegio, mi region o mi pais",
+              "descripcion": "Busco un periodico de mi escuela o colegio, mi region o mi pais. Me fijo en las secciones que tiene y elijo una noticia que me guste para leerla. Puede ser deportiva, cultural, etc.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Comento la noticia que lei con algunos de mis companeros y companeras",
+              "descripcion": "Comento la noticia que lei con algunos de mis companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Comentamos y respondemos: a",
+              "descripcion": "Comentamos y respondemos: a. Nuestra escuela o colegio tiene su propio periodico? b. Que pasos debemos seguir para organizar nuestro Periodico mural?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Buscamos periodicos, tanto nacionales como locales",
+              "descripcion": "Buscamos periodicos, tanto nacionales como locales. Nos organizamos en grupos. Cada grupo escoge uno de los siguientes temas: La noticia politica de la semana El de porte mas practicado El pers onaje mas destacado La activida d escolar o de la region mas interesante",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos las noticias relacionadas con el tema o la region que elegimos",
+              "descripcion": "Leemos las noticias relacionadas con el tema o la region que elegimos. Leer el periodico nos ayuda a mantenernos informados sobre lo que pasa en nuestra sociedad. Trabajo en equipo Trabajo individual a a a b i j p j m e f a g w s l n k h xz i ja a a b i j p j m e f a g w s l n k h xz i 197",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Con base en el texto anterior, revisamos si hicimos correctamente las actividades B6 y B7",
+              "descripcion": "Con base en el texto anterior, revisamos si hicimos correctamente las actividades B6 y B7. Comentamos nuestro trabajo con los companeros y companeras. Corregimos si es necesario. La profesora o el profesor valora las actividades que realizamos.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Hablemos sobre el Periodico mural!................",
+          "concepto": "",
+          "desempeno": "Guia 16 Que divertido es leer y escribir! Guia 17 Por que es importante escribir? Guia 18 Aprendamos sobre la comunicacion y sus elementos! Guia 19 Como usamos Internet?",
+          "ejes_tematicos": [
+            "sobre el",
+            "Periodico mural!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, escribo una noticia acerca de un hecho importante que ocurra",
+              "descripcion": "Con ayuda de mis familiares, escribo una noticia acerca de un hecho importante que ocurra en mi comunidad. Elaboro este texto en una hoja y lo ilustro con dibujos o recortes de imagenes.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comparto mi trabajo en la proxima clase",
+              "descripcion": "Comparto mi trabajo en la proxima clase. Lo expongo en nuestro Periodico mural. competencia comunicativa? Como avanzo en mi 205 I. Leo con atencion la siguiente situacion: A Marcela, una nina del curso tercero, se le ha perdido su mascota. Ella cree que si hace un mensaje por escrito para buscarla, hay posibilidades de encontrarla. II. Respondo las",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En clase de Artes, aprendi a hacer un plegado de una mariposa",
+              "descripcion": "En clase de Artes, aprendi a hacer un plegado de una mariposa. Mis primos quieren saber como lo hice. Entonces, debo escribir un texto que A. explique por que decidieron hacer una mariposa y no otro animal. B. enuncie la lista de materiales que se necesitan para hacer el plegado. C. explique claramente las instrucciones de como se hace el plegado d",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "La noticia presentada trata de A",
+              "descripcion": "La noticia presentada trata de A. un campeonato de tejo. B. los deportes colombianos. C. un nino de 12 anos que gano el campeonato nacional de tejo. D. un nino de 12 anos que sobresale por su inteligencia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "La radio presenta la noticia a traves de A",
+              "descripcion": "La radio presenta la noticia a traves de A. imagenes y sonidos. B. letras e imagenes. C. sonidos. D. sonidos y letras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Para escribir la noticia de Juan David en el Periodico mural de mi escuela o",
+              "descripcion": "Para escribir la noticia de Juan David en el Periodico mural de mi escuela o colegio, debo A. nombrar las caracteristicas fisicas de Juan David. B. indicar que sucedio, y la fecha y el lugar donde ocurrio el suceso. C. describir que es tejo y quienes son los papas de Juan David. D. mencionar quien es Juan David y que es tejo a traves de versos y es",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Expresemonos por medio de imagenes! Seguimos con atencion las indicaciones: a",
+              "descripcion": "Expresemonos por medio de imagenes! Seguimos con atencion las indicaciones: a. Dialogamos sobre que imagenes nos gusta observar cuando leemos un periodico, una revista, un libro o un sitio web. Por ejemplo: fotos de animales, dibujos de seres fantasticos, caricaturas de personajes famosos... b. Nos dividimos en grupos de dos o tres estudiantes y se",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Elaboramos el Periodico mural de la proxima semana con base en lo que hemos aprendido",
+              "descripcion": "Elaboramos el Periodico mural de la proxima semana con base en lo que hemos aprendido en esta unidad. Tenemos en cuenta escribir noticias para diferentes secciones del Periodico. Trabajo con mi familia Actividades de aplicacion La profesora o el profesor valora las actividades que realizamos. Al terminar esta guia y despues de valorar mis aprendiza",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 811,
+          "titulo": ".Con base en la historieta anterior, respondemos en",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pido a mis familiares que me ensenen algunas senales de transito que conozcan",
+              "descripcion": "Pido a mis familiares que me ensenen algunas senales de transito que conozcan. Tambien, les solicito que me ensenen a leer signos de la naturaleza. Por ejemplo: • El sol ascendiendo indica que va a amanecer. Actividades de aplicacion Trabajo con mi familia 87 99",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dibujo las senales que aprendi con mi familia y las llevo a la escuela o",
+              "descripcion": "Dibujo las senales que aprendi con mi familia y las llevo a la escuela o el colegio.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, comparto mi trabajo con los companeros y companeras",
+              "descripcion": "En la proxima clase, comparto mi trabajo con los companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos con atencion: Trabajo en parejas Muchas de las historias que leemos estan basadas en",
+              "descripcion": "Leemos con atencion: Trabajo en parejas Muchas de las historias que leemos estan basadas en hechos reales, es decir, en experiencias que alguien alguna vez vivio. Otras historias surgen de la imaginacion de sus autores. Estos textos son de f iccion porque lo que narran son hechos fantasticos y distintos a la realidad.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elaboramos la siguiente tabla en una hoja",
+              "descripcion": "Elaboramos la siguiente tabla en una hoja. Ubicamos las acciones en cada columna, segun sean ficcionales o no ficcionales:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos atentamente la siguiente infografia: Leer libros sin paginas Personas que olvidan canciones Hervir la",
+              "descripcion": "Leemos atentamente la siguiente infografia: Leer libros sin paginas Personas que olvidan canciones Hervir la tetera sobre la estufa Cucharas que se caen solas Accion imaginaria o ficcional Accion real o no ficcional • Hacer te de lagrimas. • Sacar la tetera del armario. • Llenar la tetera con lagrimas. • Pensar en cosas tristes. • • • • 90 Como sab",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con base en la infografia anterior, identificamos en el cuento El te de lagrimas de",
+              "descripcion": "Con base en la infografia anterior, identificamos en el cuento El te de lagrimas de la actividad A1: a. Como inicia la historia. Es decir, como se presenta al personaje y el lugar donde ocurre la historia. b. Cual es el nudo o conflicto. Esto es, que acciones realiza o tiene que enfrentar el personaje, en este caso, Buho. c. Cual es el desenlace, e",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comentamos nuestras respuestas con otros grupos",
+              "descripcion": "Comentamos nuestras respuestas con otros grupos. Presentamos nuestro trabajo al profesor o la profesora. Actividades de practica Trabajo en equipo Titulo y autor(a) Personajes Ambiente o lugar Acciones",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leemos las siguientes palabras, pronunciandolas en forma correcta:",
+              "descripcion": "Leemos las siguientes palabras, pronunciandolas en forma correcta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Elaboramos el siguiente cuadro en el cuaderno",
+              "descripcion": "Elaboramos el siguiente cuadro en el cuaderno. Escribimos en cada casilla una palabra que tenga la combinacion de consonantes que se indica en la primera columna. Por ejemplo: br broma brocha brisa cobre cr dr dragon fr gr pr precio tr trofeo a a a b i j p j m e f a g w s l n k h xz i ja a a b i j p j m e f a g w s l n k h xz i 103 Unidad 2, Guia 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Ahora, elaboramos el siguiente cuadro",
+              "descripcion": "Ahora, elaboramos el siguiente cuadro. Lo completamos con palabras que tengan silabas con las combinaciones bl, fl, pl, cl, y gl. Seguimos los ejemplos: Trabajo con mi familia Actividades de aplicacion Al terminar esta guia y despues de valorar mis aprendizajes con el profesor o la profesora, registro mi progreso. Presentamos nuestro trabajo al pro",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Investigamos en Internet o en la biblioteca como se comunican las personas sordas o con",
+              "descripcion": "Investigamos en Internet o en la biblioteca como se comunican las personas sordas o con discapacidad auditiva. Tomamos nota de la informacion mas importante que consultamos. Comentamos nuestro trabajo con el profesor o la profesora. Al terminar esta guia y despues de valorar mis aprendizajes con el profesor o la profesora, registro mi progreso.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

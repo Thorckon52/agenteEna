@@ -1,0 +1,2306 @@
+{
+  "asignatura": "Matematicas",
+  "grado": 1,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Maria Jimena Bravo Moreno, Fabio Andres Parra Garzon",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "DBA 10: Clasifica y organiza datos, los representa utilizando tablas de conteo y pictogramas sin escalas, y comunica los resultados obtenidos para responder preguntas sencillas. Unidad 4Unidad 4 Juguemos con las operaciones matematicas Desempenos generales: Razono adecuadamente ante una situacion problema,",
+    "DBA 2: Utiliza diferentes estrategias para contar, realizar operaciones (suma y resta) y resolver problemas aditivos. Unidad 1 Acerquemonos a nuestros amigos: los numeros! Desempeno general: Utilizo los numeros para describir situaciones cotidianas por medio del conteo y el reconocimiento de cantidades. Pe",
+    "DBA 2: Utiliza diferentes estrategias para contar, realizar operaciones (suma y resta ) y resolver problemas aditivos.",
+    "DBA 2: Utiliza diferentes estrategias para contar, realizar operaciones (suma y resta) y resolver problemas aditivos. Unidad 2",
+    "DBA 1: Identifica los usos de los numeros (como codigo, cardinal, medida, ordinal) y las operaciones (suma y resta) en contextos de juego, familiares, economicos, entre otros.",
+    "DBA 6: Compara objetos del entorno y establece semejanzas y diferencias empleando caracteristicas geometricas de las formas bidimensionales y tridimensionales (curvo o recto, abierto o cerrado, plano o solido, numero de lados, numero de caras, entre otros).",
+    "DBA 8: Describe cualitativamente situaciones para identificar el cambio y la variacion usando gestos, dibujos, diagramas, medios graficos y simbolicos.",
+    "DBA 7: Describe y representa trayectorias y posiciones de objetos y personas para orientar a otros o a si mismo en el espacio circundante.",
+    "DBA 9: Reconoce el signo igual como una equivalencia entre expresiones con sumas y restas."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Acerquémonos a nuestros amigos: los números",
+      "desempeno_general": "Utilizo los números para describir situaciones cotidianas mediante el conteo y el reconocimiento de cantidades.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "Represento mi entorno con números",
+          "concepto": "Conteo del 1 al 5, Lectura y escritura de números, Comparación de cantidades",
+          "desempeno": "Reconozco los usos de los números en contextos cotidianos. Represento cantidades del 1 al 5.",
+          "ejes_tematicos": [
+            "Conteo del 1 al 5",
+            "Lectura y escritura de números",
+            "Comparación de cantidades"
+          ],
+          "recursos": [
+            "Tapas, fichas, palos, piedras, semillas",
+            "Tarjetas numéricas",
+            "Cuaderno y lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, consigo una caja de carton para hacer una yupana: ·",
+              "descripcion": "Con ayuda de un familiar, consigo una caja de carton para hacer una yupana: · Divido la caja en tres casillas. Para ello, utilizo trozos de carton. · Marco cada casilla con el nombre: unidades, decenas y centenas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Juego con mi familia a hacer sumas en la yupana que elabore",
+              "descripcion": "Juego con mi familia a hacer sumas en la yupana que elabore. Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Ahora recogemos las piedritas o semillas y dejamos la yupana en cero",
+              "descripcion": "Ahora recogemos las piedritas o semillas y dejamos la yupana en cero. Asi la yupana queda sin ningun elemento. Luego, hacemos los siguientes ejercicios:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion. Si es necesario, la leemos varias veces hasta comprenderla bien: Centenas Decenas Unidades Centenas Decenas Unidades Centenas Decenas Unidades 6 + = 10 Observemos que sucede cuando sumamos seis y cuatro. Con esa suma, completamos un grupo de diez unidades: Centenas ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno, escribo tres formas diferentes de representar la decena",
+              "descripcion": "En el cuaderno, escribo tres formas diferentes de representar la decena. Dibujo objetos y coloco el numero correspondiente a cada grupo. Por ejemplo:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Observo las siguientes secuencias de numeros",
+              "descripcion": "Observo las siguientes secuencias de numeros. Digo cuales numeros hacen faltan para completar la secuencia: 2 + 8 = 10 2 , 4 , 6 , 8 , 10 . a. 1 , , , , 9 . b. 1 , , 3 , , , 6 , 7 , , . Presento mi trabajo a la profesora o al profesor. 58 1 Guia Matematicas 7 Actividades basicas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien. Luego, la escribimos en el cuaderno de Matematicas: Pedro compro tres libras de tomate en la manana. En la tarde, el salio y compro cuatro libras mas. Cuantas libras de tomate compro Pedro en to",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno",
+              "descripcion": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno de Matematicas: 3 + 5 = 1 + 2 = 6 + 2 = R e cord emos Horizontal 2 + 3 = 5 Vertical 2 + 3 5 Podemos sumar o adicionar de manera horizontal y de manera vertical. Por ejemplo: Trabajo con la profesora o el profesor Presento mi trabajo a la profesora o al profesor. 61",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Vamos a empezar a jugar! a",
+              "descripcion": "Vamos a empezar a jugar! a. Hacemos una fila al inicio de la linea. b. Por turnos, damos un salto lo mas lejos posible. c. Hacemos una senal en el sitio donde cayo cada uno. c. Una decena y cuatro unidades de circulos. d. Una decena y una unidad de rectangulos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos los vagones del tren en donde estan organizados los numeros",
+              "descripcion": "Observamos los vagones del tren en donde estan organizados los numeros. Ahora escribimos en el cuaderno de trabajo o en el cuaderno de Matematicas: Presentamos nuestro trabajo a la profesora o al profesor. Trabajo en parejas 11 12 13 14 15 16 17 18 19 10 diez 92 Matematicas 1 Trabajo con la profesora o el profesor Cuantos hermanitos y primitas tien",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el",
+              "descripcion": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el numero de bananos que hay en cada recuadro. Nos guiamos por el ejemplo: 10 11 12 13 1 15 16 1 18 19",
+              "instrucciones": []
+            },
+            {
+              "numero": 17,
+              "titulo": "Medimos, en centimetros, el largo y el ancho de la guia de Matematicas",
+              "descripcion": "Medimos, en centimetros, el largo y el ancho de la guia de Matematicas. Utilizamos la regla para ello. 151 Unidad 3, uia 19",
+              "instrucciones": []
+            },
+            {
+              "numero": 18,
+              "titulo": "En el cuaderno, completamos las siguientes oraciones: a",
+              "descripcion": "En el cuaderno, completamos las siguientes oraciones: a. El largo de la guia de Matematicas es centimetros. b. El ancho de la guia de Matematicas es centimetros.",
+              "instrucciones": []
+            },
+            {
+              "numero": 19,
+              "titulo": "Comparamos nuestro trabajo con el de las demas companeras y companeros",
+              "descripcion": "Comparamos nuestro trabajo con el de las demas companeras y companeros. Lo corregimos si es necesario. Presentamos nuestro trabajo a la profesora o al profesor. Para medir la longitud de un objeto, se puede utilizar una unidad de longitud como el centimetro. 1 centimetro",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "¡Aprendamos los números del 6 al 9!",
+          "concepto": "Conteo, Representación numérica, Lectura y escritura de números",
+          "desempeno": "Reconozco y represento los números del 6 al 9.",
+          "ejes_tematicos": [
+            "Conteo",
+            "Representación numérica",
+            "Lectura y escritura de números"
+          ],
+          "recursos": [
+            "Cuerdas",
+            "Piedras o semillas",
+            "Cartulina",
+            "Tijeras y colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, consigo una caja de carton para hacer una yupana: ·",
+              "descripcion": "Con ayuda de un familiar, consigo una caja de carton para hacer una yupana: · Divido la caja en tres casillas. Para ello, utilizo trozos de carton. · Marco cada casilla con el nombre: unidades, decenas y centenas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Juego con mi familia a hacer sumas en la yupana que elabore",
+              "descripcion": "Juego con mi familia a hacer sumas en la yupana que elabore. Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Ahora recogemos las piedritas o semillas y dejamos la yupana en cero",
+              "descripcion": "Ahora recogemos las piedritas o semillas y dejamos la yupana en cero. Asi la yupana queda sin ningun elemento. Luego, hacemos los siguientes ejercicios:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion. Si es necesario, la leemos varias veces hasta comprenderla bien: Centenas Decenas Unidades Centenas Decenas Unidades Centenas Decenas Unidades 6 + = 10 Observemos que sucede cuando sumamos seis y cuatro. Con esa suma, completamos un grupo de diez unidades: Centenas ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno, escribo tres formas diferentes de representar la decena",
+              "descripcion": "En el cuaderno, escribo tres formas diferentes de representar la decena. Dibujo objetos y coloco el numero correspondiente a cada grupo. Por ejemplo:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Observo las siguientes secuencias de numeros",
+              "descripcion": "Observo las siguientes secuencias de numeros. Digo cuales numeros hacen faltan para completar la secuencia: 2 + 8 = 10 2 , 4 , 6 , 8 , 10 . a. 1 , , , , 9 . b. 1 , , 3 , , , 6 , 7 , , . Presento mi trabajo a la profesora o al profesor. 58 1 Guia Matematicas 7 Actividades basicas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien. Luego, la escribimos en el cuaderno de Matematicas: Pedro compro tres libras de tomate en la manana. En la tarde, el salio y compro cuatro libras mas. Cuantas libras de tomate compro Pedro en to",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno",
+              "descripcion": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno de Matematicas: 3 + 5 = 1 + 2 = 6 + 2 = R e cord emos Horizontal 2 + 3 = 5 Vertical 2 + 3 5 Podemos sumar o adicionar de manera horizontal y de manera vertical. Por ejemplo: Trabajo con la profesora o el profesor Presento mi trabajo a la profesora o al profesor. 61",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "¡Sigamos conociendo los números!",
+          "concepto": "Números ordinales, Secuencia numérica",
+          "desempeno": "Reconozco números ordinales.",
+          "ejes_tematicos": [
+            "Números ordinales",
+            "Secuencia numérica"
+          ],
+          "recursos": [
+            "Hojas blancas",
+            "Lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, consigo una caja de carton para hacer una yupana: ·",
+              "descripcion": "Con ayuda de un familiar, consigo una caja de carton para hacer una yupana: · Divido la caja en tres casillas. Para ello, utilizo trozos de carton. · Marco cada casilla con el nombre: unidades, decenas y centenas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Juego con mi familia a hacer sumas en la yupana que elabore",
+              "descripcion": "Juego con mi familia a hacer sumas en la yupana que elabore. Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Ahora recogemos las piedritas o semillas y dejamos la yupana en cero",
+              "descripcion": "Ahora recogemos las piedritas o semillas y dejamos la yupana en cero. Asi la yupana queda sin ningun elemento. Luego, hacemos los siguientes ejercicios:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion. Si es necesario, la leemos varias veces hasta comprenderla bien: Centenas Decenas Unidades Centenas Decenas Unidades Centenas Decenas Unidades 6 + = 10 Observemos que sucede cuando sumamos seis y cuatro. Con esa suma, completamos un grupo de diez unidades: Centenas ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno, escribo tres formas diferentes de representar la decena",
+              "descripcion": "En el cuaderno, escribo tres formas diferentes de representar la decena. Dibujo objetos y coloco el numero correspondiente a cada grupo. Por ejemplo:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Observo las siguientes secuencias de numeros",
+              "descripcion": "Observo las siguientes secuencias de numeros. Digo cuales numeros hacen faltan para completar la secuencia: 2 + 8 = 10 2 , 4 , 6 , 8 , 10 . a. 1 , , , , 9 . b. 1 , , 3 , , , 6 , 7 , , . Presento mi trabajo a la profesora o al profesor. 58 1 Guia Matematicas 7 Actividades basicas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien. Luego, la escribimos en el cuaderno de Matematicas: Pedro compro tres libras de tomate en la manana. En la tarde, el salio y compro cuatro libras mas. Cuantas libras de tomate compro Pedro en to",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno",
+              "descripcion": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno de Matematicas: 3 + 5 = 1 + 2 = 6 + 2 = R e cord emos Horizontal 2 + 3 = 5 Vertical 2 + 3 5 Podemos sumar o adicionar de manera horizontal y de manera vertical. Por ejemplo: Trabajo con la profesora o el profesor Presento mi trabajo a la profesora o al profesor. 61",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "No hay nada",
+          "concepto": "Número cero, Representación de cantidades",
+          "desempeno": "Reconozco el significado del número cero.",
+          "ejes_tematicos": [
+            "Número cero",
+            "Representación de cantidades"
+          ],
+          "recursos": [
+            "Palitos",
+            "Colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, consigo una caja de carton para hacer una yupana: ·",
+              "descripcion": "Con ayuda de un familiar, consigo una caja de carton para hacer una yupana: · Divido la caja en tres casillas. Para ello, utilizo trozos de carton. · Marco cada casilla con el nombre: unidades, decenas y centenas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Juego con mi familia a hacer sumas en la yupana que elabore",
+              "descripcion": "Juego con mi familia a hacer sumas en la yupana que elabore. Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Ahora recogemos las piedritas o semillas y dejamos la yupana en cero",
+              "descripcion": "Ahora recogemos las piedritas o semillas y dejamos la yupana en cero. Asi la yupana queda sin ningun elemento. Luego, hacemos los siguientes ejercicios:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion. Si es necesario, la leemos varias veces hasta comprenderla bien: Centenas Decenas Unidades Centenas Decenas Unidades Centenas Decenas Unidades 6 + = 10 Observemos que sucede cuando sumamos seis y cuatro. Con esa suma, completamos un grupo de diez unidades: Centenas ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno, escribo tres formas diferentes de representar la decena",
+              "descripcion": "En el cuaderno, escribo tres formas diferentes de representar la decena. Dibujo objetos y coloco el numero correspondiente a cada grupo. Por ejemplo:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Observo las siguientes secuencias de numeros",
+              "descripcion": "Observo las siguientes secuencias de numeros. Digo cuales numeros hacen faltan para completar la secuencia: 2 + 8 = 10 2 , 4 , 6 , 8 , 10 . a. 1 , , , , 9 . b. 1 , , 3 , , , 6 , 7 , , . Presento mi trabajo a la profesora o al profesor. 58 1 Guia Matematicas 7 Actividades basicas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien. Luego, la escribimos en el cuaderno de Matematicas: Pedro compro tres libras de tomate en la manana. En la tarde, el salio y compro cuatro libras mas. Cuantas libras de tomate compro Pedro en to",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno",
+              "descripcion": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno de Matematicas: 3 + 5 = 1 + 2 = 6 + 2 = R e cord emos Horizontal 2 + 3 = 5 Vertical 2 + 3 5 Podemos sumar o adicionar de manera horizontal y de manera vertical. Por ejemplo: Trabajo con la profesora o el profesor Presento mi trabajo a la profesora o al profesor. 61",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Cuando contamos, aprendemos",
+      "desempeno_general": "Utilizo estrategias de conteo y operaciones básicas.",
+      "guias": [
+        {
+          "numero": 5,
+          "titulo": "¡Conozcamos la decena!",
+          "concepto": "Decena, Conteo hasta 10",
+          "desempeno": "Reconozco la decena.",
+          "ejes_tematicos": [
+            "Decena",
+            "Conteo hasta 10"
+          ],
+          "recursos": [
+            "Piedritas",
+            "Ábacos",
+            "Lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, consigo una caja de carton para hacer una yupana: ·",
+              "descripcion": "Con ayuda de un familiar, consigo una caja de carton para hacer una yupana: · Divido la caja en tres casillas. Para ello, utilizo trozos de carton. · Marco cada casilla con el nombre: unidades, decenas y centenas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Juego con mi familia a hacer sumas en la yupana que elabore",
+              "descripcion": "Juego con mi familia a hacer sumas en la yupana que elabore. Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Ahora recogemos las piedritas o semillas y dejamos la yupana en cero",
+              "descripcion": "Ahora recogemos las piedritas o semillas y dejamos la yupana en cero. Asi la yupana queda sin ningun elemento. Luego, hacemos los siguientes ejercicios:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion. Si es necesario, la leemos varias veces hasta comprenderla bien: Centenas Decenas Unidades Centenas Decenas Unidades Centenas Decenas Unidades 6 + = 10 Observemos que sucede cuando sumamos seis y cuatro. Con esa suma, completamos un grupo de diez unidades: Centenas ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno, escribo tres formas diferentes de representar la decena",
+              "descripcion": "En el cuaderno, escribo tres formas diferentes de representar la decena. Dibujo objetos y coloco el numero correspondiente a cada grupo. Por ejemplo:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Observo las siguientes secuencias de numeros",
+              "descripcion": "Observo las siguientes secuencias de numeros. Digo cuales numeros hacen faltan para completar la secuencia: 2 + 8 = 10 2 , 4 , 6 , 8 , 10 . a. 1 , , , , 9 . b. 1 , , 3 , , , 6 , 7 , , . Presento mi trabajo a la profesora o al profesor. 58 1 Guia Matematicas 7 Actividades basicas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien. Luego, la escribimos en el cuaderno de Matematicas: Pedro compro tres libras de tomate en la manana. En la tarde, el salio y compro cuatro libras mas. Cuantas libras de tomate compro Pedro en to",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno",
+              "descripcion": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno de Matematicas: 3 + 5 = 1 + 2 = 6 + 2 = R e cord emos Horizontal 2 + 3 = 5 Vertical 2 + 3 5 Podemos sumar o adicionar de manera horizontal y de manera vertical. Por ejemplo: Trabajo con la profesora o el profesor Presento mi trabajo a la profesora o al profesor. 61",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "¿Cuánto tenemos ahora?",
+          "concepto": "Suma, Composición de números",
+          "desempeno": "Realizo adiciones sencillas.",
+          "ejes_tematicos": [
+            "Suma",
+            "Composición de números"
+          ],
+          "recursos": [
+            "Ábaco o yupana",
+            "Tarjetas numéricas",
+            "Semillas o piedritas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, consigo una caja de carton para hacer una yupana: ·",
+              "descripcion": "Con ayuda de un familiar, consigo una caja de carton para hacer una yupana: · Divido la caja en tres casillas. Para ello, utilizo trozos de carton. · Marco cada casilla con el nombre: unidades, decenas y centenas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Juego con mi familia a hacer sumas en la yupana que elabore",
+              "descripcion": "Juego con mi familia a hacer sumas en la yupana que elabore. Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Ahora recogemos las piedritas o semillas y dejamos la yupana en cero",
+              "descripcion": "Ahora recogemos las piedritas o semillas y dejamos la yupana en cero. Asi la yupana queda sin ningun elemento. Luego, hacemos los siguientes ejercicios:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion. Si es necesario, la leemos varias veces hasta comprenderla bien: Centenas Decenas Unidades Centenas Decenas Unidades Centenas Decenas Unidades 6 + = 10 Observemos que sucede cuando sumamos seis y cuatro. Con esa suma, completamos un grupo de diez unidades: Centenas ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno, escribo tres formas diferentes de representar la decena",
+              "descripcion": "En el cuaderno, escribo tres formas diferentes de representar la decena. Dibujo objetos y coloco el numero correspondiente a cada grupo. Por ejemplo:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Observo las siguientes secuencias de numeros",
+              "descripcion": "Observo las siguientes secuencias de numeros. Digo cuales numeros hacen faltan para completar la secuencia: 2 + 8 = 10 2 , 4 , 6 , 8 , 10 . a. 1 , , , , 9 . b. 1 , , 3 , , , 6 , 7 , , . Presento mi trabajo a la profesora o al profesor. 58 1 Guia Matematicas 7 Actividades basicas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien. Luego, la escribimos en el cuaderno de Matematicas: Pedro compro tres libras de tomate en la manana. En la tarde, el salio y compro cuatro libras mas. Cuantas libras de tomate compro Pedro en to",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno",
+              "descripcion": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno de Matematicas: 3 + 5 = 1 + 2 = 6 + 2 = R e cord emos Horizontal 2 + 3 = 5 Vertical 2 + 3 5 Podemos sumar o adicionar de manera horizontal y de manera vertical. Por ejemplo: Trabajo con la profesora o el profesor Presento mi trabajo a la profesora o al profesor. 61",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Encontremos relaciones y agrupemos objetos",
+          "concepto": "Adición sin reagrupación",
+          "desempeno": "Resuelvo problemas sencillos de adición.",
+          "ejes_tematicos": [
+            "Adición sin reagrupación"
+          ],
+          "recursos": [
+            "Objetos del centro de recursos",
+            "Tarjetas numéricas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, consigo una caja de carton para hacer una yupana: ·",
+              "descripcion": "Con ayuda de un familiar, consigo una caja de carton para hacer una yupana: · Divido la caja en tres casillas. Para ello, utilizo trozos de carton. · Marco cada casilla con el nombre: unidades, decenas y centenas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Juego con mi familia a hacer sumas en la yupana que elabore",
+              "descripcion": "Juego con mi familia a hacer sumas en la yupana que elabore. Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Ahora recogemos las piedritas o semillas y dejamos la yupana en cero",
+              "descripcion": "Ahora recogemos las piedritas o semillas y dejamos la yupana en cero. Asi la yupana queda sin ningun elemento. Luego, hacemos los siguientes ejercicios:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion. Si es necesario, la leemos varias veces hasta comprenderla bien: Centenas Decenas Unidades Centenas Decenas Unidades Centenas Decenas Unidades 6 + = 10 Observemos que sucede cuando sumamos seis y cuatro. Con esa suma, completamos un grupo de diez unidades: Centenas ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno, escribo tres formas diferentes de representar la decena",
+              "descripcion": "En el cuaderno, escribo tres formas diferentes de representar la decena. Dibujo objetos y coloco el numero correspondiente a cada grupo. Por ejemplo:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Observo las siguientes secuencias de numeros",
+              "descripcion": "Observo las siguientes secuencias de numeros. Digo cuales numeros hacen faltan para completar la secuencia: 2 + 8 = 10 2 , 4 , 6 , 8 , 10 . a. 1 , , , , 9 . b. 1 , , 3 , , , 6 , 7 , , . Presento mi trabajo a la profesora o al profesor. 58 1 Guia Matematicas 7 Actividades basicas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien. Luego, la escribimos en el cuaderno de Matematicas: Pedro compro tres libras de tomate en la manana. En la tarde, el salio y compro cuatro libras mas. Cuantas libras de tomate compro Pedro en to",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno",
+              "descripcion": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno de Matematicas: 3 + 5 = 1 + 2 = 6 + 2 = R e cord emos Horizontal 2 + 3 = 5 Vertical 2 + 3 5 Podemos sumar o adicionar de manera horizontal y de manera vertical. Por ejemplo: Trabajo con la profesora o el profesor Presento mi trabajo a la profesora o al profesor. 61",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Si desagrupamos, ¿con cuánto quedamos?",
+          "concepto": "Resta, Desagrupación",
+          "desempeno": "Comprendo la sustracción.",
+          "ejes_tematicos": [
+            "Resta",
+            "Desagrupación"
+          ],
+          "recursos": [
+            "Fichas",
+            "Semillas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos con atencion las siguientes imagenes",
+              "descripcion": "Observamos con atencion las siguientes imagenes. Luego, contamos y completamos en el cuaderno de trabajo o en el cuaderno de Matematicas: Actividades de practica Trabajo en equipo Otros numeros con los cuales podemos contar son: 6 7 8 9 seis siete ocho nueve Trabajo con el profesor o la profesora 26 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente retahila",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente retahila. Si es necesario, la leemos varias veces hasta comprenderla y aprenderla bien: Quien dira que no? Quien dira que no es una la rueda de la fortuna? Quien dira que no son dos la campana y el reloj? Quien dira que no son tres estas ninas que aqui ves? Quien dira que no son",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Decimos la retahila cada vez mas rapido Hacemos competencias de rapidez con las companeras y",
+              "descripcion": "Decimos la retahila cada vez mas rapido Hacemos competencias de rapidez con las companeras y los companeros",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En un octavo de cartulina, realizamos el trazo y escribimos los nombres de los numeros",
+              "descripcion": "En un octavo de cartulina, realizamos el trazo y escribimos los nombres de los numeros del seis al nueve Los decoramos con granos como lentejas, frijoles, arroz, etc Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Vamos a contar objetos! Hacemos lo siguiente: a Observamos cada uno de los siguientes armarios",
+              "descripcion": "Vamos a contar objetos! Hacemos lo siguiente: a Observamos cada uno de los siguientes armarios con juguetes: 3 5 6 7 2 3 4 5 6 2 4 7 8 9 2 4 6 8 b Contamos la cantidad de juguetes que hay en cada armario c Senalamos con el dedo indice el numero que corresponde a la cantidad de juguetes que hay en cada armario Los numeros estan debajo de cada armari",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Dibujamos los siguientes circulos en el cuaderno de Matematicas",
+              "descripcion": "Dibujamos los siguientes circulos en el cuaderno de Matematicas. Coloreamos la cantidad de circulos que representan el numero indicado en cada caso:",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Comentamos con nuestros companeros y companeras: a",
+              "descripcion": "Comentamos con nuestros companeros y companeras: a. Cual numero esta antes del siete? b. Cual numero esta entre el cuatro y el seis? c. Cual numero esta despues del ocho?",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Respondo las siguientes preguntas: a",
+              "descripcion": "Respondo las siguientes preguntas: a. Cuantas frutas hay en el segundo rectangulo? b. Cuantas frutas hay en el cuarto rectangulo? c. Cuantas frutas hay en el primer rectangulo? d. Cuantas frutas hay en el tercer rectangulo? Trabajo en equipo",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Representamos en nuestra mesa de trabajo cada jugador con un palo o piedra",
+              "descripcion": "Representamos en nuestra mesa de trabajo cada jugador con un palo o piedra. Debajo de cada palo colocamos una tarjeta con el numero que lo representa. Rita 6 seis nueve 6 siete ocho 8 25 Unidad 1, uia 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Observamos las camisetas de Marcela, Carlos y Andres",
+              "descripcion": "Observamos las camisetas de Marcela, Carlos y Andres. Alli, aparecen escritos los numeros 7, 8 y 9. Decimos como son estos numeros, es decir, si estan formados por circulos o rayas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Escribimos en el cuaderno de trabajo o en el cuaderno de Matematicas los numeros 6,",
+              "descripcion": "Escribimos en el cuaderno de trabajo o en el cuaderno de Matematicas los numeros 6, 7, 8 y 9 con sus nombres. Los coloreamos. · En las imagenes hay q ninas, q ninos, q globos y q gato. Presentamos nuestro trabajo a la profesora o al profesor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Buscamos diferentes agrupaciones que contengan diez objetos o elementos",
+              "descripcion": "Buscamos diferentes agrupaciones que contengan diez objetos o elementos. Representamos las agrupaciones en el cuaderno. Por ejemplo: tenemos diez balones en el Centro de recursos: Presentamos nuestro trabajo a la profesora o al profesor. Tenemos 1 decena cuando completamos las 10 unidades. Entonces retiramos las unidades y las remplazamos por 1 fic",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Observo las siguientes operaciones",
+              "descripcion": "Observo las siguientes operaciones. En el cuaderno de trabajo o en el cuaderno de Matematicas, escribo el numero que debe ir en cada linea: 5 mas 2 igual a 5 + 2 = d u 3 mas 3 igual a 3 + 3 = d u 55 Unidad 1, uia 6",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Traigo del centro de recursos el abaco",
+              "descripcion": "Traigo del centro de recursos el abaco. Luego, completo con argollas el resultado de cada una de las siguientes sumas: 2 mas 1 igual a 2 + 1 = 3 mas 1 igual a 3 + 1 = 4 mas 3 igual a 4 + 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Represento en el abaco las siguientes sumas",
+              "descripcion": "Represento en el abaco las siguientes sumas. Comento mis resultados con los demas companeros y companeras: 2 + 3 4 + 4 5 + 4 Presento mi trabajo a la profesora o al profesor. Trabajo individual",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Unidad 3",
+      "desempeno_general": "Realizo procedimientos adecuados de calculo e interpretacion de informacion,",
+      "guias": [
+        {
+          "numero": 9,
+          "titulo": "Utilicemos sustracciones en distintas situaciones",
+          "concepto": "Resta en contextos cotidianos",
+          "desempeno": "Resuelvo problemas de sustracción.",
+          "ejes_tematicos": [
+            "Resta en contextos cotidianos"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Juguemos a La calculadora ! Hacemos lo siguiente: Preparacion del juego: · Traemos tarjetas con",
+              "descripcion": "Juguemos a La calculadora ! Hacemos lo siguiente: Preparacion del juego: · Traemos tarjetas con los numeros del uno al cinco del Centro de recursos · Elegimos una monitora o un monitor del juego · Hacemos grupos de cinco estudiantes · En cada grupo le asignamos un numero a cada nina o nino · Cada uno toma la tarjeta del numero que le corresponde y ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Relacionemos numeros con cantidades! a",
+              "descripcion": "Relacionemos numeros con cantidades! a. Volvemos a realizar grupos de cinco estudiantes. Cambiamos de companeros y companeras. b. Nos enumeramos en el grupo. Recordemos respetar el turno que le corresponde a cada companero o companera. c. Por turnos, vamos al Centro de recursos. Tomamos la cantidad de objetos de acuerdo con el numero que nos corres",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con ayuda del profesor o de la profesora, dibujamos el cuadro en el cuaderno de",
+              "descripcion": "Con ayuda del profesor o de la profesora, dibujamos el cuadro en el cuaderno de trabajo o en el cuaderno de Matematicas. En el cuadro, realizamos la suma o adicion de los saltos que da el nino en los troncos: Matematicas. 63 Unidad 1, uia 7 La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi prog",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos o escuchamos y observamos con atencion: En total Pepe comio 5 zanahorias",
+              "descripcion": "Leemos o escuchamos y observamos con atencion: En total Pepe comio 5 zanahorias.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Nos ayudamos de la yupana o del abaco",
+              "descripcion": "Nos ayudamos de la yupana o del abaco. Realizamos las siguientes sumas o adiciones. Escribimos los resultados: 5 + 3 = 2 + 3 2 + 8 = + 5 Dos zanahorias mas tres zanahorias igual a cinco zanahorias. 2 + 3 = 5 Desayuno Almuerzo Total de zanahorias",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Realizamos en el cuaderno de Matematicas o en el cuaderno de trabajo las siguientes sumas",
+              "descripcion": "Realizamos en el cuaderno de Matematicas o en el cuaderno de trabajo las siguientes sumas. Tenemos en cuenta los dibujos: + = + = 60 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien. Luego, la escribimos en el cuaderno de Matematicas: Pedro compro tres libras de tomate en la manana. En la tarde, el salio y compro cuatro libras mas. Cuantas libras de tomate compro Pedro en to",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno",
+              "descripcion": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno de Matematicas: 3 + 5 = 1 + 2 = 6 + 2 = R e cord emos Horizontal 2 + 3 = 5 Vertical 2 + 3 5 Podemos sumar o adicionar de manera horizontal y de manera vertical. Por ejemplo: Trabajo con la profesora o el profesor Presento mi trabajo a la profesora o al profesor. 61",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Vamos a empezar a jugar! a",
+              "descripcion": "Vamos a empezar a jugar! a. Hacemos una fila al inicio de la linea. b. Por turnos, damos un salto lo mas lejos posible. c. Hacemos una senal en el sitio donde cayo cada uno. c. Una decena y cuatro unidades de circulos. d. Una decena y una unidad de rectangulos.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "¡Encontremos la mejor solución!",
+          "concepto": "Resolución de problemas",
+          "desempeno": "Analizo diferentes estrategias de solución.",
+          "ejes_tematicos": [
+            "Resolución de problemas"
+          ],
+          "recursos": [
+            "Aula organizada en grupos"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Juguemos a La calculadora ! Hacemos lo siguiente: Preparacion del juego: · Traemos tarjetas con",
+              "descripcion": "Juguemos a La calculadora ! Hacemos lo siguiente: Preparacion del juego: · Traemos tarjetas con los numeros del uno al cinco del Centro de recursos · Elegimos una monitora o un monitor del juego · Hacemos grupos de cinco estudiantes · En cada grupo le asignamos un numero a cada nina o nino · Cada uno toma la tarjeta del numero que le corresponde y ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Relacionemos numeros con cantidades! a",
+              "descripcion": "Relacionemos numeros con cantidades! a. Volvemos a realizar grupos de cinco estudiantes. Cambiamos de companeros y companeras. b. Nos enumeramos en el grupo. Recordemos respetar el turno que le corresponde a cada companero o companera. c. Por turnos, vamos al Centro de recursos. Tomamos la cantidad de objetos de acuerdo con el numero que nos corres",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con ayuda del profesor o de la profesora, dibujamos el cuadro en el cuaderno de",
+              "descripcion": "Con ayuda del profesor o de la profesora, dibujamos el cuadro en el cuaderno de trabajo o en el cuaderno de Matematicas. En el cuadro, realizamos la suma o adicion de los saltos que da el nino en los troncos: Matematicas. 63 Unidad 1, uia 7 La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi prog",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Decimos cuantas estrellas deben ir en cada recuadro para que de como resultado diez",
+              "descripcion": "Decimos cuantas estrellas deben ir en cada recuadro para que de como resultado diez. Trabajo en parejas Trabajo con mi familia Presento mi trabajo a la profesora o al profesor. Actividades de aplicacion",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Leemos con fluidez la siguiente situacion problema. La analizamos. Si es necesario, nos turnamos para leerla varias veces hasta comprenderla bien: · + = 10 · + = 10 · + = 10 Vanesa colecciona gorras. Ella tenia tres. Su papa le regalo algunas y quedo con nueve gorras en total. · Cuantas gorras le regalo su papa? 64 Cuanto he aprendido? I. Observo d",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Realizamos en el cuaderno de Matematicas o en el cuaderno de trabajo las siguientes sumas",
+              "descripcion": "Realizamos en el cuaderno de Matematicas o en el cuaderno de trabajo las siguientes sumas. Tenemos en cuenta los dibujos: + = + = 60 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien. Luego, la escribimos en el cuaderno de Matematicas: Pedro compro tres libras de tomate en la manana. En la tarde, el salio y compro cuatro libras mas. Cuantas libras de tomate compro Pedro en to",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno",
+              "descripcion": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno de Matematicas: 3 + 5 = 1 + 2 = 6 + 2 = R e cord emos Horizontal 2 + 3 = 5 Vertical 2 + 3 5 Podemos sumar o adicionar de manera horizontal y de manera vertical. Por ejemplo: Trabajo con la profesora o el profesor Presento mi trabajo a la profesora o al profesor. 61",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Vamos a empezar a jugar! a",
+              "descripcion": "Vamos a empezar a jugar! a. Hacemos una fila al inicio de la linea. b. Por turnos, damos un salto lo mas lejos posible. c. Hacemos una senal en el sitio donde cayo cada uno. c. Una decena y cuatro unidades de circulos. d. Una decena y una unidad de rectangulos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos los vagones del tren en donde estan organizados los numeros",
+              "descripcion": "Observamos los vagones del tren en donde estan organizados los numeros. Ahora escribimos en el cuaderno de trabajo o en el cuaderno de Matematicas: Presentamos nuestro trabajo a la profesor",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el",
+              "descripcion": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el numero de bananos que hay en cada recuadro. Nos guiamos por el ejemplo: 10 11 12 13 1 15 16 1 18 19",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "¡Representemos cantidades más grandes!",
+          "concepto": "Representación numérica",
+          "desempeno": "Represento cantidades mayores.",
+          "ejes_tematicos": [
+            "Representación numérica"
+          ],
+          "recursos": [
+            "Tarjetas",
+            "Objetos contables"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Juguemos a La calculadora ! Hacemos lo siguiente: Preparacion del juego: · Traemos tarjetas con",
+              "descripcion": "Juguemos a La calculadora ! Hacemos lo siguiente: Preparacion del juego: · Traemos tarjetas con los numeros del uno al cinco del Centro de recursos · Elegimos una monitora o un monitor del juego · Hacemos grupos de cinco estudiantes · En cada grupo le asignamos un numero a cada nina o nino · Cada uno toma la tarjeta del numero que le corresponde y ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Relacionemos numeros con cantidades! a",
+              "descripcion": "Relacionemos numeros con cantidades! a. Volvemos a realizar grupos de cinco estudiantes. Cambiamos de companeros y companeras. b. Nos enumeramos en el grupo. Recordemos respetar el turno que le corresponde a cada companero o companera. c. Por turnos, vamos al Centro de recursos. Tomamos la cantidad de objetos de acuerdo con el numero que nos corres",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con ayuda del profesor o de la profesora, dibujamos el cuadro en el cuaderno de",
+              "descripcion": "Con ayuda del profesor o de la profesora, dibujamos el cuadro en el cuaderno de trabajo o en el cuaderno de Matematicas. En el cuadro, realizamos la suma o adicion de los saltos que da el nino en los troncos: Matematicas. 63 Unidad 1, uia 7 La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi prog",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Decimos cuantas estrellas deben ir en cada recuadro para que de como resultado diez",
+              "descripcion": "Decimos cuantas estrellas deben ir en cada recuadro para que de como resultado diez. Trabajo en parejas Trabajo con mi familia Presento mi trabajo a la profesora o al profesor. Actividades de aplicacion",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Leemos con fluidez la siguiente situacion problema. La analizamos. Si es necesario, nos turnamos para leerla varias veces hasta comprenderla bien: · + = 10 · + = 10 · + = 10 Vanesa colecciona gorras. Ella tenia tres. Su papa le regalo algunas y quedo con nueve gorras en total. · Cuantas gorras le regalo su papa? 64 Cuanto he aprendido? I. Observo d",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Andres y Mathias reunieron sus cubos para hacer una torre",
+              "descripcion": "Andres y Mathias reunieron sus cubos para hacer una torre. Cuantos cubos tendra en total esa torre? La profesora o el profesor valora los desempenos alcanzados con el desarrollo de las guias de esta unidad. Si cree conveniente, me indicara que actividades de refuerzo debo realizar. A. 6. B. 9. C. 8. D. . . Cuantos cubos tiene la torre de Sofia y Lu",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribimos el anterior texto en el cuaderno de Matematicas. Le ponemos como titulo: Resta o sustraccion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno",
+              "descripcion": "Resuelvo las siguientes sumas o adiciones en el cuaderno de trabajo o en el cuaderno de Matematicas: 3 + 5 = 1 + 2 = 6 + 2 = R e cord emos Horizontal 2 + 3 = 5 Vertical 2 + 3 5 Podemos sumar o adicionar de manera horizontal y de manera vertical. Por ejemplo: Trabajo con la profesora o el profesor Presento mi trabajo a la profesora o al profesor. 61",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Vamos a empezar a jugar! a",
+              "descripcion": "Vamos a empezar a jugar! a. Hacemos una fila al inicio de la linea. b. Por turnos, damos un salto lo mas lejos posible. c. Hacemos una senal en el sitio donde cayo cada uno. c. Una decena y cuatro unidades de circulos. d. Una decena y una unidad de rectangulos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos los vagones del tren en donde estan organizados los numeros",
+              "descripcion": "Observamos los vagones del tren en donde estan organizados los numeros. Ahora escribimos en el cuaderno de trabajo o en el cuaderno de Matematicas: Presentamos nuestro trabajo a la profesora o al profesor. Trabajo en parejas 11 12 13 14 15 16 17 18 19 10 diez 92 Matematicas 1 Trabajo con la profesora o el profesor Cuantos hermanitos y primitas tien",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el",
+              "descripcion": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el numero de bananos que hay en cada recuadro. Nos guiamos por el ejemplo: 10 11 12 13 1 15 16 1 18 19",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "¿Y yo cómo lo haría?",
+          "concepto": "Estrategias personales",
+          "desempeno": "Propongo soluciones propias.",
+          "ejes_tematicos": [
+            "Estrategias personales"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, busco diez objetos",
+              "descripcion": "Con ayuda de un familiar, busco diez objetos. Juego a agruparlos de diferentes formas y luego los sumo. Pido ayuda a mis hermanos, hermanas o familiares.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Relacionemos numeros con cantidades! a",
+              "descripcion": "Relacionemos numeros con cantidades! a. Volvemos a realizar grupos de cinco estudiantes. Cambiamos de companeros y companeras. b. Nos enumeramos en el grupo. Recordemos respetar el turno que le corresponde a cada companero o companera. c. Por turnos, vamos al Centro de recursos. Tomamos la cantidad de objetos de acuerdo con el numero que nos corres",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con ayuda del profesor o de la profesora, dibujamos el cuadro en el cuaderno de",
+              "descripcion": "Con ayuda del profesor o de la profesora, dibujamos el cuadro en el cuaderno de trabajo o en el cuaderno de Matematicas. En el cuadro, realizamos la suma o adicion de los saltos que da el nino en los troncos: Matematicas. 63 Unidad 1, uia 7 La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi prog",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Decimos cuantas estrellas deben ir en cada recuadro para que de como resultado diez",
+              "descripcion": "Decimos cuantas estrellas deben ir en cada recuadro para que de como resultado diez. Trabajo en parejas Trabajo con mi familia Presento mi trabajo a la profesora o al profesor. Actividades de aplicacion",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Leemos con fluidez la siguiente situacion problema. La analizamos. Si es necesario, nos turnamos para leerla varias veces hasta comprenderla bien: · + = 10 · + = 10 · + = 10 Vanesa colecciona gorras. Ella tenia tres. Su papa le regalo algunas y quedo con nueve gorras en total. · Cuantas gorras le regalo su papa? 64 Cuanto he aprendido? I. Observo d",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Andres y Mathias reunieron sus cubos para hacer una torre",
+              "descripcion": "Andres y Mathias reunieron sus cubos para hacer una torre. Cuantos cubos tendra en total esa torre? La profesora o el profesor valora los desempenos alcanzados con el desarrollo de las guias de esta unidad. Si cree conveniente, me indicara que actividades de refuerzo debo realizar. A. 6. B. 9. C. 8. D. . . Cuantos cubos tiene la torre de Sofia y Lu",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribimos el anterior texto en el cuaderno de Matematicas. Le ponemos como titulo: Resta o sustraccion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Cual de las tres torres tendra mas cubos? A",
+              "descripcion": "Cual de las tres torres tendra mas cubos? A. La torre de Diego. B. La torre de Sofia y Luna. C. La torre de Mathias y Andres. Andres Luna Sofia Diego Mathias Unidad Cuando contamos, aprendemos Guia 67 8 Actividades basicas",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Vamos a empezar a jugar! a",
+              "descripcion": "Vamos a empezar a jugar! a. Hacemos una fila al inicio de la linea. b. Por turnos, damos un salto lo mas lejos posible. c. Hacemos una senal en el sitio donde cayo cada uno. c. Una decena y cuatro unidades de circulos. d. Una decena y una unidad de rectangulos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos los vagones del tren en donde estan organizados los numeros",
+              "descripcion": "Observamos los vagones del tren en donde estan organizados los numeros. Ahora escribimos en el cuaderno de trabajo o en el cuaderno de Matematicas: Presentamos nuestro trabajo a la profesora o al profesor. Trabajo en parejas 11 12 13 14 15 16 17 18 19 10 diez 92 Matematicas 1 Trabajo con la profesora o el profesor Cuantos hermanitos y primitas tien",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el",
+              "descripcion": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el numero de bananos que hay en cada recuadro. Nos guiamos por el ejemplo: 10 11 12 13 1 15 16 1 18 19",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Unidad 4",
+      "desempeno_general": "",
+      "guias": [
+        {
+          "numero": 13,
+          "titulo": "Guia 13: Si quitamos, cuanto nos queda?",
+          "concepto": "",
+          "desempeno": "Tabla de contenidoTabla de contenido Acerquemonos a nuestros amigos: los numeros! Guia 1:Guia 1: Represento mi entorno con numeros 13 Guia 2:Guia 2: Aprendamos los numeros del 6 al 9! 22 Guia 3:Guia 3: Sigamos conociendo los numeros! 29 GuiaGuia :: N",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, busco diez objetos",
+              "descripcion": "Con ayuda de un familiar, busco diez objetos. Juego a agruparlos de diferentes formas y luego los sumo. Pido ayuda a mis hermanos, hermanas o familiares.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Relacionemos numeros con cantidades! a",
+              "descripcion": "Relacionemos numeros con cantidades! a. Volvemos a realizar grupos de cinco estudiantes. Cambiamos de companeros y companeras. b. Nos enumeramos en el grupo. Recordemos respetar el turno que le corresponde a cada companero o companera. c. Por turnos, vamos al Centro de recursos. Tomamos la cantidad de objetos de acuerdo con el numero que nos corres",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con ayuda del profesor o de la profesora, dibujamos el cuadro en el cuaderno de",
+              "descripcion": "Con ayuda del profesor o de la profesora, dibujamos el cuadro en el cuaderno de trabajo o en el cuaderno de Matematicas. En el cuadro, realizamos la suma o adicion de los saltos que da el nino en los troncos: Matematicas. 63 Unidad 1, uia 7 La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi prog",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Decimos cuantas estrellas deben ir en cada recuadro para que de como resultado diez",
+              "descripcion": "Decimos cuantas estrellas deben ir en cada recuadro para que de como resultado diez. Trabajo en parejas Trabajo con mi familia Presento mi trabajo a la profesora o al profesor. Actividades de aplicacion",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Leemos con fluidez la siguiente situacion problema. La analizamos. Si es necesario, nos turnamos para leerla varias veces hasta comprenderla bien: · + = 10 · + = 10 · + = 10 Vanesa colecciona gorras. Ella tenia tres. Su papa le regalo algunas y quedo con nueve gorras en total. · Cuantas gorras le regalo su papa? 64 Cuanto he aprendido? I. Observo d",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Andres y Mathias reunieron sus cubos para hacer una torre",
+              "descripcion": "Andres y Mathias reunieron sus cubos para hacer una torre. Cuantos cubos tendra en total esa torre? La profesora o el profesor valora los desempenos alcanzados con el desarrollo de las guias de esta unidad. Si cree conveniente, me indicara que actividades de refuerzo debo realizar. A. 6. B. 9. C. 8. D. . . Cuantos cubos tiene la torre de Sofia y Lu",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribimos el anterior texto en el cuaderno de Matematicas. Le ponemos como titulo: Resta o sustraccion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Cual de las tres torres tendra mas cubos? A",
+              "descripcion": "Cual de las tres torres tendra mas cubos? A. La torre de Diego. B. La torre de Sofia y Luna. C. La torre de Mathias y Andres. Andres Luna Sofia Diego Mathias Unidad Cuando contamos, aprendemos Guia 67 8 Actividades basicas",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Vamos a empezar a jugar! a",
+              "descripcion": "Vamos a empezar a jugar! a. Hacemos una fila al inicio de la linea. b. Por turnos, damos un salto lo mas lejos posible. c. Hacemos una senal en el sitio donde cayo cada uno. c. Una decena y cuatro unidades de circulos. d. Una decena y una unidad de rectangulos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos los vagones del tren en donde estan organizados los numeros",
+              "descripcion": "Observamos los vagones del tren en donde estan organizados los numeros. Ahora escribimos en el cuaderno de trabajo o en el cuaderno de Matematicas: Presentamos nuestro trabajo a la profesora o al profesor. Trabajo en parejas 11 12 13 14 15 16 17 18 19 10 diez 92 Matematicas 1 Trabajo con la profesora o el profesor Cuantos hermanitos y primitas tien",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el",
+              "descripcion": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el numero de bananos que hay en cada recuadro. Nos guiamos por el ejemplo: 10 11 12 13 1 15 16 1 18 19",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "y posicion. Lapices de colores.",
+          "concepto": "",
+          "desempeno": "Guia 13 Resolucion de situaciones de sustraccion.",
+          "ejes_tematicos": [
+            "Aprendamos sobre lineas! Lineas paralelas",
+            "Lineas perpendiculares"
+          ],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 15,
+          "titulo": "Agrupando y comparando,",
+          "concepto": "",
+          "desempeno": "Represento la composicion de los numeros y los relaciono con mi entorno.",
+          "ejes_tematicos": [
+            "los objetos vamos contando"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Realizamos el juego Encontremos lo perdido : Trabajo en equipo Actividades de practica Presento mi",
+              "descripcion": "Realizamos el juego Encontremos lo perdido : Trabajo en equipo Actividades de practica Presento mi trabajo a la profesora o al profesor. Centenas Decenas Unidades Centenas Decenas Unidades Materiales: Una decena de dados de colores por cada grupo de estudiantes. Un vaso plastico no transparente. 72 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien: Si desagrupamos, con cuanto quedamos? Desempeno: • Propongo diferentes formas de solucionar adecuadamente situaciones problema utilizando la sustraccion. Las gallinas que tiene dona Julia pusier",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Respondemos la pregunta de la situacion anterior",
+              "descripcion": "Respondemos la pregunta de la situacion anterior. Luego, comentamos como la respondimos. Trabajo con la profesora o el profesor 68 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Analizamos el procedimiento que podemos seguir para resolver la situacion de la actividad 2:",
+              "descripcion": "Analizamos el procedimiento que podemos seguir para resolver la situacion de la actividad 2:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con ayuda del abaco o de la yupana, representamos lo que sucedio en la situacion",
+              "descripcion": "Con ayuda del abaco o de la yupana, representamos lo que sucedio en la situacion anterior. En la resta o sustraccion, utilizamos el signo menos (-) para senalar lo que quitamos: Habia 8 huevos se prepararon 3 quedaron 5 8 - 3 = 5 ocho menos tres igual a cinco minuendo sustraendo diferencia Para responder la pregunta, podemos realizar una operacion ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos y analizamos el siguiente texto: Unidad 2, uia 8 69",
+              "descripcion": "Leemos y analizamos el siguiente texto: Unidad 2, uia 8 69",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribimos el anterior texto en el cuaderno de Matematicas. Le ponemos como titulo: Resta o sustraccion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comentamos y resolvemos la siguiente situacion problema",
+              "descripcion": "Comentamos y resolvemos la siguiente situacion problema. Hay nueve balones en el Centro de recursos. Cinco de estos balones son para jugar futbol. Los demas son para jugar baloncesto. · Cuantos balones quedan para jugar baloncesto?",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Vamos a empezar a jugar! a",
+              "descripcion": "Vamos a empezar a jugar! a. Hacemos una fila al inicio de la linea. b. Por turnos, damos un salto lo mas lejos posible. c. Hacemos una senal en el sitio donde cayo cada uno. c. Una decena y cuatro unidades de circulos. d. Una decena y una unidad de rectangulos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos los vagones del tren en donde estan organizados los numeros",
+              "descripcion": "Observamos los vagones del tren en donde estan organizados los numeros. Ahora escribimos en el cuaderno de trabajo o en el cuaderno de Matematicas: Presentamos nuestro trabajo a la profesora o al profesor. Trabajo en parejas 11 12 13 14 15 16 17 18 19 10 diez 92 Matematicas 1 Trabajo con la profesora o el profesor Cuantos hermanitos y primitas tien",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el",
+              "descripcion": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el numero de bananos que hay en cada recuadro. Nos guiamos por el ejemplo: 10 11 12 13 1 15 16 1 18 19",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Entre mas conocemos,",
+          "concepto": "",
+          "desempeno": "Guia 15 Agrupando y comparando, los objetos vamos contando",
+          "ejes_tematicos": [
+            "mas aprendemos"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Realizamos el juego Encontremos lo perdido : Trabajo en equipo Actividades de practica Presento mi",
+              "descripcion": "Realizamos el juego Encontremos lo perdido : Trabajo en equipo Actividades de practica Presento mi trabajo a la profesora o al profesor. Centenas Decenas Unidades Centenas Decenas Unidades Materiales: Una decena de dados de colores por cada grupo de estudiantes. Un vaso plastico no transparente. 72 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observamos la ilustracion y decimos cuantos dados escondio la nina",
+              "descripcion": "Observamos la ilustracion y decimos cuantos dados escondio la nina.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Respondemos la pregunta de la situacion anterior",
+              "descripcion": "Respondemos la pregunta de la situacion anterior. Luego, comentamos como la respondimos. Trabajo con la profesora o el profesor 68 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Analizamos el procedimiento que podemos seguir para resolver la situacion de la actividad 2:",
+              "descripcion": "Analizamos el procedimiento que podemos seguir para resolver la situacion de la actividad 2:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con ayuda del abaco o de la yupana, representamos lo que sucedio en la situacion",
+              "descripcion": "Con ayuda del abaco o de la yupana, representamos lo que sucedio en la situacion anterior. En la resta o sustraccion, utilizamos el signo menos (-) para senalar lo que quitamos: Habia 8 huevos se prepararon 3 quedaron 5 8 - 3 = 5 ocho menos tres igual a cinco minuendo sustraendo diferencia Para responder la pregunta, podemos realizar una operacion ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos y analizamos el siguiente texto: Unidad 2, uia 8 69",
+              "descripcion": "Leemos y analizamos el siguiente texto: Unidad 2, uia 8 69",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribimos el anterior texto en el cuaderno de Matematicas. Le ponemos como titulo: Resta o sustraccion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comentamos y resolvemos la siguiente situacion problema",
+              "descripcion": "Comentamos y resolvemos la siguiente situacion problema. Hay nueve balones en el Centro de recursos. Cinco de estos balones son para jugar futbol. Los demas son para jugar baloncesto. · Cuantos balones quedan para jugar baloncesto?",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Vamos a empezar a jugar! a",
+              "descripcion": "Vamos a empezar a jugar! a. Hacemos una fila al inicio de la linea. b. Por turnos, damos un salto lo mas lejos posible. c. Hacemos una senal en el sitio donde cayo cada uno. c. Una decena y cuatro unidades de circulos. d. Una decena y una unidad de rectangulos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos los vagones del tren en donde estan organizados los numeros",
+              "descripcion": "Observamos los vagones del tren en donde estan organizados los numeros. Ahora escribimos en el cuaderno de trabajo o en el cuaderno de Matematicas: Presentamos nuestro trabajo a la profesora o al profesor. Trabajo en parejas 11 12 13 14 15 16 17 18 19 10 diez 92 Matematicas 1 Trabajo con la profesora o el profesor Cuantos hermanitos y primitas tien",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el",
+              "descripcion": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el numero de bananos que hay en cada recuadro. Nos guiamos por el ejemplo: 10 11 12 13 1 15 16 1 18 19",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titulo": "Unidad 5",
+      "desempeno_general": "",
+      "guias": [
+        {
+          "numero": 17,
+          "titulo": "Donde estamos ubicados?",
+          "concepto": "",
+          "desempeno": "Guia 15 Agrupando y comparando, los objetos vamos contando Guia 16 Entre mas conocemos, mas aprendemos",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Realizamos el juego Encontremos lo perdido : Trabajo en equipo Actividades de practica Presento mi",
+              "descripcion": "Realizamos el juego Encontremos lo perdido : Trabajo en equipo Actividades de practica Presento mi trabajo a la profesora o al profesor. Centenas Decenas Unidades Centenas Decenas Unidades Materiales: Una decena de dados de colores por cada grupo de estudiantes. Un vaso plastico no transparente. 72 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observamos la ilustracion y decimos cuantos dados escondio la nina",
+              "descripcion": "Observamos la ilustracion y decimos cuantos dados escondio la nina.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Respondemos la pregunta de la situacion anterior",
+              "descripcion": "Respondemos la pregunta de la situacion anterior. Luego, comentamos como la respondimos. Trabajo con la profesora o el profesor 68 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Analizamos el procedimiento que podemos seguir para resolver la situacion de la actividad 2:",
+              "descripcion": "Analizamos el procedimiento que podemos seguir para resolver la situacion de la actividad 2:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con ayuda del abaco o de la yupana, representamos lo que sucedio en la situacion",
+              "descripcion": "Con ayuda del abaco o de la yupana, representamos lo que sucedio en la situacion anterior. En la resta o sustraccion, utilizamos el signo menos (-) para senalar lo que quitamos: Habia 8 huevos se prepararon 3 quedaron 5 8 - 3 = 5 ocho menos tres igual a cinco minuendo sustraendo diferencia Para responder la pregunta, podemos realizar una operacion ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos y analizamos el siguiente texto: Unidad 2, uia 8 69",
+              "descripcion": "Leemos y analizamos el siguiente texto: Unidad 2, uia 8 69",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribimos el anterior texto en el cuaderno de Matematicas. Le ponemos como titulo: Resta o sustraccion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comentamos y resolvemos la siguiente situacion problema",
+              "descripcion": "Comentamos y resolvemos la siguiente situacion problema. Hay nueve balones en el Centro de recursos. Cinco de estos balones son para jugar futbol. Los demas son para jugar baloncesto. · Cuantos balones quedan para jugar baloncesto?",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Vamos a empezar a jugar! a",
+              "descripcion": "Vamos a empezar a jugar! a. Hacemos una fila al inicio de la linea. b. Por turnos, damos un salto lo mas lejos posible. c. Hacemos una senal en el sitio donde cayo cada uno. c. Una decena y cuatro unidades de circulos. d. Una decena y una unidad de rectangulos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos los vagones del tren en donde estan organizados los numeros",
+              "descripcion": "Observamos los vagones del tren en donde estan organizados los numeros. Ahora escribimos en el cuaderno de trabajo o en el cuaderno de Matematicas: Presentamos nuestro trabajo a la profesora o al profesor. Trabajo en parejas 11 12 13 14 15 16 17 18 19 10 diez 92 Matematicas 1 Trabajo con la profesora o el profesor Cuantos hermanitos y primitas tien",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el",
+              "descripcion": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el numero de bananos que hay en cada recuadro. Nos guiamos por el ejemplo: 10 11 12 13 1 15 16 1 18 19",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Organicemos datos en tablas",
+          "concepto": "",
+          "desempeno": "Guia 15 Agrupando y comparando, los objetos vamos contando Guia 16 Entre mas conocemos, mas aprendemos Guia 17 Donde estamos ubicados?",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Realizamos el juego Encontremos lo perdido : Trabajo en equipo Actividades de practica Presento mi",
+              "descripcion": "Realizamos el juego Encontremos lo perdido : Trabajo en equipo Actividades de practica Presento mi trabajo a la profesora o al profesor. Centenas Decenas Unidades Centenas Decenas Unidades Materiales: Una decena de dados de colores por cada grupo de estudiantes. Un vaso plastico no transparente. 72 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observamos la ilustracion y decimos cuantos dados escondio la nina",
+              "descripcion": "Observamos la ilustracion y decimos cuantos dados escondio la nina.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Respondemos la pregunta de la situacion anterior",
+              "descripcion": "Respondemos la pregunta de la situacion anterior. Luego, comentamos como la respondimos. Trabajo con la profesora o el profesor 68 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Analizamos el procedimiento que podemos seguir para resolver la situacion de la actividad 2:",
+              "descripcion": "Analizamos el procedimiento que podemos seguir para resolver la situacion de la actividad 2:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con ayuda del abaco o de la yupana, representamos lo que sucedio en la situacion",
+              "descripcion": "Con ayuda del abaco o de la yupana, representamos lo que sucedio en la situacion anterior. En la resta o sustraccion, utilizamos el signo menos (-) para senalar lo que quitamos: Habia 8 huevos se prepararon 3 quedaron 5 8 - 3 = 5 ocho menos tres igual a cinco minuendo sustraendo diferencia Para responder la pregunta, podemos realizar una operacion ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos y analizamos el siguiente texto: Unidad 2, uia 8 69",
+              "descripcion": "Leemos y analizamos el siguiente texto: Unidad 2, uia 8 69",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribimos el anterior texto en el cuaderno de Matematicas. Le ponemos como titulo: Resta o sustraccion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comentamos y resolvemos la siguiente situacion problema",
+              "descripcion": "Comentamos y resolvemos la siguiente situacion problema. Hay nueve balones en el Centro de recursos. Cinco de estos balones son para jugar futbol. Los demas son para jugar baloncesto. · Cuantos balones quedan para jugar baloncesto?",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Vamos a empezar a jugar! a",
+              "descripcion": "Vamos a empezar a jugar! a. Hacemos una fila al inicio de la linea. b. Por turnos, damos un salto lo mas lejos posible. c. Hacemos una senal en el sitio donde cayo cada uno. c. Una decena y cuatro unidades de circulos. d. Una decena y una unidad de rectangulos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos los vagones del tren en donde estan organizados los numeros",
+              "descripcion": "Observamos los vagones del tren en donde estan organizados los numeros. Ahora escribimos en el cuaderno de trabajo o en el cuaderno de Matematicas: Presentamos nuestro trabajo a la profesora o al profesor. Trabajo en parejas 11 12 13 14 15 16 17 18 19 10 diez 92 Matematicas 1 Trabajo con la profesora o el profesor Cuantos hermanitos y primitas tien",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el",
+              "descripcion": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el numero de bananos que hay en cada recuadro. Nos guiamos por el ejemplo: 10 11 12 13 1 15 16 1 18 19",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Aprendamos a medir",
+          "concepto": "",
+          "desempeno": "Guia 15 Agrupando y comparando, los objetos vamos contando Guia 16 Entre mas conocemos, mas aprendemos Guia 17 Donde estamos ubicados? Guia 18 Organicemos datos en tablas",
+          "ejes_tematicos": [
+            "longitudes!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Realizamos el juego Encontremos lo perdido : Trabajo en equipo Actividades de practica Presento mi",
+              "descripcion": "Realizamos el juego Encontremos lo perdido : Trabajo en equipo Actividades de practica Presento mi trabajo a la profesora o al profesor. Centenas Decenas Unidades Centenas Decenas Unidades Materiales: Una decena de dados de colores por cada grupo de estudiantes. Un vaso plastico no transparente. 72 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observamos la ilustracion y decimos cuantos dados escondio la nina",
+              "descripcion": "Observamos la ilustracion y decimos cuantos dados escondio la nina.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Respondemos la pregunta de la situacion anterior",
+              "descripcion": "Respondemos la pregunta de la situacion anterior. Luego, comentamos como la respondimos. Trabajo con la profesora o el profesor 68 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Analizamos el procedimiento que podemos seguir para resolver la situacion de la actividad 2:",
+              "descripcion": "Analizamos el procedimiento que podemos seguir para resolver la situacion de la actividad 2:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con ayuda del abaco o de la yupana, representamos lo que sucedio en la situacion",
+              "descripcion": "Con ayuda del abaco o de la yupana, representamos lo que sucedio en la situacion anterior. En la resta o sustraccion, utilizamos el signo menos (-) para senalar lo que quitamos: Habia 8 huevos se prepararon 3 quedaron 5 8 - 3 = 5 ocho menos tres igual a cinco minuendo sustraendo diferencia Para responder la pregunta, podemos realizar una operacion ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos y analizamos el siguiente texto: Unidad 2, uia 8 69",
+              "descripcion": "Leemos y analizamos el siguiente texto: Unidad 2, uia 8 69",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribimos el anterior texto en el cuaderno de Matematicas. Le ponemos como titulo: Resta o sustraccion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comentamos y resolvemos la siguiente situacion problema",
+              "descripcion": "Comentamos y resolvemos la siguiente situacion problema. Hay nueve balones en el Centro de recursos. Cinco de estos balones son para jugar futbol. Los demas son para jugar baloncesto. · Cuantos balones quedan para jugar baloncesto?",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Vamos a empezar a jugar! a",
+              "descripcion": "Vamos a empezar a jugar! a. Hacemos una fila al inicio de la linea. b. Por turnos, damos un salto lo mas lejos posible. c. Hacemos una senal en el sitio donde cayo cada uno. c. Una decena y cuatro unidades de circulos. d. Una decena y una unidad de rectangulos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos los vagones del tren en donde estan organizados los numeros",
+              "descripcion": "Observamos los vagones del tren en donde estan organizados los numeros. Ahora escribimos en el cuaderno de trabajo o en el cuaderno de Matematicas: Presentamos nuestro trabajo a la profesora o al profesor. Trabajo en parejas 11 12 13 14 15 16 17 18 19 10 diez 92 Matematicas 1 Trabajo con la profesora o el profesor Cuantos hermanitos y primitas tien",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el",
+              "descripcion": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el numero de bananos que hay en cada recuadro. Nos guiamos por el ejemplo: 10 11 12 13 1 15 16 1 18 19",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Como cambia el tiempo?",
+          "concepto": "",
+          "desempeno": "Guia 15 Agrupando y comparando, los objetos vamos contando Guia 16 Entre mas conocemos, mas aprendemos Guia 17 Donde estamos ubicados? Guia 18 Organicemos datos en tablas Guia 19 Aprendamos a medir longitudes!",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Realizamos el juego Encontremos lo perdido : Trabajo en equipo Actividades de practica Presento mi",
+              "descripcion": "Realizamos el juego Encontremos lo perdido : Trabajo en equipo Actividades de practica Presento mi trabajo a la profesora o al profesor. Centenas Decenas Unidades Centenas Decenas Unidades Materiales: Una decena de dados de colores por cada grupo de estudiantes. Un vaso plastico no transparente. 72 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observamos la ilustracion y decimos cuantos dados escondio la nina",
+              "descripcion": "Observamos la ilustracion y decimos cuantos dados escondio la nina.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Respondemos la pregunta de la situacion anterior",
+              "descripcion": "Respondemos la pregunta de la situacion anterior. Luego, comentamos como la respondimos. Trabajo con la profesora o el profesor 68 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Analizamos el procedimiento que podemos seguir para resolver la situacion de la actividad 2:",
+              "descripcion": "Analizamos el procedimiento que podemos seguir para resolver la situacion de la actividad 2:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con ayuda del abaco o de la yupana, representamos lo que sucedio en la situacion",
+              "descripcion": "Con ayuda del abaco o de la yupana, representamos lo que sucedio en la situacion anterior. En la resta o sustraccion, utilizamos el signo menos (-) para senalar lo que quitamos: Habia 8 huevos se prepararon 3 quedaron 5 8 - 3 = 5 ocho menos tres igual a cinco minuendo sustraendo diferencia Para responder la pregunta, podemos realizar una operacion ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos y analizamos el siguiente texto: Unidad 2, uia 8 69",
+              "descripcion": "Leemos y analizamos el siguiente texto: Unidad 2, uia 8 69",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribimos el anterior texto en el cuaderno de Matematicas. Le ponemos como titulo: Resta o sustraccion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comentamos y resolvemos la siguiente situacion problema",
+              "descripcion": "Comentamos y resolvemos la siguiente situacion problema. Hay nueve balones en el Centro de recursos. Cinco de estos balones son para jugar futbol. Los demas son para jugar baloncesto. · Cuantos balones quedan para jugar baloncesto?",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y",
+              "descripcion": "Observamos las siguientes ilustraciones y respondemos: Cuantos ninos y ninas estan jugando? Cuantos ninos y ninas se quedaron jugando? Cuantos ninos y ninas se van del juego? Trabajo en equipo 70 Matematicas 1 3 - 1 = b. En una flor, habia nueve mariposas y quedaron seis. · Cuantas mariposas se fueron?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez las siguientes situaciones problema. Si es necesario, las leemos varias veces hasta comprenderlas bien. Luego, las respondemos en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos la ilustracion de la derecha",
+              "descripcion": "Observamos la ilustracion de la derecha. Luego, inventamos con ella una situacion problema para resolver y completar la resta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Traemos los abacos del Centro de recursos",
+              "descripcion": "Traemos los abacos del Centro de recursos. Luego, representamos las siguientes sustracciones: a. Camilo tiene siete globos. Se le sueltan tres globos. · Con cuantos globos quedo Camilo? 8 - 3 = d u 3 - 3 = d u 4 - 2 = d u Unidad 2, uia 8 71 - 3 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Realizo la resta 7 - 3 de la siguiente manera: a",
+              "descripcion": "Realizo la resta 7 - 3 de la siguiente manera: a. Represento en la yupana el numero siete con piedras o semillas. b. Al numero siete, le quito tres. De la yupana, quito tres piedras o semillas. c. Respondo: cuantas semillas o piedras quedaron en la yupana? Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Vamos a empezar a jugar! a",
+              "descripcion": "Vamos a empezar a jugar! a. Hacemos una fila al inicio de la linea. b. Por turnos, damos un salto lo mas lejos posible. c. Hacemos una senal en el sitio donde cayo cada uno. c. Una decena y cuatro unidades de circulos. d. Una decena y una unidad de rectangulos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos los vagones del tren en donde estan organizados los numeros",
+              "descripcion": "Observamos los vagones del tren en donde estan organizados los numeros. Ahora escribimos en el cuaderno de trabajo o en el cuaderno de Matematicas: Presentamos nuestro trabajo a la profesora o al profesor. Trabajo en parejas 11 12 13 14 15 16 17 18 19 10 diez 92 Matematicas 1 Trabajo con la profesora o el profesor Cuantos hermanitos y primitas tien",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el",
+              "descripcion": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el numero de bananos que hay en cada recuadro. Nos guiamos por el ejemplo: 10 11 12 13 1 15 16 1 18 19",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "titulo": "Unidad 6",
+      "desempeno_general": "",
+      "guias": [
+        {
+          "numero": 21,
+          "titulo": "Conozcamos algunos solidos geometricos y conozcamo",
+          "concepto": "",
+          "desempeno": "Tabla de contenidoTabla de contenido Acerquemonos a nuestros amigos: los numeros! Guia 1:Guia 1: Represento mi entorno con numeros 13 Guia 2:Guia 2: Aprendamos los numeros del 6 al 9! 22 Guia 3:Guia 3: Sigamos conociendo los numeros! 29 GuiaGuia :: N",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la ayuda de un familiar, resuelvo las siguientes restas en el cuaderno de trabajo",
+              "descripcion": "Con la ayuda de un familiar, resuelvo las siguientes restas en el cuaderno de trabajo o en el cuaderno de Matematicas: Trabajo con mi familia Presentamos nuestro trabajo a la profesora o al profesor. Actividades de aplicacion La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso. a. 10 , 9",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Llevo mi trabajo al colegio y lo comparto con mis companeras y companeros",
+              "descripcion": "Llevo mi trabajo al colegio y lo comparto con mis companeras y companeros. − = − = − = − = − = Guia 74 9 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Juguemos a Cuanto falta para diez! a",
+              "descripcion": "Juguemos a Cuanto falta para diez! a. Nos reunimos en grupos. b. Lanzamos un dado por turnos. Segun el numero que caiga, los demas estudiantes diran: “faltan para diez”. c. El primero que diga correctamente la cantidad que falta tiene el turno para lanzar. Desarrollo del juego: a. Colocamos los 10 dados en el centro de la mesa. b. Por turnos, cada ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos lo que pasa en el abaco",
+              "descripcion": "Observamos lo que pasa en el abaco. Luego, respondemos: Si se sacan cuatro bolitas del abaco, cuantas quedan? d u d u Unidad 2, uia 8 73",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Escribimos en el cuaderno de Matematicas la operacion de sustraccion que representa la actividad anterior",
+              "descripcion": "Escribimos en el cuaderno de Matematicas la operacion de sustraccion que representa la actividad anterior.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Completamos en el cuaderno de Matematicas la siguiente secuencia",
+              "descripcion": "Completamos en el cuaderno de Matematicas la siguiente secuencia. La secuencia es del mayor numero al menor:",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos y resolvemos en el cuaderno de trabajo o en el cuaderno de Matematicas las",
+              "descripcion": "Escribimos y resolvemos en el cuaderno de trabajo o en el cuaderno de Matematicas las siguientes sustracciones: El caracol se ha caido a un pozo y esta tratando de salir. En el dia sube cinco metros. En la noche se duerme, se resbala y baja tres metros. Esto le sucedio los dias lunes y martes:",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Seguimos jugando a La decena aumentada ! a",
+              "descripcion": "Seguimos jugando a La decena aumentada ! a. Ahora pasa otra nina o nino. El o ella se pone de pie cerca del o la estudiante que representa una unidad. b. Contamos cuantas ninas y ninos hay en total. c. Repetimos “una decena y dos unidades”. d. Continuamos haciendo todo el proceso anterior. Cada vez, un nino o nina pasa al lado de la decena hasta ll",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leemos con fluidez el siguiente texto",
+              "descripcion": "Leemos con fluidez el siguiente texto. Si es necesario, lo leemos varias veces hasta comprenderlo bien: 90 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Escribimos en el cuaderno de Matematicas el anterior texto",
+              "descripcion": "Escribimos en el cuaderno de Matematicas el anterior texto. Le ponemos como titulo: Los numeros del 11 al 19.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Observamos las siguientes agrupaciones",
+              "descripcion": "Observamos las siguientes agrupaciones. Luego hacemos lo siguiente: a. Contamos los elementos que tiene cada agrupacion. b. Escribimos el numero de elementos que conforman cada conjunto. Lo hacemos en el cuaderno de trabajo o en el cuaderno de Matematicas. Observamos los siguientes numeros y sus nombres. Estos son los numeros del juego anterior: 11",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Hacemos esta actividad en el cuaderno de trabajo o en el cuaderno de Matematicas",
+              "descripcion": "Hacemos esta actividad en el cuaderno de trabajo o en el cuaderno de Matematicas. Dibujamos agrupaciones que tengan los siguientes elementos: a. Una decena y tres unidades de triangulos. b. Una decena y ocho unidades de cuadrados.",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Vamos a jugar a A contar ! Primero preparamos el juego: a",
+              "descripcion": "Vamos a jugar a A contar ! Primero preparamos el juego: a. Traemos una tiza del Centro de recursos. b. Salimos al patio del colegio. c. Con la tiza, marcamos una linea en el piso. d. Dividimos la linea en 19 partes iguales. e. Escribimos en cada division un numero del 1 al 19. 1 2 3 5 6 8 9 10 11 12 13 1 15 16 1 18 19 1 2 3 5 6 8 9 10 11 12 13 1 15",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Vamos a empezar a jugar! a",
+              "descripcion": "Vamos a empezar a jugar! a. Hacemos una fila al inicio de la linea. b. Por turnos, damos un salto lo mas lejos posible. c. Hacemos una senal en el sitio donde cayo cada uno. c. Una decena y cuatro unidades de circulos. d. Una decena y una unidad de rectangulos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos los vagones del tren en donde estan organizados los numeros",
+              "descripcion": "Observamos los vagones del tren en donde estan organizados los numeros. Ahora escribimos en el cuaderno de trabajo o en el cuaderno de Matematicas: Presentamos nuestro trabajo a la profesora o al profesor. Trabajo en parejas 11 12 13 14 15 16 17 18 19 10 diez 92 Matematicas 1 Trabajo con la profesora o el profesor Cuantos hermanitos y primitas tien",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el",
+              "descripcion": "Escribimos en letras, en el cuaderno de trabajo o en el cuaderno de Matematicas, el numero de bananos que hay en cada recuadro. Nos guiamos por el ejemplo: 10 11 12 13 1 15 16 1 18 19",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Agrupemos y clasifiquemos elementos!",
+          "concepto": "",
+          "desempeno": "Tabla de contenidoTabla de contenido Acerquemonos a nuestros amigos: los numeros! Guia 1:Guia 1: Represento mi entorno con numeros 13 Guia 2:Guia 2: Aprendamos los numeros del 6 al 9! 22 Guia 3:Guia 3: Sigamos conociendo los numeros! 29 GuiaGuia :: N",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 23,
+          "titulo": "Avanzamos en el conocimiento de los numeros!",
+          "concepto": "",
+          "desempeno": "Tabla de contenidoTabla de contenido Acerquemonos a nuestros amigos: los numeros! Guia 1:Guia 1: Represento mi entorno con numeros 13 Guia 2:Guia 2: Aprendamos los numeros del 6 al 9! 22 Guia 3:Guia 3: Sigamos conociendo los numeros! 29 GuiaGuia :: N",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 24,
+          "titulo": "Adicion de numeros hasta el 99.",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [
+            "Octavos de cartulina",
+            "lapices deClaves para resolver un problema",
+            "Nos divertimos resolviendo colores"
+          ],
+          "recursos": [
+            "cartulina",
+            "regla",
+            "lapices deClaves para resolver un problema"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 25,
+          "titulo": "Aprendamos a adicionar reagrupando",
+          "concepto": "",
+          "desempeno": "Tabla de contenidoTabla de contenido Acerquemonos a nuestros amigos: los numeros! Guia 1:Guia 1: Represento mi entorno con numeros 13 Guia 2:Guia 2: Aprendamos los numeros del 6 al 9! 22 Guia 3:Guia 3: Sigamos conociendo los numeros! 29 GuiaGuia :: N",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 26,
+          "titulo": "Aprendamos a restar!",
+          "concepto": "",
+          "desempeno": "Tabla de contenidoTabla de contenido Acerquemonos a nuestros amigos: los numeros! Guia 1:Guia 1: Represento mi entorno con numeros 13 Guia 2:Guia 2: Aprendamos los numeros del 6 al 9! 22 Guia 3:Guia 3: Sigamos conociendo los numeros! 29 GuiaGuia :: N",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 27,
+          "titulo": "Material base 10, tarjetas de papel y100.",
+          "concepto": "",
+          "desempeno": "Guia 26 Sustraccion sin desagrupacion con numeros hasta hojas blancas, cartulina, fi chas, dados y100.",
+          "ejes_tematicos": [
+            "colores",
+            "Desagrupemos para restar! Calculo mental de sustracciones"
+          ],
+          "recursos": [
+            "colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Dialogamos con la profesora o el profesor sobre lo siguiente: a",
+              "descripcion": "Dialogamos con la profesora o el profesor sobre lo siguiente: a. Cuantos tenemos? Represento mi entorno con numeros Desempeno: • Reconozco la utilidad de los numeros en la vida cotidiana. Trabajo con la profesora o el profesor uno dos tres cuatro cinco Uno, dos, tres, cuatro, cinco. b. Cuantas patas tiene la ?, cuantas patas tiene el ? y cuantas pa",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observamos nuestra mano derecha",
+              "descripcion": "Observamos nuestra mano derecha. Contamos en voz alta los dedos que hay en esta mano: 14 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Juguemos a contar! Hacemos lo siguiente: · Respondemos: cuantos hay dentro del ? · Cuantos",
+              "descripcion": "Juguemos a contar! Hacemos lo siguiente: · Respondemos: cuantos hay dentro del ? · Cuantos quedan fuera del ? d Contamos la cantidad de que hay dentro del : b Pensamos que colocamos otro dentro del · Respondemos: cuantos pensamos que quedan dentro del ? · Respondemos: cuantos hay dentro del ? · Cuantos quedan fuera del ? c Contamos la cantidad de q",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Entre todos, contamos los objetos que hay en cada nube: 16 Matematicas 1 a A",
+              "descripcion": "Entre todos, contamos los objetos que hay en cada nube: 16 Matematicas 1 a A cada le corresponde cuidar un Contamos con mi companera o companero los que nadie cuida:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Busco cual es el grupo de la derecha que tiene la misma cantidad de objetos",
+              "descripcion": "Busco cual es el grupo de la derecha que tiene la misma cantidad de objetos que cada grupo de la izquierda Luego, senalo con el dedo indice los grupos que tienen la misma cantidad: Trabajo individual Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos la siguiente informacion y hacemos cada actividad: b a c 17 Unidad 1, uia",
+              "descripcion": "Leemos la siguiente informacion y hacemos cada actividad: b a c 17 Unidad 1, uia 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Ahora conozcamos como se representan o se escriben los numeros que acabamos de nombrar",
+              "descripcion": "Ahora conozcamos como se representan o se escriben los numeros que acabamos de nombrar. Observamos con atencion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion",
+              "descripcion": "Con la ayuda del profesor o profesora, leemos con fluidez la siguiente informacion. Si es necesario, la leemos varias veces hasta comprenderla bien: Los numeros nos sirven para contar objetos, personas o animales: 1 2 3 4 5 uno dos tres cuatro cinco · Tapitas · Fichas · Lapices · Borradores · Tarjetas u hojas 18 Matematicas 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribimos el anterior texto en el cuaderrno de Matematicas y le ponemos como titulo: Los",
+              "descripcion": "Escribimos el anterior texto en el cuaderrno de Matematicas y le ponemos como titulo: Los numeros.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Hacemos la siguiente actividad: a",
+              "descripcion": "Hacemos la siguiente actividad: a. Vamos al Centro de recursos y traemos algunos elementos: b. A cada le corresponde cuidar un . Contamos con mi companera o companero los que nadie cuida: 1 Uno 3 Tres 2 Dos 4 Cuatro 5 Cinco",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "En el cuaderno de trabajo o en el cuaderno de Matematicas, descubro los nombres de",
+              "descripcion": "En el cuaderno de trabajo o en el cuaderno de Matematicas, descubro los nombres de los numeros del uno al cinco en el siguiente crucigrama: Presento mi trabajo a la profesora o al profesor. b Formamos grupos o conjuntos con los objetos que trajimos Los grupos deben tener desde un elemento hasta cinco elementos: c En tarjetas u hojas, escribimos los",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Buscamos diferentes agrupaciones que contengan diez objetos o elementos",
+              "descripcion": "Buscamos diferentes agrupaciones que contengan diez objetos o elementos. Representamos las agrupaciones en el cuaderno. Por ejemplo: tenemos diez balones en el Centro de recursos: Presentamos nuestro trabajo a la profesora o al profesor. Tenemos 1 decena cuando completamos las 10 unidades. Entonces retiramos las unidades y las remplazamos por 1 fic",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

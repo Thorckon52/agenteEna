@@ -1,0 +1,1734 @@
+{
+  "asignatura": "Matematicas",
+  "grado": 2,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Maria J. Botero Acevedo, Campo E. Guevara Alvarez, Pedro Alberto Sierra Guerrero",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "DBA 7: Describe desplazamientos y referencia la posicion de un objeto mediante nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad en la solucion de problemas. Estandares basicos de competencias Desempenos, Derechos Basicos de Aprendizaje y Evidencias Guias Conceptos y procedimientos",
+    "DBA 6: Clasifica, describe y representa objetos del entorno a partir de sus propiedades geometricas para establecer relaciones entre las formas bidimensionales y tridimensionales.",
+    "DBA 9: Opera sobre secuencias numericas para encontrar numeros u operaciones faltantes y utiliza las propiedades de las operaciones en contextos escolares o extraescolares. Unidad 2 Sigamos conociendo y aprendiendo Desempeno general: Utilizo los numeros hasta 999 para representar cantidades y resolver situ",
+    "DBA 8: Propone e identifica patrones y utiliza propiedades de los numeros y de las operaciones para calcular valores desconocidos en expresiones aritmeticas.",
+    "DBA 9: Opera sobre secuencias numericas para encontrar numeros u operaciones faltantes y utiliza las propiedades de las operaciones en contextos escolares o extraescolares.",
+    "DBA 10: Clasifica y organiza datos, los representa utilizando tablas de conteo, pictogramas con escalas y graficos de puntos, comunica los resultados obtenidos para responder preguntas sencillas. Criterios de desempeno",
+    "DBA 1: Interpreta, propone y resuelve problemas aditivos (de composicion, transformacion y relacion) que involucren la cantidad en una coleccion, la medida de magnitudes (longitud, peso, capacidad y duracion de eventos) y problemas multiplicativos sencillos.",
+    "DBA 7: Describe desplazamientos y referencia la posicion de un objeto mediante nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad en la solucion de problemas.",
+    "DBA 3: Utiliza el Sistema de Numeracion Decimal para comparar, ordenar y establecer diferentes relaciones entre dos o mas secuencias de numeros con ayuda de diferentes recursos.",
+    "DBA 5: Utiliza patrones, unidades e instrumentos convencionales y no convencionales en procesos de medicion, calculo y estimacion de magnitudes como longitud, peso, capacidad y tiempo."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Cuanto más aprendemos, más crecemos",
+      "desempeno_general": "Empleo números mayores que 100 para resolver situaciones problema en distintos contextos.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "¡Conozcamos la centena!",
+          "concepto": "Conteo de 0 a 100, Centena, Composición y descomposición numérica",
+          "desempeno": "Conformo una centena a partir de decenas y unidades.",
+          "ejes_tematicos": [
+            "Conteo de 0 a 100",
+            "Centena",
+            "Composición y descomposición numérica"
+          ],
+          "recursos": [
+            "Palitos, semillas, piedritas",
+            "Tarjetas numéricas",
+            "Ábaco",
+            "Cuaderno y colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con cartulina o papel, hago un metro con todas sus partes Lo doblo cada 10",
+              "descripcion": "Con cartulina o papel, hago un metro con todas sus partes Lo doblo cada 10 centimetros para guardarlo",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En mi casa, con ayuda de un familiar, mido con pasos, con cuartas y con",
+              "descripcion": "En mi casa, con ayuda de un familiar, mido con pasos, con cuartas y con el metro que hice lo siguiente: a El ancho y el largo del cuarto donde duermo b El largo y el alto de la puerta de entrada a mi casa c El alto y el ancho de una ventana d Finalmente, escribo los resultados en mi cuaderno de trabajo o en el cuaderno de Matematicas Actividades de",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Medimos con un metro o una cinta metrica la longitud de los lados de los",
+              "descripcion": "Medimos con un metro o una cinta metrica la longitud de los lados de los siguientes objetos. Escribimos los resultados en el cuaderno: 44 Matematicas 2 La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Respondemos en nuestro cuaderno: Cual es el instrumento mas adecuado para medir el largo del",
+              "descripcion": "Respondemos en nuestro cuaderno: Cual es el instrumento mas adecuado para medir el largo del salon de clases y el largo del patio? Cual es el instrumento mas adecuado para medir la longitud de un lapiz?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo corregimos o complementamos Guia 6 45",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribo el anterior texto en el cuaderno de Matematicas. Le pongo como titulo: Segmentos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Traemos una hoja del Centro de recursos",
+              "descripcion": "Traemos una hoja del Centro de recursos. Dibujamos en ella tres puntos como aparecen en la imagen. Luego, unimos los puntos con una regla. Unidad 1, uia 6 • Conocemos la figura que se formo? Como se llama la figura que formamos? 47 48 Matematicas 2 Lineas rectas y lineas curvas. Lineas abiertas y lineas cerradas • Unas lineas son cerradas como las ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos con mucha atencion la siguiente informacion:",
+              "descripcion": "Leemos con mucha atencion la siguiente informacion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribimos lo que entendimos del texto anterior en el cuaderno de Matematicas Corazon 1 2",
+              "descripcion": "Escribimos lo que entendimos del texto anterior en el cuaderno de Matematicas Corazon 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 1 2 3 5 6 8 9 10 11 12 13 1 15 16 1 18 19 20 21 22 23 2 25 26 2 28 29 30 31 32 33 49 Unidad 1, uia 6",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Comentamos las siguientes preguntas: a",
+              "descripcion": "Comentamos las siguientes preguntas: a. Que clase de lineas conforman las anteriores figuras? b. Que formas tienen estas figuras?",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas dos ejemplos de",
+              "descripcion": "Dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas dos ejemplos de lineas curvas, dos de lineas rectas, dos de lineas abiertas y dos de lineas cerradas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. Presentamos nuestro trabajo a la profesora o al profesor. Cuales lineas son rectas? Cuales lineas son curvas? Cuales lineas son cerradas? Cuales lineas son abiertas? 50 Matematicas 2",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "¡Conozcamos los números del 100 al 500!",
+          "concepto": "Sistema de numeración decimal, Relación de orden",
+          "desempeno": "Leo, escribo y ordeno números hasta 500.",
+          "ejes_tematicos": [
+            "Sistema de numeración decimal",
+            "Relación de orden"
+          ],
+          "recursos": [
+            "Ábaco",
+            "Tarjetas de cartulina",
+            "Cuaderno y lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con cartulina o papel, hago un metro con todas sus partes Lo doblo cada 10",
+              "descripcion": "Con cartulina o papel, hago un metro con todas sus partes Lo doblo cada 10 centimetros para guardarlo",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En mi casa, con ayuda de un familiar, mido con pasos, con cuartas y con",
+              "descripcion": "En mi casa, con ayuda de un familiar, mido con pasos, con cuartas y con el metro que hice lo siguiente: a El ancho y el largo del cuarto donde duermo b El largo y el alto de la puerta de entrada a mi casa c El alto y el ancho de una ventana d Finalmente, escribo los resultados en mi cuaderno de trabajo o en el cuaderno de Matematicas Actividades de",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, comparto mi trabajo con el profesor, la profesora, companeros y companeras",
+              "descripcion": "En la proxima clase, comparto mi trabajo con el profesor, la profesora, companeros y companeras Presentamos nuestro trabajo a la profesora o al profesor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Respondemos en nuestro cuaderno: Cual es el instrumento mas adecuado para medir el largo del",
+              "descripcion": "Respondemos en nuestro cuaderno: Cual es el instrumento mas adecuado para medir el largo del salon de clases y el largo del patio? Cual es el instrumento mas adecuado para medir la longitud de un lapiz?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo corregimos o complementamos Guia 6 45",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribo el anterior texto en el cuaderno de Matematicas. Le pongo como titulo: Segmentos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Traemos una hoja del Centro de recursos",
+              "descripcion": "Traemos una hoja del Centro de recursos. Dibujamos en ella tres puntos como aparecen en la imagen. Luego, unimos los puntos con una regla. Unidad 1, uia 6 • Conocemos la figura que se formo? Como se llama la figura que formamos? 47 48 Matematicas 2 Lineas rectas y lineas curvas. Lineas abiertas y lineas cerradas • Unas lineas son cerradas como las ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos con mucha atencion la siguiente informacion:",
+              "descripcion": "Leemos con mucha atencion la siguiente informacion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribimos lo que entendimos del texto anterior en el cuaderno de Matematicas Corazon 1 2",
+              "descripcion": "Escribimos lo que entendimos del texto anterior en el cuaderno de Matematicas Corazon 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 1 2 3 5 6 8 9 10 11 12 13 1 15 16 1 18 19 20 21 22 23 2 25 26 2 28 29 30 31 32 33 49 Unidad 1, uia 6",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Comentamos las siguientes preguntas: a",
+              "descripcion": "Comentamos las siguientes preguntas: a. Que clase de lineas conforman las anteriores figuras? b. Que formas tienen estas figuras?",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas dos ejemplos de",
+              "descripcion": "Dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas dos ejemplos de lineas curvas, dos de lineas rectas, dos de lineas abiertas y dos de lineas cerradas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. Presentamos nuestro trabajo a la profesora o al profesor. Cuales lineas son rectas? Cuales lineas son curvas? Cuales lineas son cerradas? Cuales lineas son abiertas? 50 Matematicas 2",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "¡Sumemos y restemos centenas exactas!",
+          "concepto": "Adición, Sustracción",
+          "desempeno": "Resuelvo sumas y restas de centenas exactas.",
+          "ejes_tematicos": [
+            "Adición",
+            "Sustracción"
+          ],
+          "recursos": [
+            "Tarjetas de cartulina",
+            "Lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con nuestro dedo indice, seguimos los cinco recorridos que nos llevan de los cuerpos de",
+              "descripcion": "Con nuestro dedo indice, seguimos los cinco recorridos que nos llevan de los cuerpos de las jirafas a sus cabezas Dibujemos puntos y lineas! Actividades basicas Desempeno: • Represento objetos y situaciones del entorno utilizando el punto, la linea y el plano. Trabajo en parejas 46 Matematicas 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Despues de terminar los recorridos, dialogamos con mi companero o companera sobre lo siguiente: a",
+              "descripcion": "Despues de terminar los recorridos, dialogamos con mi companero o companera sobre lo siguiente: a Al cuerpo de la jirafa con el numero 1 le corresponde la cabeza con la letra b Al cuerpo de la jirafa con el numero 3 le corresponde la cabeza con la letra c A la cabeza de la jirafa con la vocal E le corresponde la jirafa numero d Cual es la jirafa co",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Tomamos un lapiz con buena punta Dejamos caer el lapiz desde una altura de 10",
+              "descripcion": "Tomamos un lapiz con buena punta Dejamos caer el lapiz desde una altura de 10 cm o mas sobre la hoja del cuaderno Hacemos esto varias veces Con los puntos hechos sobre la hoja, formamos la figura que queramos Utilizamos una linea para unir los puntos Luego, con un lapiz de otro color, unimos con una linea los puntos Finalmente, escribimos debajo de",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Respondemos en nuestro cuaderno: Cual es el instrumento mas adecuado para medir el largo del",
+              "descripcion": "Respondemos en nuestro cuaderno: Cual es el instrumento mas adecuado para medir el largo del salon de clases y el largo del patio? Cual es el instrumento mas adecuado para medir la longitud de un lapiz?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo corregimos o complementamos Guia 6 45",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribo el anterior texto en el cuaderno de Matematicas. Le pongo como titulo: Segmentos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Traemos una hoja del Centro de recursos",
+              "descripcion": "Traemos una hoja del Centro de recursos. Dibujamos en ella tres puntos como aparecen en la imagen. Luego, unimos los puntos con una regla. Unidad 1, uia 6 • Conocemos la figura que se formo? Como se llama la figura que formamos? 47 48 Matematicas 2 Lineas rectas y lineas curvas. Lineas abiertas y lineas cerradas • Unas lineas son cerradas como las ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos con mucha atencion la siguiente informacion:",
+              "descripcion": "Leemos con mucha atencion la siguiente informacion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribimos lo que entendimos del texto anterior en el cuaderno de Matematicas Corazon 1 2",
+              "descripcion": "Escribimos lo que entendimos del texto anterior en el cuaderno de Matematicas Corazon 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 1 2 3 5 6 8 9 10 11 12 13 1 15 16 1 18 19 20 21 22 23 2 25 26 2 28 29 30 31 32 33 49 Unidad 1, uia 6",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Comentamos las siguientes preguntas: a",
+              "descripcion": "Comentamos las siguientes preguntas: a. Que clase de lineas conforman las anteriores figuras? b. Que formas tienen estas figuras?",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas dos ejemplos de",
+              "descripcion": "Dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas dos ejemplos de lineas curvas, dos de lineas rectas, dos de lineas abiertas y dos de lineas cerradas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. Presentamos nuestro trabajo a la profesora o al profesor. Cuales lineas son rectas? Cuales lineas son curvas? Cuales lineas son cerradas? Cuales lineas son abiertas? 50 Matematicas 2",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "¡Estos son los números del 500 al 999!",
+          "concepto": "Secuencias numéricas, Descomposición",
+          "desempeno": "Reconozco y ordeno números hasta 999.",
+          "ejes_tematicos": [
+            "Secuencias numéricas",
+            "Descomposición"
+          ],
+          "recursos": [
+            "Ábaco",
+            "Tarjetas numéricas",
+            "Regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las lineas que forman las siguientes imagenes",
+              "descripcion": "Observamos las lineas que forman las siguientes imagenes. Comentamos: Trabajo en parejas Actividades de practica",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Despues de terminar los recorridos, dialogamos con mi companero o companera sobre lo siguiente: a",
+              "descripcion": "Despues de terminar los recorridos, dialogamos con mi companero o companera sobre lo siguiente: a Al cuerpo de la jirafa con el numero 1 le corresponde la cabeza con la letra b Al cuerpo de la jirafa con el numero 3 le corresponde la cabeza con la letra c A la cabeza de la jirafa con la vocal E le corresponde la jirafa numero d Cual es la jirafa co",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Tomamos un lapiz con buena punta Dejamos caer el lapiz desde una altura de 10",
+              "descripcion": "Tomamos un lapiz con buena punta Dejamos caer el lapiz desde una altura de 10 cm o mas sobre la hoja del cuaderno Hacemos esto varias veces Con los puntos hechos sobre la hoja, formamos la figura que queramos Utilizamos una linea para unir los puntos Luego, con un lapiz de otro color, unimos con una linea los puntos Finalmente, escribimos debajo de",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Dibujamos en el cuaderno de trabajo o en el de Matematicas las siguientes figuras:",
+              "descripcion": "Dibujamos en el cuaderno de trabajo o en el de Matematicas las siguientes figuras:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos y analizamos la siguiente informacion: Un segmento de linea comienza en un punto (que",
+              "descripcion": "Leemos y analizamos la siguiente informacion: Un segmento de linea comienza en un punto (que llamaremos A) y termina en otro punto (que llamaremos B). Segmento ABAB El segmento es parte de una linea recta. Por ejemplo, el siguiente cuadrado tiene cuatro segmentos: A B D C Consulta los Contenidos para Aprender de Colombia Aprende en https://colombia",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribo el anterior texto en el cuaderno de Matematicas. Le pongo como titulo: Segmentos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Traemos una hoja del Centro de recursos",
+              "descripcion": "Traemos una hoja del Centro de recursos. Dibujamos en ella tres puntos como aparecen en la imagen. Luego, unimos los puntos con una regla. Unidad 1, uia 6 • Conocemos la figura que se formo? Como se llama la figura que formamos? 47 48 Matematicas 2 Lineas rectas y lineas curvas. Lineas abiertas y lineas cerradas • Unas lineas son cerradas como las ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos con mucha atencion la siguiente informacion:",
+              "descripcion": "Leemos con mucha atencion la siguiente informacion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribimos lo que entendimos del texto anterior en el cuaderno de Matematicas Corazon 1 2",
+              "descripcion": "Escribimos lo que entendimos del texto anterior en el cuaderno de Matematicas Corazon 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 1 2 3 5 6 8 9 10 11 12 13 1 15 16 1 18 19 20 21 22 23 2 25 26 2 28 29 30 31 32 33 49 Unidad 1, uia 6",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Comentamos las siguientes preguntas: a",
+              "descripcion": "Comentamos las siguientes preguntas: a. Que clase de lineas conforman las anteriores figuras? b. Que formas tienen estas figuras?",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas dos ejemplos de",
+              "descripcion": "Dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas dos ejemplos de lineas curvas, dos de lineas rectas, dos de lineas abiertas y dos de lineas cerradas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. Presentamos nuestro trabajo a la profesora o al profesor. Cuales lineas son rectas? Cuales lineas son curvas? Cuales lineas son cerradas? Cuales lineas son abiertas? 50 Matematicas 2",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "¡Realicemos mediciones en nuestro entorno!",
+          "concepto": "Medición, Atributos medibles",
+          "desempeno": "Mido objetos usando unidades convencionales y no convencionales.",
+          "ejes_tematicos": [
+            "Medición",
+            "Atributos medibles"
+          ],
+          "recursos": [
+            "Regla",
+            "Metro",
+            "Cartulina"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las lineas que forman las siguientes imagenes",
+              "descripcion": "Observamos las lineas que forman las siguientes imagenes. Comentamos: Trabajo en parejas Actividades de practica",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observo detenidamente el siguiente laberinto",
+              "descripcion": "Observo detenidamente el siguiente laberinto. Luego, realizo lo siguiente: a. Senalo con el dedo indice los distintos caminos que puede seguir el gato para llegar a la leche. b. Ahora respondo: De los caminos que senale, cual es el mas corto y cual es el mas largo? 51 Unidad 1, uia 6",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Reflexiono sobre las siguientes preguntas y las respondo: a",
+              "descripcion": "Reflexiono sobre las siguientes preguntas y las respondo: a. Que tipo de lineas trace con mi dedo indice para seguir el recorrido del gato? b. Como es el recorrido de mi casa al colegio? Debo caminar en lineas rectas y en lineas curvas? Hago en el cuaderno de Matematicas un dibujo de mi recorrido usando las lineas correspondientes. Trabajo individu",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos con atencion las siguientes lineas",
+              "descripcion": "Observamos con atencion las siguientes lineas. Luego, comentamos: a. Cual es linea curva? b. Cuales son lineas rectas? c. Cuales son lineas cerradas? d. Cual es linea abierta?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos y analizamos la siguiente informacion: Un segmento de linea comienza en un punto (que",
+              "descripcion": "Leemos y analizamos la siguiente informacion: Un segmento de linea comienza en un punto (que llamaremos A) y termina en otro punto (que llamaremos B). Segmento ABAB El segmento es parte de una linea recta. Por ejemplo, el siguiente cuadrado tiene cuatro segmentos: A B D C Consulta los Contenidos para Aprender de Colombia Aprende en https://colombia",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribo el anterior texto en el cuaderno de Matematicas. Le pongo como titulo: Segmentos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Traemos una hoja del Centro de recursos",
+              "descripcion": "Traemos una hoja del Centro de recursos. Dibujamos en ella tres puntos como aparecen en la imagen. Luego, unimos los puntos con una regla. Unidad 1, uia 6 • Conocemos la figura que se formo? Como se llama la figura que formamos? 47 48 Matematicas 2 Lineas rectas y lineas curvas. Lineas abiertas y lineas cerradas • Unas lineas son cerradas como las ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos con mucha atencion la siguiente informacion:",
+              "descripcion": "Leemos con mucha atencion la siguiente informacion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribimos lo que entendimos del texto anterior en el cuaderno de Matematicas Corazon 1 2",
+              "descripcion": "Escribimos lo que entendimos del texto anterior en el cuaderno de Matematicas Corazon 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 1 2 3 5 6 8 9 10 11 12 13 1 15 16 1 18 19 20 21 22 23 2 25 26 2 28 29 30 31 32 33 49 Unidad 1, uia 6",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Comentamos las siguientes preguntas: a",
+              "descripcion": "Comentamos las siguientes preguntas: a. Que clase de lineas conforman las anteriores figuras? b. Que formas tienen estas figuras?",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas dos ejemplos de",
+              "descripcion": "Dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas dos ejemplos de lineas curvas, dos de lineas rectas, dos de lineas abiertas y dos de lineas cerradas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. Presentamos nuestro trabajo a la profesora o al profesor. Cuales lineas son rectas? Cuales lineas son curvas? Cuales lineas son cerradas? Cuales lineas son abiertas? 50 Matematicas 2",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "¡Dibujemos puntos y líneas!",
+          "concepto": "Punto, Línea",
+          "desempeno": "Represento objetos usando puntos y líneas.",
+          "ejes_tematicos": [
+            "Punto",
+            "Línea"
+          ],
+          "recursos": [
+            "Hojas blancas",
+            "Regla",
+            "Lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las lineas que forman las siguientes imagenes",
+              "descripcion": "Observamos las lineas que forman las siguientes imagenes. Comentamos: Trabajo en parejas Actividades de practica",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observo detenidamente el siguiente laberinto",
+              "descripcion": "Observo detenidamente el siguiente laberinto. Luego, realizo lo siguiente: a. Senalo con el dedo indice los distintos caminos que puede seguir el gato para llegar a la leche. b. Ahora respondo: De los caminos que senale, cual es el mas corto y cual es el mas largo? 51 Unidad 1, uia 6",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Reflexiono sobre las siguientes preguntas y las respondo: a",
+              "descripcion": "Reflexiono sobre las siguientes preguntas y las respondo: a. Que tipo de lineas trace con mi dedo indice para seguir el recorrido del gato? b. Como es el recorrido de mi casa al colegio? Debo caminar en lineas rectas y en lineas curvas? Hago en el cuaderno de Matematicas un dibujo de mi recorrido usando las lineas correspondientes. Trabajo individu",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos con atencion las siguientes lineas",
+              "descripcion": "Observamos con atencion las siguientes lineas. Luego, comentamos: a. Cual es linea curva? b. Cuales son lineas rectas? c. Cuales son lineas cerradas? d. Cual es linea abierta?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Pinto de rojo las lineas cerradas y de verde las lineas abiertas",
+              "descripcion": "Pinto de rojo las lineas cerradas y de verde las lineas abiertas",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo el anterior texto en el cuaderno de Matematicas",
+              "descripcion": "Escribo el anterior texto en el cuaderno de Matematicas. Le pongo como titulo: Segmentos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Traemos una hoja del Centro de recursos",
+              "descripcion": "Traemos una hoja del Centro de recursos. Dibujamos en ella tres puntos como aparecen en la imagen. Luego, unimos los puntos con una regla. Unidad 1, uia 6 • Conocemos la figura que se formo? Como se llama la figura que formamos? 47 48 Matematicas 2 Lineas rectas y lineas curvas. Lineas abiertas y lineas cerradas • Unas lineas son cerradas como las ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos con mucha atencion la siguiente informacion:",
+              "descripcion": "Leemos con mucha atencion la siguiente informacion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribimos lo que entendimos del texto anterior en el cuaderno de Matematicas Corazon 1 2",
+              "descripcion": "Escribimos lo que entendimos del texto anterior en el cuaderno de Matematicas Corazon 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 1 2 3 5 6 8 9 10 11 12 13 1 15 16 1 18 19 20 21 22 23 2 25 26 2 28 29 30 31 32 33 49 Unidad 1, uia 6",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Comentamos las siguientes preguntas: a",
+              "descripcion": "Comentamos las siguientes preguntas: a. Que clase de lineas conforman las anteriores figuras? b. Que formas tienen estas figuras?",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas dos ejemplos de",
+              "descripcion": "Dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas dos ejemplos de lineas curvas, dos de lineas rectas, dos de lineas abiertas y dos de lineas cerradas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. Presentamos nuestro trabajo a la profesora o al profesor. Cuales lineas son rectas? Cuales lineas son curvas? Cuales lineas son cerradas? Cuales lineas son abiertas? 50 Matematicas 2",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Sigamos conociendo y aprendiendo",
+      "desempeno_general": "Resuelvo problemas aditivos y geométricos.",
+      "guias": [
+        {
+          "numero": 7,
+          "titulo": "Resolvamos problemas utilizando la adición",
+          "concepto": "Adición",
+          "desempeno": "Resuelvo problemas de suma.",
+          "ejes_tematicos": [
+            "Adición"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En el cuaderno de Matematicas, dibujo un paisaje de la naturaleza Utilizo lineas curvas, lineas",
+              "descripcion": "En el cuaderno de Matematicas, dibujo un paisaje de la naturaleza Utilizo lineas curvas, lineas rectas, lineas abiertas y lineas cerradas",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observo detenidamente el siguiente laberinto",
+              "descripcion": "Observo detenidamente el siguiente laberinto. Luego, realizo lo siguiente: a. Senalo con el dedo indice los distintos caminos que puede seguir el gato para llegar a la leche. b. Ahora respondo: De los caminos que senale, cual es el mas corto y cual es el mas largo? 51 Unidad 1, uia 6",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Reflexiono sobre las siguientes preguntas y las respondo: a",
+              "descripcion": "Reflexiono sobre las siguientes preguntas y las respondo: a. Que tipo de lineas trace con mi dedo indice para seguir el recorrido del gato? b. Como es el recorrido de mi casa al colegio? Debo caminar en lineas rectas y en lineas curvas? Hago en el cuaderno de Matematicas un dibujo de mi recorrido usando las lineas correspondientes. Trabajo individu",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos con atencion las siguientes lineas",
+              "descripcion": "Observamos con atencion las siguientes lineas. Luego, comentamos: a. Cual es linea curva? b. Cuales son lineas rectas? c. Cuales son lineas cerradas? d. Cual es linea abierta?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Pinto de rojo las lineas cerradas y de verde las lineas abiertas",
+              "descripcion": "Pinto de rojo las lineas cerradas y de verde las lineas abiertas",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En el cuaderno de trabajo o en el cuaderno de Matematicas hago un dibujo que",
+              "descripcion": "En el cuaderno de trabajo o en el cuaderno de Matematicas hago un dibujo que tenga lineas rectas, lineas abiertas y lineas cerradas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo corregimos o complementamos Presentamos nuestro trabajo a la profesora o al profesor. a. b. c. 52 Cuanto he aprendido? I. Leo con atencion la evaluacion y la desarrollo en el cuaderno de trabajo o en el cuaderno de Matematicas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones",
+              "descripcion": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones y los totales. Unimos con una linea la suma o adicion con su resultado: 63 Unidad 2, uia 7 La profesora entrego a Camilo una hoja para que escribiera los numeros que hacian falta. Los numeros debian cumplir las relaciones que se presentan. Los numeros qu",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. 0 + 3 5 865 + 132 99 9",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Resolvamos restas",
+          "concepto": "Resta",
+          "desempeno": "Resuelvo problemas de sustracción.",
+          "ejes_tematicos": [
+            "Resta"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En el cuaderno de Matematicas, dibujo un paisaje de la naturaleza Utilizo lineas curvas, lineas",
+              "descripcion": "En el cuaderno de Matematicas, dibujo un paisaje de la naturaleza Utilizo lineas curvas, lineas rectas, lineas abiertas y lineas cerradas",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observo detenidamente el siguiente laberinto",
+              "descripcion": "Observo detenidamente el siguiente laberinto. Luego, realizo lo siguiente: a. Senalo con el dedo indice los distintos caminos que puede seguir el gato para llegar a la leche. b. Ahora respondo: De los caminos que senale, cual es el mas corto y cual es el mas largo? 51 Unidad 1, uia 6",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leo atentamente la siguiente situacion problema",
+              "descripcion": "Leo atentamente la siguiente situacion problema. Si es necesario, la leo varias veces hasta comprenderla bien. Luego, la resuelvo. Escojo la respuesta correcta: Trabajo individual El tio de Valentina le ha regalado una moneda de quinientos pesos. Ella quiere cambiarla por monedas de menor valor para ahorrar parte del dinero y con el resto comprar a",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos con atencion las siguientes lineas",
+              "descripcion": "Observamos con atencion las siguientes lineas. Luego, comentamos: a. Cual es linea curva? b. Cuales son lineas rectas? c. Cuales son lineas cerradas? d. Cual es linea abierta?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Pinto de rojo las lineas cerradas y de verde las lineas abiertas",
+              "descripcion": "Pinto de rojo las lineas cerradas y de verde las lineas abiertas",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En el cuaderno de trabajo o en el cuaderno de Matematicas hago un dibujo que",
+              "descripcion": "En el cuaderno de trabajo o en el cuaderno de Matematicas hago un dibujo que tenga lineas rectas, lineas abiertas y lineas cerradas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo corregimos o complementamos Presentamos nuestro trabajo a la profesora o al profesor. a. b. c. 52 Cuanto he aprendido? I. Leo con atencion la evaluacion y la desarrollo en el cuaderno de trabajo o en el cuaderno de Matematicas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones",
+              "descripcion": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones y los totales. Unimos con una linea la suma o adicion con su resultado: 63 Unidad 2, uia 7 La profesora entrego a Camilo una hoja para que escribiera los numeros que hacian falta. Los numeros debian cumplir las relaciones que se presentan. Los numeros qu",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. 0 + 3 5 865 + 132 99 9",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Conozcamos las propiedades de las operaciones",
+          "concepto": "Propiedades de las operaciones",
+          "desempeno": "Reconozco propiedades de la suma y la resta.",
+          "ejes_tematicos": [
+            "Propiedades de las operaciones"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En el cuaderno de Matematicas, dibujo un paisaje de la naturaleza Utilizo lineas curvas, lineas",
+              "descripcion": "En el cuaderno de Matematicas, dibujo un paisaje de la naturaleza Utilizo lineas curvas, lineas rectas, lineas abiertas y lineas cerradas",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observo detenidamente el siguiente laberinto",
+              "descripcion": "Observo detenidamente el siguiente laberinto. Luego, realizo lo siguiente: a. Senalo con el dedo indice los distintos caminos que puede seguir el gato para llegar a la leche. b. Ahora respondo: De los caminos que senale, cual es el mas corto y cual es el mas largo? 51 Unidad 1, uia 6",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leo atentamente la siguiente situacion problema",
+              "descripcion": "Leo atentamente la siguiente situacion problema. Si es necesario, la leo varias veces hasta comprenderla bien. Luego, la resuelvo. Escojo la respuesta correcta: Trabajo individual El tio de Valentina le ha regalado una moneda de quinientos pesos. Ella quiere cambiarla por monedas de menor valor para ahorrar parte del dinero y con el resto comprar a",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos con buena entonacion o escuchamos con atencion las siguientes situaciones problema",
+              "descripcion": "Leemos con buena entonacion o escuchamos con atencion las siguientes situaciones problema. Las resolvemos en el cuaderno de trabajo o en el cuaderno de Matematicas: 59 Unidad 2, uia 7",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Pinto de rojo las lineas cerradas y de verde las lineas abiertas",
+              "descripcion": "Pinto de rojo las lineas cerradas y de verde las lineas abiertas",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En el cuaderno de trabajo o en el cuaderno de Matematicas hago un dibujo que",
+              "descripcion": "En el cuaderno de trabajo o en el cuaderno de Matematicas hago un dibujo que tenga lineas rectas, lineas abiertas y lineas cerradas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo corregimos o complementamos Presentamos nuestro trabajo a la profesora o al profesor. a. b. c. 52 Cuanto he aprendido? I. Leo con atencion la evaluacion y la desarrollo en el cuaderno de trabajo o en el cuaderno de Matematicas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones",
+              "descripcion": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones y los totales. Unimos con una linea la suma o adicion con su resultado: 63 Unidad 2, uia 7 La profesora entrego a Camilo una hoja para que escribiera los numeros que hacian falta. Los numeros debian cumplir las relaciones que se presentan. Los numeros qu",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. 0 + 3 5 865 + 132 99 9",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Recordamos la informacion del texto anterior",
+              "descripcion": "Recordamos la informacion del texto anterior. Luego, respondemos las siguientes preguntas en el cuaderno: a. Donde nos ubicamos en la recta numerica para iniciar una suma? b. Estamos trabajando en una recta numerica. Hacia donde debemos avanzar tantas veces como indiquen los demas sumandos? c. Que sucede si en una resta cambiamos el orden a los num",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien: El profesor de Ciencias Naturales de la escuela Baudilio Montoya organizo una salida ecologica. El fue con los estudiantes del Comite ambiental al bosque de palma de cera de Salamina. La visita tenia como fin observar y aprender sobr",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Realizamos las siguientes actividades en el cuaderno de trabajo o en el cuaderno de Matematicas:",
+              "descripcion": "Realizamos las siguientes actividades en el cuaderno de trabajo o en el cuaderno de Matematicas: 0 10 20 30 40 b. Marcamos con color rojo el punto cero. Este punto corresponde al punto de partida. 0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 c. Contamos en la recta de 10 en 10 hasta llegar a 160. Este punto corresponde al lugar donde el",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "En el cuaderno de trabajo o en el cuaderno de Matematicas, trazamos una recta numerica",
+              "descripcion": "En el cuaderno de trabajo o en el cuaderno de Matematicas, trazamos una recta numerica. Representamos en la recta numerica las siguientes operaciones: R ec ordem os El minuendo es la cantidad total que deseamos restar. El sustraendo es la cantidad que se resta. La diferencia es el resultado de la resta realizada. Presentamos nuestro trabajo a la pr",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. 1 + 25 + 50 = 2 + + 8 = 15 − 11 = 13 − 5 = 5 + 6 + 12 = 79 Unidad 2, uia 9",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Exploremos lo que podemos hacer con líneas",
+          "concepto": "Líneas rectas y curvas",
+          "desempeno": "Identifico tipos de líneas.",
+          "ejes_tematicos": [
+            "Líneas rectas y curvas"
+          ],
+          "recursos": [
+            "Regla",
+            "Colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Escribo en el cuaderno cuantas centenas hay en:",
+              "descripcion": "Escribo en el cuaderno cuantas centenas hay en:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Completo las siguientes secuencias: 20 0 0 90 A",
+              "descripcion": "Completo las siguientes secuencias: 20 0 0 90 A. B. 120 122 12 12 500 300 100 C. 53 Marcela compro una torta de queso que le costo $500 y Diana compro una torta de vainilla que le costo $400. Marcela y Diana tenian $500 cada una antes de pagar. III. Escribo en mi cuaderno el numero anterior y el numero siguiente de los numeros del ovalo azul: II. E",
+              "instrucciones": [
+                "B) 120 122 12 12 500 300 100"
+              ]
+            },
+            {
+              "numero": 3,
+              "titulo": "Leo atentamente la siguiente situacion problema",
+              "descripcion": "Leo atentamente la siguiente situacion problema. Si es necesario, la leo varias veces hasta comprenderla bien. Luego, la resuelvo. Escojo la respuesta correcta: Trabajo individual El tio de Valentina le ha regalado una moneda de quinientos pesos. Ella quiere cambiarla por monedas de menor valor para ahorrar parte del dinero y con el resto comprar a",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos con buena entonacion o escuchamos con atencion las siguientes situaciones problema",
+              "descripcion": "Leemos con buena entonacion o escuchamos con atencion las siguientes situaciones problema. Las resolvemos en el cuaderno de trabajo o en el cuaderno de Matematicas: 59 Unidad 2, uia 7",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Pinto de rojo las lineas cerradas y de verde las lineas abiertas",
+              "descripcion": "Pinto de rojo las lineas cerradas y de verde las lineas abiertas",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En el cuaderno de trabajo o en el cuaderno de Matematicas hago un dibujo que",
+              "descripcion": "En el cuaderno de trabajo o en el cuaderno de Matematicas hago un dibujo que tenga lineas rectas, lineas abiertas y lineas cerradas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo corregimos o complementamos Presentamos nuestro trabajo a la profesora o al profesor. a. b. c. 52 Cuanto he aprendido? I. Leo con atencion la evaluacion y la desarrollo en el cuaderno de trabajo o en el cuaderno de Matematicas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones",
+              "descripcion": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones y los totales. Unimos con una linea la suma o adicion con su resultado: 63 Unidad 2, uia 7 La profesora entrego a Camilo una hoja para que escribiera los numeros que hacian falta. Los numeros debian cumplir las relaciones que se presentan. Los numeros qu",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. 0 + 3 5 865 + 132 99 9",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Recordamos la informacion del texto anterior",
+              "descripcion": "Recordamos la informacion del texto anterior. Luego, respondemos las siguientes preguntas en el cuaderno: a. Donde nos ubicamos en la recta numerica para iniciar una suma? b. Estamos trabajando en una recta numerica. Hacia donde debemos avanzar tantas veces como indiquen los demas sumandos? c. Que sucede si en una resta cambiamos el orden a los num",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien: El profesor de Ciencias Naturales de la escuela Baudilio Montoya organizo una salida ecologica. El fue con los estudiantes del Comite ambiental al bosque de palma de cera de Salamina. La visita tenia como fin observar y aprender sobr",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Realizamos las siguientes actividades en el cuaderno de trabajo o en el cuaderno de Matematicas:",
+              "descripcion": "Realizamos las siguientes actividades en el cuaderno de trabajo o en el cuaderno de Matematicas: 0 10 20 30 40 b. Marcamos con color rojo el punto cero. Este punto corresponde al punto de partida. 0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 c. Contamos en la recta de 10 en 10 hasta llegar a 160. Este punto corresponde al lugar donde el",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. Unidad 2, uia 10 85 Presentamos nuestro trabajo a la profesora o al profesor. 86 Matematicas 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "En el cuaderno de trabajo o en el cuaderno de Matematicas, trazamos una recta numerica",
+              "descripcion": "En el cuaderno de trabajo o en el cuaderno de Matematicas, trazamos una recta numerica. Representamos en la recta numerica las siguientes operaciones: R ec ordem os El minuendo es la cantidad total que deseamos restar. El sustraendo es la cantidad que se resta. La diferencia es el resultado de la resta realizada. Presentamos nuestro trabajo a la pr",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. 1 + 25 + 50 = 2 + + 8 = 15 − 11 = 13 − 5 = 5 + 6 + 12 = 79 Unidad 2, uia 9",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Si seguimos la secuencia, ¿hasta dónde llegaremos?",
+          "concepto": "Secuencias",
+          "desempeno": "Completo secuencias numéricas.",
+          "ejes_tematicos": [
+            "Secuencias"
+          ],
+          "recursos": [
+            "Tarjetas numéricas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Escribo en el cuaderno cuantas centenas hay en:",
+              "descripcion": "Escribo en el cuaderno cuantas centenas hay en:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Completo las siguientes secuencias: 20 0 0 90 A",
+              "descripcion": "Completo las siguientes secuencias: 20 0 0 90 A. B. 120 122 12 12 500 300 100 C. 53 Marcela compro una torta de queso que le costo $500 y Diana compro una torta de vainilla que le costo $400. Marcela y Diana tenian $500 cada una antes de pagar. III. Escribo en mi cuaderno el numero anterior y el numero siguiente de los numeros del ovalo azul: II. E",
+              "instrucciones": [
+                "B) 120 122 12 12 500 300 100"
+              ]
+            },
+            {
+              "numero": 3,
+              "titulo": "Leo atentamente la siguiente situacion problema",
+              "descripcion": "Leo atentamente la siguiente situacion problema. Si es necesario, la leo varias veces hasta comprenderla bien. Luego, la resuelvo. Escojo la respuesta correcta: Trabajo individual El tio de Valentina le ha regalado una moneda de quinientos pesos. Ella quiere cambiarla por monedas de menor valor para ahorrar parte del dinero y con el resto comprar a",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos con buena entonacion o escuchamos con atencion las siguientes situaciones problema",
+              "descripcion": "Leemos con buena entonacion o escuchamos con atencion las siguientes situaciones problema. Las resolvemos en el cuaderno de trabajo o en el cuaderno de Matematicas: 59 Unidad 2, uia 7",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En la imagen, las lineas que forman las tortas son Unidad Sigamos conociendo y aprendiendo",
+              "descripcion": "En la imagen, las lineas que forman las tortas son Unidad Sigamos conociendo y aprendiendo Guia 55 7 Resolvamos problemas utilizando la adicion!",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos y observamos con mucha atencion el siguiente procedimiento",
+              "descripcion": "Leemos y observamos con mucha atencion el siguiente procedimiento. Con este procedimiento, se resuelve la anterior situacion: c d u 4 6 7 3 7 4 Hay adiciones en las que es necesario reagrupar las unidades en decenas y las decenas en centenas. + a. Representamos la adicion 6 + 3 : 00 60 300 0 centenas 6 decenas unidades 3 centenas decenas unidades +",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo corregimos o complementamos Presentamos nuestro trabajo a la profesora o al profesor. a. b. c. 52 Cuanto he aprendido? I. Leo con atencion la evaluacion y la desarrollo en el cuaderno de trabajo o en el cuaderno de Matematicas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones",
+              "descripcion": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones y los totales. Unimos con una linea la suma o adicion con su resultado: 63 Unidad 2, uia 7 La profesora entrego a Camilo una hoja para que escribiera los numeros que hacian falta. Los numeros debian cumplir las relaciones que se presentan. Los numeros qu",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. 0 + 3 5 865 + 132 99 9",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Recordamos la informacion del texto anterior",
+              "descripcion": "Recordamos la informacion del texto anterior. Luego, respondemos las siguientes preguntas en el cuaderno: a. Donde nos ubicamos en la recta numerica para iniciar una suma? b. Estamos trabajando en una recta numerica. Hacia donde debemos avanzar tantas veces como indiquen los demas sumandos? c. Que sucede si en una resta cambiamos el orden a los num",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien: El profesor de Ciencias Naturales de la escuela Baudilio Montoya organizo una salida ecologica. El fue con los estudiantes del Comite ambiental al bosque de palma de cera de Salamina. La visita tenia como fin observar y aprender sobr",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Realizamos las siguientes actividades en el cuaderno de trabajo o en el cuaderno de Matematicas:",
+              "descripcion": "Realizamos las siguientes actividades en el cuaderno de trabajo o en el cuaderno de Matematicas: 0 10 20 30 40 b. Marcamos con color rojo el punto cero. Este punto corresponde al punto de partida. 0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 c. Contamos en la recta de 10 en 10 hasta llegar a 160. Este punto corresponde al lugar donde el",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. Unidad 2, uia 10 85 Presentamos nuestro trabajo a la profesora o al profesor. 86 Matematicas 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "En el cuaderno de trabajo o en el cuaderno de Matematicas, trazamos una recta numerica",
+              "descripcion": "En el cuaderno de trabajo o en el cuaderno de Matematicas, trazamos una recta numerica. Representamos en la recta numerica las siguientes operaciones: R ec ordem os El minuendo es la cantidad total que deseamos restar. El sustraendo es la cantidad que se resta. La diferencia es el resultado de la resta realizada. Presentamos nuestro trabajo a la pr",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. 1 + 25 + 50 = 2 + + 8 = 15 − 11 = 13 − 5 = 5 + 6 + 12 = 79 Unidad 2, uia 9",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "¿Qué forma tienen las figuras?",
+          "concepto": "Figuras planas",
+          "desempeno": "Reconozco figuras geométricas.",
+          "ejes_tematicos": [
+            "Figuras planas"
+          ],
+          "recursos": [
+            "Figuras geométricas",
+            "Cuaderno"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Leemos con fluidez la siguiente situacion problema. Si es necesario, leemos varias veces hasta comprenderla bien: Desempeno: • Resuelvo situaciones problema en las que utilizo sumas con numeros de tres cifras. Los ninos y ninas de la escuela Las Margaritas estan sembrando algunas semillas. Las ninas han sembrado 352 semillas y los ninos 431. · Cuan",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Completo las siguientes secuencias: 20 0 0 90 A",
+              "descripcion": "Completo las siguientes secuencias: 20 0 0 90 A. B. 120 122 12 12 500 300 100 C. 53 Marcela compro una torta de queso que le costo $500 y Diana compro una torta de vainilla que le costo $400. Marcela y Diana tenian $500 cada una antes de pagar. III. Escribo en mi cuaderno el numero anterior y el numero siguiente de los numeros del ovalo azul: II. E",
+              "instrucciones": [
+                "B) 120 122 12 12 500 300 100"
+              ]
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno de trabajo o en el cuaderno de Matematicas, elaboramos las siguientes tablas",
+              "descripcion": "En el cuaderno de trabajo o en el cuaderno de Matematicas, elaboramos las siguientes tablas y resolvemos las adiciones y restas: 3 2 6 5 6 7 1 0 3 + + + 5 7 1 4 3 2 6 5 0 4 3 6 2 2 5 3 5 8 2 3 6 2 5 7 1 4 2 57 58 Matematicas 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos con buena entonacion o escuchamos con atencion las siguientes situaciones problema",
+              "descripcion": "Leemos con buena entonacion o escuchamos con atencion las siguientes situaciones problema. Las resolvemos en el cuaderno de trabajo o en el cuaderno de Matematicas: 59 Unidad 2, uia 7",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En la imagen, las lineas que forman las tortas son Unidad Sigamos conociendo y aprendiendo",
+              "descripcion": "En la imagen, las lineas que forman las tortas son Unidad Sigamos conociendo y aprendiendo Guia 55 7 Resolvamos problemas utilizando la adicion!",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos y observamos con mucha atencion el siguiente procedimiento",
+              "descripcion": "Leemos y observamos con mucha atencion el siguiente procedimiento. Con este procedimiento, se resuelve la anterior situacion: c d u 4 6 7 3 7 4 Hay adiciones en las que es necesario reagrupar las unidades en decenas y las decenas en centenas. + a. Representamos la adicion 6 + 3 : 00 60 300 0 centenas 6 decenas unidades 3 centenas decenas unidades +",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Resolvemos las siguientes adiciones en el cuaderno",
+              "descripcion": "Resolvemos las siguientes adiciones en el cuaderno. Luego, encerramos con un circulo de color azul aquellas sumas en las que tenemos que reagrupar las unidades en decenas y las decenas en centenas. Podemos utilizar los bloques base 10 del Centro de recursos. Presentamos nuestro trabajo a la profesora o al profesor. Actividades de practica Trabajo e",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones",
+              "descripcion": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones y los totales. Unimos con una linea la suma o adicion con su resultado: 63 Unidad 2, uia 7 La profesora entrego a Camilo una hoja para que escribiera los numeros que hacian falta. Los numeros debian cumplir las relaciones que se presentan. Los numeros qu",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. 0 + 3 5 865 + 132 99 9",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Recordamos la informacion del texto anterior",
+              "descripcion": "Recordamos la informacion del texto anterior. Luego, respondemos las siguientes preguntas en el cuaderno: a. Donde nos ubicamos en la recta numerica para iniciar una suma? b. Estamos trabajando en una recta numerica. Hacia donde debemos avanzar tantas veces como indiquen los demas sumandos? c. Que sucede si en una resta cambiamos el orden a los num",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien: El profesor de Ciencias Naturales de la escuela Baudilio Montoya organizo una salida ecologica. El fue con los estudiantes del Comite ambiental al bosque de palma de cera de Salamina. La visita tenia como fin observar y aprender sobr",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Realizamos las siguientes actividades en el cuaderno de trabajo o en el cuaderno de Matematicas:",
+              "descripcion": "Realizamos las siguientes actividades en el cuaderno de trabajo o en el cuaderno de Matematicas: 0 10 20 30 40 b. Marcamos con color rojo el punto cero. Este punto corresponde al punto de partida. 0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 c. Contamos en la recta de 10 en 10 hasta llegar a 160. Este punto corresponde al lugar donde el",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Pongamos a prueba nuestro ingenio",
+      "desempeno_general": "Utilizo las operaciones en contextos variados.",
+      "guias": [
+        {
+          "numero": 13,
+          "titulo": "Hagamos sumas con monedas",
+          "concepto": "Valor, Adición",
+          "desempeno": "Uso monedas para representar sumas.",
+          "ejes_tematicos": [
+            "Valor",
+            "Adición"
+          ],
+          "recursos": [
+            "Monedas didácticas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos atentamente la siguiente situacion problema y la informacion de los cuadros",
+              "descripcion": "Leemos atentamente la siguiente situacion problema y la informacion de los cuadros. Luego, realizamos lo indicado en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Algunos numeros se borraron de las siguientes operaciones",
+              "descripcion": "Algunos numeros se borraron de las siguientes operaciones. Escribo en mi cuaderno de Matematicas las operaciones. Completo las operaciones con el numero que se borro en cada caso:",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno de trabajo o en el cuaderno de Matematicas, elaboramos las siguientes tablas",
+              "descripcion": "En el cuaderno de trabajo o en el cuaderno de Matematicas, elaboramos las siguientes tablas y resolvemos las adiciones y restas: 3 2 6 5 6 7 1 0 3 + + + 5 7 1 4 3 2 6 5 0 4 3 6 2 2 5 3 5 8 2 3 6 2 5 7 1 4 2 57 58 Matematicas 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos con buena entonacion o escuchamos con atencion las siguientes situaciones problema",
+              "descripcion": "Leemos con buena entonacion o escuchamos con atencion las siguientes situaciones problema. Las resolvemos en el cuaderno de trabajo o en el cuaderno de Matematicas: 59 Unidad 2, uia 7",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos o escuchamos la siguiente situacion problema: b",
+              "descripcion": "Leemos o escuchamos la siguiente situacion problema: b. En la finca de dona Flor, se cosecharon 323 aguacates y 150 pitayas. Estos frutos seran vendidos en el mercado. · Cuantas frutas se cosecharon en total en la finca? En la papeleria, hay 46 cuadernos cuadriculados y 3 4 cuadernos rayados. · Cuantos cuadernos hay en total? La pitaya contiene gra",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos y observamos con mucha atencion el siguiente procedimiento",
+              "descripcion": "Leemos y observamos con mucha atencion el siguiente procedimiento. Con este procedimiento, se resuelve la anterior situacion: c d u 4 6 7 3 7 4 Hay adiciones en las que es necesario reagrupar las unidades en decenas y las decenas en centenas. + a. Representamos la adicion 6 + 3 : 00 60 300 0 centenas 6 decenas unidades 3 centenas decenas unidades +",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Resolvemos las siguientes adiciones en el cuaderno",
+              "descripcion": "Resolvemos las siguientes adiciones en el cuaderno. Luego, encerramos con un circulo de color azul aquellas sumas en las que tenemos que reagrupar las unidades en decenas y las decenas en centenas. Podemos utilizar los bloques base 10 del Centro de recursos. Presentamos nuestro trabajo a la profesora o al profesor. Actividades de practica Trabajo e",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones",
+              "descripcion": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones y los totales. Unimos con una linea la suma o adicion con su resultado: 63 Unidad 2, uia 7 La profesora entrego a Camilo una hoja para que escribiera los numeros que hacian falta. Los numeros debian cumplir las relaciones que se presentan. Los numeros qu",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. 0 + 3 5 865 + 132 99 9",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Recordamos la informacion del texto anterior",
+              "descripcion": "Recordamos la informacion del texto anterior. Luego, respondemos las siguientes preguntas en el cuaderno: a. Donde nos ubicamos en la recta numerica para iniciar una suma? b. Estamos trabajando en una recta numerica. Hacia donde debemos avanzar tantas veces como indiquen los demas sumandos? c. Que sucede si en una resta cambiamos el orden a los num",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien: El profesor de Ciencias Naturales de la escuela Baudilio Montoya organizo una salida ecologica. El fue con los estudiantes del Comite ambiental al bosque de palma de cera de Salamina. La visita tenia como fin observar y aprender sobr",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Realizamos las siguientes actividades en el cuaderno de trabajo o en el cuaderno de Matematicas:",
+              "descripcion": "Realizamos las siguientes actividades en el cuaderno de trabajo o en el cuaderno de Matematicas: 0 10 20 30 40 b. Marcamos con color rojo el punto cero. Este punto corresponde al punto de partida. 0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 c. Contamos en la recta de 10 en 10 hasta llegar a 160. Este punto corresponde al lugar donde el",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. Unidad 2, uia 10 85 Presentamos nuestro trabajo a la profesora o al profesor. 86 Matematicas 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "En el cuaderno de trabajo o en el cuaderno de Matematicas, trazamos una recta numerica",
+              "descripcion": "En el cuaderno de trabajo o en el cuaderno de Matematicas, trazamos una recta numerica. Representamos en la recta numerica las siguientes operaciones: R ec ordem os El minuendo es la cantidad total que deseamos restar. El sustraendo es la cantidad que se resta. La diferencia es el resultado de la resta realizada. Presentamos nuestro trabajo a la pr",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. 1 + 25 + 50 = 2 + + 8 = 15 − 11 = 13 − 5 = 5 + 6 + 12 = 79 Unidad 2, uia 9",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "La multiplicación es una suma abreviada",
+          "concepto": "Multiplicación",
+          "desempeno": "Reconozco la multiplicación como suma repetida.",
+          "ejes_tematicos": [
+            "Multiplicación"
+          ],
+          "recursos": [
+            "Semillas",
+            "Tarjetas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos atentamente la siguiente situacion problema y la informacion de los cuadros",
+              "descripcion": "Leemos atentamente la siguiente situacion problema y la informacion de los cuadros. Luego, realizamos lo indicado en el cuaderno de Matematicas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Algunos numeros se borraron de las siguientes operaciones",
+              "descripcion": "Algunos numeros se borraron de las siguientes operaciones. Escribo en mi cuaderno de Matematicas las operaciones. Completo las operaciones con el numero que se borro en cada caso:",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. Presentamos nuestro trabajo a la profesora o al profesor. 9 3 1 + 5 0 3 6 2 6 6 + 9 9 7 3 2 ‒ 64 Matematicas 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos con buena entonacion o escuchamos con atencion las siguientes situaciones problema",
+              "descripcion": "Leemos con buena entonacion o escuchamos con atencion las siguientes situaciones problema. Las resolvemos en el cuaderno de trabajo o en el cuaderno de Matematicas: 59 Unidad 2, uia 7",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos o escuchamos la siguiente situacion problema: b",
+              "descripcion": "Leemos o escuchamos la siguiente situacion problema: b. En la finca de dona Flor, se cosecharon 323 aguacates y 150 pitayas. Estos frutos seran vendidos en el mercado. · Cuantas frutas se cosecharon en total en la finca? En la papeleria, hay 46 cuadernos cuadriculados y 3 4 cuadernos rayados. · Cuantos cuadernos hay en total? La pitaya contiene gra",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos y observamos con mucha atencion el siguiente procedimiento",
+              "descripcion": "Leemos y observamos con mucha atencion el siguiente procedimiento. Con este procedimiento, se resuelve la anterior situacion: c d u 4 6 7 3 7 4 Hay adiciones en las que es necesario reagrupar las unidades en decenas y las decenas en centenas. + a. Representamos la adicion 6 + 3 : 00 60 300 0 centenas 6 decenas unidades 3 centenas decenas unidades +",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Resolvemos las siguientes adiciones en el cuaderno",
+              "descripcion": "Resolvemos las siguientes adiciones en el cuaderno. Luego, encerramos con un circulo de color azul aquellas sumas en las que tenemos que reagrupar las unidades en decenas y las decenas en centenas. Podemos utilizar los bloques base 10 del Centro de recursos. Presentamos nuestro trabajo a la profesora o al profesor. Actividades de practica Trabajo e",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones",
+              "descripcion": "Escribimos, en el cuaderno de trabajo o en el cuaderno de Matematicas, las siguientes adiciones y los totales. Unimos con una linea la suma o adicion con su resultado: 63 Unidad 2, uia 7 La profesora entrego a Camilo una hoja para que escribiera los numeros que hacian falta. Los numeros debian cumplir las relaciones que se presentan. Los numeros qu",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. 0 + 3 5 865 + 132 99 9",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Recordamos la informacion del texto anterior",
+              "descripcion": "Recordamos la informacion del texto anterior. Luego, respondemos las siguientes preguntas en el cuaderno: a. Donde nos ubicamos en la recta numerica para iniciar una suma? b. Estamos trabajando en una recta numerica. Hacia donde debemos avanzar tantas veces como indiquen los demas sumandos? c. Que sucede si en una resta cambiamos el orden a los num",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Leemos con fluidez la siguiente situacion problema",
+              "descripcion": "Leemos con fluidez la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien: El profesor de Ciencias Naturales de la escuela Baudilio Montoya organizo una salida ecologica. El fue con los estudiantes del Comite ambiental al bosque de palma de cera de Salamina. La visita tenia como fin observar y aprender sobr",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Realizamos las siguientes actividades en el cuaderno de trabajo o en el cuaderno de Matematicas:",
+              "descripcion": "Realizamos las siguientes actividades en el cuaderno de trabajo o en el cuaderno de Matematicas: 0 10 20 30 40 b. Marcamos con color rojo el punto cero. Este punto corresponde al punto de partida. 0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 c. Contamos en la recta de 10 en 10 hasta llegar a 160. Este punto corresponde al lugar donde el",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. Unidad 2, uia 10 85 Presentamos nuestro trabajo a la profesora o al profesor. 86 Matematicas 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas la siguiente tabla",
+              "descripcion": "Dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas la siguiente tabla. La completamos con cinco, seis, siete, ocho y nueve regletas rojas en los renglones de la primera columna. Luego, ponemos su representacion en forma de suma, multiplicacion y producto: Presentamos nuestro trabajo a la profesora o al profesor. Consulta los Conten",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "En el cuaderno de trabajo o en el cuaderno de Matematicas, trazamos una recta numerica",
+              "descripcion": "En el cuaderno de trabajo o en el cuaderno de Matematicas, trazamos una recta numerica. Representamos en la recta numerica las siguientes operaciones: R ec ordem os El minuendo es la cantidad total que deseamos restar. El sustraendo es la cantidad que se resta. La diferencia es el resultado de la resta realizada. Presentamos nuestro trabajo a la pr",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. 1 + 25 + 50 = 2 + + 8 = 15 − 11 = 13 − 5 = 5 + 6 + 12 = 79 Unidad 2, uia 9",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Juguemos agrupando objetos",
+          "concepto": "Clasificación",
+          "desempeno": "Clasifico objetos según características.",
+          "ejes_tematicos": [
+            "Clasificación"
+          ],
+          "recursos": [
+            "Objetos del entorno"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 16,
+          "titulo": "¿Para qué nos sirven los planos y mapas?",
+          "concepto": "Plano, Mapa",
+          "desempeno": "Interpreto planos sencillos.",
+          "ejes_tematicos": [
+            "Plano",
+            "Mapa"
+          ],
+          "recursos": [
+            "Mapas",
+            "Cuaderno"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 17,
+          "titulo": "Calculemos el área de figuras planas",
+          "concepto": "Área",
+          "desempeno": "Estimo y calculo áreas.",
+          "ejes_tematicos": [
+            "Área"
+          ],
+          "recursos": [
+            "Papel cuadriculado"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 18,
+          "titulo": "¿Para qué nos sirve el reloj?",
+          "concepto": "Tiempo",
+          "desempeno": "Leo la hora en relojes.",
+          "ejes_tematicos": [
+            "Tiempo"
+          ],
+          "recursos": [
+            "Reloj didáctico"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Contamos en voz alta la cantidad de mariposas que hay en la siguiente imagen: 19",
+              "descripcion": "Contamos en voz alta la cantidad de mariposas que hay en la siguiente imagen: 19 Unidad 1, uia 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Teniendo en cuenta la ilustracion anterior, respondemos en el cuaderno de trabajo las siguientes preguntas:",
+              "descripcion": "Teniendo en cuenta la ilustracion anterior, respondemos en el cuaderno de trabajo las siguientes preguntas: a. Cuantas decenas de mariposas hay en la imagen? b. Cuantas centenas de mariposas hay en la imagen? c. Cuantas unidades de mariposas hay en la imagen?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Traemos abacos del Centro de recursos",
+              "descripcion": "Traemos abacos del Centro de recursos. Representamos en ellos las siguientes cifras: R ec orde m o s Los numeros de tres cifras se pueden descomponer en centenas, decenas y unidades. Debemos escribir primero las centenas a la izquierda, despues las decenas y a la derecha las unidades. Trabajo en equipo Ingresa a Renueva en: www.campus.escuelanueva.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las cifras que estan representadas en los siguientes abacos",
+              "descripcion": "Observamos las cifras que estan representadas en los siguientes abacos. En el cuaderno de trabajo o en el cuaderno de Matematicas, escribimos en numeros y letras cuales son esas cifras: 106: ciento seis. 200: doscientos. 325: trescientos veinticinco.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Completamos en el cuaderno de trabajo o en el cuaderno de Matematicas las siguientes sumas",
+              "descripcion": "Completamos en el cuaderno de trabajo o en el cuaderno de Matematicas las siguientes sumas. Escribimos el numero que hace falta para que de el resultado: Guia 2 18 Matematicas 2 Conozcamos los numeros del 100 al 500! Desempeno: • Reconozco los numeros del 100 al 500 y los uso en el contexto. Actividades basicas Trabajo con el profesor o la profesor",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "En una hoja, escribo cinco numeros diferentes de tres cifras",
+              "descripcion": "En una hoja, escribo cinco numeros diferentes de tres cifras. Los numeros deben estar formados por las siguientes cifras:",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el cuaderno de Matematicas, escribo los siguientes grupos de numeros",
+              "descripcion": "En el cuaderno de Matematicas, escribo los siguientes grupos de numeros. Luego, organizo los numeros de cada grupo de mayor a menor:",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "En el cuaderno de Matematicas o en el cuaderno de trabajo, completo los numeros que",
+              "descripcion": "En el cuaderno de Matematicas o en el cuaderno de trabajo, completo los numeros que hacen falta en el siguiente grafico. Tengo en cuenta el ejemplo: Trabajo individual 3 2 4 1 8 199 35 436 3 209 406: 185: 500: 278 289 298 400 100 600 345 254 453 Unidad 1, uia 2 Presento mi trabajo a la profesora o al profesor. 21",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Hago en el cuaderno de Matematicas o en el cuaderno de trabajo una tabla parecida",
+              "descripcion": "Hago en el cuaderno de Matematicas o en el cuaderno de trabajo una tabla parecida a la siguiente y la completo segun el ejemplo: Numero Descomposicion Escritura en letras 165 c d u 1 6 5 Ciento sesenta y cinco 340 c d u 459 c d u 208 c d u 500 c d u",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Leo con atencion la siguiente situacion problema La resuelvo en el cuaderno de trabajo o",
+              "descripcion": "Leo con atencion la siguiente situacion problema La resuelvo en el cuaderno de trabajo o en el cuaderno de Matematicas: Pablo compro una mandarina en $400. Valentina compro una empanada de pollo en $450. · Quien pago mas? Cuanto pago mas?",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Comparto mi trabajo con el de mi companero o companera Si es necesario, lo corrijo",
+              "descripcion": "Comparto mi trabajo con el de mi companero o companera Si es necesario, lo corrijo o complemento 22 Matematicas 2 Trabajo con la profesora o el profesor Actividades de practica",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Traemos la cinta metrica del Centro de recursos y la utilizamos para hallar la longitud",
+              "descripcion": "Traemos la cinta metrica del Centro de recursos y la utilizamos para hallar la longitud del largo y el ancho de la ventana.",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Comentamos lo siguiente: Consideramos que es mejor medir con una cinta metrica o con la",
+              "descripcion": "Comentamos lo siguiente: Consideramos que es mejor medir con una cinta metrica o con la cuarta? Por que? El metro como unidad de medida El ser humano siempre utilizaba diferentes instrumentos para medir objetos: cuerdas, pies, cuartas, brazadas, etc. Pero estos instrumentos no permitian obtener resultados iguales ni exactos, hasta que se invento el",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Reflexionamos sobre lo siguiente: Por que es importante tener una unidad de medida como el",
+              "descripcion": "Reflexionamos sobre lo siguiente: Por que es importante tener una unidad de medida como el metro?",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras Si es necesario, lo corregimos o complementamos Presentamos nuestro trabajo a la profesora o al profesor. 43 Unidad 1, uia 5 g. La longitud del alto de la guia de Matematicas es cm. h. La longitud del largo de la guia de Matematicas es cm. R ec orde m o s El alto de un objeto d",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Repartamos equitativamente y representemos datos",
+      "desempeno_general": "Utilizo la división, medición y representación de datos.",
+      "guias": [
+        {
+          "numero": 19,
+          "titulo": "¿Qué son los cuerpos geométricos?",
+          "concepto": "Cuerpos geométricos",
+          "desempeno": "Reconozco cuerpos geométricos.",
+          "ejes_tematicos": [
+            "Cuerpos geométricos"
+          ],
+          "recursos": [
+            "Cuerpos geométricos"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 20,
+          "titulo": "¿Cómo medimos la temperatura?",
+          "concepto": "Temperatura",
+          "desempeno": "Leo la temperatura.",
+          "ejes_tematicos": [
+            "Temperatura"
+          ],
+          "recursos": [
+            "Termómetro"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 21,
+          "titulo": "Aprendamos a dividir",
+          "concepto": "División",
+          "desempeno": "Reconozco la división como reparto.",
+          "ejes_tematicos": [
+            "División"
+          ],
+          "recursos": [
+            "Fichas"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 22,
+          "titulo": "Resolviendo problemas con división",
+          "concepto": "División en contextos",
+          "desempeno": "Resuelvo problemas de división.",
+          "ejes_tematicos": [
+            "División en contextos"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 23,
+          "titulo": "Conozcamos un pictograma",
+          "concepto": "Pictograma",
+          "desempeno": "Interpreto pictogramas.",
+          "ejes_tematicos": [
+            "Pictograma"
+          ],
+          "recursos": [
+            "Pictogramas"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 24,
+          "titulo": "Representemos la información",
+          "concepto": "Gráficos",
+          "desempeno": "Represento datos en gráficos.",
+          "ejes_tematicos": [
+            "Gráficos"
+          ],
+          "recursos": [
+            "Cartulina",
+            "Marcadores"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 25,
+          "titulo": "Aprendamos sobre medidas de capacidad",
+          "concepto": "Capacidad",
+          "desempeno": "Mido capacidad.",
+          "ejes_tematicos": [
+            "Capacidad"
+          ],
+          "recursos": [
+            "Recipientes",
+            "Agua"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos con atencion la siguiente ilustracion Contamos la cantidad de carros que hay en ella:",
+              "descripcion": "Observamos con atencion la siguiente ilustracion Contamos la cantidad de carros que hay en ella: 99 carros mas 1 carro es igual a carros Actividades basicas Desempeno: • Conformo una centena a partir de la agrupacion de decenas y unidades. 14 Matematicas 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "De acuerdo con la ilustracion anterior, comentamos las siguientes preguntas",
+              "descripcion": "De acuerdo con la ilustracion anterior, comentamos las siguientes preguntas. Luego, las respondemos: a. Cuantos carros azules hay en la primera fila? b. Cuantos carros verdes hay en la segunda fila? c. Cuantos carros hay en cada una de las filas siguientes? d. Cuantas decenas completas de carros hay en el parqueadero? e. Llega un carro mas a la pri",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos con buena entonacion o escuchamos con atencion el siguiente texto",
+              "descripcion": "Leemos con buena entonacion o escuchamos con atencion el siguiente texto. Luego, observamos las ilustraciones: Hay una decena de carros en cada f ila. Si contamos el total de carros que hay en las 10 f ilas, tenemos: 10 decenas son iguales a una centena 100 unidades son iguales a una centena = 100 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Traemos un abaco del Centro de recursos",
+              "descripcion": "Traemos un abaco del Centro de recursos. Luego, la profesora o el profesor nos dibuja la siguiente tabla en el tablero. El o ella nos explica como representar en el abaco una centena: CentenasDecenasUnidades100",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Representamos el numero 100 en el abaco y comparamos con los demas companeros y companeras",
+              "descripcion": "Representamos el numero 100 en el abaco y comparamos con los demas companeros y companeras lo hecho. Lo corregimos, si es necesario.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Vamos al Centro de recursos y traemos una centena de objetos: pueden ser palitos, semillas,",
+              "descripcion": "Vamos al Centro de recursos y traemos una centena de objetos: pueden ser palitos, semillas, piedritas o tapas. Luego, los organizamos en grupos de 10 objetos, es decir, en decenas. Por ejemplo: Unidad 1, uia 1 15 Diez10 Diez10 Diez10 Diez10 Diez10 Diez10 Diez10 Diez10 Diez10 Diez10 Ahora respondemos: Cuantos grupos de 10 semillas fueron necesarios ",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Observamos los grupos que formamos en la actividad anterior",
+              "descripcion": "Observamos los grupos que formamos en la actividad anterior. Luego, completamos en el cuaderno de trabajo o en el cuaderno de Matematicas la secuencia de decenas que hay entre 10 y 100: Presentamos nuestro trabajo a la profesora o al profesor. Actividades de practica Trabajo en equipo 46 45 9",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos. Centenas Decenas Unidades 0 90 10 30 50 b. Reunimos tres tarjetas que, cuando las sumemos, den como resultado una centena. Observamos el ejemplo de la derecha: c. Realizamos dos combinaciones de las tarjetas y las sumamos. Luego",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "En el cuaderno de Matematicas o en el cuaderno de trabajo, completo los numeros que",
+              "descripcion": "En el cuaderno de Matematicas o en el cuaderno de trabajo, completo los numeros que hacen falta en el siguiente grafico. Tengo en cuenta el ejemplo: Trabajo individual 3 2 4 1 8 199 35 436 3 209 406: 185: 500: 278 289 298 400 100 600 345 254 453 Unidad 1, uia 2 Presento mi trabajo a la profesora o al profesor. 21",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Hago en el cuaderno de Matematicas o en el cuaderno de trabajo una tabla parecida",
+              "descripcion": "Hago en el cuaderno de Matematicas o en el cuaderno de trabajo una tabla parecida a la siguiente y la completo segun el ejemplo: Numero Descomposicion Escritura en letras 165 c d u 1 6 5 Ciento sesenta y cinco 340 c d u 459 c d u 208 c d u 500 c d u",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Leo con atencion la siguiente situacion problema La resuelvo en el cuaderno de trabajo o",
+              "descripcion": "Leo con atencion la siguiente situacion problema La resuelvo en el cuaderno de trabajo o en el cuaderno de Matematicas: Pablo compro una mandarina en $400. Valentina compro una empanada de pollo en $450. · Quien pago mas? Cuanto pago mas?",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Comparto mi trabajo con el de mi companero o companera Si es necesario, lo corrijo",
+              "descripcion": "Comparto mi trabajo con el de mi companero o companera Si es necesario, lo corrijo o complemento 22 Matematicas 2 Trabajo con la profesora o el profesor Actividades de practica",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 138,
+          "titulo": "Matematicas",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos y analizamos la siguiente situacion problema: Desempeno: • Reconozco la importancia de calcular el",
+              "descripcion": "Leemos y analizamos la siguiente situacion problema: Desempeno: • Reconozco la importancia de calcular el area de figuras planas. Juliana y Martin estan jugando a Pintapreguntas. Este juego consiste en realizar algunas preguntas al companero o companera. Por cada respuesta correcta que alguno de ellos diga, se rellena con color un cuadradito de una",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con base en la situacion anterior, respondemos las siguientes preguntas: a",
+              "descripcion": "Con base en la situacion anterior, respondemos las siguientes preguntas: a. Como sabemos quien gano el juego? b. Cual es el nombre del ganador?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Hagamonos una idea de que es superficie! a",
+              "descripcion": "Hagamonos una idea de que es superficie! a. Vamos al Centro de recursos y traemos hojas de papel del mismo tamano. Las hojas pueden ser recicladas. Trabajo con el profesor o la profesora 139 Unidad 3, uia 17 b. Cubrimos con las hojas la parte superior de nuestra mesa de trabajo. c. Respondemos las siguientes preguntas: Cuantas hojas completas neces",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos la siguiente informacion: La superf icie es la parte externa de los objetos",
+              "descripcion": "Leemos la siguiente informacion: La superf icie es la parte externa de los objetos. Algunas superf icies pueden ser planas y otras pueden ser curvas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos con atencion las siguientes oraciones",
+              "descripcion": "Leemos con atencion las siguientes oraciones. Decimos si cada una es falsa o verdadera. Si la oracion es falsa, explicamos por que. a. Las superficies solo son planas. b. La superficie es el borde de un objeto o de una figura.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Observamos las siguientes figuras planas",
+              "descripcion": "Observamos las siguientes figuras planas. Luego, las dibujamos en el cuaderno de trabajo o en el cuaderno de Matematicas. Tenemos en cuenta el numero de cuadraditos de cada una: Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Observamos y comentamos: Cuantas unidades como esta se necesitan para cubrir cada figura plana del",
+              "descripcion": "Observamos y comentamos: Cuantas unidades como esta se necesitan para cubrir cada figura plana del rectangulo de la actividad anterior? 140 Matematicas 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos con mucha atencion el siguiente texto",
+              "descripcion": "Leemos con mucha atencion el siguiente texto. Si es necesario, lo leemos varias veces hasta comprenderlo bien: 141 Unidad 3, uia 17",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leemos con mucha atencion la siguiente situacion problema",
+              "descripcion": "Leemos con mucha atencion la siguiente situacion problema. Si es necesario, la leemos varias veces hasta comprenderla bien. Dialogamos sobre como solucionarla: Area de una f igura plana La medida de la superficie de una figura plana se llama area. En la actividad anterior, la superf icie del rectangulo se cubre con 8 . Esto quiere decir que el area",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Con la informacion de la situacion anterior, comentamos: a",
+              "descripcion": "Con la informacion de la situacion anterior, comentamos: a. Cuantas hojas se necesitan para cubrir toda el area de la superficie del tablero? b. Si usaramos hojas mas grandes para cubrir la superficie del tablero, necesitariamos mayor o menor cantidad de hojas para cubrir toda el area?",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Compartimos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con el de los demas companeros y companeras. Si es necesario, lo corregimos o complementamos.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

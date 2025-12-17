@@ -4,11 +4,11 @@
   <head>
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-    <title>Guías ENA Recomendadas</title>
+    <title>Selección de Guías por Grado</title>
     <link href="style.css" rel="stylesheet"/>
     <style>
-      .guias-container {
-        margin-top: 2rem;
+      .grados-container {
+        margin-top: 1.5rem;
       }
 
       .grado-section {
@@ -20,69 +20,135 @@
       }
 
       .grado-title {
-        font-size: 1.3rem;
+        font-size: 1.2rem;
         color: #0C67B3;
         margin-bottom: 1rem;
         font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
       }
 
-      .unidades-info {
-        background: #e3f2fd;
-        padding: 0.5rem 1rem;
-        border-radius: 5px;
-        margin-bottom: 1rem;
-        font-size: 0.95rem;
-      }
-
-      .guia-card {
-        background: white;
-        padding: 1rem;
-        margin-bottom: 0.8rem;
-        border-radius: 6px;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        transition: transform 0.2s;
-      }
-
-      .guia-card:hover {
-        transform: translateX(5px);
-        box-shadow: 0 3px 8px rgba(0,0,0,0.15);
-      }
-
-      .guia-numero {
-        display: inline-block;
+      .grado-title .badge {
         background: #0C67B3;
         color: white;
         padding: 0.2rem 0.6rem;
         border-radius: 12px;
         font-size: 0.85rem;
+      }
+
+      .selector-row {
+        margin-bottom: 1rem;
+      }
+
+      .selector-row label {
+        display: block;
+        font-weight: 600;
+        color: #333;
+        margin-bottom: 0.5rem;
+      }
+
+      .selector-row select {
+        width: 100%;
+        padding: 0.8rem;
+        border: 2px solid #ddd;
+        border-radius: 6px;
+        font-size: 1rem;
+        background: white;
+        cursor: pointer;
+        transition: border-color 0.2s;
+      }
+
+      .selector-row select:focus {
+        outline: none;
+        border-color: #0C67B3;
+      }
+
+      .selector-row select:disabled {
+        background: #f5f5f5;
+        cursor: not-allowed;
+      }
+
+      .guias-radio-list {
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        padding: 0.5rem;
+        margin-top: 0.5rem;
+      }
+
+      .guia-radio-item {
+        display: flex;
+        align-items: flex-start;
+        gap: 0.8rem;
+        padding: 0.8rem 1rem;
+        border-bottom: 1px solid #eee;
+        transition: background 0.2s;
+        cursor: pointer;
+      }
+
+      .guia-radio-item:last-child {
+        border-bottom: none;
+      }
+
+      .guia-radio-item:hover {
+        background: #f5f5f5;
+      }
+
+      .guia-radio-item input[type="radio"] {
+        width: 18px;
+        height: 18px;
+        margin-top: 2px;
+        cursor: pointer;
+        accent-color: #0C67B3;
+      }
+
+      .guia-info {
+        flex: 1;
+      }
+
+      .guia-numero {
+        background: #0C67B3;
+        color: white;
+        padding: 0.15rem 0.5rem;
+        border-radius: 10px;
+        font-size: 0.8rem;
         font-weight: 600;
         margin-right: 0.5rem;
       }
 
-      .guia-nombre {
+      .guia-titulo {
         font-weight: 500;
         color: #333;
       }
 
-      .tema-header {
+      .guia-concepto {
+        font-size: 0.85rem;
+        color: #666;
+        margin-top: 0.3rem;
+        font-style: italic;
+      }
+
+      .area-header {
         background: linear-gradient(135deg, #0C67B3 0%, #0a5490 100%);
         color: white;
-        padding: 1.5rem;
+        padding: 1.2rem 1.5rem;
         border-radius: 8px;
-        margin-bottom: 2rem;
+        margin-bottom: 1.5rem;
       }
 
-      .tema-header h2 {
+      .area-header h2 {
         margin: 0;
-        font-size: 1.5rem;
+        font-size: 1.4rem;
       }
 
-      .tema-header p {
-        margin: 0.5rem 0 0 0;
-        opacity: 0.95;
+      .area-header p {
+        margin: 0.3rem 0 0 0;
+        opacity: 0.9;
+        font-size: 0.95rem;
       }
 
-      .no-guias-message {
+      .no-data-message {
         background: #fff3cd;
         border: 1px solid #ffc107;
         padding: 1rem;
@@ -92,35 +158,38 @@
 
       .loading {
         text-align: center;
-        padding: 3rem;
+        padding: 2rem;
         color: #666;
       }
 
-      .print-button {
-        background: #4CAF50;
-        color: white;
-        padding: 0.8rem 1.5rem;
-        border: none;
+      .seleccion-status {
+        background: #e8f5e9;
+        border: 1px solid #4caf50;
+        padding: 0.5rem 1rem;
         border-radius: 6px;
-        cursor: pointer;
-        font-size: 1rem;
-        margin-top: 1rem;
-        display: inline-flex;
-        align-items: center;
-        gap: 0.5rem;
+        margin-top: 0.5rem;
+        font-size: 0.9rem;
+        color: #2e7d32;
       }
 
-      .print-button:hover {
-        background: #45a049;
+      .seleccion-status.pending {
+        background: #fff3e0;
+        border-color: #ff9800;
+        color: #e65100;
       }
 
-      @media print {
-        .main-header, .form-buttons, .print-button, .progress-module {
-          display: none;
-        }
-        .guia-card {
-          page-break-inside: avoid;
-        }
+      .seleccion-status.complete {
+        background: #e8f5e9;
+        border-color: #4caf50;
+        color: #2e7d32;
+      }
+
+      .guias-container {
+        display: none;
+      }
+
+      .guias-container.visible {
+        display: block;
       }
     </style>
   </head>
@@ -165,8 +234,8 @@
           <div class="modulo-hex-info">
             <div class="hex-badge-img" data-step="5" role="img" aria-label="Paso 5"></div>
             <div class="info-texto">
-              <h3 class="info-titulo">Guías ENA Recomendadas por Grado</h3>
-              <p class="info-subtitulo">Estas son las guías específicas que debes usar según el tema seleccionado</p>
+              <h3 class="info-titulo">Selección de Unidad y Guía por Grado</h3>
+              <p class="info-subtitulo">Para cada grado, selecciona una unidad y luego una guía ENA</p>
             </div>
           </div>
 
@@ -174,131 +243,220 @@
 
           <div id="contenido-guias">
             <div class="loading">
-              <p>Cargando guías recomendadas...</p>
+              <p>Cargando datos...</p>
             </div>
           </div>
 
           <div class="form-buttons">
             <button type="button" id="atras" class="btn-secondary">Atrás</button>
-            <button type="button" id="imprimir" class="print-button" style="display:none;">
-              📄 Imprimir Guías
-            </button>
             <button type="submit" id="continuar" class="btn-primary">Continuar</button>
           </div>
         </form>
       </div>
     </content>
 
-    <script src="temas-guias-mapper.js"></script>
     <script src="main.js"></script>
     <script>
-      // Cargar datos guardados del paso anterior
-      function cargarGuiasRecomendadas() {
-        const step2Data = window.getStepData(2); // Grados seleccionados
-        const step4Data = window.getStepData(4); // Área y tema general
+      // Estado global para esta página
+      let seleccionesPorGrado = {};
+      let unidadesPorGrado = {};
+
+      // Cargar datos y construir la interfaz
+      async function inicializar() {
+        const step2Data = window.getStepData(2); // Grados
+        const step4Data = window.getStepData(4); // Área y edición
 
         if (!step2Data || !step4Data) {
           document.getElementById('contenido-guias').innerHTML = `
-            <div class="no-guias-message">
-              <strong>⚠️ Información incompleta</strong>
-              <p>Por favor completa los pasos anteriores (selección de grados y área)</p>
+            <div class="no-data-message">
+              <strong>Información incompleta</strong>
+              <p>Por favor completa los pasos anteriores (grados y área)</p>
             </div>
           `;
           return;
         }
 
-        const gradosSeleccionados = step2Data.grados || [];
-        const asignatura = step4Data.area;
-        const temaGeneral = step4Data.tema_general;
-        const edicionGuias = step4Data.edicion_guia;
+        const grados = step2Data.grados || [];
+        const area = step4Data.area;
+        const areaNombre = step4Data.area_nombre;
+        const edicion = step4Data.edicion_guia;
 
-        // Crear el encabezado del tema
+        if (grados.length === 0) {
+          document.getElementById('contenido-guias').innerHTML = `
+            <div class="no-data-message">
+              <strong>No hay grados seleccionados</strong>
+              <p>Regresa al paso 2 y selecciona los grados con los que trabajas</p>
+            </div>
+          `;
+          return;
+        }
+
+        // Construir HTML
         let html = `
-          <div class="tema-header">
-            <h2>${getNombreAsignatura(asignatura)}</h2>
-            <p><strong>Tema:</strong> ${formatearTemaGeneral(temaGeneral)}</p>
-            <p><strong>Edición de guías:</strong> ${edicionGuias}</p>
+          <div class="area-header">
+            <h2>${areaNombre}</h2>
+            <p>Edición de guías: ${edicion}</p>
           </div>
+          <div class="grados-container">
         `;
 
-        // Obtener guías para cada grado seleccionado
-        gradosSeleccionados.forEach(grado => {
-          const gradoNum = grado.replace('grado_', '');
-          const resultado = obtenerGuiasEspecificas(asignatura, temaGeneral, parseInt(gradoNum));
+        // Crear sección para cada grado
+        for (const grado of grados) {
+          const gradoNum = grado.toString().replace(/\D/g, '') || grado;
+          html += `
+            <div class="grado-section" data-grado="${gradoNum}">
+              <div class="grado-title">
+                <span class="badge">Grado ${gradoNum}°</span>
+                Selecciona unidad y guía
+              </div>
 
-          if (resultado.error) {
-            html += `
-              <div class="grado-section">
-                <h3 class="grado-title">Grado ${gradoNum}°</h3>
-                <div class="no-guias-message">
-                  ${resultado.error}
-                </div>
+              <div class="selector-row">
+                <label for="unidad-${gradoNum}">1. Selecciona la Unidad:</label>
+                <select id="unidad-${gradoNum}" data-grado="${gradoNum}" onchange="cargarGuiasDeUnidad('${gradoNum}', this.value)">
+                  <option value="">-- Cargando unidades... --</option>
+                </select>
               </div>
-            `;
-          } else if (resultado.mensaje) {
-            html += `
-              <div class="grado-section">
-                <h3 class="grado-title">Grado ${gradoNum}°</h3>
-                <div class="no-guias-message">
-                  <strong>ℹ️ ${resultado.mensaje}</strong>
-                  <p>Grados disponibles: ${resultado.tema_disponible_en_grados}</p>
-                </div>
-              </div>
-            `;
-          } else {
-            html += `
-              <div class="grado-section">
-                <h3 class="grado-title">Grado ${gradoNum}°</h3>
-                <div class="unidades-info">
-                  <strong>📚 Unidades sugeridas:</strong> ${resultado.unidades.join(', ')}
-                </div>
-                <div class="guias-list">
-                  ${resultado.guias_especificas.map(guia => `
-                    <div class="guia-card">
-                      <span class="guia-numero">Unidad ${guia.unidad} - Guía ${guia.guia}</span>
-                      <span class="guia-nombre">${guia.nombre}</span>
-                    </div>
-                  `).join('')}
-                </div>
-              </div>
-            `;
-          }
-        });
 
+              <div class="selector-row guias-container" id="guias-container-${gradoNum}">
+                <label>2. Selecciona la Guía:</label>
+                <div class="guias-radio-list" id="guias-list-${gradoNum}">
+                  <p style="padding: 1rem; color: #666;">Primero selecciona una unidad</p>
+                </div>
+              </div>
+
+              <div class="seleccion-status pending" id="status-${gradoNum}">
+                Pendiente: Selecciona unidad y guía
+              </div>
+            </div>
+          `;
+
+          // Inicializar selecciones para este grado
+          seleccionesPorGrado[gradoNum] = null;
+          unidadesPorGrado[gradoNum] = [];
+        }
+
+        html += '</div>';
         document.getElementById('contenido-guias').innerHTML = html;
-        document.getElementById('imprimir').style.display = 'inline-flex';
 
-        // Guardar las guías recomendadas para el siguiente paso
-        const guiasRecomendadas = {};
-        gradosSeleccionados.forEach(grado => {
-          const gradoNum = grado.replace('grado_', '');
-          const resultado = obtenerGuiasEspecificas(asignatura, temaGeneral, parseInt(gradoNum));
-          if (resultado.guias_especificas) {
-            guiasRecomendadas[grado] = resultado.guias_especificas;
+        // Cargar unidades para cada grado
+        for (const grado of grados) {
+          const gradoNum = grado.toString().replace(/\D/g, '') || grado;
+          await cargarUnidadesGrado(area, gradoNum);
+        }
+      }
+
+      // Cargar unidades disponibles para un grado
+      async function cargarUnidadesGrado(area, grado) {
+        const selectUnidad = document.getElementById(`unidad-${grado}`);
+
+        try {
+          const response = await fetch(`/api/guias-data/temas-por-grado/${area}/${grado}`);
+          const result = await response.json();
+
+          if (result.success && result.data.temas && result.data.temas.length > 0) {
+            unidadesPorGrado[grado] = result.data.temas;
+
+            let options = '<option value="">-- Selecciona una unidad --</option>';
+            result.data.temas.forEach(tema => {
+              options += `<option value="${tema.id}">Unidad ${tema.id}: ${tema.titulo}</option>`;
+            });
+            selectUnidad.innerHTML = options;
+          } else {
+            selectUnidad.innerHTML = '<option value="">No hay unidades disponibles</option>';
           }
-        });
-
-        window.saveStepData(5, {
-          guias_recomendadas: guiasRecomendadas,
-          asignatura: asignatura,
-          tema_general: temaGeneral
-        });
+        } catch (error) {
+          console.error(`Error al cargar unidades para grado ${grado}:`, error);
+          selectUnidad.innerHTML = '<option value="">Error al cargar unidades</option>';
+        }
       }
 
-      function getNombreAsignatura(key) {
-        const nombres = {
-          'matematicas': 'Matemáticas',
-          'lenguaje': 'Lenguaje',
-          'sociales': 'Ciencias Sociales',
-          'Tecnología': 'Tecnología',
-          'Naturales': 'Ciencias Naturales',
-          'ética': 'Ética'
+      // Cargar guías de una unidad específica para un grado
+      async function cargarGuiasDeUnidad(grado, unidadId) {
+        const guiasContainer = document.getElementById(`guias-container-${grado}`);
+        const guiasList = document.getElementById(`guias-list-${grado}`);
+
+        if (!unidadId) {
+          guiasContainer.classList.remove('visible');
+          guiasList.innerHTML = '<p style="padding: 1rem; color: #666;">Primero selecciona una unidad</p>';
+          seleccionesPorGrado[grado] = null;
+          actualizarStatus(grado);
+          return;
+        }
+
+        guiasList.innerHTML = '<p style="padding: 1rem; color: #666;">Cargando guías...</p>';
+        guiasContainer.classList.add('visible');
+
+        const step4Data = window.getStepData(4);
+        const area = step4Data.area;
+
+        try {
+          const response = await fetch(`/api/guias-data/guias/${area}/${grado}/${unidadId}`);
+          const result = await response.json();
+
+          if (result.success && result.data.guias && result.data.guias.length > 0) {
+            const unidadInfo = result.data.unidad;
+            let html = '';
+
+            result.data.guias.forEach(guia => {
+              const radioId = `guia-${grado}-${guia.numero}`;
+              html += `
+                <label class="guia-radio-item" for="${radioId}">
+                  <input type="radio"
+                         id="${radioId}"
+                         name="guia-grado-${grado}"
+                         data-grado="${grado}"
+                         data-unidad="${unidadId}"
+                         data-unidad-titulo="${unidadInfo.titulo}"
+                         data-numero="${guia.numero}"
+                         data-titulo="${guia.titulo}"
+                         onchange="seleccionarGuia('${grado}', this)">
+                  <div class="guia-info">
+                    <span class="guia-numero">${guia.numero}</span>
+                    <span class="guia-titulo">${guia.titulo}</span>
+                    ${guia.concepto ? `<div class="guia-concepto">${guia.concepto}</div>` : ''}
+                  </div>
+                </label>
+              `;
+            });
+
+            guiasList.innerHTML = html;
+          } else {
+            guiasList.innerHTML = '<p style="padding: 1rem; color: #666;">No hay guías disponibles para esta unidad</p>';
+          }
+        } catch (error) {
+          console.error(`Error al cargar guías:`, error);
+          guiasList.innerHTML = '<p style="padding: 1rem; color: #c00;">Error al cargar las guías</p>';
+        }
+
+        // Limpiar selección previa
+        seleccionesPorGrado[grado] = null;
+        actualizarStatus(grado);
+      }
+
+      // Seleccionar una guía
+      function seleccionarGuia(grado, radio) {
+        seleccionesPorGrado[grado] = {
+          unidad: parseInt(radio.dataset.unidad),
+          unidad_titulo: radio.dataset.unidadTitulo,
+          numero: parseInt(radio.dataset.numero),
+          titulo: radio.dataset.titulo,
+          nombre: radio.dataset.titulo
         };
-        return nombres[key] || key;
+        actualizarStatus(grado);
       }
 
-      function formatearTemaGeneral(tema) {
-        return tema.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+      // Actualizar estado visual
+      function actualizarStatus(grado) {
+        const statusEl = document.getElementById(`status-${grado}`);
+        const seleccion = seleccionesPorGrado[grado];
+
+        if (seleccion) {
+          statusEl.className = 'seleccion-status complete';
+          statusEl.textContent = `✓ Seleccionado: Unidad ${seleccion.unidad} - Guía ${seleccion.numero}: ${seleccion.titulo}`;
+        } else {
+          statusEl.className = 'seleccion-status pending';
+          statusEl.textContent = 'Pendiente: Selecciona unidad y guía';
+        }
       }
 
       // Event listeners
@@ -306,17 +464,57 @@
         window.location.href = '04GuiasENAAreas.html';
       });
 
-      document.getElementById('imprimir').addEventListener('click', function() {
-        window.print();
-      });
-
       document.getElementById('continuar').addEventListener('click', function(e) {
         e.preventDefault();
+
+        const step2Data = window.getStepData(2);
+        const grados = step2Data?.grados || [];
+
+        // Validar que todos los grados tengan una guía seleccionada
+        let todosSeleccionados = true;
+        let gradosSinSeleccion = [];
+
+        grados.forEach(grado => {
+          const gradoNum = grado.toString().replace(/\D/g, '') || grado;
+          if (!seleccionesPorGrado[gradoNum]) {
+            todosSeleccionados = false;
+            gradosSinSeleccion.push(gradoNum);
+          }
+        });
+
+        if (!todosSeleccionados) {
+          alert(`Por favor selecciona una unidad y guía para: Grado ${gradosSinSeleccion.join('°, Grado ')}°`);
+          return;
+        }
+
+        // Guardar datos del paso 5
+        const step4Data = window.getStepData(4);
+
+        // Transformar selecciones al formato esperado por el backend
+        const guiasRecomendadas = {};
+        Object.entries(seleccionesPorGrado).forEach(([grado, guia]) => {
+          if (guia) {
+            guiasRecomendadas[`grado_${grado}`] = [{
+              unidad: guia.unidad,
+              guia: guia.numero,
+              nombre: guia.titulo
+            }];
+          }
+        });
+
+        window.saveStepData(5, {
+          area: step4Data.area,
+          area_nombre: step4Data.area_nombre,
+          edicion_guia: step4Data.edicion_guia,
+          selecciones_por_grado: seleccionesPorGrado,
+          guias_recomendadas: guiasRecomendadas
+        });
+
         window.location.href = '06InformacionDocente.html';
       });
 
-      // Cargar guías al iniciar la página
-      window.addEventListener('DOMContentLoaded', cargarGuiasRecomendadas);
+      // Inicializar al cargar
+      window.addEventListener('DOMContentLoaded', inicializar);
     </script>
   </body>
 </html>

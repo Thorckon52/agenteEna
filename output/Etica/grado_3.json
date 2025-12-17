@@ -1,0 +1,475 @@
+{
+  "asignatura": "Etica y Valores",
+  "grado": 3,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Yuly Correa Diaz, Diana M. Montoya Rodriguez, Beatriz E. Munoz Toro, Maria C. Ramirez Rincon, Victor M. Velez Carriazo",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "Identifica y valora sus emociones y las de las personas que lo rodean.",
+    "Manifiesta diariamente acciones positivas que van en beneficio propio y común.",
+    "Valora los recursos y las personas que tiene en su entorno, como aspectos importantes para desarrollar su proyecto",
+    "Comprenden que para manejar conflictos sin agresión es muy importante identificar y manejar las emociones.",
+    "Identifican las emociones propias y de otros, a travès de claves corporales y verbales, indicando la función de cada una y relacionándolas con las situaciones",
+    "Reconocen la agresión como una forma de reaccionar en conflictos mal manejados y determinan las consecuencias de la agre-",
+    "Proponen alternativas de afrontamiento en distintos conflictos y examinan sus diferentes consecuencias.",
+    "Practica los valores aprendidos para lograr el bienestar individual y grupal.",
+    "Escucha y respeta distintos puntos de vista.",
+    "Evita la agresión y resuelve conflictos mediante el diálogo."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Me reconozco y valoro a los demás",
+      "desempeno_general": "Reconozco mis cualidades, emociones y las de los demás, fortaleciendo la convivencia.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "¿Quién soy y cómo me siento?",
+          "concepto": "Identidad, Emociones",
+          "desempeno": "Reconozco mis cualidades personales. Identifico emociones propias.",
+          "ejes_tematicos": [
+            "Identidad",
+            "Emociones"
+          ],
+          "recursos": [
+            "Hojas blancas",
+            "Colores",
+            "Aula organizada en círculo",
+            "Acompañamiento del docente"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Todos sentimos diferente",
+          "concepto": "Empatía, Respeto",
+          "desempeno": "Reconozco y respeto emociones de los demás.",
+          "ejes_tematicos": [
+            "Empatía",
+            "Respeto"
+          ],
+          "recursos": [
+            "Historias impresas",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Fortalezco mi autoestima",
+          "concepto": "Autoestima",
+          "desempeno": "Valoro mis capacidades.",
+          "ejes_tematicos": [
+            "Autoestima"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz",
+            "Orientación docente"
+          ],
+          "actividades": []
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Convivencia y resolución pacífica de conflictos",
+      "desempeno_general": "Practico normas y estrategias para convivir en armonía.",
+      "guias": [
+        {
+          "numero": 4,
+          "titulo": "Normas que nos ayudan a convivir",
+          "concepto": "Normas, Convivencia",
+          "desempeno": "Reconozco normas de convivencia.",
+          "ejes_tematicos": [
+            "Normas",
+            "Convivencia"
+          ],
+          "recursos": [
+            "Cartulina",
+            "Marcadores",
+            "Aula organizada en grupos"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la ayuda de un familiar, escribo en el cuaderno de que manera practicamos los",
+              "descripcion": "Con la ayuda de un familiar, escribo en el cuaderno de que manera practicamos los siguientes valores entre los y las integrantes de nuestra familia:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "De los valores presentados en el numeral anterior, elijo el que mas pongo en practica",
+              "descripcion": "De los valores presentados en el numeral anterior, elijo el que mas pongo en practica para mi bienestar personal. En mi cuaderno, explico por que elegi dicho valor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pido a mis familiares que me ayuden a identificar cuales son los valores de nuestra",
+              "descripcion": "Pido a mis familiares que me ayuden a identificar cuales son los valores de nuestra comunidad que permiten el bienestar de todos y todas. Los escribo en una hoja de papel tamano carta.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la siguiente clase, socializo mi trabajo con el profesor o la profesora",
+              "descripcion": "En la siguiente clase, socializo mi trabajo con el profesor o la profesora. Cooperacion Comunicacion Solidaridad La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso. C Actividades de Aplicacion Trabajo con mi familia b. Que estrategias va a desarrollar para fomentar la cooperacion entre todos los y las estudiant",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con base en la historia anterior, realizamos las siguientes actividades: a",
+              "descripcion": "Con base en la historia anterior, realizamos las siguientes actividades: a. Recordamos un conflicto que haya ocurrido entre los y las integrantes del salon de clase. b. Conformamos dos equipos: equipo A y equipo B. Cada equipo realiza una representacion teatral sobre el conflicto identificado. c. Para solucionar este conflicto, tenemos en cuenta lo",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el cuaderno, respondemos la siguiente pregunta: • Cual de las dos estrategias propuestas por",
+              "descripcion": "En el cuaderno, respondemos la siguiente pregunta: • Cual de las dos estrategias propuestas por Maria y por Antonio contribuye a evitar conflictos entre los y las integrantes del salon de clases? Por que? de Maria y de Antonio. Luego, le pregunto lo siguiente a Maria: -Si no se castigan a quienes ocasionan conf氀ictos, como podemos hacer que me jore",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Entrevisto al presidente o a la presidenta del Gobierno Estudiantil",
+              "descripcion": "Entrevisto al presidente o a la presidenta del Gobierno Estudiantil. Algunas preguntas pueden ser: a. Que acciones propone en su programa de gobierno para lograr el bienestar de todos los y las estudiantes de nuestra escuela o colegio? 42 Etica y Educacion para la Paz 3",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "En el cuaderno, escribo un corto texto o hago un dibujo sobre por que el",
+              "descripcion": "En el cuaderno, escribo un corto texto o hago un dibujo sobre por que el esfuerzo de todos y todas contribuye al bienestar comun.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Comparto mi trabajo con mis companeros y companeras",
+              "descripcion": "Comparto mi trabajo con mis companeros y companeras. Gl os a r io A B C Bien comun: acciones, actitudes o situaciones que le generan bienestar a la gran mayoria de personas de una comunidad. Presento el trabajo al profesor o a la profesora para que valore mi progreso.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Resolvemos conflictos dialogando",
+          "concepto": "Diálogo, Resolución de conflictos",
+          "desempeno": "Utilizo el diálogo para resolver conflictos.",
+          "ejes_tematicos": [
+            "Diálogo",
+            "Resolución de conflictos"
+          ],
+          "recursos": [
+            "Tarjetas con situaciones",
+            "Espacio amplio",
+            "Acompañamiento docente"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la ayuda de mis familiares, elaboro un cuadernillo con seis hojas de papel tamano",
+              "descripcion": "Con la ayuda de mis familiares, elaboro un cuadernillo con seis hojas de papel tamano carta, asi: a. En la portada del cuadernillo, escribo mis nombres y apellidos. Como titulo, escribo: “Mi bienestar personal”. b. En cada una de las siguientes cuatro hojas, escribo alguno de estos valores: solidaridad, convivencia, respeto y comprension. c. Debajo",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En la proxima clase, comparto mi trabajo con mis companeros y companeras y el profesor",
+              "descripcion": "En la proxima clase, comparto mi trabajo con mis companeros y companeras y el profesor o la profesora. La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso. Presentamos el trabajo al profesor o a la profesora para que valore nuestro progreso. C Actividades de Aplicacion Trabajo con mi familia",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Elijo uno de los consejos presentados en el texto anterior y lo escribo en una",
+              "descripcion": "Elijo uno de los consejos presentados en el texto anterior y lo escribo en una hoja. Deposito la hoja en el Buzon de compromisos y pongo en practica el consejo que escribi en ella.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos la siguiente historia: A medida que cumplo con mis compromisos, me acerco mas a",
+              "descripcion": "Leemos la siguiente historia: A medida que cumplo con mis compromisos, me acerco mas a mis metas y suenos. Trabajo individual Los y las integrantes del Comite de Convivencia han puesto en practica una estrategia con la que pueden manejar los conf氀ictos y cuidar las relaciones entre los y las estudiantes. Siempre buscan dialogar sobre las siguientes",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Pensamos en una situacion en la que nosotros o nosotras hayamos ocasionado un conflicto",
+              "descripcion": "Pensamos en una situacion en la que nosotros o nosotras hayamos ocasionado un conflicto. Con base en esta situacion, dialogamos sobre las preguntas que proponen los y las integrantes del Comite de Convivencia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "En el cuaderno, explicamos si la estrategia aplicada por el Comite de Convivencia contribuye o",
+              "descripcion": "En el cuaderno, explicamos si la estrategia aplicada por el Comite de Convivencia contribuye o no a mejorar las relaciones entre agresores y victimas.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "El respeto en la convivencia diaria",
+          "concepto": "Respeto, Tolerancia",
+          "desempeno": "Practico el respeto en la vida cotidiana.",
+          "ejes_tematicos": [
+            "Respeto",
+            "Tolerancia"
+          ],
+          "recursos": [
+            "Tarjetas de roles",
+            "Aula",
+            "Orientación docente"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la ayuda de mis familiares, identifico una familia vecina que tenga alguna necesidad",
+              "descripcion": "Con la ayuda de mis familiares, identifico una familia vecina que tenga alguna necesidad. Entre todos, ayudamos a esta familia en lo que podamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Escribo en el cuaderno cuales fueron las acciones solidarias que realizamos, como las hicimos, cual",
+              "descripcion": "Escribo en el cuaderno cuales fueron las acciones solidarias que realizamos, como las hicimos, cual fue el resultado y como nos sentimos realizandolas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, comparto mi trabajo con mis companeras y companeros y el profesor",
+              "descripcion": "En la proxima clase, comparto mi trabajo con mis companeras y companeros y el profesor o la profesora. La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso. Trabajo individual Me comprometo a Reflexionar sobre la importancia del valor de la solidaridad y ponerlo en practica cada vez que tenga la oportunidad. C Ac",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dibujo la palma de mi mano en el cuaderno",
+              "descripcion": "Dibujo la palma de mi mano en el cuaderno. Dentro de la palma, escribo diferentes palabras que se relacionen con el valor de la solidaridad.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Me relaciono con mi comunidad",
+      "desempeno_general": "Reconozco la importancia de la cooperación y la solidaridad.",
+      "guias": [
+        {
+          "numero": 7,
+          "titulo": "Trabajamos juntos",
+          "concepto": "Cooperación",
+          "desempeno": "Practico la cooperación.",
+          "ejes_tematicos": [
+            "Cooperación"
+          ],
+          "recursos": [
+            "Material lúdico",
+            "Espacio abierto"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos atentamente las siguientes imagenes: 1 2 Desempeno: • Analizo las reacciones y emociones que",
+              "descripcion": "Observamos atentamente las siguientes imagenes: 1 2 Desempeno: • Analizo las reacciones y emociones que tengo frente al triunfo y la derrota. A Actividades Basicas Trabajo en equipo Vi vamos la paz",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a. Que emociones reconocemos en los ninos y ninas de las imagenes anteriores? b. Hemos estado en alguna de las situaciones anteriores? Como nos hemos sentido en estas situaciones? c. De que manera podemos actuar cuando ganamos? d. Que podemos hacer cuando perdemos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Recordamos y comentamos una situacion en la que perdimos y otra situacion en la que",
+              "descripcion": "Recordamos y comentamos una situacion en la que perdimos y otra situacion en la que ganamos en la casa o en la escuela o colegio. Comentamos: a. Como reaccionamos y que sentimos en cada una de estas situaciones? b. Como podemos expresar nuestras emociones de manera que no hagan dano a los demas seres vivos con quienes compartimos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En el cuaderno, hacemos un dibujo que represente la que habria sido la mejor reaccion",
+              "descripcion": "En el cuaderno, hacemos un dibujo que represente la que habria sido la mejor reaccion en la situacion en la que perdimos. Trabajo en parejas Vi vo l a e mp at i a Cuando aprendo a controlar mis emociones en cualquier momento de la vida, evito conflictos con los demas. 69",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "La solidaridad nos une",
+          "concepto": "Solidaridad",
+          "desempeno": "Reconozco acciones solidarias.",
+          "ejes_tematicos": [
+            "Solidaridad"
+          ],
+          "recursos": [
+            "Casos impresos",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Le pido a un familiar que me cuente cual ha sido el triunfo o la",
+              "descripcion": "Le pido a un familiar que me cuente cual ha sido el triunfo o la derrota que mas recuerda y cuales fueron las emociones que experimento en ese momento.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Le pregunto a un familiar: que acciones realiza cuando esta enojado para tranquilizarse y sentirse",
+              "descripcion": "Le pregunto a un familiar: que acciones realiza cuando esta enojado para tranquilizarse y sentirse mejor? Escucho sus estrategias para calmarse y le comparto las que aprendi en clase.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En una hoja blanca, escribo mis compromisos para mejorar las actitudes negativas que tengo cuando",
+              "descripcion": "En una hoja blanca, escribo mis compromisos para mejorar las actitudes negativas que tengo cuando pierdo y cuando gano. Por ejemplo: si cuando gano, irrespeto a quienes pierden.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, comparto mis compromisos con mis companeros y companeras y el profesor",
+              "descripcion": "En la proxima clase, comparto mis compromisos con mis companeros y companeras y el profesor o la profesora. La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso. Presentamos el trabajo al profesor o a la profesora para que valore nuestro progreso. d. Si fueramos companeros y companeras de Juan y Santiago, como le",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "De los valores que aparecen a continuacion, escogemos los tres que les falto practicar a",
+              "descripcion": "De los valores que aparecen a continuacion, escogemos los tres que les falto practicar a Juan y a Santiago durante el partido. Escribimos en el cuaderno por que elegimos estos valores: Tolerancia Amor Esfuerzo Companerismo Respeto Trabajo en equipo Cooperacion Amistad Me comprometo a • Respirar profundo cuando tengo rabia. • Contar hasta diez hasta",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Practicamos la empatía",
+          "concepto": "Empatía",
+          "desempeno": "Me pongo en el lugar del otro.",
+          "ejes_tematicos": [
+            "Empatía"
+          ],
+          "recursos": [
+            "Tarjetas con situaciones",
+            "Espacio amplio"
+          ],
+          "actividades": []
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Cuidamos la vida y el entorno",
+      "desempeno_general": "Valoro la vida y promuevo acciones de cuidado.",
+      "guias": [
+        {
+          "numero": 10,
+          "titulo": "Cuidamos a las personas",
+          "concepto": "Cuidado, Responsabilidad",
+          "desempeno": "Reconozco acciones de cuidado hacia otros.",
+          "ejes_tematicos": [
+            "Cuidado",
+            "Responsabilidad"
+          ],
+          "recursos": [
+            "Imágenes impresas",
+            "Aula"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la ayuda de un familiar, identifico una situacion problema que haya en nuestra comunidad",
+              "descripcion": "Con la ayuda de un familiar, identifico una situacion problema que haya en nuestra comunidad. Sigo las siguientes indicaciones: a. Comparto mis ideas sobre como podemos solucionar el problema identificado anteriormente y las escribo en el cuaderno. b. Imagino como seria nuestra comunidad si ese problema no existiera. En el cuaderno, explico por que",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En la proxima clase, comparto el trabajo que realice con mis companeros y companeras",
+              "descripcion": "En la proxima clase, comparto el trabajo que realice con mis companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con la ayuda de los integrantes del Gobierno Estudiantil y de los demas companeros y",
+              "descripcion": "Con la ayuda de los integrantes del Gobierno Estudiantil y de los demas companeros y companeras, identifico el problema que debe resolverse mas rapidamente y la manera como entre todos podemos solucionarlo. Presento el trabajo al profesor o a la profesora para que valore mi progreso. La profesora o el profesor valora mis aprendizajes y me autoriza ",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Selecciono la profesion que quiero ejercer cuando sea grande",
+              "descripcion": "Selecciono la profesion que quiero ejercer cuando sea grande. Realizo lo siguiente: a. En una hoja tamano carta, dibujo o pego la imagen del oficio o profesion que escogi. b. Imagino que ya soy grande y que desarrollo esa profesion u ocupacion. c. Debajo del dibujo, escribo lo que me imagine. Por ejemplo: como es el lugar donde trabajo, con cuales ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Cuidamos el entorno natural",
+          "concepto": "Cuidado del entorno",
+          "desempeno": "Practico acciones de cuidado ambiental.",
+          "ejes_tematicos": [
+            "Cuidado del entorno"
+          ],
+          "recursos": [
+            "Cartulina",
+            "Marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Les pregunto a mis familiares si se sienten felices con la profesion u oficio que",
+              "descripcion": "Les pregunto a mis familiares si se sienten felices con la profesion u oficio que estan haciendo ahora. Tambien les pido que me den sugerencias para lograr mi proyecto de vida. Escribo sus respuestas y sugerencias en el cuaderno. La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pido a mis familiares que me ayuden a sembrar un arbol o una planta",
+              "descripcion": "Pido a mis familiares que me ayuden a sembrar un arbol o una planta. Me comprometo a cuidarla con responsabilidad para que al crecer me recuerde que estoy avanzando en el logro de mi proyecto de vida.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, presento mi trabajo al profesor o a la profesora",
+              "descripcion": "En la proxima clase, presento mi trabajo al profesor o a la profesora. C Actividades de Aplicacion Trabajo con mi familia 102 Etica y educacion para la paz 2 Guia 8 12 Como han influido en mi los medios de comunicacion?",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Construimos paz",
+          "concepto": "Paz, Convivencia",
+          "desempeno": "Practico acciones que favorecen la paz.",
+          "ejes_tematicos": [
+            "Paz",
+            "Convivencia"
+          ],
+          "recursos": [
+            "Tarjetas de roles",
+            "Espacio amplio"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Les pregunto a mis familiares cual es el medio de comunicacion que utilizan con mayor",
+              "descripcion": "Les pregunto a mis familiares cual es el medio de comunicacion que utilizan con mayor frecuencia y por que. Escribo sus respuestas en el cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con la ayuda de mis familiares, elaboro y completo en el cuaderno el siguiente cuadro",
+              "descripcion": "Con la ayuda de mis familiares, elaboro y completo en el cuaderno el siguiente cuadro sobre el uso que les doy a los medios de comunicacion: Medios de comunicacion que utilizo Programas o juegos que me gustan Dias a la semana que dedico a estas actividades Tiempo total Television",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, comparto mi trabajo con mis companeros y companeras y el profesor",
+              "descripcion": "En la proxima clase, comparto mi trabajo con mis companeros y companeras y el profesor o la profesora. Presento el trabajo al profesor o a la profesora para que valore mi progreso. La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso. Trabajo individual Me comprometo a Tener en cuenta las orientaciones de mis fam",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Respondo en el cuaderno: a",
+              "descripcion": "Respondo en el cuaderno: a. De que manera los programas de television afectaban a Felipe? Por que? b. Alguna vez los programas de television me han afectado de la misma manera? c. Cuando hago uso de los medios de comunicacion, recibo apoyo y acompanamiento de mis familiares? d. Como puedo hacer un mejor uso de los medios masivos de comunicacion? Es",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

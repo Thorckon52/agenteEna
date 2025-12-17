@@ -1,0 +1,1427 @@
+{
+  "asignatura": "Ciencias Naturales",
+  "grado": 5,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Wilson Leon Adurraman Fernandez, Ligia Ester Aldana Ocampo, Liliana Patricia Sanchez Gonzalez",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "DBA 1: Comprende que un circuito electrico basico esta formado por un generador o fuente (pila), conductores (cables) y uno o mas dispositivos (bombillos, motores, timbres), que deben estar conectados apropiadamente (por sus dos polos) para que funcionen y produzcan diferentes efectos.",
+    "DBA 4: Comprende que en los seres humanos (y en muchos otros animales) la nutricion involucra el funcionamiento integrado de un conjunto de sistemas de organos: digestivo, respiratorio y circulatorio. Unidad 3 Estudiemos las sustancias quimicas y sus propiedades Desempeno general: Reconozco la importancia",
+    "DBA 3: Comprende que los sistemas del cuerpo humano estan formados por organos, tejidos y celulas y que la estructura de cada tipo de celula esta relacionada con la funcion del tejido que forman. Unidad 2 Estudiemos algunos sistemas y aparatos que conforman el cuerpo humano Unidad 2 Estudiemos algunos sist",
+    "DBA 3: Comprende que los sistemas del cuerpo humano estan formados por organos, tejidos y celulas y que la estructura de cada tipo de celula esta relacionada con la funcion del tejido que forman. Unidad 4 Indaguemos sobre la electricidad y sus aplicaciones en la vida diaria Desempeno general: Identifico lo",
+    "DBA 2: Comprende que algunos materiales son buenos conductores de la corriente electrica y otros no (denominados aislantes) y que el paso de la corriente siempre genera calor."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Indaguemos acerca de la organización interna de los seres vivos",
+      "desempeno_general": "Comprendo que los seres vivos están constituidos por células, tejidos, órganos y sistema que realizan funciones específicas. Identifico los reinos en los que se clasifican los seres vivos.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "¿Cómo están conformados los seres vivos?",
+          "concepto": "La célula, células eucariotas y procariotas, teoría celular y su importancia",
+          "desempeno": "Diferencio las células de los seres vivos según sus características.",
+          "ejes_tematicos": [
+            "La célula",
+            "células eucariotas y procariotas",
+            "teoría celular y su importancia"
+          ],
+          "recursos": [
+            "Microscopio o lupa",
+            "cebolla cabezona",
+            "rama de apio",
+            "agua",
+            "agua estancada",
+            "portaobjetos",
+            "cubreobjetos"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En el cuaderno, dibujo un organismo conformado por celulas eucariotas y un organismo conformado por",
+              "descripcion": "En el cuaderno, dibujo un organismo conformado por celulas eucariotas y un organismo conformado por celulas procariotas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Realizo las siguientes actividades: a",
+              "descripcion": "Realizo las siguientes actividades: a. Comento con mis familiares lo que aprendi en esta guia sobre las bacterias que se desarrollan en los alimentos descompuestos o vencidos. b. En el cuaderno, escribo algunas actividades que me comprometo a realizar con mi familia para evitar enfermedades causadas por microorganismos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, comparto mi trabajo con la profesora o el profesor",
+              "descripcion": "En la proxima clase, comparto mi trabajo con la profesora o el profesor. Presentamos nuestro trabajo a la profesora o al profesor. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Teniendo en cuenta la consulta anterior y la ayuda del delegado del Comite de Ambiente,",
+              "descripcion": "Teniendo en cuenta la consulta anterior y la ayuda del delegado del Comite de Ambiente, realizamos lo siguiente: a. Promovemos una campana para prevenir la contaminacion de los alimentos cuando los manipulemos y consumamos. b. Compartimos nuestra campana con toda la comunidad educativa. 20 2 Ciencias Naturales 5 Desempeno: • Identifico organismos u",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Comparemos organismos unicelulares y pluricelulares",
+          "concepto": "Formas y funciones de las células",
+          "desempeno": "Identifico organismos unicelulares y organismos pluricelulares a partir de sus características.",
+          "ejes_tematicos": [
+            "Formas y funciones de las células"
+          ],
+          "recursos": [
+            "Hojas blancas",
+            "octavos de cartulina",
+            "cinta adhesiva",
+            "regla",
+            "lápices de colores",
+            "borrador"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, elaboro un modelo de un organismo unicelular y otro modelo",
+              "descripcion": "Con ayuda de mis familiares, elaboro un modelo de un organismo unicelular y otro modelo de un organismo pluricelular. Puedo utilizar materiales reciclables o tambien piedras, semillas, granos, hojas, lapices de colores, temperas, entre otros.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pregunto a mis familiares si conocen algunos metodos de produccion de alimentos en los que",
+              "descripcion": "Pregunto a mis familiares si conocen algunos metodos de produccion de alimentos en los que se utilicen bacterias y otros organismos unicelulares. Escucho atentamente la informacion para compartirla con mis companeros y companeras en la proxima clase. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y regi",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos con atencion el siguiente texto: Algunos organismos unicelulares pueden ser utiles, otros pueden ser",
+              "descripcion": "Leemos con atencion el siguiente texto: Algunos organismos unicelulares pueden ser utiles, otros pueden ser perjudiciales El ser humano obtiene beneficios de algunos organismos unicelulares como las bacterias, los hongos y las algas. Algunos de los beneficios que proporcionan los organismos unicelulares son: • Ayudan a la produccion de alcoholes, p",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Realizamos lo siguiente: a",
+              "descripcion": "Realizamos lo siguiente: a. En el cuaderno, hacemos una lista de alimentos que se preparen con organismos unicelulares. Por ejemplo: cerveza, pan y yogur. b. En la biblioteca o en Internet, consultamos informacion sobre el proceso que se realiza para la preparacion o produccion de los alimentos de nuestra lista.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Respondemos las siguientes preguntas en el cuaderno",
+              "descripcion": "Respondemos las siguientes preguntas en el cuaderno. Para ello, consultamos informacion en algunos textos de Ciencias Naturales o en Internet: a. Que acciones nos ayudan a evitar enfermedades causadas por microorganismos? b. Que acciones debemos realizar en caso de tener diarrea? Que debemos hacer para prevenirla?",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Conozcamos los tejidos y las células que conforman las plantas y los animales",
+          "concepto": "Organismos unicelulares, organismos pluricelulares, tejidos vegetales y animales",
+          "desempeno": "Identifico las funciones de las células animales y vegetales. Relaciono las funciones de las células con sus respectivas formas.",
+          "ejes_tematicos": [
+            "Organismos unicelulares",
+            "organismos pluricelulares",
+            "tejidos vegetales y animales"
+          ],
+          "recursos": [
+            "Lápices de colores",
+            "regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, elaboro un modelo de los tipos de celula animal y",
+              "descripcion": "Con ayuda de mis familiares, elaboro un modelo de los tipos de celula animal y explico sus funciones. Para ello, utilizo materiales como semillas, plastilina, arena, piedras, entre otros.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el cuaderno, dibujo las celulas vegetales",
+              "descripcion": "En el cuaderno, dibujo las celulas vegetales. Explico las funciones que desempenan estas celulas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Explico a mis familiares la importancia de consumir alimentos que contengan vitamina C",
+              "descripcion": "Explico a mis familiares la importancia de consumir alimentos que contengan vitamina C. Mostramos nuestro trabajo al profesor o a la profesora. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. S abia s q ue... La radiacion ultravio",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Realizamos el siguiente cuadro en el cuaderno",
+              "descripcion": "Realizamos el siguiente cuadro en el cuaderno. Lo completamos con informacion sobre los tejidos y las celulas de las plantas: 32 Ciencias Naturales 5 Debido a que el cuerpo no puede producir vitaminas, las debe obtener de los alimentos que las contienen. Por eso, es necesario tener una dieta balanceada, que incluya los siguientes alimentos: • Vitam",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Comentamos: a. Que formas pueden tener las celulas vegetales? b. Que relacion hay entre la",
+              "descripcion": "Comentamos: a. Que formas pueden tener las celulas vegetales? b. Que relacion hay entre la forma de estas celulas y su funcion? c. Como es el proceso mediante el cual la savia bruta se convierte en savia elaborada? d. Que tipos de celulas se encargan del crecimiento de la planta?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos la siguiente informacion: La importancia de las vitaminas para nuestra salud Las vitaminas son",
+              "descripcion": "Leemos la siguiente informacion: La importancia de las vitaminas para nuestra salud Las vitaminas son sustancias quimicas que permiten muchos procesos celulares del cuerpo humano. Son indispensables para realizar actividades fisicas, mantener un adecuado estado de salud y producir sustancias necesarias para el funcionamiento del cuerpo. Algunas vit",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "A partir de la informacion anterior, dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "A partir de la informacion anterior, dialogamos sobre las siguientes preguntas: a. Que tipos de celulas estan presentes en la piel? b. Cuales son los alimentos que contienen las vitaminas indispensables para el cuidado de las celulas de la piel?",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "¿Cómo se organizan internamente los seres humanos?",
+          "concepto": "Órganos, tejidos y sistemas",
+          "desempeno": "Reconozco que los seres vivos están conformados por células, tejidos, órganos y sistemas.",
+          "ejes_tematicos": [
+            "Órganos",
+            "tejidos y sistemas"
+          ],
+          "recursos": [
+            "Un reloj o cronómetro",
+            "lápices de colores",
+            "hojas de papel",
+            "marcadores de colores",
+            "pliegos de cartulina"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Consulto informacion sobre los sistemas endocrino, linfatico e inmunologico del cuerpo humano",
+              "descripcion": "Consulto informacion sobre los sistemas endocrino, linfatico e inmunologico del cuerpo humano. Para ello, busco en libros, Internet o les pregunto a mis familiares. En el cuaderno, escribo la informacion que consulte.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Escojo uno de los sistemas que consulte en la actividad anterior",
+              "descripcion": "Escojo uno de los sistemas que consulte en la actividad anterior. Luego: a. En un octavo de cartulina o en una hoja blanca, elaboro un modelo del sistema que elegi. Puedo utilizar materiales disponibles en mi entorno. b. Senalo y escribo el nombre de las celulas, los organos y algunos tejidos que conforman este sistema. c. Expongo el modelo que ela",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Recordamos alguna actividad de Ciencias Naturales en la que se necesite trabajar en equipo",
+              "descripcion": "Recordamos alguna actividad de Ciencias Naturales en la que se necesite trabajar en equipo. Luego, relacionamos esta actividad con el trabajo que realizan las celulas, los tejidos, los sistemas y los aparatos de nuestro cuerpo.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Clasifiquemos los seres vivos en reinos",
+          "concepto": "Reinos: mónera, protista, fungi o de los hongos, vegetal y animal. Características de los reinos",
+          "desempeno": "Clasifico los seres vivos en los diferentes reinos de la naturaleza según sus características.",
+          "ejes_tematicos": [
+            "Reinos: mónera",
+            "protista",
+            "fungi o de los hongos",
+            "vegetal y animal. Características de los reinos"
+          ],
+          "recursos": [
+            "Cartulinas",
+            "marcadores de colores",
+            "fichas de cartulina",
+            "lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Realizo las siguientes actividades en el cuaderno: a",
+              "descripcion": "Realizo las siguientes actividades en el cuaderno: a. Dibujo los siguientes recuadros: b. Respondo las siguientes preguntas. Tengo en cuenta los reinos que se presentan en los recuadros anteriores: • A cuales de estos reinos pertenecen los organismos con celulas eucariotas? Por que? • Cual recuadro presenta al reino de los organismos que permite la",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leemos el siguiente texto: Colombia es un pais con gran diversidad de especies El mayor",
+              "descripcion": "Leemos el siguiente texto: Colombia es un pais con gran diversidad de especies El mayor numero de ecosistemas del mundo se encuentra en un mismo pais: Colombia. Nuestro pais cuenta con 1.600 lagos, lagunas y humedales; el 10% de las especies de animales vertebrados, y el 20% de las especies de plantas del mundo. Ademas, tiene 1.815 especies de aves",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "A partir de la lectura anterior, comentamos y reflexionamos sobre la riqueza natural que tiene",
+              "descripcion": "A partir de la lectura anterior, comentamos y reflexionamos sobre la riqueza natural que tiene nuestro pais y la manera como podemos ayudar a conservarla.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Escribimos las conclusiones de la actividad anterior en el cuaderno de Ciencias Naturales",
+              "descripcion": "Escribimos las conclusiones de la actividad anterior en el cuaderno de Ciencias Naturales.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "¡Las vacunas salvan vidas!",
+          "concepto": "Vacunas y clases de vacunas, dosis adecuadas y edades, enfermedades prevenibles",
+          "desempeno": "Identifico las vacunas necesarias para prevenir algunas enfermedades de los seres humanos.",
+          "ejes_tematicos": [
+            "Vacunas y clases de vacunas",
+            "dosis adecuadas y edades",
+            "enfermedades prevenibles"
+          ],
+          "recursos": [
+            "Hojas de papel",
+            "bolsita de plástico",
+            "octavos o pliegos de cartulina",
+            "diccionario de español"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento con mis familiares lo que aprendi en la guia sobre las vacunas",
+              "descripcion": "Comento con mis familiares lo que aprendi en la guia sobre las vacunas. Luego, les pregunto: a. Cuales vacunas he recibido hasta el momento? b. Cuales vacunas han recibido los ninos y ninas de mi familia? c. Cuales vacunas o dosis nos hacen falta? d. Si nos faltan algunas vacunas o dosis, pido a mis familiares que nos lleven al centro de salud mas ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pregunto lo siguiente a mis familiares o miembros de mi comunidad",
+              "descripcion": "Pregunto lo siguiente a mis familiares o miembros de mi comunidad. No olvido escribir la informacion mas importante en el cuaderno: a. Cuales son las enfermedades mas comunes que presenta la poblacion infantil de mi comunidad? b. Que acciones realiza la comunidad para combatirlas? Actividades de aplicacion C Trabajo con mi familia La profesora o el",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora. Como avanzo en el desarrollo de mis competencias? 60 A continuacion, encuentro una serie de preguntas las cuales constan de un enunciado y cuatro opciones de respuesta. Luego de leer cuidadosamente el enunciado elijo solo una respuesta. I. ",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Camila esta senalando un aparato del cuerpo humano",
+              "descripcion": "Camila esta senalando un aparato del cuerpo humano. Sabemos esto, porque un aparato es A. un conjunto de organos similares. B. una asociacion de organos diferentes. C. un conjunto de tejidos y celulas diferentes. D. la asociacion de varios organos similares. 8. En las imagenes del tablero podemos identificar los niveles de organizacion de los seres",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "En el cuerpo humano, la neurona tiene como funcion A",
+              "descripcion": "En el cuerpo humano, la neurona tiene como funcion A. defender el cuerpo de agentes extranos. B. almacenar la grasa. C. filtrar la sangre. D. transmitir impulsos nerviosos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Las celulas que conforman un organismo autotrofo son celulas A",
+              "descripcion": "Las celulas que conforman un organismo autotrofo son celulas A. animales. B. fungi. C. bacteria. D. vegetales.",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Las celulas de una bacteria se pueden clasificar en A",
+              "descripcion": "Las celulas de una bacteria se pueden clasificar en A. Basidiomycetos y Chytritomycetos. B. arqueobacterias y eubacterias. C. anelidos y anfibios. D. angioespermas y gimnospermas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Para estudiar los tejidos del aparato digestivo, podemos utilizar A",
+              "descripcion": "Para estudiar los tejidos del aparato digestivo, podemos utilizar A. un dinamometro. B. un microscopio. C. un telescopio. D. un vaso de precipitado.",
+              "instrucciones": []
+            },
+            {
+              "numero": 17,
+              "titulo": "Si debo clasificar las celulas de la siguiente imagen de acuerdo con su complejidad, el",
+              "descripcion": "Si debo clasificar las celulas de la siguiente imagen de acuerdo con su complejidad, el orden de menor a mayor seria A. 1, 2 y 3 B. 3, 2 y 1 C. 1, 3 y 2 D. 2, 3 y 1 La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso. 1 2 3 Unidad 2 Estudiemos algunos sistemas y aparatos que conforma",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Estudiemos algunos sistemas y aparatos que conforman el cuerpo humano",
+      "desempeno_general": "Identifico las estructuras y las funciones de los diferentes sistemas y aparatos del cuerpo humano. Reconozco factores que pueden afectar los sistemas y aparatos del cuerpo humano y propongo formas para prevenirlos y controlarlos.",
+      "guias": [
+        {
+          "numero": 7,
+          "titulo": "Relacionemos la estructura y la función del sistema nervioso",
+          "concepto": "Sistema nervioso, sistema nervioso central y periférico, componentes del sistema nervioso central y periférico",
+          "desempeno": "Identifico la estructura y la función de los órganos del sistema nervioso.",
+          "ejes_tematicos": [
+            "Sistema nervioso",
+            "sistema nervioso central y periférico",
+            "componentes del sistema nervioso central y periférico"
+          ],
+          "recursos": [
+            "Tela para vendar los ojos",
+            "bolitas de algodón o espuma",
+            "pelota",
+            "pliegos de cartulina",
+            "marcadores",
+            "lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En el cuaderno de Ciencias Naturales, realizo una ilustracion del sistema nervioso",
+              "descripcion": "En el cuaderno de Ciencias Naturales, realizo una ilustracion del sistema nervioso. Luego, senalo sus partes principales.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En periodicos, en la biblioteca, en Internet o con la ayuda de los miembros de",
+              "descripcion": "En periodicos, en la biblioteca, en Internet o con la ayuda de los miembros de mi comunidad, consulto informacion sobre como las sustancias alucinogenas afectan la vida y la salud de las personas. Realizo un resumen escrito sobre mi consulta y lo leo en la proxima clase.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, escribo una serie de compromisos y acciones que pienso realizar como parte",
+              "descripcion": "En el cuaderno, escribo una serie de compromisos y acciones que pienso realizar como parte de mi proyecto de vida para evitar el consumo de sustancias alucinogenas. Actividades de aplicacion C Trabajo en equipo La profesora o el profesor valora el trabajo que realizamos. Trabajo con mi familia La profesora o el profesor valora mis actividades, regi",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Dialogamos sobre los efectos negativos que generan las sustancias alucinogenas en el sistema nervioso y",
+              "descripcion": "Dialogamos sobre los efectos negativos que generan las sustancias alucinogenas en el sistema nervioso y sobre como podemos prevenir el consumo de estas sustancias.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "¿Cómo está conformado nuestro aparato osteomuscular o locomotor?",
+          "concepto": "Estructura y función del aparato osteomuscular o locomotor",
+          "desempeno": "Reconozco los huesos y los músculos como elementos fundamentales del aparato osteomuscular o locomotor del ser humano.",
+          "ejes_tematicos": [
+            "Estructura y función del aparato osteomuscular o locomotor"
+          ],
+          "recursos": [
+            "Lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Respondo las siguientes preguntas en el cuaderno de Ciencias Naturales: a",
+              "descripcion": "Respondo las siguientes preguntas en el cuaderno de Ciencias Naturales: a. Ademas de la locomocion y del movimiento, que otras funciones cumplen los huesos y los musculos de nuestro cuerpo? b. Cuales organos del sistema nervioso controlan el movimiento de los huesos y de los musculos? Presentamos nuestro trabajo a la profesora o al profesor. Activi",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Identifico tres lugares de mi cuerpo donde tenga articulaciones y tendones",
+              "descripcion": "Identifico tres lugares de mi cuerpo donde tenga articulaciones y tendones. Dibujo estas partes en el cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparto mi trabajo con mis familiares",
+              "descripcion": "Comparto mi trabajo con mis familiares. Les comento los cuidados que se deben tener con el aparato osteomuscular o locomotor. Ciencias Naturales 5 78 9 Como esta conformado y como funciona nuestro aparato digestivo? Desempenos: • Relaciono la estructura de los organos del aparato digestivo con sus funciones. • Practico habitos de vida saludable que",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Comentamos: a. Por que es importante cuidar nuestro aparato osteomuscular? b. Cuales actividades podemos realizar",
+              "descripcion": "Comentamos: a. Por que es importante cuidar nuestro aparato osteomuscular? b. Cuales actividades podemos realizar para cuidar nuestro aparato osteomuscular?",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "¿Cómo está conformado y cómo funciona nuestro aparato digestivo?",
+          "concepto": "Estructura y función del aparato digestivo, hábitos de vida saludable",
+          "desempeno": "Relaciono la estructura de los órganos del aparato digestivo con sus funciones. Practico hábitos de vida saludable que favorezcan el cuidado del aparato digestivo.",
+          "ejes_tematicos": [
+            "Estructura y función del aparato digestivo",
+            "hábitos de vida saludable"
+          ],
+          "recursos": [
+            "Regla",
+            "lápices de colores",
+            "hojas de papel",
+            "tijeras",
+            "colores",
+            "una bolsa"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En el, se mezcla el bolo con los jugos gastricos",
+              "descripcion": "En el, se mezcla el bolo con los jugos gastricos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "El alimento entra por aqui",
+              "descripcion": "El alimento entra por aqui.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "El alimento transita por aca antes de pasar por el esofago",
+              "descripcion": "El alimento transita por aca antes de pasar por el esofago.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Antes de entrar al estomago, el alimento pasa por aqui",
+              "descripcion": "Antes de entrar al estomago, el alimento pasa por aqui.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Hacia alli son transportados los nutrientes",
+              "descripcion": "Hacia alli son transportados los nutrientes.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Ayuda a procesar los carbohidratos, las proteinas y las grasas",
+              "descripcion": "Ayuda a procesar los carbohidratos, las proteinas y las grasas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Por aqui se expulsan los residuos (invertido)",
+              "descripcion": "Por aqui se expulsan los residuos (invertido).",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el cuaderno, elaboro y resuelvo el siguiente crucigrama:",
+              "descripcion": "En el cuaderno, elaboro y resuelvo el siguiente crucigrama:",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Comparo mi trabajo con el de mis companeros y companeras",
+              "descripcion": "Comparo mi trabajo con el de mis companeros y companeras. Lo corrijo, si es necesario.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Relacionemos la estructura y la función del aparato cardiovascular",
+          "concepto": "Estructura y función del aparato cardiovascular, importancia del aparato cardiovascular, hábitos de vida saludable",
+          "desempeno": "Relaciono la estructura y la función de los órganos del aparato cardiovascular. Practico hábitos de vida saludable que contribuyen a mantener sano el aparato cardiovascular.",
+          "ejes_tematicos": [
+            "Estructura y función del aparato cardiovascular",
+            "importancia del aparato cardiovascular",
+            "hábitos de vida saludable"
+          ],
+          "recursos": [
+            "Reloj",
+            "regla",
+            "hoja de papel",
+            "cartulina",
+            "plastilina o arcilla",
+            "témperas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, consulto informacion acerca de las enfermedades mas comunes que afectan",
+              "descripcion": "Con ayuda de mis familiares, consulto informacion acerca de las enfermedades mas comunes que afectan al aparato cardiovascular de las personas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "De acuerdo con lo que he estudiado sobre el aparato digestivo y el aparato cardiovascular,",
+              "descripcion": "De acuerdo con lo que he estudiado sobre el aparato digestivo y el aparato cardiovascular, respondo la siguiente pregunta en el cuaderno: • Como se relacionan estos dos aparatos en nuestro cuerpo?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Si es posible, visito en compania de mis familiares a una persona que haya o",
+              "descripcion": "Si es posible, visito en compania de mis familiares a una persona que haya o este sufriendo alguna enfermedad relacionada con el aparato cardiovascular. En el cuaderno, escribo el nombre de la enfermedad y las recomendaciones que le hizo el medico a esta persona para mejorar su estado de salud. La profesora o el profesor valora las actividades que ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Comparo mi trabajo con el de los demas companeros y companeras",
+              "descripcion": "Comparo mi trabajo con el de los demas companeros y companeras. Si es necesario, lo corrijo.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "¿Cómo está conformado y cómo funciona nuestro aparato respiratorio?",
+          "concepto": "Estructura y función del aparato respiratorio, hábitos de vida saludable",
+          "desempeno": "Relaciono la estructura y la función de los órganos del aparato respiratorio. Practico hábitos de vida saludable que contribuyen a mantener sano el aparato respiratorio.",
+          "ejes_tematicos": [
+            "Estructura y función del aparato respiratorio",
+            "hábitos de vida saludable"
+          ],
+          "recursos": [
+            "Botella plástica de gaseosa de un litro",
+            "globos pequeños y grandes",
+            "tapón plástico o corcho con un orificio en el centro",
+            "tijeras",
+            "hilo de costura"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, averiguo cuales son las enfermedades mas comunes que afectan al",
+              "descripcion": "Con ayuda de mis familiares, averiguo cuales son las enfermedades mas comunes que afectan al aparato respiratorio de las personas de mi region.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Despues de realizar una observacion detallada de lo que sucedio en el experimento anterior, comentamos:",
+              "descripcion": "Despues de realizar una observacion detallada de lo que sucedio en el experimento anterior, comentamos: a. Que le paso al globo pequeno cuando halamos el nudo del globo grande? b. Que le paso al globo pequeno cuando empujamos el globo grande hacia el interior de la botella?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Planteamos hipotesis o posibles respuestas a la siguiente pregunta: · Por que cambia la forma",
+              "descripcion": "Planteamos hipotesis o posibles respuestas a la siguiente pregunta: · Por que cambia la forma del globo pequeno cada vez que halamos o empujamos el globo grande?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Ahora, colocamos la mano derecha sobre nuestro pecho, especificamente, a la altura del corazon",
+              "descripcion": "Ahora, colocamos la mano derecha sobre nuestro pecho, especificamente, a la altura del corazon. Realizamos varias inhalaciones fuertes y analizamos lo que sucede.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elaboramos conclusiones con base en las siguientes preguntas: a",
+              "descripcion": "Elaboramos conclusiones con base en las siguientes preguntas: a. En que se parece nuestra respiracion al experimento con los globos realizado en la actividad B1? b. Cual parte de nuestro cuerpo podemos relacionar con el globo grande y cual parte con el globo pequeno? 93 94 Ciencias Naturales 5",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En la biblioteca o en Internet, consultamos lo siguiente: · Como se afectan las funciones",
+              "descripcion": "En la biblioteca o en Internet, consultamos lo siguiente: · Como se afectan las funciones y los organos del aparato respiratorio cuando una persona fuma?",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con ayuda del delegado del Comite de Ambiente, realizamos lo siguiente: a",
+              "descripcion": "Con ayuda del delegado del Comite de Ambiente, realizamos lo siguiente: a. Planeamos una campana para promover el cuidado del aparato respiratorio y del aire de nuestro entorno escolar. b. En pancartas o carteleras, escribimos los danos o perjuicios que acciones como fumar o quemar residuos o basuras les generan a la salud del aparato respiratorio ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Expliquemos la importancia del aparato reproductor",
+          "concepto": "Aparato reproductor masculino y femenino, fecundación, el embarazo y sus cuidados",
+          "desempeno": "Asumo una actitud reflexiva en relación con los mecanismos de reproducción de los seres humanos.",
+          "ejes_tematicos": [
+            "Aparato reproductor masculino y femenino",
+            "fecundación",
+            "el embarazo y sus cuidados"
+          ],
+          "recursos": [
+            "Lápices de colores",
+            "regla",
+            "octavos de cartulina",
+            "tijeras",
+            "pegamento"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, respondo la siguiente pregunta en el cuaderno: · Que cuidados",
+              "descripcion": "Con ayuda de mis familiares, respondo la siguiente pregunta en el cuaderno: · Que cuidados se deben tener con una mujer en estado de embarazo?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, realizo un modelo del aparato reproductor masculino y otro del",
+              "descripcion": "Con ayuda de mis familiares, realizo un modelo del aparato reproductor masculino y otro del aparato reproductor femenino. Para ello, utilizo materiales comunes como arcilla, plastilina, algodon, colores, temperas, entre otros.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, realizo junto con mis companeros y companeras una mesa redonda sobre",
+              "descripcion": "En la proxima clase, realizo junto con mis companeros y companeras una mesa redonda sobre las respuestas que dimos a la pregunta de la actividad C1 y a otras relacionadas que nos generen inquietudes.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Realizamos las siguientes actividades: a",
+              "descripcion": "Realizamos las siguientes actividades: a. Con ayuda de uno de los goteros, colocamos una gota de agua en el plato. b. Tomamos otro gotero y colocamos una gota de vinagre en el mismo plato. No olvidamos colocarla separada de la gota de agua, de manera que no se mezclen. c. Ahora, mezclamos un poco de jabon con agua. d. Con ayuda de otro gotero, toma",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "El aparato que aparece en la imagen tiene como funcion principal A",
+              "descripcion": "El aparato que aparece en la imagen tiene como funcion principal A. empujar la sangre para que llegue a todo el cuerpo. B. llevar oxigeno a los pulmones. C. transportar los alimentos para ser digeridos. D. eliminar desechos del cuerpo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Dentro de los pulmones, se encuentran los alveolos pulmonares",
+              "descripcion": "Dentro de los pulmones, se encuentran los alveolos pulmonares. Estos son importantes porque A. realizan la inspiracion del aire. B. realizan la espiracion del aire. C. permiten el paso del oxigeno a la sangre. D. ayudan a los pulmones a que se llenen de aire. IV. IV. Respondo las siguientes preguntas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Cuando Juan, Pedro y Laura bailan, juegan y escriben, existe un sistema que esta controlando",
+              "descripcion": "Cuando Juan, Pedro y Laura bailan, juegan y escriben, existe un sistema que esta controlando estas acciones. Este sistema es el A. nervioso. C. endocrino. JuanPedroLaura B. reproductor. D. excretor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Durante su desarrollo, el cuerpo de Juan, Pedro y Laura experimenta muchos cambios, sobre todo,",
+              "descripcion": "Durante su desarrollo, el cuerpo de Juan, Pedro y Laura experimenta muchos cambios, sobre todo, en la etapa de la adolescencia. Los cambios que permiten el proceso de reproduccion se deben al aparato A. nervioso. C. endocrino. B. reproductor. D. excretor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Las glandulas son organos que secretan sustancias quimicas llamadas hormonas",
+              "descripcion": "Las glandulas son organos que secretan sustancias quimicas llamadas hormonas. Son glandulas masculinas A. los ovarios. C. los alveolos. 102 B. los rinones. D. los testiculos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Durante la ultima etapa de gestacion, se presenta la siguiente caracteristica: A",
+              "descripcion": "Durante la ultima etapa de gestacion, se presenta la siguiente caracteristica: A. El corazon del feto comienza a latir. A. El corazon del feto comienza a latir. B. El feto se ubica boca abajo. C. Los pulmones se empiezan a formar. D. Elfeto mide 10cm ypesa45 gramos aproximadamente. 11.Un sistema o aparato de coordinacion de nuestro cuerpo es A. el ",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "La funcion de reproduccion se considera una funcion vital porque A",
+              "descripcion": "La funcion de reproduccion se considera una funcion vital porque A. no es indispensable para la vida del ser humano. B. puede ser indispensable para la vida del ser humano. C. permite la generacion de nuevos individuos. D. facilita la perpetuacion de la especie.",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "El aparato osteomuscular o locomotor esta conformado por A",
+              "descripcion": "El aparato osteomuscular o locomotor esta conformado por A. el sistema esqueletico, el sistema cardiovascular y tendones. B. el sistema esqueletico, el aparato respiratorio y los tendones. C. el sistema muscular, el sistema cardiovascular y los tendones. D. el sistema muscular, el sistema esqueletico y los tendones.",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Realizo un cuadro comparativo entre los organos principales del sistema nervioso, aparato digestivo, aparato respiratorio,",
+              "descripcion": "Realizo un cuadro comparativo entre los organos principales del sistema nervioso, aparato digestivo, aparato respiratorio, aparato reproductor y aparato cardiovascular. Tengo en cuenta mencionar las funciones de cada uno de estos organos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Elaboro un pequeno escrito sobre los beneficios que una buena alimentacion les genera a los",
+              "descripcion": "Elaboro un pequeno escrito sobre los beneficios que una buena alimentacion les genera a los aparatos y sistemas del cuerpo humano. En el cuaderno, escribo algunas acciones que ayuden a disminuir el abuso y el maltrato infantil. V. 103La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progres",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Estudiemos las sustancias químicas y sus propiedades",
+      "desempeno_general": "Reconozco la importancia de manipular adecuadamente algunas mezclas de mi entorno, mediante datos teóricos y experimentos sobre las propiedades de las sustancias químicas.",
+      "guias": [
+        {
+          "numero": 13,
+          "titulo": "Estudiemos la acidez y la basicidad de algunas sustancias químicas",
+          "concepto": "Acidez, basicidad y neutralidad, corrosión, ácidos y bases",
+          "desempeno": "Identifico la acidez y la basicidad de algunas sustancias químicas.",
+          "ejes_tematicos": [
+            "Acidez",
+            "basicidad y neutralidad",
+            "corrosión",
+            "ácidos y bases"
+          ],
+          "recursos": [
+            "Vinagre",
+            "agua",
+            "jabón",
+            "plato de porcelana",
+            "indicador de repollo morado",
+            "goteros",
+            "palillos",
+            "regla",
+            "pliegos de cartulina",
+            "revistas",
+            "marcadores",
+            "lápices de colores",
+            "témperas",
+            "periódicos"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, escojo alguna sustancia quimica que tengamos en nuestra casa",
+              "descripcion": "Con ayuda de mis familiares, escojo alguna sustancia quimica que tengamos en nuestra casa. Luego, realizo lo siguiente: a. Observo la etiqueta de la sustancia que elegi. b. En el cuaderno, escribo el nombre de las sustancias que componen la sustancia quimica que escogi. c. En Internet, libros o la biblioteca, consulto si estas sustancias son acidas",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Teniendo en cuenta la consulta que realice en la actividad anterior, respondo en el cuaderno:",
+              "descripcion": "Teniendo en cuenta la consulta que realice en la actividad anterior, respondo en el cuaderno: • Cuales son los peligros y utilidades de la sustancia quimica que escogi?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, comparto mi trabajo con los demas companeros y companeras",
+              "descripcion": "En la proxima clase, comparto mi trabajo con los demas companeros y companeras. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. 116 Ciencias Naturales 5 154 Desempeno: • Identifico los componentes de las disoluciones a partir de e",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "En la biblioteca o en Internet, consultamos informacion acerca de los antiacidos",
+              "descripcion": "En la biblioteca o en Internet, consultamos informacion acerca de los antiacidos. Tenemos en cuenta las siguientes preguntas: a. Que componentes tienen los antiacidos? b. Como actuan en el cuerpo para aliviar la gastritis? c. Los antiacidos tienen efectos secundarios para la salud? Cuales?",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el cuaderno, escribimos un texto corto sobre las precauciones que debemos tener para evitar",
+              "descripcion": "En el cuaderno, escribimos un texto corto sobre las precauciones que debemos tener para evitar la gastritis. Mostramos nuestro trabajo a la profesora o al profesor.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Conozcamos las disoluciones químicas",
+          "concepto": "Disoluciones, soluto y solvente, soluciones saturadas, insaturadas y sobresaturadas",
+          "desempeno": "Identifico los componentes de las disoluciones a partir de experimentos sencillos.",
+          "ejes_tematicos": [
+            "Disoluciones",
+            "soluto y solvente",
+            "soluciones saturadas",
+            "insaturadas y sobresaturadas"
+          ],
+          "recursos": [
+            "Recipientes transparentes de boca ancha",
+            "cuchara",
+            "azúcar",
+            "agua",
+            "aceite",
+            "regla",
+            "cubos de hielo",
+            "sal",
+            "hojas blancas",
+            "plato",
+            "arena"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Componente en el que se disuelve el soluto",
+              "descripcion": "Componente en el que se disuelve el soluto.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Proceso de circulacion del agua en el planeta Tierra",
+              "descripcion": "Proceso de circulacion del agua en el planeta Tierra.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Condicion en la que el cuerpo humano carece de agua",
+              "descripcion": "Condicion en la que el cuerpo humano carece de agua.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Tipo de disolucion en la que el soluto ya no se disuelve mas en el",
+              "descripcion": "Tipo de disolucion en la que el soluto ya no se disuelve mas en el solvente.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Agua que puede ser consumida",
+              "descripcion": "Agua que puede ser consumida.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Parte que se disuelve en una disolucion",
+              "descripcion": "Parte que se disuelve en una disolucion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "De acuerdo con la informacion anterior, respondo las siguientes preguntas en el cuaderno: a",
+              "descripcion": "De acuerdo con la informacion anterior, respondo las siguientes preguntas en el cuaderno: a. Por que el agua es importante para el planeta? b. Por que se dice que el agua es un solvente universal? c. Por que el agua es importante para las industrias y para actividades cotidianas como lavar, cocinar y el aseo personal? d. Que condiciones debe tener ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Traigo una hoja blanca del Centro de recursos",
+              "descripcion": "Traigo una hoja blanca del Centro de recursos. En ella, escribo un compromiso para cuidar el agua. Decoro la hoja y la llevo al Buzon de compromisos. Trabajo individual Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "En el cuaderno, elaboramos el crucigrama de la siguiente pagina",
+              "descripcion": "En el cuaderno, elaboramos el crucigrama de la siguiente pagina. Luego, lo completamos siguiendo las pistas: Pistas",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Compartimos nuestro trabajo con los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con los demas companeros y companeras. Lo corregimos, si es necesario. La profesora o el profesor valora el trabajo que realizamos. Actividades de aplicacion C Trabajo con mi familia",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Calculemos la densidad de los objetos",
+          "concepto": "Densidad, masa y volumen",
+          "desempeno": "Reconozco la densidad como la relación que existe entre la masa y el volumen de los objetos.",
+          "ejes_tematicos": [
+            "Densidad",
+            "masa y volumen"
+          ],
+          "recursos": [
+            "Baldes o recipientes con agua",
+            "balanza",
+            "cubos de diferentes materiales",
+            "regla",
+            "vasos de precipitado de 250 mL o vasos de vidrio marcados",
+            "sal",
+            "trozo de corcho",
+            "una piedra",
+            "un trozo de madera",
+            "una tapa de gaseosa",
+            "una bola de cristal",
+            "cuchara"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, consigo los siguientes objetos: trozos de madera, algunas piedras, pelotas",
+              "descripcion": "Con ayuda de mis familiares, consigo los siguientes objetos: trozos de madera, algunas piedras, pelotas pequenas de plastico o caucho y un balde con agua.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Luego, realizo lo siguiente: a",
+              "descripcion": "Luego, realizo lo siguiente: a. Introduzco los objetos anteriores en el balde con agua. b. Con ayuda de mis familiares, comparo sus correspondientes densidades. c. Ordeno estos objetos de mayor a menor, segun su masa y su volumen. d. Ordeno estos objetos de mayor a menor, segun su densidad.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Dialogo con mis familiares sobre algunas propiedades especificas de sustancias que haya en nuestra casa",
+              "descripcion": "Dialogo con mis familiares sobre algunas propiedades especificas de sustancias que haya en nuestra casa. Tambien dialogo con ellos sobre los cuidados que debemos tener con estas sustancias y sobre la importancia de mantenerlas fuera del alcance de los ninos y las ninas. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor v",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En la biblioteca o en Internet, consultamos informacion sobre las propiedades especificas de las sustancias",
+              "descripcion": "En la biblioteca o en Internet, consultamos informacion sobre las propiedades especificas de las sustancias. Por ejemplo: la densidad, el punto de fusion y el punto de ebullicion. Escribimos la informacion mas importante en el cuaderno. Presentamos nuestro trabajo a la profesora o al profesor.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Estudiemos algunas unidades físicas de concentración de las disoluciones",
+          "concepto": "Unidades de concentración físicas, disoluciones saturadas, insaturadas y sobresaturadas, temperatura",
+          "desempeno": "Identifico algunas unidades físicas de concentración de las disoluciones.",
+          "ejes_tematicos": [
+            "Unidades de concentración físicas",
+            "disoluciones saturadas",
+            "insaturadas y sobresaturadas",
+            "temperatura"
+          ],
+          "recursos": [
+            "Frascos transparentes de boca ancha",
+            "cucharas",
+            "azúcar",
+            "probeta o vaso graduado",
+            "regla",
+            "olla pequeña o beaker",
+            "agua",
+            "estufa o mechero",
+            "sal",
+            "fósforos",
+            "termómetro",
+            "lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, elaboro un listado de los productos lacteos mas comunes en",
+              "descripcion": "Con ayuda de mis familiares, elaboro un listado de los productos lacteos mas comunes en mi region. Luego, realizo lo siguiente: a. Escojo un producto en cuya elaboracion se utilicen mezclas. b. Pregunto sobre el proceso de elaboracion de este producto a mis familiares o a los integrantes de mi comunidad. c. Realizo un esquema o dibujo para represen",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En la proxima clase, comparto mi trabajo con los demas companeros y companeras",
+              "descripcion": "En la proxima clase, comparto mi trabajo con los demas companeros y companeras. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. 145 17",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con ayuda del profesor o la profesora, realizamos las siguientes actividades: a",
+              "descripcion": "Con ayuda del profesor o la profesora, realizamos las siguientes actividades: a. Observamos las siguientes senales y escogemos cinco de ellas. Luego, dibujamos estas senales en el tablero: b. Dialogamos sobre la siguiente pregunta: • Que puede significar cada una de las senales anteriores? c. Por turnos, algunos de nuestros companeros y companeras ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En el cuaderno, elaboramos el siguiente cuadro",
+              "descripcion": "En el cuaderno, elaboramos el siguiente cuadro. En el, escribimos los nombres de las senales que dibujamos en el tablero y el lugar donde las podriamos encontrar: Nombre de la senal Lugar Ciencias Naturales 5 146 147",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a. A que edad es mas importante que los ninos y ninas consuman leche materna? b. Cual es el principal componente o solvente de la lecha materna? c. Cuales nutrientes contiene la leche materna? d. Por que se dice que la leche materna es el alimento ideal para los primeros meses de vida de un bebe? 143Presen",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "¡Usemos las sustancias químicas con responsabilidad!",
+          "concepto": "Símbolos de seguridad, de advertencia y riesgo químico",
+          "desempeno": "Reconozco normas básicas para el manejo de sustancias químicas.",
+          "ejes_tematicos": [
+            "Símbolos de seguridad",
+            "de advertencia y riesgo químico"
+          ],
+          "recursos": [
+            "Marcadores de colores",
+            "regla",
+            "lápices de colores",
+            "octavos de cartulina"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Respondo las siguientes preguntas en el cuaderno: a",
+              "descripcion": "Respondo las siguientes preguntas en el cuaderno: a. En mi casa, existen sustancias con senales de seguridad? b. Como se llaman estas sustancias? c. Para que labores o actividades se utilizan estas sustancias? d. Cuando manipulamos estas sustancias, que precauciones tenemos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, identifico el nombre de las senales de seguridad que se",
+              "descripcion": "Con ayuda de mis familiares, identifico el nombre de las senales de seguridad que se muestran en los siguientes recipientes: 155 18 Desempeno: • Reconozco que el uso adecuado de los recursos naturales permite el equilibrio ecologico. Utilicemos adecuadamente los recursos naturales!",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Teniendo en cuenta las sustancias quimicas que hay en mi casa, realizo lo siguiente: a",
+              "descripcion": "Teniendo en cuenta las sustancias quimicas que hay en mi casa, realizo lo siguiente: a. Identifico aquellas sustancias quimicas que no tienen etiquetas de seguridad. b. Elaboro las senales necesarias para indicar los cuidados que se deben tener con cada una de estas sustancias. c. Con ayuda de mis familiares, pego estas senales en los envases de su",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Teniendo en cuenta la informacion del texto anterior, respondemos las siguientes preguntas en el cuaderno:",
+              "descripcion": "Teniendo en cuenta la informacion del texto anterior, respondemos las siguientes preguntas en el cuaderno: a. Cuales senales indican peligros para la salud? b. Cuales senales representan peligros fisicos y peligros quimicos? c. Cuales senales indican peligros para el medio ambiente? d. Que tienen en comun las senales presentadas en el texto del num",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En la biblioteca o en Internet, consultamos informacion sobre la finalidad y la importancia de",
+              "descripcion": "En la biblioteca o en Internet, consultamos informacion sobre la finalidad y la importancia de las senales NFPA. Luego: a. Escribimos la informacion mas importante en el cuaderno. Ilustramos nuestra consulta con dibujos o recortes alusivos. b. Compartimos nuestro trabajo con los demas companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Formamos diez grupos y realizamos las siguientes actividades: a",
+              "descripcion": "Formamos diez grupos y realizamos las siguientes actividades: a. Del Centro de recursos, traemos cartulinas, regla, lapices de colores y marcadores. b. El profesor o la profesora asigna a cada grupo una de las senales estudiadas en la actividad B3. c. En la cartulina, dibujamos la senal que nos correspondio y escribimos su significado. d. Pegamos n",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "¡Utilicemos adecuadamente los recursos naturales!",
+          "concepto": "Recursos naturales renovables y no renovables, desarrollo sostenible",
+          "desempeno": "Reconozco que el uso adecuado de los recursos naturales permite el equilibrio ecológico.",
+          "ejes_tematicos": [
+            "Recursos naturales renovables y no renovables",
+            "desarrollo sostenible"
+          ],
+          "recursos": [
+            "Octavos de cartulina",
+            "lápices de colores",
+            "marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pienso en que pasaria con los recursos naturales en cada una de las siguientes situaciones:",
+              "descripcion": "Pienso en que pasaria con los recursos naturales en cada una de las siguientes situaciones: · Si tiramos basura, aceite y petroleo al agua o al suelo. · Si las fabricas y los carros arrojan gases toxicos al aire. · Si destruimos la vegetacion. · Si utilizamos la madera de una misma especie de arbol, sin sembrar otros arboles de esa misma especie. ·",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Luego, escribo en el cuaderno las conclusiones que obtuve en cada una de las situaciones",
+              "descripcion": "Luego, escribo en el cuaderno las conclusiones que obtuve en cada una de las situaciones anteriores. Tambien anoto una posible solucion para cada una de estas situaciones.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pregunto a mis abuelos o a las personas mayores de mi comunidad sobre las creencias,",
+              "descripcion": "Pregunto a mis abuelos o a las personas mayores de mi comunidad sobre las creencias, leyendas, mitos o historias de personajes fantasticos que cuidan los recursos naturales.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos e interpretamos la siguiente historieta: La quema de combustibles fosiles como la madera, la",
+              "descripcion": "Leemos e interpretamos la siguiente historieta: La quema de combustibles fosiles como la madera, la gasolina en los autos y en las maquinas de las fabricas liberan gases de efecto invernadero! Hay actividades humanas como la deforestacion y la quema de bosques que tienen muchos efectos negativos para el medio ambiente.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos con atencion el siguiente texto:",
+              "descripcion": "Leemos con atencion el siguiente texto:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Teniendo en cuenta las actividades anteriores, respondemos las siguientes preguntas en el cuaderno: a",
+              "descripcion": "Teniendo en cuenta las actividades anteriores, respondemos las siguientes preguntas en el cuaderno: a. Cuales son las causas del calentamiento global? 161 Ciencias Naturales 5 162 Es importante conocer las tradiciones populares, las leyendas y los mitos de nuestra region. De esta manera, aprendemos a valorar nuestro patrimonio cultural y los sabere",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "La concentracion %m/v de esta disolucion es del A",
+              "descripcion": "La concentracion %m/v de esta disolucion es del A. 2% C. 0.1% B. 6% D. 1%",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "La densidad de esta disolucion es de A",
+              "descripcion": "La densidad de esta disolucion es de A. 0.01 g/mL C. 0.1 g/cm3 B. 0.1 g/mL D. 100 g/mL",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "La funcion del cloruro de calcio en la preparacion de queso consiste en A",
+              "descripcion": "La funcion del cloruro de calcio en la preparacion de queso consiste en A. acidificar la leche. B. permitir una mejor coagulacion del queso. C. matar bacterias. D. calentar el queso. 164 III. Observo las siguientes senales. Luego, respondo desde la pregunta 10 a la 12: 1 2 34 5 6 7 89 10. Las senales preventivas corresponden a los numeros: A.1, 6, ",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Las senales 8 y 9 indican que una sustancia quimica es respectivamente A",
+              "descripcion": "Las senales 8 y 9 indican que una sustancia quimica es respectivamente A. toxica y corrosiva. B. explosiva y tiene microorganismos. C. explosiva e inflamable. D. inflamable y corrosiva. IV. Imagino que soy un super heroe. Luego, escribo un corto cuento en el cual utilice las senales de seguridad para prevenir accidentes y salvar la vida de personas",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Indaguemos sobre la electricidad y sus aplicaciones en la vida diaria",
+      "desempeno_general": "Identifico los diferentes materiales que conducen electricidad y que son empleados en circuitos eléctricos comunes de mi entorno.",
+      "guias": [
+        {
+          "numero": 19,
+          "titulo": "Estudiemos la electricidad y sus aplicaciones",
+          "concepto": "Energía eléctrica y electricidad, electrones",
+          "desempeno": "Explico qué es la electricidad e identifico algunas de sus aplicaciones.",
+          "ejes_tematicos": [
+            "Energía eléctrica y electricidad",
+            "electrones"
+          ],
+          "recursos": [
+            "Hojas blancas",
+            "lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento con mis familiares lo que aprendi en esta guia sobre la electricidad y sus",
+              "descripcion": "Comento con mis familiares lo que aprendi en esta guia sobre la electricidad y sus multiples aplicaciones.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pregunto a mis familiares por que es importante para ellos la electricidad",
+              "descripcion": "Pregunto a mis familiares por que es importante para ellos la electricidad. Escribo sus opiniones en el cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observo los ultimos tres recibos de energia de mi casa",
+              "descripcion": "Observo los ultimos tres recibos de energia de mi casa. Luego, con ayuda de mis familiares, respondo las siguientes preguntas en el cuaderno: a. Cual es el promedio de kilovatios (Watts) de energia que consumimos en los ultimos tres meses? b. Cuantos kilovatios (Watts) de energia consumimos en el ultimo mes? Este valor es menor o mayor al promedio ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Recorto de revistas o periodicos figuras de aparatos que funcionen con energia electrica",
+              "descripcion": "Recorto de revistas o periodicos figuras de aparatos que funcionen con energia electrica. En el cuaderno, pego estos aparatos y explico como funcionan. Para ello, consulto en la biblioteca o Internet.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Comentamos: a. Que aplicaciones o usos tiene la electricidad? b. Utilizamos adecuadamente la electricidad en",
+              "descripcion": "Comentamos: a. Que aplicaciones o usos tiene la electricidad? b. Utilizamos adecuadamente la electricidad en nuestra escuela o colegio? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Traemos una hoja del Centro de recursos",
+              "descripcion": "Traemos una hoja del Centro de recursos. En ella, escribimos nuestros compromisos para utilizar adecuadamente la electricidad. Depositamos la hoja en el Buzon de compromisos.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Conozcamos algunos materiales conductores de la electricidad",
+          "concepto": "Materiales conductores, semiconductores, superconductores y no conductores de la electricidad",
+          "desempeno": "Identifico objetos conductores, semiconductores, superconductores y no conductores de la corriente eléctrica utilizados en mi entorno.",
+          "ejes_tematicos": [
+            "Materiales conductores",
+            "semiconductores",
+            "superconductores y no conductores de la electricidad"
+          ],
+          "recursos": [
+            "Pliegos de cartulina",
+            "marcadores de colores",
+            "regla",
+            "lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Durante tres noches seguidas, observo si en mi casa se hace un buen uso de",
+              "descripcion": "Durante tres noches seguidas, observo si en mi casa se hace un buen uso de la electricidad, es decir, si la utilizamos solamente cuando la necesitamos. Registro mis observaciones en un cuadro como el siguiente. Por ejemplo:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Expongo los resultados de mi cuadro ante mis familiares",
+              "descripcion": "Expongo los resultados de mi cuadro ante mis familiares. Realizo lo siguiente: • Con ayuda de mis familiares, elaboro un plan para ahorrar energia. Esto con el fin de hacer un mejor uso de los aparatos electricos de nuestra casa.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Llevo mis actividades a la proxima clase",
+              "descripcion": "Llevo mis actividades a la proxima clase. Las comparto con mis companeros y companeras. Ahorremos energia y cuidemos el planeta! 180 21 Ciencias Naturales 5 Actividades basicas A",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Experimentemos con materiales que conducen electricidad",
+          "concepto": "Energía eléctrica, electricidad y sus transformaciones, energía lumínica, sonido y energía acústica",
+          "desempeno": "Clasifico materiales en conductores, semiconductores, superconductores y no conductores de la electricidad a partir de experiencias sencillas.",
+          "ejes_tematicos": [
+            "Energía eléctrica",
+            "electricidad y sus transformaciones",
+            "energía lumínica",
+            "sonido y energía acústica"
+          ],
+          "recursos": [
+            "Cinta adhesiva",
+            "cable de cobre",
+            "pila o batería",
+            "bombillo pequeño de navidad (1",
+            "5 voltios)",
+            "una barra de vidrio",
+            "alambre",
+            "tijeras",
+            "puntilla",
+            "tornillo de cobre",
+            "trozo de aluminio",
+            "barra de plastilina",
+            "regla",
+            "vaso con agua",
+            "cuchara",
+            "sal de cocina"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, reviso si en nuestra casa hay conexiones electricas que utilicen",
+              "descripcion": "Con ayuda de mis familiares, reviso si en nuestra casa hay conexiones electricas que utilicen materiales conductores, semiconductores o superconductores. Luego, realizo lo siguiente: a. Observo con mucha atencion si algunas de estas conexiones pueden representar un riesgo para la salud e integridad de las personas y animales de nuestra casa. b. Si ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el cuaderno, elaboro un escrito sobre las precauciones que debemos tener con las conexiones",
+              "descripcion": "En el cuaderno, elaboro un escrito sobre las precauciones que debemos tener con las conexiones electricas. Ilustro mi escrito con algunos dibujos o recortes alusivos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, comparto mi trabajo con los demas companeros y companeras",
+              "descripcion": "En la proxima clase, comparto mi trabajo con los demas companeros y companeras. 187 22 Actividades basicas A Desempeno: • Diseno un circuito electrico y explico su funcionamiento. Elaboremos un circuito electrico Hilos de conduccion Varilla de vidrio Soporte de cristal Casquillo Filamento Cierre de paso del aire",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Dialogamos sobre la siguiente pregunta",
+              "descripcion": "Dialogamos sobre la siguiente pregunta. No olvidamos escribir nuestras conclusiones en el cuaderno: • Que es la corriente electrica? Trabajo en equipo Consulta los Contenidos para Aprender de Colombia Aprende en https://colombiaaprende.edu.co/contenidos-para-aprender y podras ampliar la informacion hacer acerca de como construir un circuito electri",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos con atencion el siguiente texto: Algunas mezclas quimicas conducen electricidad Cuando realizamos una mezcla",
+              "descripcion": "Leemos con atencion el siguiente texto: Algunas mezclas quimicas conducen electricidad Cuando realizamos una mezcla de sal y agua, se forma una disolucion electrolitica. Estas disoluciones se caracterizan por conducir electricidad. Pero... por que sucede esto? Veamos: La mezcla homogenea de agua y sal contiene particulas cargadas positiva y negativ",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "En el cuaderno, respondo las siguientes preguntas relacionadas con el experimento realizado en la actividad",
+              "descripcion": "En el cuaderno, respondo las siguientes preguntas relacionadas con el experimento realizado en la actividad B7. Tengo en cuenta el texto del numeral anterior: a. Cuando ibamos agregando sal al vaso con agua, que sucedia con el bombillo? b. Si el vaso con agua no tuviera sal, podria conducir corriente electrica? Por que? c. Cuando ibamos agregando m",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Comparto mis respuestas con otros companeros y companeras",
+              "descripcion": "Comparto mis respuestas con otros companeros y companeras. Las corrijo, si es necesario. Presento mi trabajo a la profesora o al profesor. h. Lavamos, limpiamos y secamos los materiales empleados en el experimento anterior. Los guardamos en el Centro de recursos con mucho cuidado. Mis compromisos personales y sociales 186 Ciencias Naturales 5 Activ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Elaboremos un circuito eléctrico",
+          "concepto": "Circuito eléctrico, partes de un circuito eléctrico, electricidad y materiales conductores, semiconductores, superconductores y no conductores",
+          "desempeno": "Diseño un circuito eléctrico y explico su funcionamiento.",
+          "ejes_tematicos": [
+            "Circuito eléctrico",
+            "partes de un circuito eléctrico",
+            "electricidad y materiales conductores",
+            "semiconductores",
+            "superconductores y no conductores"
+          ],
+          "recursos": [
+            "Cable eléctrico",
+            "un bombillo de instalación navideña",
+            "pilas",
+            "cinta adhesiva"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con base en lo aprendido en esta guia, respondo las siguientes preguntas en el cuaderno:",
+              "descripcion": "Con base en lo aprendido en esta guia, respondo las siguientes preguntas en el cuaderno: a. Que funcion cumplen los interruptores en un circuito electrico? b. Cuando se apaga la luz de una habitacion, que sucede con el circuito electrico?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En Internet o en libros de Ciencias Naturales, consulto informacion sobre el uso de interruptores",
+              "descripcion": "En Internet o en libros de Ciencias Naturales, consulto informacion sobre el uso de interruptores y circuitos electricos en el transporte y en la industria.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, elaboro un texto que resuma la informacion que consulte en la actividad",
+              "descripcion": "En el cuaderno, elaboro un texto que resuma la informacion que consulte en la actividad anterior. En la proxima clase, comparto mi trabajo con los demas companeros y companeras. Durante las tormentas electricas, es recomendable apagar y desconectar los aparatos electricos. Presentamos nuestro trabajo a la profesora o al profesor. Actividades de apl",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Respondemos las siguientes preguntas en el cuaderno",
+              "descripcion": "Respondemos las siguientes preguntas en el cuaderno. Tenemos en cuenta el texto del numeral anterior y la consulta que realicemos en la biblioteca o Internet: a. Que precauciones debemos tener con las conexiones y los aparatos electricos? b. Como puede afectar una descarga electrica a los seres humanos? c. Durante una tormenta electrica, por que se",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Compartimos nuestro trabajo con los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro trabajo con los demas companeros y companeras.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Descubramos los usos y las transformaciones de la energía eléctrica",
+          "concepto": "Electricidad, tecnología, máquinas y electrodomésticos",
+          "desempeno": "Describo el funcionamiento de algunos aparatos eléctricos y su uso en la vida diaria.",
+          "ejes_tematicos": [
+            "Electricidad",
+            "tecnología",
+            "máquinas y electrodomésticos"
+          ],
+          "recursos": [
+            "Hojas de papel",
+            "cartulina",
+            "marcadores de colores",
+            "lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Respondo en el cuaderno: a",
+              "descripcion": "Respondo en el cuaderno: a. Por que las pilas o baterias son objetos importantes para la vida cotidiana de las personas? b. En nuestro hogar, cuales aparatos o electrodomesticos funcionan con pilas o baterias? c. Que precauciones debemos tener con las pilas o baterias que ya no utilizamos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Explico cuales son los aparatos electricos que se utilizan con mayor frecuencia en mi comunidad",
+              "descripcion": "Explico cuales son los aparatos electricos que se utilizan con mayor frecuencia en mi comunidad. Elijo uno de ellos y elaboro un dibujo que explique su funcionamiento.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, comparto mi trabajo con los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, comparto mi trabajo con los demas companeros y companeras y el profesor o la profesora. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. b. En cada rectangulo, dibujamos un aparato o electrodomestico que se use",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "¡Ahorremos energía eléctrica!",
+          "concepto": "Recursos naturales, bombillas eficientes, electricidad y energía",
+          "desempeno": "Diseño y realizo una campaña que promueva el ahorro de energía eléctrica.",
+          "ejes_tematicos": [
+            "Recursos naturales",
+            "bombillas eficientes",
+            "electricidad y energía"
+          ],
+          "recursos": [
+            "Pliegos de cartulina",
+            "tijeras",
+            "revistas",
+            "periódicos",
+            "pegamento",
+            "marcadores de colores",
+            "regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, consulto el ultimo recibo del servicio de energia que llego",
+              "descripcion": "Con ayuda de mis familiares, consulto el ultimo recibo del servicio de energia que llego a nuestra casa. Luego, realizo lo siguiente: a. Observo el consumo de kilovatios (Watts) del ultimo mes. b. Con mis familiares, dialogo sobre cuales de nuestras actividades consumen mas energia electrica. Luego, comento con ellos si es posible dejar de hacer o ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En la proxima clase, expongo mi trabajo ante mis companeros y companeras",
+              "descripcion": "En la proxima clase, expongo mi trabajo ante mis companeros y companeras. Presentamos nuestro trabajo a la profesora o al profesor. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Como avanzo en el desarrollo de mis competencias? ",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Si el interruptor esta prendido y alguien desprende el elemento 2 del generador, sucedera que",
+              "descripcion": "Si el interruptor esta prendido y alguien desprende el elemento 2 del generador, sucedera que A. el cable guardara la electricidad. C. el bombillo se encendera. B. la pila se descargara. D. el bombillo se apagara. 1 2 3 5 4 2 Trabajo individual 205",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Una de las causas por las cuales el bombillo se puede apagar cuando todo el",
+              "descripcion": "Una de las causas por las cuales el bombillo se puede apagar cuando todo el circuito esta en funcionamiento es que A. uno de los cables no haga contacto con la bateria. B. se agote la energia de la bateria. C. se apague el interruptor. D. todas las causas anteriores. II. Observo con atencion los siguientes aparatos y respondo las preguntas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "De estos aparatos, los que convierten la electricidad en calor son el A",
+              "descripcion": "De estos aparatos, los que convierten la electricidad en calor son el A. 1 y 2. C. 1 y 3. B. 2 y 3. D. 3 y 4.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Se ahorra mayor cantidad de energia electrica cuando A",
+              "descripcion": "Se ahorra mayor cantidad de energia electrica cuando A. las empresas de servicios aumentan los precios de la energia electrica. B. se racionaliza el servicio de luz por horas. C. todas las personas realizan conscientemente varios metodos de ahorro. D. se acaba la industria y nos alumbramos con velas. 1 2 3 4 La profesora o el profesor valora los ap",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "A partir de la lectura anterior, comentamos: a",
+              "descripcion": "A partir de la lectura anterior, comentamos: a. Que diferencias encontramos entre el automovil electrico Think City y los automoviles que se utilizan en nuestro pais? b. Por que la lectura afirma que el Think City no contamina el medio ambiente? c. Segun lo que creamos, que fuentes de energia utiliza la mayoria de automoviles en el mundo?",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "En el cuaderno, elaboramos un cuadro comparativo entre los automoviles de combustible y los automoviles",
+              "descripcion": "En el cuaderno, elaboramos un cuadro comparativo entre los automoviles de combustible y los automoviles electricos. Tenemos en cuenta nombrar las ventajas y las desventajas de cada uno de ellos. Si es necesario, consultamos informacion en la biblioteca o en Internet.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

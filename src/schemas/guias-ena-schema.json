@@ -1,0 +1,176 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Esquema de Guías ENA por Área",
+  "description": "Estructura de referencia para organizar guías de aprendizaje ENA con grados, desempeños, conceptos y recursos",
+  "type": "object",
+  "required": ["asignatura", "grados"],
+  "properties": {
+    "asignatura": {
+      "type": "string",
+      "description": "Nombre del área o asignatura (ej: Lenguaje, Matemáticas, Ciencias Naturales)",
+      "examples": ["Lenguaje", "Matemáticas", "Ciencias Naturales", "Ciencias Sociales", "Ética", "Tecnología", "Emprendimiento"]
+    },
+    "grados": {
+      "oneOf": [
+        {
+          "type": "object",
+          "description": "Estructura por grados usando claves de grado (1, 2, 3, 4, 5)",
+          "patternProperties": {
+            "^[1-5]$": {
+              "$ref": "#/definitions/gradoConUnidades"
+            }
+          }
+        },
+        {
+          "type": "array",
+          "description": "Estructura alternativa con array de grados",
+          "items": {
+            "$ref": "#/definitions/gradoConMetadata"
+          }
+        }
+      ]
+    }
+  },
+  "definitions": {
+    "gradoConUnidades": {
+      "type": "object",
+      "required": ["unidades"],
+      "properties": {
+        "unidades": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/unidad"
+          }
+        }
+      }
+    },
+    "gradoConMetadata": {
+      "type": "object",
+      "required": ["grado", "unidades"],
+      "properties": {
+        "grado": {
+          "type": "string",
+          "description": "Identificador del grado académico",
+          "examples": ["Preparatorio", "1", "2", "3", "4", "5"]
+        },
+        "unidades": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/unidad"
+          }
+        }
+      }
+    },
+    "unidad": {
+      "type": "object",
+      "required": ["numero", "nombre", "desempeno_general", "guias"],
+      "properties": {
+        "numero": {
+          "type": "integer",
+          "description": "Número de la unidad (1, 2, 3, 4)",
+          "minimum": 1,
+          "maximum": 4
+        },
+        "nombre": {
+          "type": "string",
+          "description": "Nombre descriptivo de la unidad",
+          "examples": ["Me conozco y me divierto", "Aprendo y me divierto con las personas"]
+        },
+        "desempeno_general": {
+          "type": "string",
+          "description": "Desempeño general esperado para la unidad (competencia principal a desarrollar)",
+          "examples": [
+            "Reconocer y cuidar el cuerpo con hábitos saludables, mientras avanza en el reconocimiento de los sonidos del alfabeto.",
+            "Utilizo los números para describir situaciones cotidianas por medio del conteo y el reconocimiento de cantidades."
+          ]
+        },
+        "guias": {
+          "type": "array",
+          "description": "Lista de guías de aprendizaje de la unidad",
+          "items": {
+            "$ref": "#/definitions/guia"
+          }
+        }
+      }
+    },
+    "guia": {
+      "type": "object",
+      "required": ["numero", "nombre", "nombre_completo", "conceptos_procedimientos", "recursos"],
+      "properties": {
+        "numero": {
+          "type": "integer",
+          "description": "Número secuencial de la guía dentro del grado",
+          "minimum": 1
+        },
+        "nombre": {
+          "type": "string",
+          "description": "Nombre corto de la guía",
+          "examples": ["¡Juego y me divierto!", "¿Quién soy yo?"]
+        },
+        "nombre_completo": {
+          "type": "string",
+          "description": "Nombre completo y descriptivo de la guía incluyendo objetivo",
+          "examples": [
+            "Guía 1: Me muevo, juego y aprendo con las rondas infantiles",
+            "Guía 2: Me ubico espacialmente con respecto a mi derecha y a mi izquierda"
+          ]
+        },
+        "conceptos_procedimientos": {
+          "type": "array",
+          "description": "Lista de conceptos y procedimientos que se trabajan en la guía",
+          "items": {
+            "type": "string"
+          },
+          "examples": [
+            ["Rondas infantiles", "Juegos", "Coordinación viso-motora", "Motricidad gruesa"],
+            ["Conteo de 1 a 5", "Lectura y escritura de los números del 1 a 5", "Comparación y orden de los números"]
+          ]
+        },
+        "recursos": {
+          "type": "array",
+          "description": "Lista de recursos y materiales necesarios para desarrollar la guía",
+          "items": {
+            "type": "string"
+          },
+          "examples": [
+            ["Grabadora", "Cartelera con acuerdos de convivencia", "Videos de rondas infantiles"],
+            ["Lápices de colores", "hojas blancas", "regla", "tijeras"]
+          ]
+        }
+      }
+    }
+  },
+  "examples": [
+    {
+      "asignatura": "Área Ejemplo",
+      "grados": {
+        "1": {
+          "unidades": [
+            {
+              "numero": 1,
+              "nombre": "Nombre de la Unidad 1",
+              "desempeno_general": "Descripción del desempeño general esperado para esta unidad.",
+              "guias": [
+                {
+                  "numero": 1,
+                  "nombre": "Nombre corto de la guía",
+                  "nombre_completo": "Guía 1: Nombre completo y descriptivo de la guía",
+                  "conceptos_procedimientos": [
+                    "Concepto 1",
+                    "Concepto 2",
+                    "Procedimiento 1"
+                  ],
+                  "recursos": [
+                    "Recurso 1",
+                    "Recurso 2",
+                    "Material 1"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

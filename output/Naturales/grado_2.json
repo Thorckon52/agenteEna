@@ -1,0 +1,1393 @@
+{
+  "asignatura": "Ciencias Naturales",
+  "grado": 2,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Wilson Leon Adurraman Fernandez, Ligia Ester Aldana Ocampo, Liliana Patricia Sanchez Gonzalez",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "DBA 1: Comprende que una accion mecanica (fuerza) puede producir distintas deformaciones en un objeto, y que este resiste a las fuerzas de diferente modo, de acuerdo con el material del que esta hecho. Unidad 3 Estudiemos la energia, la fuerza y el movimiento Desempeno general: Relaciono los tipos de fuerz",
+    "DBA 3: Comprende la relacion entre las caracteristicas fisicas de plantas y animales con los ambientes en donde viven, teniendo en cuenta sus necesidades basicas (luz, agua, aire, suelo, nutrientes, desplazamiento y proteccion). Unidad 1 Los seres vivos habitan en diferentes medios segun sus caracteristica",
+    "DBA 4: Explica los procesos de cambios fisicos que ocurren en el ciclo de vida de plantas y animales de su entorno, en un periodo de tiempo determinado. Unidad 2 Los seres vivos se desarrollan y sufren cambios Desempeno general: Describo como se desarrollan los seres vivos e identifico factores que contri",
+    "DBA 2: Comprende que las sustancias pueden encontrarse en distintos estados (solido, liquido y gaseoso). Unidad 4 Estudiemos la materia y sus propiedades Desempenos generales: Describo la materia y sus propiedades. Describo y explico fenomenos relacionados con el cambio de estado de las sustancias. Unidad1",
+    "DBA 2: Comprende que las sustancias pueden encontrarse en distintos estados (solido, liquido y gaseoso). Unidad 4 Estudiemos la materia y sus propiedades Desempenos generales: Describo la materia y sus propiedades. Describo y explico fenomenos relacionados con el cambio de estado de las sustancias. Estanda"
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Los seres vivos habitan en diferentes medios según sus características",
+      "desempeno_general": "Clasifico los seres vivos de la naturaleza teniendo en cuenta sus",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "¡Conozcamos algunos seres vivos y objetos inertes de la naturaleza!",
+          "concepto": "",
+          "desempeno": "Reconocer seres vivos y objetos inertes.",
+          "ejes_tematicos": [
+            "Seres vivos, objetos inertes, plantas y animales",
+            "Observar, recoger y organizar información"
+          ],
+          "recursos": [
+            "Hojas blancas",
+            "colores",
+            "revistas",
+            "tijeras",
+            "pegante",
+            "cartulina"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, dibujo un paisaje de nuestra region en una hoja blanca",
+              "descripcion": "Con ayuda de mis familiares, dibujo un paisaje de nuestra region en una hoja blanca o en un octavo de cartulina Luego, realizo lo siguiente: a Senalo los seres vivos con flechas de color rojo b Senalo los objetos inertes con flechas de color azul",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el cuaderno, escribo los nombres de algunos seres vivos de mi region Tambien escribo",
+              "descripcion": "En el cuaderno, escribo los nombres de algunos seres vivos de mi region Tambien escribo como cuidarlos Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Consigo algunas semillas de plantas comunes en mi region Guardo las semillas en bolsas plasticas",
+              "descripcion": "Consigo algunas semillas de plantas comunes en mi region Guardo las semillas en bolsas plasticas negras o frascos de vidrio En la proxima clase, llevo las semillas al Centro de recursos",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Con ayuda de la profesora o el profesor, realizamos la primera actividad del Comite del",
+              "descripcion": "Con ayuda de la profesora o el profesor, realizamos la primera actividad del Comite del ambiente: a Elaboramos un cartel con el titulo: Nuestros compromisos con los seres de la naturaleza son: b Entre todos proponemos algunos compromisos para escribir en el cartel c Lo colocamos en un sitio visible del salon de clase d Escogemos un compromiso para ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "¡Conozcamos las partes de una planta!",
+          "concepto": "",
+          "desempeno": "Identificar partes de la planta.",
+          "ejes_tematicos": [
+            "Partes de una planta: flor, fruto, raíz, tallo, hojas",
+            "Plantas con frutos, plantas sin frutos",
+            "Observar, recoger y organizar información"
+          ],
+          "recursos": [
+            "Regla",
+            "colores",
+            "cartulina"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En el cuaderno, dibujo dos plantas que se cultiven en el lugar donde vivo Luego,",
+              "descripcion": "En el cuaderno, dibujo dos plantas que se cultiven en el lugar donde vivo Luego, describo los pasos que se deben seguir para sembrarlas",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Elijo una de las plantas que dibuje en la actividad anterior Con ayuda de mis",
+              "descripcion": "Elijo una de las plantas que dibuje en la actividad anterior Con ayuda de mis familiares, realizo lo siguiente: a Para cada parte de la planta, elaboro una ficha en cartulina u hojas blancas Por ejemplo: b Dibujo cada parte de la planta en una ficha c En la siguiente clase, llevo mis fichas al Centro de recursos para elaborar el album Plantas de mi",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En nuestro cuaderno, dibujamos el siguiente crucigrama Relacionamos el numero que aparece en cada parte",
+              "descripcion": "En nuestro cuaderno, dibujamos el siguiente crucigrama Relacionamos el numero que aparece en cada parte de la planta con el numero que aparece en cada fila del crucigrama: 2 5",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Dialogamos sobre nuestro trabajo con los demas companeras y companeros Lo corregimos si es necesario",
+              "descripcion": "Dialogamos sobre nuestro trabajo con los demas companeras y companeros Lo corregimos si es necesario",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Hacemos una lista de las plantas de nuestra region que nos sirven de alimento Luego,",
+              "descripcion": "Hacemos una lista de las plantas de nuestra region que nos sirven de alimento Luego, elaboramos un cuadro como el siguiente en el cuaderno: · En la primera columna, escribimos las plantas de nuestra lista En las columnas restantes, marcamos con una equis (x) la parte de cada planta que nos sirve de alimento: el fruto, la raiz, la hoja, el tallo o l",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Elaboramos un cartel sobre la importancia de las plantas en la alimentacion y en la",
+              "descripcion": "Elaboramos un cartel sobre la importancia de las plantas en la alimentacion y en la salud de las personas Colocamos nuestro cartel en el Periodico mural",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "¿Dónde viven las plantas?",
+          "concepto": "",
+          "desempeno": "Clasificar plantas según su hábitat.",
+          "ejes_tematicos": [
+            "Plantas acuáticas, terrestres, enredaderas, hier- bas, árboles",
+            "Explorar hechos y fenómenos"
+          ],
+          "recursos": [
+            "Semillas",
+            "tierra",
+            "colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Realizo las siguientes actividades: a Pregunto a mis familiares sobre las plantas que viven en",
+              "descripcion": "Realizo las siguientes actividades: a Pregunto a mis familiares sobre las plantas que viven en nuestra region b En el cuaderno, clasifico estas plantas en: terrestres, acuaticas o aeroterrestres",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dialogo sobre las siguientes preguntas con mis familiares: a Cuales actividades del ser humano han",
+              "descripcion": "Dialogo sobre las siguientes preguntas con mis familiares: a Cuales actividades del ser humano han danado el medio ambiente donde viven las plantas de nuestra region? b Que cambios en el clima, la temperatura, el agua o el suelo han danado las plantas de nuestra region? c Proponemos tres acciones que nos ayuden a conservar las plantas de nuestra re",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos con atencion la siguiente informacion: Conozcamos y aprendamos a cuidar algunas plantas de nuestro",
+              "descripcion": "Leemos con atencion la siguiente informacion: Conozcamos y aprendamos a cuidar algunas plantas de nuestro pais! Las plantas son seres vivos muy importantes porque permiten conservar la vida en el planeta. Las plantas evitan la erosion de los suelos porque impiden que el suelo se seque y no se pueda sembrar mas en el. La planta de cafe, la palma de ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la biblioteca, consultamos informacion sobre el medio donde viven la planta de cafe y",
+              "descripcion": "En la biblioteca, consultamos informacion sobre el medio donde viven la planta de cafe y la palma de cera",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno dibujamos la palma de cera, la orquidea y la planta de cafe",
+              "descripcion": "En el cuaderno dibujamos la palma de cera, la orquidea y la planta de cafe Luego senalamos sus partes, el medio donde viven y su importancia para nuestro pais Palma de cera Cafe personales y socialesMis compromisos personales y sociales Nuestra salud depende de la proteccion del medio ambiente. Cuidemos los arboles porque ellos nos dan el oxigeno q",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Con apoyo del Comite del ambiente, elaboramos nuestra huerta escolar Realizamos lo siguiente: a Previamente,",
+              "descripcion": "Con apoyo del Comite del ambiente, elaboramos nuestra huerta escolar Realizamos lo siguiente: a Previamente, seleccionamos algunas semillas que trajimos de nuestras casas b De ser posible, seleccionamos un terreno adecuado en nuestra escuela para nuestra huerta c Si lo anterior no es posible, nos organizamos para conseguir materas y tierra d Sembra",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "¡Identifiquemos las partes de un animal!",
+          "concepto": "",
+          "desempeno": "Reconocer partes del cuerpo animal.",
+          "ejes_tematicos": [
+            "Cabeza, tronco y extremidades",
+            "Explorar hechos y fenómenos",
+            "Observar, recoger y organizar información",
+            "Evaluar métodos",
+            "Explorar hechos y fenómenos",
+            "Observar, recoger y organizar información"
+          ],
+          "recursos": [
+            "Cartulina",
+            "marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 5,
+              "titulo": "Luego, dibujo en las fichas los animales que escogi en la actividad C3",
+              "descripcion": "Luego, dibujo en las fichas los animales que escogi en la actividad C3",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En la proxima clase, llevo las fichas que realice al album Animales de mi region",
+              "descripcion": "En la proxima clase, llevo las fichas que realice al album Animales de mi region Este album se encuentra en el Centro de recursos (Dibujo o recorte del animal) Nombre del animal: Se desplaza con: Se alimenta de: La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia, registra mi progreso y me autoriza a continu",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "¿En qué lugar viven los animales?",
+          "concepto": "",
+          "desempeno": "Clasificar animales por hábitat.",
+          "ejes_tematicos": [
+            "Animales terrestres",
+            "Animales acuáticos",
+            "Animales aeroterrestres",
+            "Anfibios",
+            "Observar, recoger y organizar información",
+            "Utilizar diferentes métodos de análisis"
+          ],
+          "recursos": [
+            "Regla",
+            "colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En una hoja blanca, elaboro el siguiente cuadro: La profesora o el profesor valora los",
+              "descripcion": "En una hoja blanca, elaboro el siguiente cuadro: La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Actividades de aplicacion C Trabajo con mi familia Alimentacion. Lugar donde viven. Movimiento. Partes del cuerpo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, completo el cuadro anterior, asi: a En la primera columna,",
+              "descripcion": "Con ayuda de mis familiares, completo el cuadro anterior, asi: a En la primera columna, dibujo o pego figuras de animales de mi region que vivan unicamente en el medio acuatico b En la segunda columna, dibujo o pego figuras de animales que vivan unicamente en el medio terrestre c En la tercera columna, dibujo o pego figuras de animales que vivan en",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con ayuda de mis familiares, comparo los animales que clasifique en el cuadro de la",
+              "descripcion": "Con ayuda de mis familiares, comparo los animales que clasifique en el cuadro de la actividad C1 Para ello, tengo en cuenta los siguientes aspectos:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, comparto mi trabajo con mis companeros y companeras",
+              "descripcion": "En la proxima clase, comparto mi trabajo con mis companeros y companeras",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a Que le sucederia a los animales de la actividad",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a Que le sucederia a los animales de la actividad B2 si los ubicamos en un medio distinto de donde habitan? Por que? b Cuales animales pueden vivir en el medio acuatico y en el medio terrestre? Mis compromisos personales y sociales Trabajo individual Debemos cuidar y querer a los animales de nuestra casa, ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En el cuaderno, realizo lo siguiente: a Elaboro una lista de los animales que he",
+              "descripcion": "En el cuaderno, realizo lo siguiente: a Elaboro una lista de los animales que he visto alrededor de mi escuela o colegio b Clasifico estos animales, es decir, los separo en distintos grupos, segun sean animales terrestres, animales aeroterrestres, animales acuaticos o animales anfibios",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "¡Valoremos nuestros recursos naturales!",
+          "concepto": "",
+          "desempeno": "Valorar y cuidar los recursos naturales.",
+          "ejes_tematicos": [
+            "Recursos naturales",
+            "Reciclaje",
+            "Contaminación",
+            "Analizar problemas"
+          ],
+          "recursos": [
+            "Hojas blancas",
+            "diccionario",
+            "colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis padres o familiares, respondo las siguientes preguntas en el cuaderno: a",
+              "descripcion": "Con ayuda de mis padres o familiares, respondo las siguientes preguntas en el cuaderno: a Que hacemos para mantener limpia nuestra casa? b En mi comunidad, se presentan enfermedades por tomar agua contaminada? Cuales? c Se han presentado muertes por este hecho? d Que podemos hacer para que esto no ocurra?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, organizo un plan de separacion del papel, el vidrio, el",
+              "descripcion": "Con ayuda de mis familiares, organizo un plan de separacion del papel, el vidrio, el plastico y los residuos organicos que producimos en casa",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, comparto mi trabajo con mis companeros y companeras Presentamos nuestro trabajo",
+              "descripcion": "En la proxima clase, comparto mi trabajo con mis companeros y companeras Presentamos nuestro trabajo al profesor o a la profesora. De todos nosotros depende que los espacios en los que convivimos sean agradables y limpios. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarro",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Luego escribimos en que caneca debe ir cada uno de los siguientes residuos, por ejemplo,",
+              "descripcion": "Luego escribimos en que caneca debe ir cada uno de los siguientes residuos, por ejemplo, el vidrio debe ir en la caneca Plastico Papel Vidrio Restos de comida 52 Ciencias Naturales 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dialogamos sobre lo siguiente: a Que usos se le puede dar a la basura organica,",
+              "descripcion": "Dialogamos sobre lo siguiente: a Que usos se le puede dar a la basura organica, es decir, a los restos de comida? b Que usos se le puede dar al papel, al vidrio y al plastico reciclado?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Observamos con atencion nuestro salon de clase Dialogamos sobre las siguientes preguntas: a La iluminacion",
+              "descripcion": "Observamos con atencion nuestro salon de clase Dialogamos sobre las siguientes preguntas: a La iluminacion de nuestro salon es la adecuada para estudiar? b El piso esta limpio y libre de objetos que interrumpan nuestra movilidad? c Las paredes estan limpias y en buen estado? d Hay caneca para depositar los residuos? e La ventilacion es adecuada, so",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Elegimos tres normas sencillas para mantener limpio el salon de clase",
+              "descripcion": "Elegimos tres normas sencillas para mantener limpio el salon de clase",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Las compartimos con los demas companeros y companeras",
+              "descripcion": "Las compartimos con los demas companeros y companeras",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Luego, las depositamos en el buzon de compromisos",
+              "descripcion": "Luego, las depositamos en el buzon de compromisos",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Los seres de la imagen que tienen raices y hojas son A",
+              "descripcion": "Los seres de la imagen que tienen raices y hojas son A.8 y 9. C.8 y 5. B.1 y 7. D.3 y 2. Observo la ilustracion y respondo:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Las partes de la planta que estan encerradas con un circulo se llaman A",
+              "descripcion": "Las partes de la planta que estan encerradas con un circulo se llaman A. hojas y flores. B. raiz y fruto. C. flores y raiz. D. tallo y hojas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Las partes de la planta que estan encerradas con un cuadrado se llaman A",
+              "descripcion": "Las partes de la planta que estan encerradas con un cuadrado se llaman A. hoja y flor. B. hoja, tallo y fruto. C. flor, fruto y raiz. D. flor y tallo. V. 55 La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso. Unidad2 Los seres vivos se desarrollan y sufren cambios Unidad2Los seres v",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Los seres vivos se desarrollan y sufren cambios",
+      "desempeno_general": "Describo cómo se desarrollan los seres vivos e identifico factores que",
+      "guias": [
+        {
+          "numero": 7,
+          "titulo": "¡Descubramos cómo se desarrolla una planta!",
+          "concepto": "",
+          "desempeno": "Explico cómo ocurre el proceso de ger- minación de las plantas. Identifico el ciclo de vida de las plantas. DBA 4. Ev. 4.1",
+          "ejes_tematicos": [
+            "Germinación",
+            "Ciclo de vida de las plantas",
+            "Explorar hechos y fenómenos",
+            "Analizar problemas"
+          ],
+          "recursos": [
+            "Frascos",
+            "semillas",
+            "algodón",
+            "agua"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pregunto a mis familiares sobre el proceso de germinacion de las semillas",
+              "descripcion": "Pregunto a mis familiares sobre el proceso de germinacion de las semillas. Luego, dibujo este proceso en un octavo de cartulina. Tengo en cuenta lo que aprendi en toda la guia. cientifico Soy Actividades de aplicacion C Trabajo con mi familia Cuando nos alimentamos adecuadamente, obtenemos todos los nutrientes que necesitamos para cuidar nuestra sa",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, escribo los pasos para crear una huerta alimenticia",
+              "descripcion": "Con ayuda de mis familiares, escribo los pasos para crear una huerta alimenticia. Para ello, tengo en cuenta lo siguiente: a. El nombre de la semilla que se va a sembrar. b. El cuidado del suelo donde se va a sembrar: abonos, riegos, entre otros. c. Los cuidados que necesita la planta para completar su ciclo de vida. d. Cuales son los beneficios de",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En nuestro cuaderno, elaboramos un cuadro como el siguiente para registrar nuestras observaciones sobre el",
+              "descripcion": "En nuestro cuaderno, elaboramos un cuadro como el siguiente para registrar nuestras observaciones sobre el experimento anterior. a. Cada semana, dibujamos y escribimos los cambios que van ocurriendo en las semillas de cada frasco. Por ejemplo: Frasco 1 Trabajo en parejas b. Para medir el tamano de las plantas, podemos hacerlo de diferentes maneras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Cada semana, dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Cada semana, dialogamos sobre las siguientes preguntas: a. Aparecieron nuevas partes en la planta? Cuales? b. Como han cambiado las diferentes partes de la planta? c. Que ocurrio con la planta del frasco numero 2? d. Que diferencias encontramos con la planta del frasco numero 1? 62 Ciencias Naturales 2 Semillita Semillita, semillita, que en la tier",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Compartimos las actividades de cada semana con los companeros, companeras y el profesor o la",
+              "descripcion": "Compartimos las actividades de cada semana con los companeros, companeras y el profesor o la profesora. Trabajo en equipo",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Por turnos, leemos el siguiente poema",
+              "descripcion": "Por turnos, leemos el siguiente poema. Los demas escuchamos en silencio: Mis compromisos personales y sociales",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Comentamos las siguientes preguntas: a",
+              "descripcion": "Comentamos las siguientes preguntas: a. Segun la poesia anterior, como nacen las plantas? b. Que quieren decir los versos: “dormida, dormidita, enseguida se quedo”? c. Que se necesita para que nazca una planta de una semilla? d. Lo que dice este poema coincide con lo que aprendimos sobre el ciclo de vida de las plantas?",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos con atencion la siguiente historieta: Valeriaeraunanina quesolo comia golosinas",
+              "descripcion": "Leemos con atencion la siguiente historieta: Valeriaeraunanina quesolo comia golosinas... Sumamalepreparaba ricosynutritivosalimentos,pero ella losrechazaba. Sin haberlos probado,deciaquenole gustaban... Undia,Valeria sintioalgo extrano. Sucabezadaba vueltasy sesentiamuydebil. Su papa, preocupado, la llevo al centro de salud. Luego de los examenes ",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "De acuerdo con la historieta anterior, comentamos: a",
+              "descripcion": "De acuerdo con la historieta anterior, comentamos: a. Por que se enfermo Valeria? b. Por que es importante que Valeria coma verduras, carnes y frutas? 63Presentamos nuestro trabajo al profesor o a la profesora. 64 Ciencias Naturales 2",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Los animales cambian durante su ciclo de vida",
+          "concepto": "",
+          "desempeno": "Describo cada una de las etapas del ciclo de vida de los animales. DBA 4. Ev. 4.2",
+          "ejes_tematicos": [
+            "Ciclo de vida de los animales",
+            "Nacimiento, desarrollo y muerte",
+            "Metamorfosis",
+            "Explorar hechos y fenómenos",
+            "Analizar problemas",
+            "Observar, recoger y organizar información"
+          ],
+          "recursos": [
+            "Recipientes",
+            "agua",
+            "imágenes"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Realizo las siguientes preguntas a mis familiares o a las personas de mi comunidad",
+              "descripcion": "Realizo las siguientes preguntas a mis familiares o a las personas de mi comunidad. Escribo sus respuestas en el cuaderno: a. Cuanto dura el periodo de incubacion de un pollito y el de un pato? b. Cuanto tiempo dura la gestacion de un ternero, de un perro y de un gato? c. Cuanto tiempo dura la gestacion del ser humano?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comparto mi trabajo con mis companeros y companeras en la proxima clase",
+              "descripcion": "Comparto mi trabajo con mis companeros y companeras en la proxima clase.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Respondemos en nuestro cuaderno: · En cual etapa del ciclo de vida de los animales",
+              "descripcion": "Respondemos en nuestro cuaderno: · En cual etapa del ciclo de vida de los animales viviparos es importante la leche materna?",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "En el cuaderno, elaboramos los siguientes recuadros",
+              "descripcion": "En el cuaderno, elaboramos los siguientes recuadros. Luego, unimos el nombre del animal con su tipo de gestacion. Por ejemplo:",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "De los animales anteriores elegimos el que mas nos guste",
+              "descripcion": "De los animales anteriores elegimos el que mas nos guste. En el cuaderno, dibujamos su ciclo de vida. Presentamos nuestro trabajo a la profesora o al profesor. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "¡Conozcamos las partes de nuestro cuerpo!",
+          "concepto": "",
+          "desempeno": "Identifico las principales partes del cuer- po humano y los órganos que tiene cada una.",
+          "ejes_tematicos": [
+            "Partes y órganos del cuerpo humano",
+            "Utilizar diferentes métodos de análisis"
+          ],
+          "recursos": [
+            "Papel periódico",
+            "marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, dibujo las partes del cuerpo que se encuentran escritas en",
+              "descripcion": "Con ayuda de mis familiares, dibujo las partes del cuerpo que se encuentran escritas en los recuadros. Realizo los dibujos en trozos de papel del mismo tamano:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leemos el siguiente texto: Cuidemos nuestro cuerpo! Al realizar actividades como pintar, fumigar o abonar",
+              "descripcion": "Leemos el siguiente texto: Cuidemos nuestro cuerpo! Al realizar actividades como pintar, fumigar o abonar se liberan gases toxicos que afectan nuestro organismo y pueden enfermarnos gravemente. Debemos evitar estar cerca del lugar donde se realizan estas actividades. Tambien tomar las precauciones necesarias para no inhalar o respirar estos gases t",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a. Cuales precauciones debemos tener al pintar, fumigar o abonar? b. Si no tomamos las precauciones necesarias, cuales partes de nuestro cuerpo se pueden afectar? c. Nos podemos enfermar si no seguimos estas precauciones? Como?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En el cuaderno, escribimos las precauciones que practicamos en nuestra escuelo o colegio para mantenernos",
+              "descripcion": "En el cuaderno, escribimos las precauciones que practicamos en nuestra escuelo o colegio para mantenernos sanos y fuertes. Trabajo con el profesor o la profesora Mostramos nuestro trabajo al profesor o a la profesora. Mis compromisos personales y sociales R e cord e mos El ser humano y la naturaleza producen gases toxicos que pueden afectar el medi",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Escribimos en nuestro cuaderno en cual etapa de su ciclo de vida se encuentran los",
+              "descripcion": "Escribimos en nuestro cuaderno en cual etapa de su ciclo de vida se encuentran los familiares con los que vivimos y los cuidados que cada uno necesita.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Comentamos nuestras ideas sobre la siguiente pregunta: · Cuales cambios fisicos tendremos desde la ninez",
+              "descripcion": "Comentamos nuestras ideas sobre la siguiente pregunta: · Cuales cambios fisicos tendremos desde la ninez hasta la vejez?",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Nuestro cuerpo cambia durante su ciclo de vida",
+          "concepto": "",
+          "desempeno": "Describo los diferentes cambios que ocurren en el cuerpo humano durante su ciclo de vida.",
+          "ejes_tematicos": [
+            "Ciclo de vida humano",
+            "Niñez, juventud, adultez y vejez",
+            "Explorar hechos y fenómenos"
+          ],
+          "recursos": [
+            "Colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, elaboro un album con dibujos o fotos que muestren como",
+              "descripcion": "Con ayuda de mis familiares, elaboro un album con dibujos o fotos que muestren como era yo cuando bebe, como soy ahora y como me gustaria ser cuando sea adulto.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "De acuerdo con la historia de Diego, contesto las siguientes preguntas en mi cuaderno: a",
+              "descripcion": "De acuerdo con la historia de Diego, contesto las siguientes preguntas en mi cuaderno: a. Cuales actividades hacia Diego en su ninez? b. A que edad comenzo a ir al colegio? c. Cual actividad realizaba Diego cuando tenia 14 anos? d. A que edad viajo para conocer el mundo y formo una familia?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos con atencion la siguiente informacion: Nosotros crecemos! El cuerpo humano es maravilloso",
+              "descripcion": "Leemos con atencion la siguiente informacion: Nosotros crecemos! El cuerpo humano es maravilloso. Tiene la capacidad de cambiar segun la edad y la etapa de la vida en la que se encuentre. Tambien presenta cambios en su altura, su masa y en el tamano de sus organos y partes. Todos estos cambios hacen parte del crecimiento y desarrollo normal del ser",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con mucho respeto y carino, imaginamos a nuestro companero o companera en estas etapas de",
+              "descripcion": "Con mucho respeto y carino, imaginamos a nuestro companero o companera en estas etapas de la vida: adolescencia, adultez y vejez. Dibujamos estas etapas en nuestro cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Intercambiamos los dibujos",
+              "descripcion": "Intercambiamos los dibujos. Luego, identificamos en el dibujo los cambios que se muestran en nuestro cuerpo desde la adolescencia hasta la vejez. Ahora tenemos 7 anos, somos mas responsables y no esperamos a que nuestros padres nos recuerden nuestros deberes. Mis compromisos personales y sociales Trabajo en parejas 80 Ciencias Naturales 2 Nombre Ed",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Observamos la actividad que realizan el nino y la mujer mayor en la imagen",
+              "descripcion": "Observamos la actividad que realizan el nino y la mujer mayor en la imagen. Luego, dialogamos sobre las preguntas: a. Por que los ninos y ninas debemos ayudar a los adultos mayores a pasar las calles? b. Por que los ninos y ninas debemos salir a la calle en compania de un adulto? Presentamos nuestro trabajo al profesor o a la profesora. Actividades",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "¡El buen trato mejora nuestra convivencia!",
+          "concepto": "",
+          "desempeno": "Reconozco la importancia de respetar mi cuerpo y el de los demás niños y niñas. Valoro los gustos y preferencias de los niños y las niñas.",
+          "ejes_tematicos": [
+            "Partes del cuerpo humano",
+            "Partes del aparato reproductor humano",
+            "Analizar problemas",
+            "Explorar hechos y fenómenos"
+          ],
+          "recursos": [
+            "Cartulina",
+            "marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En el cuaderno de Ciencias Naturales, dibujo un nino y una nina",
+              "descripcion": "En el cuaderno de Ciencias Naturales, dibujo un nino y una nina.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, escribo al lado de cada dibujo las partes de su",
+              "descripcion": "Con ayuda de mis familiares, escribo al lado de cada dibujo las partes de su cuerpo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comento con mis familiares sobre cuales acciones deben realizar los ninos y las ninas para",
+              "descripcion": "Comento con mis familiares sobre cuales acciones deben realizar los ninos y las ninas para prevenir que alguna persona abuse de ellos. Todos tenemos derecho a la proteccion. Por esta razon, nadie puede maltratarnos ni abusar de nosotros. Si alguien quiere abusar de mi, debo: • Alejarme inmediatamente de esa persona. • Evitar estar solo o sola con e",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "De acuerdo con la historia anterior, respondemos las siguientes preguntas en el cuaderno: a",
+              "descripcion": "De acuerdo con la historia anterior, respondemos las siguientes preguntas en el cuaderno: a. Cuales acciones podemos realizar los ninos y las ninas para evitar que una persona abuse de nosotros? b. Si conocemos una nina o un nino que es victima de un abuso por parte de alguna persona, que debemos hacer?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos con mucha atencion el mensaje de la siguiente pagina: Trabajo con la profesora o",
+              "descripcion": "Leemos con mucha atencion el mensaje de la siguiente pagina: Trabajo con la profesora o el profesor 86 Ciencias Naturales 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Nos organizamos en mesa redonda",
+              "descripcion": "Nos organizamos en mesa redonda. Dialogamos sobre el mensaje anterior y las respuestas que dimos a las preguntas de la actividad A4. Guia 1 2 87 Valoro y cuido mi cuerpo! Desempeno: • Comprendo la importancia de cuidar mi cuerpo.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "¡Valoro y cuido mi cuerpo!",
+          "concepto": "",
+          "desempeno": "Comprendo la importancia de cuidar mi cuerpo.",
+          "ejes_tematicos": [
+            "Enfermedades y prevención de enfermedades, microorganismos, higiene, salud",
+            "Explorar hechos y fenómenos",
+            "Analizar problemas"
+          ],
+          "recursos": [
+            "Dados",
+            "fichas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Consulto con mis familiares: a",
+              "descripcion": "Consulto con mis familiares: a. Cuales son las enfermedades mas comunes que sufren los ninos y ninas de nuestra region por no seguir normas de higiene? b. Que hacen las personas cuando se presentan estas enfermedades? c. Escribo en mi cuaderno lo que consulte.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pregunto a mis familiares sobre los cuidados que tenemos en nuestra casa para evitar que",
+              "descripcion": "Pregunto a mis familiares sobre los cuidados que tenemos en nuestra casa para evitar que los alimentos se contaminen por microorganismos. Los escribo en el cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Aprendo el siguiente poema y lo recito en la proxima clase: Ciencias Naturales 296Estoy muy",
+              "descripcion": "Aprendo el siguiente poema y lo recito en la proxima clase: Ciencias Naturales 296Estoy muy bien! Al medico necesito visitar, para sentirme sano, los dientes, el cuerpo y las manos, tengo en cuenta lavar. Cuando vamos a estudiar mis hermanos y yo, frutas llevamos, mandarinas, manzanas y bananos, comemos para no enfermar. Y si me siento enfermo, el ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "El mejor titulo para la ilustracion es: A",
+              "descripcion": "El mejor titulo para la ilustracion es: A. El baile del sapo. B. El sapo saltarin. C. El ciclo de vida del sapo. D. El sapo comelon. III. Observo con atencion la imagen y respondo la pregunta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "La imagen nos indica que A",
+              "descripcion": "La imagen nos indica que A. el huevo salio del pollo. B. el pollo se come al huevo. C. el pollo se desarrolla del huevo. D. el pollo juega con el huevo. IV. Observo con atencion la imagen y respondo la pregunta: V. V. Reflexiono y respondo las preguntas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "El orden de izquierda a derecha de las etapas del ciclo de vida de una",
+              "descripcion": "El orden de izquierda a derecha de las etapas del ciclo de vida de una persona es A. vejez - ninez - adolescencia - juventud. B. ninez - vejez - adolescencia - juventud. C. adolescencia - juventud - ninez - vejez. D. ninez - adolescencia - juventud - vejez.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Cuando un nino o nina es abusado y maltratado, lo que debe hacer es A",
+              "descripcion": "Cuando un nino o nina es abusado y maltratado, lo que debe hacer es A. quedarse callado y permitir el maltrato. B. no hacer nada. C. alejarse de la persona sospechosa y contarle a una persona de confianza. D. aceptar el abuso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Compartimos nuestro resultado con los demas companeros y companeras",
+              "descripcion": "Compartimos nuestro resultado con los demas companeros y companeras. S abias q ue... Las vacunas nos brindan grandes beneficios. Gracias a ellas, cada vez hay menos muertes infantiles, pues las vacunas evitan que muchas enfermedades afecten a las ninas y ninos del mundo entero. Presentamos nuestro trabajo a la profesora o al profesor. Actividades d",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Los versos nos ensenan a A",
+              "descripcion": "Los versos nos ensenan a A. banarnos todos los dias. B. cepillar y cuidar nuestros dientes. C. lavarnos la cara. D. lavarnos las manos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Los ojos y la nariz son organos ubicados en A",
+              "descripcion": "Los ojos y la nariz son organos ubicados en A. la cabeza. B. el tronco. 99C. las extremidades superiores. D. las extremidades inferiores. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Unidad3 Estudiemos la energia, la fuerza y el movimiento Unidad3 Estudiemos la energia, la fuer",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Estudiemos la energía, la fuerza y el movimiento",
+      "desempeno_general": "Relaciono los tipos de fuerza con el movimiento de los seres vivos y los",
+      "guias": [
+        {
+          "numero": 13,
+          "titulo": "Conozcamos los efectos de la aplicación de una fuerza",
+          "concepto": "",
+          "desempeno": "Analizo los efectos que produce la apli- cación de una fuerza sobre algunos cuerpos. DBA 1. Ev. 1.1, 1.2, 1.3",
+          "ejes_tematicos": [
+            "Movimiento",
+            "Fuerza",
+            "Tipos de esfuerzo",
+            "Cambio de posición en los objetos",
+            "Explorar hechos y fenómenos",
+            "Utilizar diferentes métodos de análisis"
+          ],
+          "recursos": [
+            "Palos de pincho, barras de plastilina, hojas de papel, lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, realizo las siguientes actividades:",
+              "descripcion": "Con ayuda de mis familiares, realizo las siguientes actividades:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Teniendo en cuenta la actividad anterior, respondo en el cuaderno: · Que tipos de esfuerzo",
+              "descripcion": "Teniendo en cuenta la actividad anterior, respondo en el cuaderno: · Que tipos de esfuerzo resultan despues de aplicar una fuerza en el juego de la cuerda?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pregunto a mis familiares sobre las actividades diarias que realizan en su trabajo",
+              "descripcion": "Pregunto a mis familiares sobre las actividades diarias que realizan en su trabajo. Luego, realizo lo siguiente: a. Analizo si en estas actividades se aplica algun tipo de fuerza. b. En una hoja o en un octavo de cartulina, dibujo estas actividades. Luego, las clasifico en esfuerzos como torsion, tension o compresion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, comparto mi trabajo con los companeros y companeras y la profesora",
+              "descripcion": "En la proxima clase, comparto mi trabajo con los companeros y companeras y la profesora o el profesor. Ciencias Naturales 2108La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Guia 1 4 109",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Volvemos al salon de clase",
+              "descripcion": "Volvemos al salon de clase. En el tablero, dibujamos lineas que muestren los movimientos de los objetos anteriores. 6.Nos fijamos en el movimiento que muestra cada una de las siguientes ilustraciones:",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "¿Qué debemos hacer para mover los objetos?",
+          "concepto": "",
+          "desempeno": "Relaciono la fuerza y los tipos de movi- miento que existen.",
+          "ejes_tematicos": [
+            "Desplazamiento",
+            "Tipos de movimiento",
+            "Movimiento y fuerza",
+            "Desplazamiento en el agua, en la tierra y en el aire",
+            "Utilizar diferentes métodos de análisis"
+          ],
+          "recursos": [
+            "Bolas de cristal, bandas de caucho, tabla o trozo de madera, puntillas, martillo, pelota, veleta de papel, lá- pices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, escribo en el cuaderno cinco actividades que se realicen en",
+              "descripcion": "Con ayuda de mis familiares, escribo en el cuaderno cinco actividades que se realicen en mi casa y tengan que ver con el movimiento. Luego, respondo: · En cual actividad se tiene que aplicar mas fuerza para mover el objeto? Actividades de aplicacion C Trabajo con mi familia",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comparto con los integrantes de mi familia algunos consejos para cruzar las vias y la",
+              "descripcion": "Comparto con los integrantes de mi familia algunos consejos para cruzar las vias y la importancia de la cebra y el semaforo. Presentamos nuestro trabajo al profesor o a la profesora.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos las imagenes: Ciencias Naturales 2118",
+              "descripcion": "Observamos las imagenes: Ciencias Naturales 2118",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "De acuerdo con el texto anterior, respondemos las siguientes preguntas: a",
+              "descripcion": "De acuerdo con el texto anterior, respondemos las siguientes preguntas: a. Por que es importante conocer el significado de los colores en los semaforos? b. Por que debemos utilizar las cebras y los puentes peatonales al cruzar la calle? Guia 1 5 117 Evitemos accidentes! Desempeno: • Reconozco la importancia de evitar accidentes que puedan causar le",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "¡Evitemos accidentes!",
+          "concepto": "",
+          "desempeno": "Reconozco la importancia de evitar ac- cidentes que puedan causar lesiones en mi cuerpo.",
+          "ejes_tematicos": [
+            "Órganos de locomoción",
+            "Lesiones, fracturas, prevención de accidentes",
+            "Explorar hechos y fenómenos",
+            "Analizar problemas"
+          ],
+          "recursos": [
+            "Elementos para vendar los ojos, octavos de cartulina, cinta adhesiva, marcadores y lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Identificamos los lugares de mi casa que pueden ser peligrosos para mi y para mis",
+              "descripcion": "Identificamos los lugares de mi casa que pueden ser peligrosos para mi y para mis hermanos o hermanas menores. Luego, realizo lo siguiente: a. Recorto pequenos circulos de cartulina y escribo en cada circulo la palabra PELIGRO. b. Con ayuda de mis familiares, pego los circulos en los lugares y objetos que representan riesgo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el cuaderno, escribo dos recomendaciones o compromisos para prevenir los accidentes en la casa",
+              "descripcion": "En el cuaderno, escribo dos recomendaciones o compromisos para prevenir los accidentes en la casa y fuera de ella.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pido a un familiar que me ayude a responder las siguientes preguntas: a",
+              "descripcion": "Pido a un familiar que me ayude a responder las siguientes preguntas: a. Que enfermedades o accidentes podemos sufrir por no usar calzado? b. Que enfermedades podemos sufrir por no lavar y no cuidar nuestros pies? c. Cual es la clase de calzado que mas se utiliza en nuestra region? Por que? Realizo un dibujo de este tipo de calzado. d. Escribo las ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, comento con mis companeras y companeros las actividades que realice con",
+              "descripcion": "En la proxima clase, comento con mis companeras y companeros las actividades que realice con mi familia. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. PELIGRO Guia 1 6 123 Como se mueven y se transportan los seres humanos? Desem",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Realizamos las siguientes actividades: a",
+              "descripcion": "Realizamos las siguientes actividades: a. Tomamos un lapiz con la mano. Lo cogemos con fuerza y hacemos una linea en el cuaderno. b. Levantamos los brazos. c. Saltamos en el lugar donde nos encontramos. Trabajo en equipo",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Compartimos las recomendaciones que escribimos en el numeral anterior",
+              "descripcion": "Compartimos las recomendaciones que escribimos en el numeral anterior.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escogemos las recomendaciones que nos parezcan mas adecuadas y las escribimos en un octavo de",
+              "descripcion": "Escogemos las recomendaciones que nos parezcan mas adecuadas y las escribimos en un octavo de cartulina. Luego, elegimos dos representantes del equipo para que las pegue en los lugares de riesgo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el cuaderno, elaboramos el siguiente cuadro: La profesora o el profesor valora las actividades",
+              "descripcion": "En el cuaderno, elaboramos el siguiente cuadro: La profesora o el profesor valora las actividades que desarrollamos. Mis compromisos personales y sociales El botiquin es necesario para el cuidado de nuestra salud y bienestar. Trabajo con el profesor o la profesora Trabajo en equipo 122 Ciencias Naturales 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Realizamos las siguientes actividades: a",
+              "descripcion": "Realizamos las siguientes actividades: a. Ubicamos el botiquin de nuestra escuela o colegio. b. Observamos los elementos que contiene. Comentamos para que sirve cada uno. c. Si no hay botiquin o si no esta bien dotado, proponemos al Comite de Salud realizar una campana para conseguir uno o para mejorar el que tenemos.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "¿Cómo se mueven y se transportan los seres humanos?",
+          "concepto": "",
+          "desempeno": "Identifico las diferentes estructuras y medios que permiten el movimiento y el transporte del ser humano.",
+          "ejes_tematicos": [
+            "Movimiento",
+            "Aparato osteomuscular locomotor: huesos, músculos, tendones, articulaciones",
+            "Medios de transporte",
+            "Explorar hechos y fenómenos",
+            "Utilizar diferentes métodos de análisis"
+          ],
+          "recursos": [
+            "Lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Respondo la siguiente pregunta en mi cuaderno: · Cuales organos de locomocion o medio de",
+              "descripcion": "Respondo la siguiente pregunta en mi cuaderno: · Cuales organos de locomocion o medio de transporte utiliza alguno de nuestros familiares para ir a su trabajo?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Realizo las siguientes actividades en el cuaderno: a",
+              "descripcion": "Realizo las siguientes actividades en el cuaderno: a. Dibujo al familiar que escogi de camino a su trabajo. Senalo las partes del aparato locomotor que utiliza para su desplazamiento. b. Dibujo el medio de transporte que mas me gusta. Escribo por que es mi favorito.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pregunto a mis familiares sobre los cuidados que debo tener cuando voy de camino a",
+              "descripcion": "Pregunto a mis familiares sobre los cuidados que debo tener cuando voy de camino a mi escuela o colegio.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "De acuerdo con la informacion anterior, dialogamos sobre la siguiente pregunta: · Por que es",
+              "descripcion": "De acuerdo con la informacion anterior, dialogamos sobre la siguiente pregunta: · Por que es importante usar medios de transporte que no contaminan el medio ambiente? necesitan combustibles para desplazarse, como las bicicletas. Siempre que usemos la bicicleta debemos tener cuidado con las personas que caminan a nuestro lado y alejarnos de carros o",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "¡Aprendamos sobre otras fuentes de energía!",
+          "concepto": "",
+          "desempeno": "Identifico la luz y el calor como manifes- taciones de la energía.",
+          "ejes_tematicos": [
+            "Fuentes de luz",
+            "Fuentes de calor",
+            "Explorar hechos y fenómenos",
+            "Analizar problemas",
+            "Utilizar diferentes métodos de análisis"
+          ],
+          "recursos": [
+            "Vela, fósforos, lápices de colores, re- gla y octavos de cartulina"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, dibujo en el cuaderno de Ciencias Naturales aquellos aparatos o",
+              "descripcion": "Con ayuda de mis familiares, dibujo en el cuaderno de Ciencias Naturales aquellos aparatos o electrodomesticos que utilizo en la casa y que son fuentes de luz y calor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dialogo con mis familiares sobre las siguientes preguntas: a",
+              "descripcion": "Dialogo con mis familiares sobre las siguientes preguntas: a. Cuales aparatos de nuestra casa utilizan la energia solar? b. Cuales recomendaciones seguimos en casa para no malgastar energia?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, comparto estas recomendaciones con mis companeros y companeras",
+              "descripcion": "En la proxima clase, comparto estas recomendaciones con mis companeros y companeras. Mi compromiso es: Nombre Mis compromisos personales y sociales Si apagamos las bombillas y los aparatos que no estamos utilizando, ahorramos energia. Presentamos nuestro trabajo al profesor o a la profesora. Actividades de aplicacion C Trabajo con mi familia La pro",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Comentamos: a. Cuales organismos estan aprovechando la luz del sol? b. Cuales aparatos o electrodomesticos",
+              "descripcion": "Comentamos: a. Cuales organismos estan aprovechando la luz del sol? b. Cuales aparatos o electrodomesticos funcionan con la energia del sol? c. En cuales actividades utilizamos la energia solar? Trabajo con el profesor o la profesora Trabajo en equipo",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos con atencion la siguiente informacion: El agua almacenada en un embalse o represa sale",
+              "descripcion": "Leemos con atencion la siguiente informacion: El agua almacenada en un embalse o represa sale con fuerza. Cuando pasa el agua por las turbinas, las mueve y se produce energia electrica. Colombia tiene grandes reservas de agua. Estas reservas se aprovechan para producir energia. Veamos como es el proceso: La energia electrica se transporta por medio",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "De acuerdo con la informacion anterior, dialogamos sobre la siguiente pregunta: · Como se obtiene",
+              "descripcion": "De acuerdo con la informacion anterior, dialogamos sobre la siguiente pregunta: · Como se obtiene energia a partir de la fuerza del agua?",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "En un trozo de cartulina, elaboramos una ficha como la siguiente",
+              "descripcion": "En un trozo de cartulina, elaboramos una ficha como la siguiente. Alli, escribimos un compromiso para ahorrar energia y agua. Luego, llevamos la ficha al Buzon de mis compromisos:",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "¿Cómo sería nuestra vida sin el Sol?",
+          "concepto": "",
+          "desempeno": "Reconozco la importancia del Sol para todas las formas de vida en la Tierra.",
+          "ejes_tematicos": [
+            "El Sol",
+            "Fuentes de energía",
+            "Electrodomésticos",
+            "Importancia del Sol para los seres vivos",
+            "Explorar hechos y fenómenos"
+          ],
+          "recursos": [
+            "Lupa, hojas de papel y regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, respondo la siguiente pregunta en el cuaderno de Ciencias Naturales:",
+              "descripcion": "Con ayuda de mis familiares, respondo la siguiente pregunta en el cuaderno de Ciencias Naturales: · Por que las personas debemos exponernos al sol todos los dias, durante unos minutos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pregunto a mis familiares: · Como debo protegerme cuando me exponga durante largo tiempo a",
+              "descripcion": "Pregunto a mis familiares: · Como debo protegerme cuando me exponga durante largo tiempo a los rayos del Sol?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con mis familiares, escojo cinco seres vivos que vivan en la naturaleza de nuestra region",
+              "descripcion": "Con mis familiares, escojo cinco seres vivos que vivan en la naturaleza de nuestra region. Luego, comentamos: · Como aprovecha cada uno de estos seres la energia del sol? Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Como avanzo",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "A partir del experimento anterior, respondemos las siguientes preguntas en nuestro cuaderno: a",
+              "descripcion": "A partir del experimento anterior, respondemos las siguientes preguntas en nuestro cuaderno: a. Por que aparecen manchas color cafe sobre el papel? b. De donde viene la energia que causa los cambios en el papel? c. Para que sirve la lupa en el experimento anterior? Divirtiendonos bajo el sol Es saludable ir a la playa o al rio y tomar el sol. Esta ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos el siguiente texto:",
+              "descripcion": "Leemos el siguiente texto:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Respondemos las siguientes preguntas en el cuaderno de Ciencias Naturales: a",
+              "descripcion": "Respondemos las siguientes preguntas en el cuaderno de Ciencias Naturales: a. Como puede perjudicar nuestra salud la exposicion prolongada a los rayos del sol? b. Cuales precauciones debemos tomar para no quemarnos la piel cuando nos exponemos a la luz solar?",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Uno de los aparatos que transforma la energia electrica en sonido es A",
+              "descripcion": "Uno de los aparatos que transforma la energia electrica en sonido es A. el bombillo. C. la sanduchera. B. el radio. D. la estufa. 144III. Respondo las preguntas 4 a 9 con base en la siguiente ilustracion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Los sonidos producen sensaciones agradables al oido, mientras que los ruidos son desagradables",
+              "descripcion": "Los sonidos producen sensaciones agradables al oido, mientras que los ruidos son desagradables. De acuerdo con lo anterior, aparatos que producen respectivamente sonido y ruidos son A. la estufa y el microondas. B. la tostadora y el bombillo. C. el radio y la licuadora. D. la sanduchera y el horno. De los seres vivos que se encuentran en la cocina,",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Los tipos de fuerza que se realizan en su orden respectivo son A",
+              "descripcion": "Los tipos de fuerza que se realizan en su orden respectivo son A. torsion, compresion y presion. B. presion y aplastamiento. C. tension, compresion y torsion. D. estiramiento, aplastamiento y arrugar.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Es mas facil romper un palo de madera que una vara de hierro porque A",
+              "descripcion": "Es mas facil romper un palo de madera que una vara de hierro porque A. la madera es diferente al metal. B. el hierro tiene mayor dureza que la madera. C. el material es igual. D. la madera y el hierro tienen la misma dureza. Unidad4 Estudiemos la materia y sus propiedades Unidad4 Estudiemos la materia y sus propiedades Guia 1 9 147 El universo esta",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Estudiemos la materia y sus propiedades",
+      "desempeno_general": "Relaciono los tipos de fuerza con el movimiento de los seres vivos y los",
+      "guias": [
+        {
+          "numero": 19,
+          "titulo": "El universo está hecho de materia",
+          "concepto": "",
+          "desempeno": "Reconozco que todos los objetos están hechos de materia. Identifico diferentes propiedades de los objetos como masa, peso y volumen.",
+          "ejes_tematicos": [
+            "Materia",
+            "Propiedades de la materia",
+            "Peso y masa",
+            "Explorar hechos y fenómenos",
+            "Analizar problemas",
+            "Utilizar diferentes métodos de análisis"
+          ],
+          "recursos": [
+            "Barras de plastilina o arcilla, regla y lá- pices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pregunto a mis familiares: · Cuales instrumentos utilizan los habitantes de mi region para medir",
+              "descripcion": "Pregunto a mis familiares: · Cuales instrumentos utilizan los habitantes de mi region para medir la masa y el volumen de los objetos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el cuaderno, dibujo estos instrumentos y escribo sus nombres",
+              "descripcion": "En el cuaderno, dibujo estos instrumentos y escribo sus nombres.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, escribo los nombres de cinco objetos de mi entorno",
+              "descripcion": "En el cuaderno, escribo los nombres de cinco objetos de mi entorno. Luego, con ayuda de mis familiares, comparo los objetos anteriores. Tengo en cuenta: a. La cantidad de materia que poseen. Es decir, la masa. b. El espacio que ocupan, es decir, su volumen.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, comparto mi trabajo con los demas companeros y companeras",
+              "descripcion": "En la proxima clase, comparto mi trabajo con los demas companeros y companeras. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Actividades de aplicacion C Trabajo con mi familia Lor organos de los sentidos nos permiten disfrutar de nuestro entorno. Debemos cuidarlos con buenos ha",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Comentamos: a. Cuales organos de los sentidos utilizamos para conocer algunas propiedades de la materia",
+              "descripcion": "Comentamos: a. Cuales organos de los sentidos utilizamos para conocer algunas propiedades de la materia como volumen y masa? b. Cuales propiedades de la materia podemos identificar con los sentidos? c. Como nos ayudan los sentidos para saber de que estan hechos los objetos? Presentamos nuestro trabajo al profesor o a la profesora. El olfato hace el",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "¿Cómo podemos medir la masa y el volumen?",
+          "concepto": "",
+          "desempeno": "Determino la masa y el volumen de al- gunos objetos empleando unidades de medida.",
+          "ejes_tematicos": [
+            "Volumen",
+            "Masa y peso",
+            "Medidas de volumen",
+            "Medidas de peso",
+            "Utilizar diferentes métodos de análisis",
+            "Evaluar los métodos"
+          ],
+          "recursos": [
+            "Balanza, tabla gruesa rectangular o cuadrada, palito de madera de 30 x 3 cm, palito delgado de 20 x 1 cm, 2 tapas iguales, puntillas, argollas, piola, lana, borrador, arena, bolas de cristal, diccionario de español, lápices de colo- res y piedras grandes y pequeñas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En compania de algun familiar, visito una tienda vecina y pregunto cuales instrumentos utilizan para",
+              "descripcion": "En compania de algun familiar, visito una tienda vecina y pregunto cuales instrumentos utilizan para calcular la masa de los productos que venden. Escribo en el cuaderno lo que consulte.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dibujo algunos objetos que haya en mi casa",
+              "descripcion": "Dibujo algunos objetos que haya en mi casa. Luego, con ayuda de mis familiares, comparo su volumen y su masa. a. Cual de los objetos ocupa mayor espacio? b. Cual de los objetos tiene menor volumen?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pregunto a mis familiares lo siguiente: · Por que es importante conocer el volumen y",
+              "descripcion": "Pregunto a mis familiares lo siguiente: · Por que es importante conocer el volumen y la masa de los alimentos, el agua o los medicamentos? Actividades de aplicacion C Trabajo con mi familia El valor de muchos productos se decide de acuerdo con su volumen y masa. Conocer estos datos nos ayuda a saber que no estamos pagando mas por menos. La profesor",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "¡Sólido, líquido, gaseoso!",
+          "concepto": "",
+          "desempeno": "Identifico los estados de la materia de acuerdo con sus características. DBA 2. Ev. 2.1, 2.2, 2.3",
+          "ejes_tematicos": [
+            "Estados de la materia: sólido, líquido y ga- seoso",
+            "Explorar hechos y fenómenos",
+            "Analizar problemas"
+          ],
+          "recursos": [
+            "Vaso con agua, fósforos, hojas de pa- pel, frasco de vidrio, plato, piedra y pelota"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, comparo la viscosidad de liquidos como agua, aceite y miel",
+              "descripcion": "Con ayuda de mis familiares, comparo la viscosidad de liquidos como agua, aceite y miel.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el cuaderno, realizo algunos dibujos de la experiencia anterior",
+              "descripcion": "En el cuaderno, realizo algunos dibujos de la experiencia anterior. Ordeno los liquidos de menor a mayor viscosidad.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En revistas o periodicos, busco y recorto imagenes que representen los estados de la materia,",
+              "descripcion": "En revistas o periodicos, busco y recorto imagenes que representen los estados de la materia, es decir, solido, liquido y gaseoso. Luego, realizo lo siguiente: a. En un octavo de cartulina o en una hoja blanca, pego las imagenes que recorte. b. Con ayuda de mis familiares, escribo debajo de cada objeto para que sirve y en cual estado de la materia ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Pregunto a mis familiares donde guardan las sustancias toxicas o peligrosas",
+              "descripcion": "Pregunto a mis familiares donde guardan las sustancias toxicas o peligrosas. Si no estan bien guardadas, les sugiero que lo hagan, para evitar que los ninos o ninas de mi casa esten en peligro. Mostramos nuestro trabajo al profesor o a la profesora. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizaje",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dialogamos sobre como debemos protegernos de los gases toxicos y contaminantes producidos por fabricas o",
+              "descripcion": "Dialogamos sobre como debemos protegernos de los gases toxicos y contaminantes producidos por fabricas o industrias de nuestra region.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "¿La materia cambia de estado?",
+          "concepto": "",
+          "desempeno": "Reconozco cambios de estado en la ma- teria generados por el calor. DBA 2. Ev. 2.1, 2.2, 2.3",
+          "ejes_tematicos": [
+            "Cambios físicos de la materia",
+            "Explorar hechos y fenómenos",
+            "Utilizar diferentes métodos de análisis"
+          ],
+          "recursos": [
+            "Velas, fósforos, mechero, chocolatina y cuchara"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar adulto, pongo a hervir agua en una olla",
+              "descripcion": "Con ayuda de un familiar adulto, pongo a hervir agua en una olla. Luego, respondo las siguientes preguntas en el cuaderno: a. Que se produce cuando el agua hierve? b. Que hace cambiar el agua de estado liquido a gaseoso? c. Tapo o cubro la olla cuando hierva el agua. Luego, la destapo y respondo: · Que sucede con el agua al tapar y destapar la olla",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a. Como podemos congelar nuevamente el helado? b. Que le sucede a la temperatura del helado cuando se congela? c. Cuando el helado se congela, aumenta o disminuye su calor? El fuego, su uso y su cuidado Desde que la especie humana existe, el fuego le ha sido de gran ayuda. Con el fuego, el hombre preparaba",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos con atencion la siguiente informacion:",
+              "descripcion": "Leemos con atencion la siguiente informacion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con el profesor o la profesora, dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Con el profesor o la profesora, dialogamos sobre las siguientes preguntas: a. Que significa “fundir”? b. Que se necesita para fundir objetos solidos como los metales? c. Cuales objetos de nuestra escuela o colegio han sido fabricados por medio del cambio de estado: solido a liquido?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno de Ciencias Naturales, escribimos los cuidados que debemos tener con el fuego",
+              "descripcion": "En el cuaderno de Ciencias Naturales, escribimos los cuidados que debemos tener con el fuego.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "¡Conozcamos el ciclo del agua de nuestro planeta!",
+          "concepto": "",
+          "desempeno": "Identifico algunos factores ambientales que determinan los cambios de estado del agua en el planeta. DBA 2. Ev. 2.1",
+          "ejes_tematicos": [
+            "Ciclo del agua: Fases del ciclo del agua",
+            "Estado sólido",
+            "Estado líquido",
+            "Estado gaseoso",
+            "Explorar hechos y fenómenos",
+            "Analizar problemas"
+          ],
+          "recursos": [
+            "Hielo, mechero, olla, agua, cartulinas, marcadores, bolsa transparente de plástico, colorante azul o tinta y cinta adhesiva"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento con mis familiares lo siguiente: a",
+              "descripcion": "Comento con mis familiares lo siguiente: a. Por que el agua se evapora cuando aumenta la temperatura del medio ambiente? b. Por que se forman las nubes? Por que llueve? c. Por que debemos cuidar el agua en tiempos de sequia?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el cuaderno, escribo e ilustro con un dibujo cada una de las respuestas anteriores",
+              "descripcion": "En el cuaderno, escribo e ilustro con un dibujo cada una de las respuestas anteriores.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con ayuda de mis familiares, realizo las siguientes actividades: a",
+              "descripcion": "Con ayuda de mis familiares, realizo las siguientes actividades: a. Busco una botella plastica grande y bien lavada. b. Lleno la botella con piedras pequenitas y la tapo muy bien. c. La coloco dentro del tanque del sanitario. Asi, ahorraremos agua cada vez que descarguemos la cisterna.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con mis companeros y companeras, realizo la actividad anterior en la escuela o el colegio",
+              "descripcion": "Con mis companeros y companeras, realizo la actividad anterior en la escuela o el colegio. Presentamos nuestro trabajo al profesor o a la profesora. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Guia 2 4 Por que el agua es tan i",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En compania del representante del Comite de Ambiente, elaboramos carteles con mensajes sobre como ahorrar",
+              "descripcion": "En compania del representante del Comite de Ambiente, elaboramos carteles con mensajes sobre como ahorrar y cuidar el agua. Pegamos los carteles junto a los lavamanos y banos de nuestra escuela o colegio.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "¿Por qué el agua es tan importante para nuestra vida?",
+          "concepto": "",
+          "desempeno": "Reconozco la importancia del agua en la vida diaria. Identifico acciones que me ayudan a cui- dar el agua.",
+          "ejes_tematicos": [
+            "Contaminación del agua",
+            "Recursos naturales",
+            "Explorar hechos y fenómenos",
+            "Utilizar diferentes métodos de análisis"
+          ],
+          "recursos": [
+            "Lápices de colores, revistas o periódicos y pegamento"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, escribo las acciones que desarrollamos en casa para cuidar el",
+              "descripcion": "Con ayuda de mis familiares, escribo las acciones que desarrollamos en casa para cuidar el agua.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Consulto en la biblioteca o en Internet: a",
+              "descripcion": "Consulto en la biblioteca o en Internet: a. Que enfermedades puede producir el agua contaminada? b. Que podemos hacer para evitar la contaminacion del agua en mi region?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En mi cuaderno de Ciencias Naturales y con ayuda de mi familia, completo el siguiente",
+              "descripcion": "En mi cuaderno de Ciencias Naturales y con ayuda de mi familia, completo el siguiente compromiso: Para conser var y proteger el agua, nos comprometemos a 1. . 2. .",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Comparto mis respuestas con mis companeros y companeras, en la proxima clase",
+              "descripcion": "Comparto mis respuestas con mis companeros y companeras, en la proxima clase. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Trabajo con mi familia Actividades de aplicacion C Como avanzo en el desarrollo de mis competencias? 188 A continuacion, encuentro una serie de preguntas l",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con este instrumento lo que el senor esta calculando en las manzanas es su A",
+              "descripcion": "Con este instrumento lo que el senor esta calculando en las manzanas es su A. tamano B. masa. C. volumen. D. dureza.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "A simple vista, las dos caracteristicas que apreciamos de los cubos son A",
+              "descripcion": "A simple vista, las dos caracteristicas que apreciamos de los cubos son A. el tamano y el color. B. la masa y la dureza. C. el sabor y el volumen. D. la dureza y la textura. II. Leo lo siguiente y respondo: De pronto, empezo a llover. Grandes y veloces gotas de agua caian del cielo. Lo unico que pude hacer fue abrir mi paraguas para evitar mojarme.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Una caracteristica de las sustancias en estado gaseoso es que A",
+              "descripcion": "Una caracteristica de las sustancias en estado gaseoso es que A. carecen de forma y volumen definidos. B. son duras al tacto. C. tienen siempre la misma forma. D. tienen masa y peso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Las imagenes que presentan el estado gaseoso son A",
+              "descripcion": "Las imagenes que presentan el estado gaseoso son A. el vaso y el volcan. B. la arepa y la olla. C. la olla y el volcan. D. la arepa y el vaso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "La imagen que presenta el estado liquido es A",
+              "descripcion": "La imagen que presenta el estado liquido es A. el jugo de naranja. B. el volcan. C. el pan. D. ninguna. III. Con base en estas imagenes respondo las preguntas 9 y 10: 1907. El estado de la materia en el cual se encuentra el agua que se menciona en el texto es A. solido. B. gaseoso. C. liquido. D. no tiene estado.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Si hace un poco de calor, lo que esperariamos que pasara es que el hielo",
+              "descripcion": "Si hace un poco de calor, lo que esperariamos que pasara es que el hielo cambie de estado, asi: A. De gas a liquido. B. De liquido a gas. C. De solido a liquido. D. De liquido a solido. Leo el siguiente texto y respondo: El agua es un elemento vital para los seres vivos. Las plantas la usan para fabricar su alimento, los animales para alimentarse y",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Una conclusion que podemos sacar del texto es que A",
+              "descripcion": "Una conclusion que podemos sacar del texto es que A. hay mucha agua y por eso la podemos utilizar para todo. B. lo importante es pagar el recibo del agua y siempre habra agua. C. debemos tener agua guardada en tanques. D. el agua es muy importante para la vida, por eso debemos cuidarla.",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Cuales acciones realizamos con el Comite de Ambiente para cuidar el agua? La profesora o",
+              "descripcion": "Cuales acciones realizamos con el Comite de Ambiente para cuidar el agua? La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. 191 Bibliografia Bibliografia AFLATOUN CHILD SAVINGS INTERNATIONAL. The Af氀akit Af氀atoun, Child Social and Financial Education. Amsterdam, 2005. FUNDACION ESCU",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

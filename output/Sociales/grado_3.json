@@ -1,0 +1,2154 @@
+{
+  "asignatura": "Ciencias Sociales",
+  "grado": 3,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Hugo Avila Rodriguez, Cristian Alexander Cardenas Sierra",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "DBA 8: Comprende la estructura y el funcionamiento democratico a nivel del departamento como entidad politica, administrativa y juridica.",
+    "DBA 2: Relaciona las caracteristicas biogeograficas de su departamento, municipio, resguardo o lugar donde vive, con las actividades economicas que en ellos se realizan.",
+    "DBA 6: Analiza las contribuciones de los grupos humanos que habitan en su departamento, municipio o lugar donde vive, a partir de sus caracteristicas culturales: lengua, organizacion social, tipo de vivienda, cosmovision y uso del suelo.",
+    "DBA 4: Comprende el legado de los grupos humanos en la gastronomia, la musica y el paisaje de la region, municipio, resguardo o lugar donde vive.",
+    "DBA 5: Comprende la importancia del tiempo en la organizacion de las actividades sociales, economicas y culturales en su comunidad.",
+    "DBA 1: Comprende la importancia de los oceanos y mares en la organizacion economica y social de los pueblos costeros en la actualidad.",
+    "DBA 3: Explica las acciones humanas que han incidido en las transformaciones del territorio asociadas al numero de habitantes e infraestructura, en su departamento, municipio, resguardo o lugar donde vive.",
+    "DBA 7: Comprende la importancia de participar en las decisiones de su comunidad cercana (institucion educativa) mediante la eleccion del gobierno escolar."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "T aba ando en equ po",
+      "desempeno_general": "",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "Las normas facilitan nuestra convivencia",
+          "concepto": "",
+          "desempeno": "Reconozco las diferentes normas sociales, valorando su importancia y utilidad.",
+          "ejes_tematicos": [
+            "La importancia de las normas",
+            "Manual de Convivencia"
+          ],
+          "recursos": [
+            "Hojas de papel, pliegos de cartulina, marcadores y Manual de Convivencia"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento con mis familiares lo que aprendi sobre la importancia de las normas",
+              "descripcion": "Comento con mis familiares lo que aprendi sobre la importancia de las normas",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pido a mis familiares que me respondan las siguientes preguntas: a Las normas que se",
+              "descripcion": "Pido a mis familiares que me respondan las siguientes preguntas: a Las normas que se deben cumplir en la casa son impuestas por alguno de los miembros de la familia o son acordadas por todos sus integrantes? b El cumplimiento de las normas mejora la convivencia en la familia? Por que? c Que normas han cambiado en la vida familiar y en la comunidad ",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con la colaboracion de mis familiares, elaboro un cartel con algunas normas de convivencia Para",
+              "descripcion": "Con la colaboracion de mis familiares, elaboro un cartel con algunas normas de convivencia Para ello, realizo las siguientes actividades: a Identifico los conflictos a los cuales nos enfrentamos diariamente en las diferentes actividades que realizamos en casa Entre todos, acordamos las normas necesarias para evitar o solucionar estos conflictos b E",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos el siguiente cuadro y leemos con atencion los textos: Clases de normas Normas de",
+              "descripcion": "Observamos el siguiente cuadro y leemos con atencion los textos: Clases de normas Normas de relacion Normas de prevencion Nos ayudan a relacionarnos con otras personas en diferentes lugares y situaciones. Por ejemplo: saludar y despedirse. Nos ayudan a protegernos y cuidarnos de posibles peligros. Por ejemplo: las normas de transito. Las autoridade",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Reflexiono y respondo: a Que conflictos he causado por no cumplir alguna norma? b Que",
+              "descripcion": "Reflexiono y respondo: a Que conflictos he causado por no cumplir alguna norma? b Que conflictos entre companeros o familiares se podrian solucionar con el cumplimiento de las normas?",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Escribo en el cuaderno un compromiso que me permita evitar o solucionar conflictos en mi",
+              "descripcion": "Escribo en el cuaderno un compromiso que me permita evitar o solucionar conflictos en mi casa y en la escuela o el colegio",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Comparto mi compromiso con los companeros y las companeras y el profesor o la profesora",
+              "descripcion": "Comparto mi compromiso con los companeros y las companeras y el profesor o la profesora",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Tomamos el Manual de Convivencia de nuestra escuela o colegio Leemos algunas partes que nos",
+              "descripcion": "Tomamos el Manual de Convivencia de nuestra escuela o colegio Leemos algunas partes que nos llamen la atencion y comentamos con el profesor o la profesora: a Para que se escribieron esas normas que leimos? b Estamos de acuerdo con las normas que leimos? Por que? c Que le cambiariamos o que le adicionariamos a nuestro Manual de Convivencia? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Con base en el Manual de Convivencia de nuestra escuela o colegio, elaboramos senales o",
+              "descripcion": "Con base en el Manual de Convivencia de nuestra escuela o colegio, elaboramos senales o textos que representen por lo menos diez normas que debemos cumplir Colocamos nuestras senales en sitios visibles del colegio, para que todos y todas las tengamos en cuenta y recordemos cumplirlas Por ejemplo: Ciencias Sociales 3 22",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "¿Cómo puedo cumplir las normas?",
+          "concepto": "",
+          "desempeno": "Reconozco los diferentes tipos de normas y participo activamente en su construc- ción y modificación.",
+          "ejes_tematicos": [
+            "Importancia de las normas",
+            "Normas de prevención y normas de relación"
+          ],
+          "recursos": [
+            "Código Nacional de Tránsito y señales de tránsito"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, escribo cinco actividades que realizamos regularmente durante el dia y",
+              "descripcion": "Con ayuda de mis familiares, escribo cinco actividades que realizamos regularmente durante el dia y en las cuales debamos cumplir normas Luego, elaboro el siguiente cuadro en el cuaderno y lo completo:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En la proxima clase, socializo mi trabajo con mis companeros y companeras y el profesor",
+              "descripcion": "En la proxima clase, socializo mi trabajo con mis companeros y companeras y el profesor o la profesora Actividades diarias Norma que debemos cumplir Quienes se benef ician con esta norma? Responsables de que esta norma se cumpla Autoridad que hace cumplir esta norma Acti vidades de aplicacion Trabajo con mi familia Presento mi trabajo al profesor o",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Busco en el diccionario los significados de las palabras anteriores Escribo esta informacion en el",
+              "descripcion": "Busco en el diccionario los significados de las palabras anteriores Escribo esta informacion en el cuaderno",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos con atencion la siguiente ilustracion Luego, dialogamos sobre las preguntas que se muestran: a",
+              "descripcion": "Observamos con atencion la siguiente ilustracion Luego, dialogamos sobre las preguntas que se muestran: a Que norma de transito esta incumpliendo el conductor del carro? b A quien perjudica el incumplimiento de esta norma? Por que? c Cual deberia ser nuestra actitud cuando veamos a un conductor incumpliendo las normas de transito? d Cual deberia se",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno, escribo los siguientes grupos de palabras Formo oraciones relacionadas con las normas",
+              "descripcion": "En el cuaderno, escribo los siguientes grupos de palabras Formo oraciones relacionadas con las normas Para ello, uno las palabras que se encuentran en cada uno de los recuadros segun correspondan: Trabajo en equipo Trabajo individual Todas las personas debemos cumplir las normas en todos los lugares. podemos cruzar debemos saludar podemos jugar deb",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Comparo mi trabajo con el de mis companeros y companeras Si es necesario, lo corrijo",
+              "descripcion": "Comparo mi trabajo con el de mis companeros y companeras Si es necesario, lo corrijo",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Organicemos nuestro Gobierno Estudiantil",
+          "concepto": "",
+          "desempeno": "Participo en los procesos de organización y elección del Gobierno Estudiantil de mi escuela o colegio. DBA 7. Ev. 7.1, 7.2, 7.3, 7.4",
+          "ejes_tematicos": [
+            "Importancia y funciones del Gobierno Estudiantil",
+            "Consejo Estudiantil y Consejo Directivo"
+          ],
+          "recursos": [
+            "Diccionario, cartulina, revistas, marcadores y otros materiales necesarios para elaborar carteles, pancartas y afiches"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento con mis familiares que es el Gobierno Estudiantil, como funciona y por que es",
+              "descripcion": "Comento con mis familiares que es el Gobierno Estudiantil, como funciona y por que es importante. Tambien comento lo que escribi en el plan de gobierno y les pregunto como podria mejorarlo. Tengo en cuenta sus sugerencias y las escribo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pido la colaboracion de mis familiares para la elaboracion de carteles, representaciones de teatro, pancartas,",
+              "descripcion": "Pido la colaboracion de mis familiares para la elaboracion de carteles, representaciones de teatro, pancartas, concursos y jornadas de trabajo, asi como para conseguir recursos economicos o materiales. Esto con el fin de mejorar la campana que adelantamos en la escuela o el colegio.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, llevo el trabajo que realice y lo comparto con mis companeras",
+              "descripcion": "En la proxima clase, llevo el trabajo que realice y lo comparto con mis companeras y companeros y el profesor o la profesora. c. Que ventajas y desventajas genera que Marcos y Claudia tengan ideas o puntos de vista diferentes?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos nuestro plan de gobierno ante los companeros y las companeras y el profesor o",
+              "descripcion": "Leemos nuestro plan de gobierno ante los companeros y las companeras y el profesor o la profesora Escuchamos con atencion sus sugerencias y lo mejoramos",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Iniciamos las actividades de campana y damos a conocer las propuestas del candidato o la",
+              "descripcion": "Iniciamos las actividades de campana y damos a conocer las propuestas del candidato o la candidata que preferimos Si es necesario, elaboramos carteles, pancartas, afiches, etc a Por quien deberia votar Juana? Por que? b Segun lo que creamos, cual de los dos candidatos promoveria el cumplimiento de los derechos y deberes de todos los y las estudiant",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos la siguiente situacion y respondemos las preguntas en el cuaderno: Trabajo en equipo Vi",
+              "descripcion": "Leemos la siguiente situacion y respondemos las preguntas en el cuaderno: Trabajo en equipo Vi vamos la paz En nuestro colegio, se realizaran elecciones para escoger al personero o a la personera estudiantil. Una estudiante llamada Juana no sabe por quien votar para este cargo. Uno de los candidatos se llama Marcos, quien considera que si es elegid",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Identificamos un valor o una cualidad que deban tener nuestro personero o personera y los",
+              "descripcion": "Identificamos un valor o una cualidad que deban tener nuestro personero o personera y los miembros del Consejo Estudiantil y del Consejo Directivo. Escribimos esta informacion en el Cuadro de valores. Acti vidades de aplicacion Trabajo con mi familia Comentamos nuestro trabajo con la profesora o el profesor. El profesor o la profesora. valora los a",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Organizados trabajamos mejor",
+          "concepto": "",
+          "desempeno": "Explico la importancia de la organización para realizar diferentes actividades.",
+          "ejes_tematicos": [
+            "Importancia de la organización y de los grupos"
+          ],
+          "recursos": [
+            "Hojas de block y materiales necesarios para realizar un collage y una representación teatral"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pregunto lo siguiente a mis familiares No olvido escribir la informacion mas importante en el",
+              "descripcion": "Pregunto lo siguiente a mis familiares No olvido escribir la informacion mas importante en el cuaderno: a Cuales grupos hay en nuestro barrio o vereda? b Que actividades realizan estos grupos en beneficio de la comunidad? c A cual de estos grupos pertenecen? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dialogo con mis familiares acerca de la importancia de trabajar en grupo Los invito a",
+              "descripcion": "Dialogo con mis familiares acerca de la importancia de trabajar en grupo Los invito a realizar una actividad que beneficie a la comunidad y en la cual todos participemos Para ello, realizo lo siguiente: a Identifico una necesidad que tengamos en nuestro entorno Por ejemplo: hacer una campana de aseo, pintar los frentes de las casas, etc b Defino la",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con base en la historia del numeral 1, comentamos y respondemos las siguientes preguntas en",
+              "descripcion": "Con base en la historia del numeral 1, comentamos y respondemos las siguientes preguntas en el cuaderno: a Para que le sirvio al grupo organizarse? b Que papel cumplio el profesor Orlando dentro de ese proceso de organizacion? c Que hubiera sucedido si los y las estudiantes de la historia no hubieran logrado trabajar en equipo? d Hemos estado en un",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Nos organizamos en dos grupos Preparamos una representacion teatral sobre una situacion parecida a la",
+              "descripcion": "Nos organizamos en dos grupos Preparamos una representacion teatral sobre una situacion parecida a la de la historia del numeral 1 Uno de los dos grupos la representa en forma desordenada y el otro grupo la representa en forma ordenada",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Presentamos nuestra representacion teatral ante los demas companeros y companeras y el profesor o la",
+              "descripcion": "Presentamos nuestra representacion teatral ante los demas companeros y companeras y el profesor o la profesora",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Comentamos cuales son las ventajas de trabajar organizados y en equipo",
+              "descripcion": "Comentamos cuales son las ventajas de trabajar organizados y en equipo",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Pensamos en los diferentes grupos a los cuales pertenecemos Elaboramos un collage con recortes de",
+              "descripcion": "Pensamos en los diferentes grupos a los cuales pertenecemos Elaboramos un collage con recortes de revistas que representen estos grupos Luego, escribimos como estan organizados 47",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el cuaderno, hacemos un listado de las principales dificultades que tenemos para trabajar en",
+              "descripcion": "En el cuaderno, hacemos un listado de las principales dificultades que tenemos para trabajar en equipo 48",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "En una hoja de block, elaboramos compromisos para solucionar las dificultades identificadas en el numeral",
+              "descripcion": "En una hoja de block, elaboramos compromisos para solucionar las dificultades identificadas en el numeral anterior Depositamos la hoja en el Buzon de Compromisos",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "¡Quien se orienta nunca se pierde!",
+          "concepto": "",
+          "desempeno": "Me ubico en el entorno físico, utilizan- do puntos de referencia espaciales.",
+          "ejes_tematicos": [
+            "Orientación espacial",
+            "La rosa de los vientos",
+            "Brújula",
+            "Puntos cardinales"
+          ],
+          "recursos": [
+            "Una aguja, un imán, un corcho, una hoja de block y un recipiente con agua"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la ayuda de mis familiares, elaboro una maqueta o representacion en miniatura de mi",
+              "descripcion": "Con la ayuda de mis familiares, elaboro una maqueta o representacion en miniatura de mi casa y de sus alrededores. Tengo en cuenta los siguientes aspectos: a. Puedo hacer la maqueta sobre un carton, una cartulina o una tabla. b. Utilizo materiales reciclables como cartones, hojas secas, palos, etc. c. El punto de referencia principal es mi casa. A ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Una vez elaborada la maqueta, senalo sobre ella los cuatro puntos cardinales",
+              "descripcion": "Una vez elaborada la maqueta, senalo sobre ella los cuatro puntos cardinales. Pido a mis padres o familiares que me indiquen con flechas de diferentes colores el camino o recorrido que deberia seguir para ir desde mi casa hasta: a. La escuela o el colegio. b. La casa de mi mejor amigo o amiga. c. El hospital o el centro de salud. d. La tienda mas c",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pido a mis familiares que me digan que debo hacer y a quien debo acudir",
+              "descripcion": "Pido a mis familiares que me digan que debo hacer y a quien debo acudir cuando me sienta perdido o extraviado.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En el cuaderno, dibujo algunos elementos o lugares que observe en cada uno de los",
+              "descripcion": "En el cuaderno, dibujo algunos elementos o lugares que observe en cada uno de los puntos cardinales. Para ello, ubico un punto en el centro de una hoja de block. A partir de el, senalo los cuatro puntos cardinales. Luego, dibujo los elementos o lugares que observe al Norte, al Sur, al Oriente, al Occidente, al Nororiente, al Suroriente, al Suroccid",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Expongo mi trabajo ante mis companeros y companeras y el profesor o la profesora",
+              "descripcion": "Expongo mi trabajo ante mis companeros y companeras y el profesor o la profesora.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Conozcamos nuestro municipio y departamento",
+          "concepto": "",
+          "desempeno": "Reconozco las principales característi- cas geográficas de nuestro municipio y departamento. DBA 2. Ev. 2.1, 2.2, 2.3, 2.4 DBA 3. Ev. 3.3",
+          "ejes_tematicos": [
+            "El municipio",
+            "El departamento",
+            "Características geográficas del municipio y del departamento",
+            "Recursos naturales de Colombia"
+          ],
+          "recursos": [
+            "Colores, atlas, cartón o tabla, plastilina, arcilla, palos, hojas secas, arena, biblioteca o Internet , recurso Renueva S3U2G6A4 y materiales necesarios para elaborar los mapas del municipio y departamento"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la ayuda de mis familiares, amigos y vecinos, elaboro un folleto o cuadernillo",
+              "descripcion": "Con la ayuda de mis familiares, amigos y vecinos, elaboro un folleto o cuadernillo. En el, escribo los siguientes datos sobre mi municipio y mi departamento: a. Creacion del municipio: en que fecha, el origen de su nombre, quienes fueron sus fundadores, etc. b. Creacion del departamento: en que fecha, el origen de su nombre, quienes fueron sus fund",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, recopilo toda la informacion obtenida",
+              "descripcion": "Con ayuda de mis familiares, recopilo toda la informacion obtenida. La socializo con mis companeros y companeras y el profesor o la profesora. Elegimos algunos trabajos y los llevamos al Rincon de Sociales para que los demas los puedan consultar. 7 Guia 71 GOBERNADORA Yo soy la gobernadora, es decir, la primera autoridad del departamento. Nosotros ",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Buscamos en libros de Ciencias Sociales o en el diccionario el significado de las siguientes",
+              "descripcion": "Buscamos en libros de Ciencias Sociales o en el diccionario el significado de las siguientes palabras:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con base en la informacion que obtuvimos, escribimos en el cuaderno una oracion relacionada con",
+              "descripcion": "Con base en la informacion que obtuvimos, escribimos en el cuaderno una oracion relacionada con cada una de las palabras anteriores.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elaboramos y completamos el siguiente crucigrama en el cuaderno",
+              "descripcion": "Elaboramos y completamos el siguiente crucigrama en el cuaderno. Para ello, tenemos en cuenta las palabras del numeral 3: Trabajo individual Diputado Asamblea Gobernador Juez Tribunal Superior Ordenanza T B J A D O G N R L S P R",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Nos organizamos en dos grupos",
+              "descripcion": "Nos organizamos en dos grupos. Siguiendo las instrucciones dadas por el profesor o la profesora, un grupo elabora un mapa grande del municipio y el otro elabora el mapa del departa mento. En dichos mapas, ubicamos sus limites y sus principales caracteristicas naturales y geograficas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Exponemos nuestro trabajo ante los demas companeros, companeras, profesores y profesoras de otros cursos",
+              "descripcion": "Exponemos nuestro trabajo ante los demas companeros, companeras, profesores y profesoras de otros cursos. Luego, lo colocamos en un lugar visible de la escuela o el colegio.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Por turnos, leemos con atencion el siguiente texto: Trabajo en equipo Comentamos nuestro trabajo con",
+              "descripcion": "Por turnos, leemos con atencion el siguiente texto: Trabajo en equipo Comentamos nuestro trabajo con la profesora o el profesor. Algunas de estas instituciones son: El Instituto Colombiano de Bienestar Familiar (ICBF), Policia de Infancia y Adolescencia, Comisarias de familia, Defensoria de familia y Ministerio Publico. Ciencias Sociales 3 70",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Dialogamos con nuestros companeros y companeras acerca de: a",
+              "descripcion": "Dialogamos con nuestros companeros y companeras acerca de: a. Que instituciones se encargan de proteger a las victimas del maltrato infantil en el lugar donde vivimos? b. Que debemos hacer si conocemos situaciones de malt rat o en nuestro municipio o nuestra ciudad?",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Conozcamos las autoridades de nuestro departamento",
+          "concepto": "",
+          "desempeno": "Reconozco las diferentes autoridades que hay en nuestro departamento y las funciones que cumplen. DBA 8. Ev. 8.1, 8.2, 8.3, 8.4",
+          "ejes_tematicos": [
+            "Autoridades de nuestro departamento"
+          ],
+          "recursos": [
+            "Libros de Ciencias Sociales o diccionario, Constitución Política de Colombia y materiales necesarios para representar al gobernador o a la gobernadora de nuestro departamento"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Cuento a mis familiares lo que aprendi sobre las autoridades de nuestro departamento",
+              "descripcion": "Cuento a mis familiares lo que aprendi sobre las autoridades de nuestro departamento.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pregunto a mis familiares lo siguiente y escribo sus respuestas en mi cuaderno: Que opinion",
+              "descripcion": "Pregunto a mis familiares lo siguiente y escribo sus respuestas en mi cuaderno: Que opinion tienen sobre la administracion de nuestro gobernador o gobernadora?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con el apoyo de mi familia, realizo un cartel en el cual muestre las ultimas",
+              "descripcion": "Con el apoyo de mi familia, realizo un cartel en el cual muestre las ultimas noticias sobre las obras que esta realizando el gobernador o la gobernadora en nuestro departamento. Presento mi trabajo en la proxima clase.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "De acuerdo con nuestros propios puntos de vista, tratamos de evaluar las gestiones adelantadas por",
+              "descripcion": "De acuerdo con nuestros propios puntos de vista, tratamos de evaluar las gestiones adelantadas por el gobernador o la gobernadora de nuestro departamento. Respondemos las siguientes preguntas: a. Que obras importantes conocemos que haya realizado el gobernador o la gobernadora en beneficio del departamento? b. Alguna vez el gobernador o la gobernad",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Ahora, evaluamos la gestion del presidente o la presidenta de nuestro Gobierno Estudiantil y de",
+              "descripcion": "Ahora, evaluamos la gestion del presidente o la presidenta de nuestro Gobierno Estudiantil y de los diferentes comites que lo conforman. Tenemos en cuenta si se estan cumpliendo el plan de gobierno y los diferentes planes de trabajo de los comites. En todo grupo social bien organizado, existen normas y personas que se encargan de hacerlas cumplir. ",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leemos con atencion el siguiente mensaje y lo escribimos en el cuaderno",
+              "descripcion": "Leemos con atencion el siguiente mensaje y lo escribimos en el cuaderno. Luego, anotamos nuestra opinion sobre su contenido: Acti vidades de aplicacion Trabajo con mi familia El profesor o la profesora. valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Comentamos nuestro trabajo con la profesora o el profesor",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "¿Cuál es la división política y administrativa de nuestro municipio?",
+          "concepto": "",
+          "desempeno": "Describo la división política y adminis- trativa de nuestro municipio.",
+          "ejes_tematicos": [
+            "División política del municipio",
+            "División política del departamento"
+          ],
+          "recursos": [
+            "Mapa de la división político- administrativa de Colombia, libros de Ciencias Sociales o diccionario y mapa político de nuestro departamento"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Cuento a mis familiares lo que aprendi sobre la division politica y la organizacion administrativa",
+              "descripcion": "Cuento a mis familiares lo que aprendi sobre la division politica y la organizacion administrativa de mi municipio y de mi departamento.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pregunto a un familiar cuales son los municipios mas cercanos al lugar donde vivo",
+              "descripcion": "Pregunto a un familiar cuales son los municipios mas cercanos al lugar donde vivo. Escribo sus nombres en el cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Solicito a mis familiares que me cuenten todo lo que sepan sobre el municipio y",
+              "descripcion": "Solicito a mis familiares que me cuenten todo lo que sepan sobre el municipio y el departamento en el cual vivimos. Por ejemplo: sus costumbres, sus principales actividades economicas, su organizacion administrativa, su division politica, sus sitios turisticos, sus festividades, etc. Escribo en el cuaderno la informacion mas importante.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Ubicamos algunas fichas en el Rincon de Sociales",
+              "descripcion": "Ubicamos algunas fichas en el Rincon de Sociales. Esto con el fin de que los y las estudiantes de otros cursos las puedan consultar.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Viajemos",
+      "desempeno_general": "Trabajo en equipo para mejorar la organizacion de mi escuela",
+      "guias": [
+        {
+          "numero": 9,
+          "titulo": "Las autoridades y la ciudadania",
+          "concepto": "",
+          "desempeno": "Comprendo y valoro el papel que cumplen los diversos organismos de prevención, vigilancia y control que hay en nuestro departamento.",
+          "ejes_tematicos": [
+            "Organismos de control del Estado"
+          ],
+          "recursos": [
+            "Hojas de block, diccionario, dos bolsas plásticas, marcadores no borrables, tijeras y materiales necesarios para representar un noticiero"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Les cuento a mis familiares lo que aprendi sobre los organismos de control del Estado",
+              "descripcion": "Les cuento a mis familiares lo que aprendi sobre los organismos de control del Estado.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pregunto a mis familiares, vecinos o amigos si alguna vez han sabido de algun funcionario",
+              "descripcion": "Pregunto a mis familiares, vecinos o amigos si alguna vez han sabido de algun funcionario publico de la region que haya sido sancionado por no cumplir con su deber. Escribo en el cuaderno lo que me cuenten.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Socializo mi escrito con los companeros y las companeras y la profesora o el profesor",
+              "descripcion": "Socializo mi escrito con los companeros y las companeras y la profesora o el profesor. Acti vidades de aplicacion Trabajo con mi familia El profesor o la profesora. valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Presentamos nuestro trabajo al profesor o a la profesora. 0 Guia 95 Desempeno: • Identifico y v",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con ayuda del profesor o la profesora, consultamos las diferencias que existen entre la capital",
+              "descripcion": "Con ayuda del profesor o la profesora, consultamos las diferencias que existen entre la capital de un departamento y la capital del pais. En Colombia, la variedad natural y cultural se refleja en los paisajes y en las personas que habitan sus diferentes regiones. Por eso, debemos valorar, cuidar y respetar nuestro medio natural y las costumbres y t",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Presentamos nuestra representacion teatral ante los demas companeros y companeras y el profesor o la",
+              "descripcion": "Presentamos nuestra representacion teatral ante los demas companeros y companeras y el profesor o la profesora.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Con base en nuestros propios conocimientos y con ayuda de los libros y periodicos que",
+              "descripcion": "Con base en nuestros propios conocimientos y con ayuda de los libros y periodicos que encontremos en la biblioteca, respondemos en el cuaderno las siguientes preguntas: a. Como se llama el procurador general de la nacion? b. Como se llama el contralor general de la republica? c. Como se llama el personero de nuestro municipio?",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos en el cuaderno a que organismo de control del Estado le corresponde investigar y",
+              "descripcion": "Escribimos en el cuaderno a que organismo de control del Estado le corresponde investigar y sancionar las siguientes faltas: a. El alcalde de un municipio malgasta los dineros oficiales o publicos. b. Una persona maltrata a otra, ocasionandole lesiones personales graves. c. A una persona le llega una factura del agua con un costo excesivo. Trabajo ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comparamos nuestro trabajo con el de los demas companeros y companeras",
+              "descripcion": "Comparamos nuestro trabajo con el de los demas companeros y companeras. Lo corregimos, si es necesario.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "¿Cómo es la región donde vivimos?",
+          "concepto": "",
+          "desempeno": "Identifico y valoro algunas caracte- rísticas de la región natural en la que vivimos. DBA 1. Ev. 1.2, 1.3, 1.3, 1.4",
+          "ejes_tematicos": [
+            "Regiones naturales de Colombia"
+          ],
+          "recursos": [
+            "Un mapa político de Colombia, un cartón, pegamento, tijeras, pedazos de papel, bolsas y materiales necesarios para elaborar un cartel"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, elaboro un mapa de la region natural en la cual",
+              "descripcion": "Con ayuda de un familiar, elaboro un mapa de la region natural en la cual vivo. En el, senalo las ciudades y los municipios mas grandes y conocidos por algunas de sus tradiciones o caracteristicas especiales.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pido a mis familiares que observen el mapa que realice y senalen que lugares de",
+              "descripcion": "Pido a mis familiares que observen el mapa que realice y senalen que lugares de nuestra region conocen o han visitado.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Escribo lo que mas me llame la atencion sobre algunos lugares conocidos de mi region",
+              "descripcion": "Escribo lo que mas me llame la atencion sobre algunos lugares conocidos de mi region. Puede ser el mismo lugar donde vivo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Llevo mi trabajo al salon de clases y lo expongo ante mis companeros y companeras",
+              "descripcion": "Llevo mi trabajo al salon de clases y lo expongo ante mis companeros y companeras y el profesor o la profesora. b. Cada grupo elige un representante para que saque un papel de la bolsa. c. Segun la region natural que le corresponda, cada grupo va a la biblioteca y busca mas informacion sobre esa region. d. Elaboramos un cartel con la informacion qu",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Exponemos nuestro trabajo ante los demas companeros y companeras y el profesor o la profesora",
+              "descripcion": "Exponemos nuestro trabajo ante los demas companeros y companeras y el profesor o la profesora. Escuchamos atentamente sus comentarios y sugerencias y mejoramos nuestro cartel. Acti vidades de aplicacion Trabajo con mi familia Comentamos nuestro trabajo con la profesora o el profesor. El profesor o la profesora. valora los aprendizajes alcanzados co",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Las regiones naturales en las que se divide nuestro pais son A",
+              "descripcion": "Las regiones naturales en las que se divide nuestro pais son A. Region Caribe, Pacifica, Orinoquia, Andina, Insular y Amazonica. B. Africa, Asia, Europa y America. C. Bogota, Medellin, Cali y Cartagena. D. barrios, municipios, ciudades y departamentos. III. De acuerdo con el conocimiento que tengo sobre mi departamento, menciono tres de los princip",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Comparemos un paisaje natural con un paisaje cultural",
+          "concepto": "",
+          "desempeno": "Establezco diferencias entre un pai- saje natural y un paisaje cultural. DBA 3. Ev. 3.1, 3.2",
+          "ejes_tematicos": [
+            "Paisaje natural",
+            "Paisaje cultural",
+            "Paisaje, actividades, construcciones, productos, mercado y medios de transporte de nuestra región"
+          ],
+          "recursos": [
+            "Grabadoras y cámaras fotográficas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, elaboro una maqueta",
+              "descripcion": "Con ayuda de mis familiares, elaboro una maqueta. En ella, muestro las diferencias entre un paisaje natural y un paisaje cultural. Utilizo materiales como aserrin, carton, plastilina, papel de colores, cajas de carton pequenas, tubos de carton de papel higienico, palillos, marcadores, etc.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Solicito a mis familiares que respondan la siguiente encuesta:",
+              "descripcion": "Solicito a mis familiares que respondan la siguiente encuesta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, presento mi trabajo ante mis companeros y companeras y el profesor",
+              "descripcion": "En la proxima clase, presento mi trabajo ante mis companeros y companeras y el profesor o la profesora. Luego, reunimos las encuestas que hicimos y formamos un banco de ocupaciones de nuestros familiares. Acti vidades de aplicacion Trabajo con mi familia El profesor o la profesora. valora los aprendizajes alcanzados con el desarrollo de esta guia y",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Conozcamos los recursos naturales de nuestra region",
+          "concepto": "",
+          "desempeno": "Identifico los principales recursos na- turales de nuestra región. DBA 3. Ev. 3.4",
+          "ejes_tematicos": [
+            "Recursos naturales de nuestro planeta",
+            "Recursos naturales de los departamentos de Colombia"
+          ],
+          "recursos": [
+            "Diccionario, biblioteca o Internet y materiales necesarios para elaborar carteles"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, elaboro un listado de plantas medicinales",
+              "descripcion": "Con ayuda de mis familiares, elaboro un listado de plantas medicinales. Al frente de cada planta, escribo para que sirve. Llevo mi trabajo a clase y lo comparto con mis companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comento con mi familia lo que aprendi sobre los recursos naturales",
+              "descripcion": "Comento con mi familia lo que aprendi sobre los recursos naturales. Los invito a cuidarlos, defenderlos y utilizarlos racionalmente.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pido a mi familia que me ayude a elaborar un cartel",
+              "descripcion": "Pido a mi familia que me ayude a elaborar un cartel. En el, invito a los vecinos y a las vecinas a cuidar los recursos naturales que encontramos en los alrededores de nuestra vereda, municipio o ciudad.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Presento el cartel ante mis companeros y companeras en la proxima clase",
+              "descripcion": "Presento el cartel ante mis companeros y companeras en la proxima clase. Luego, pido permiso para colocarlo en el Periodico mural. La profesora o el profesor valora las actividades que realizamos. Acti vidades de aplicacion Trabajo con mi familia El profesor o la profesora. valora los aprendizajes alcanzados con el desarrollo de esta guia y registr",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con ayuda del profesor o la profesora, organizamos las siguientes actividades",
+              "descripcion": "Con ayuda del profesor o la profesora, organizamos las siguientes actividades. Tenemos en cuenta invitar a los miembros de nuestra comunidad: a. Una jornada de vacunacion de mascotas. b. Una jornada de cuidado y siembra de arboles.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "¿Cómo es la cultura de nuestra región?",
+          "concepto": "",
+          "desempeno": "Describo las diferentes manifestacio- nes culturales de nuestra región y la forma como se han conservado. DBA 4. Ev. 4.1, 4.2, 4.4",
+          "ejes_tematicos": [
+            "Cultura de nuestra región"
+          ],
+          "recursos": [
+            "Biblioteca o Internet, hojas de block y materiales necesarios para realizar un cartel y una presentación sobre la cultura de nuestra región"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En compania de mis familiares, recorro mi municipio o ciudad",
+              "descripcion": "En compania de mis familiares, recorro mi municipio o ciudad. Realizo lo siguiente: a. Con ayuda de mis familiares, identifico construcciones, objetos, herramientas, lugares o documentos que representen hechos importantes de nuestra region ocurridos en el pasado. b. En el cuaderno, escribo mis conclusiones sobre el recorrido que realice.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Solicito a mis familiares y vecinos o vecinas que me colaboren contandome aquellos saberes que",
+              "descripcion": "Solicito a mis familiares y vecinos o vecinas que me colaboren contandome aquellos saberes que han recibido de sus antepasados en relacion con los siguientes temas: a. Recetas de cocina tradicional. b. Mitos, leyendas, rimas, agueros, dichos, refranes y poemas. c. Nombres tipicos de lugares que ellos conozcan. d. Personajes tipicos de la region.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En una hoja de papel, escribo todo lo que me cuenten con letra muy clara",
+              "descripcion": "En una hoja de papel, escribo todo lo que me cuenten con letra muy clara y buena ortografia. Llevo la hoja al salon de clases y la comparto con mis companeros y companeras y el profesor o la profesora. Luego, la adiciono al Libro de nuestro patrimonio cultural.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora. Acti vidades de aplicacion Trabajo con mi familia El profesor o la profesora. valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Teng a mos e n ment e Si valoramos y respetamos nuestra cultura, motivam",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "¿Cuál es nuestro patrimonio cultural?",
+          "concepto": "",
+          "desempeno": "Reconozco y valoro los aportes de diferentes legados culturales propios de nuestra región. DBA 4. Ev. 4.3",
+          "ejes_tematicos": [
+            "La importancia de la cultura",
+            "Tradiciones culturales de nuestro país"
+          ],
+          "recursos": [
+            "Hojas blancas, recursos Renueva S3U3G14A5 y S3U3G14B3, revistas, colores, marcadores y materiales necesarios para realizar carteles"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pido a mis familiares que me cuenten si alguna vez han participado en las festividades",
+              "descripcion": "Pido a mis familiares que me cuenten si alguna vez han participado en las festividades que se celebran en nuestro departamento. Si la respuesta es afirmativa, les solicito toda la informacion posible, con el fin de compartirla en la proxima clase con mis companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pido a mis familiares que describan los sitios historicos o monumentos que han visitado",
+              "descripcion": "Pido a mis familiares que describan los sitios historicos o monumentos que han visitado. Les pregunto cual de ellos les ha gustado mas y por que. Entre todos, elaboramos dibujos del lugar que mas les llamo la atencion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Llevo mi trabajo al salon de clases y lo comparto con mis companeros y companeras",
+              "descripcion": "Llevo mi trabajo al salon de clases y lo comparto con mis companeros y companeras y el profesor o la profesora. Acti vidades de aplicacion Trabajo con mi familia El profesor o la profesora. valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Comentamos nuestro trabajo con la profesora o el profesor. Ciencias So",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En la clase siguiente, evaluamos los resultados de la salida escolar con nuestros companeros y",
+              "descripcion": "En la clase siguiente, evaluamos los resultados de la salida escolar con nuestros companeros y companeras y la profesora o el profesor. Entre todos, elaboramos algunos carteles referentes al tema, los cuales ubicaremos en un lugar visible de la escuela o el colegio.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "¡Nuestros símbolos son importantes!",
+          "concepto": "",
+          "desempeno": "Conozco y respeto los símbolos que representan nuestra escuela o cole- gio, departamento y nación.",
+          "ejes_tematicos": [
+            "Símbolos patrios: la Bandera, el Himno Nacional de Colombia, el Escudo, la Flor Nacional y el Árbol Nacional",
+            "Patriotismo"
+          ],
+          "recursos": [
+            "Biblioteca, hojas blancas, colores, marcadores, Manual de Convivencia, pliegos de cartulina, tijeras, revistas y pegante"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento con mis familiares lo que aprendi sobre los simbolos o emblemas de mi escuela",
+              "descripcion": "Comento con mis familiares lo que aprendi sobre los simbolos o emblemas de mi escuela o colegio, mi departamento y mi nacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Les pregunto a mis familiares si tenemos la bandera de Colombia en nuestra casa",
+              "descripcion": "Les pregunto a mis familiares si tenemos la bandera de Colombia en nuestra casa. En caso contrario, elaboramos una bandera utilizando materiales como tela, cartulina, colores, etc. A B C 6 Ciencias Sociales 3 Guia 152 Desempeno: • Reconozco la importancia de las vias y los medios de comunicacion y de transporte. Que medios utilizamos para comunicar",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Dialogo con mis familiares sobre las siguientes preguntas",
+              "descripcion": "Dialogo con mis familiares sobre las siguientes preguntas. Escribo la informacion mas importante en el cuaderno: a. En que fechas se celebran las fiestas patrias en Colombia? b. En estas fechas, por que es importante izar la bandera de nuestro pais?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Exponemos nuestro trabajo frente a los y las integrantes del otro equipo",
+              "descripcion": "Exponemos nuestro trabajo frente a los y las integrantes del otro equipo.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "¿Qué medios utilizamos para comunicarnos y transportarnos?",
+          "concepto": "",
+          "desempeno": "Reconozco la importancia de las vías y los medios de comunicación y de transporte.",
+          "ejes_tematicos": [
+            "Medios de comunicación",
+            "Medios de transporte"
+          ],
+          "recursos": [
+            "Vinilos, marcadores, plastilina, arcilla, alambre, hojas blancas, entre otros materiales"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Solicito a mi familia que me ayude a hacer un listado de las empresas de",
+              "descripcion": "Solicito a mi familia que me ayude a hacer un listado de las empresas de transporte que hay en el lugar donde vivo. De cada una de ellas, indico: a. Sus principales rutas. b. Los medios de transporte que utilizan. c. Los costos de los pasajes.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "De igual manera, solicito informacion sobre los siguientes medios de comunicacion que operan en mi",
+              "descripcion": "De igual manera, solicito informacion sobre los siguientes medios de comunicacion que operan en mi region: a. Empresas de servicio telefonico. b. Empresas que prestan servicio de telefonia celular. c. Principales emisoras radiales. d. Principales canales de television nacionales y regionales. e. Empresas que prestan servicio de Internet.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Recuerdo algun viaje que haya realizado con mi familia a algunos lugares de la ciudad,",
+              "descripcion": "Recuerdo algun viaje que haya realizado con mi familia a algunos lugares de la ciudad, el departamento o el pais. Escribo la informacion mas importante en el cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora. Acti vidades de aplicacion Trabajo con mi familia El profesor o la profesora valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Cuando sea posible, utilicemos la bicicleta para transportarnos. De esta ",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Valoremos nuestrasValoremos nuestras",
+      "desempeno_general": "Valoro las caracteristicas culturales, naturales, de comunicacion",
+      "guias": [
+        {
+          "numero": 17,
+          "titulo": "Valoremos nuestra cultura colombiana",
+          "concepto": "",
+          "desempeno": "Valoro la diversidad cultural y étni- ca que existe en nuestra región y en nuestro país. DBA 6. Ev. 6.1, 6.2, 6.3, 6.4",
+          "ejes_tematicos": [
+            "Diversidad cultural de Colombia",
+            "Estereotipo"
+          ],
+          "recursos": [
+            "Biblioteca, un diccionario y materiales necesarios para realizar una representación teatral"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la colaboracion de mi familia, elaboro un cartel en el cual presente tres compromisos",
+              "descripcion": "Con la colaboracion de mi familia, elaboro un cartel en el cual presente tres compromisos nuestros para no discriminar a ninguna de las poblaciones que habitan nuestro pais. Tengo en cuenta el ejemplo que se presenta:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Busco en periodicos y revistas alguna noticia en la cual se muestre un caso de",
+              "descripcion": "Busco en periodicos y revistas alguna noticia en la cual se muestre un caso de discriminacion en contra de alguna de las poblaciones que habita nuestro pais. Despues de leerla detenidamente, escribo en el cuaderno mi propia conclusion al respecto. En la proxima clase, socializo mi conclusion con el profesor o la profesora y con los demas companeros",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Si queremos conocer las tradiciones culturales de una poblacion determinada, debemos averiguar aspectos como A",
+              "descripcion": "Si queremos conocer las tradiciones culturales de una poblacion determinada, debemos averiguar aspectos como A. rimas, poemas, comidas tradicionales, bailes, fiestas, monumentos, entre otros. B. las caracteristicas del suelo, de la vegetacion y de los animales que habitan en su territorio. C. el numero de integrantes y los lugares que han visitado.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Los medios de transporte son importantes para las personas porque A",
+              "descripcion": "Los medios de transporte son importantes para las personas porque A. evitan conflictos con las personas que se desplazan en bicicleta. B. nos evitan caminar y hacer ejercicio regularmente. C. permiten que nos desplacemos de un lugar a otro de manera rapida. D. ninguna de las anteriores.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "La diversidad cultural que caracteriza a nuestro pais se debe A",
+              "descripcion": "La diversidad cultural que caracteriza a nuestro pais se debe A. a la extincion de muchas etnias que desaparecieron cuando los espanoles llegaron a nuestro territorio. B. al mestizaje inicial que se realizo entre indigenas, africanos y los conquistadores espanoles. C. a las condiciones climaticas que permiten la supervivencia de las especies. 17017",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Nos aprendernos las siguientes trovas escritas por Jose Ovidio Marin y Marino Antonio Estrada para",
+              "descripcion": "Nos aprendernos las siguientes trovas escritas por Jose Ovidio Marin y Marino Antonio Estrada para conmemorar el Dia de la Raza: I En este tan lindo dia, deberiamos de luchar porque se acabe en Colombia la diferencia racial. II La diferencia racial, debemos ser como hermanos, en el mundo solo hay la raza de los humanos. III La raza de los humanos, ",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Una vez aprendidas las trovas anteriores, participamos en un concurso",
+              "descripcion": "Una vez aprendidas las trovas anteriores, participamos en un concurso. La pareja que mejor diga estas trovas recibira un estimulo por parte del profesor o la profesora.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "¡Organicemos nuestro tiempo!",
+          "concepto": "",
+          "desempeno": "Comprendo la importancia de organizar mi tiempo para realizar mis actividades. DBA 5. Ev. 5.1, 5.2, 5.3, 5.4",
+          "ejes_tematicos": [
+            "El tiempo",
+            "La importancia de organizar el tiempo"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, escribo la historia de mi vida",
+              "descripcion": "Con ayuda de mis familiares, escribo la historia de mi vida. Para ello, realizo las actividades de la siguiente pagina: a. Por que el dia de Maria no comenzo bien? b. Cual fue la razon por la que Maria no alcanzo a coger el bus del colegio? c. Si Maria hubiera organizado mejor su tiempo, su dia hubiera comenzado mejor? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, identifico la actividad economica que mas se realice en la",
+              "descripcion": "Con ayuda de mis familiares, identifico la actividad economica que mas se realice en la region donde vivimos. Luego, sigo la siguiente instruccion: Con base en la actividad seleccionada, completo la siguiente grafica en el cuaderno. Si es necesario, adiciono mas acciones: El profesor o la profesora valora los aprendizajes alcanzados con el desarrol",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeras y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeras y companeras y el profesor o la profesora. Actividad economica: Que tiempo se debe dedicar a cada una de estas acciones? En orden, que acciones se requieren para realizar esta actividad? 1: 2: 3: 1: 2: 3: c. Organizo la informacion recogida. d. Resumo la informacion en hojas. Puedo ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comentamos y respondemos en el cuaderno",
+              "descripcion": "Comentamos y respondemos en el cuaderno. No olvidamos escuchar y respetar la opinion de nuestro companero o companera:",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Conversamos sobre como nos sentimos cuando no disponemos de tiempo para realizar todas nuestras actividades",
+              "descripcion": "Conversamos sobre como nos sentimos cuando no disponemos de tiempo para realizar todas nuestras actividades.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Leemos el siguiente texto y dialogamos sobre su mensaje: Acti vidades de aplicacion Trabajo con",
+              "descripcion": "Leemos el siguiente texto y dialogamos sobre su mensaje: Acti vidades de aplicacion Trabajo con mi familia Presentamos nuestro trabajo al profesor o a la profesora. Debemos ser responsables con el trabajo que realicemos en equipo. De esta manera, no afectaremos el trabajo de los demas y evitaremos conflictos. Vi vamos la paz Siempre debemos elabora",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Comparamos nuestro trabajo con el de otros companeros y companeras",
+              "descripcion": "Comparamos nuestro trabajo con el de otros companeros y companeras. Si es necesario, lo complementamos.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "¡Recorramos algunos periodos de la Historia!",
+          "concepto": "",
+          "desempeno": "Identifico las características de los perio- dos de la Historia.",
+          "ejes_tematicos": [
+            "Los periodos de la Historia"
+          ],
+          "recursos": [
+            "Biblioteca y materiales necesarios para realizar un cartel y una representación teatral"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, completo el siguiente cuadro teniendo en cuenta la historia de",
+              "descripcion": "Con ayuda de mis familiares, completo el siguiente cuadro teniendo en cuenta la historia de las tres ultimas generaciones de mi familia: Datos Primera generacion Segunda generacion Tercera generacion Del abuelo De la abuela De papa De mama De mis hermanos/as y primos/as Mio Nombres y apellidos Lugar y fecha de nacimiento Principal actividad Estudio",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, respondo en el cuaderno las siguientes preguntas: a",
+              "descripcion": "Con ayuda de mis familiares, respondo en el cuaderno las siguientes preguntas: a. En cual de las tres generaciones se dan mejores condiciones de vida? b. Que aspectos de la primera y de la segunda generacion me gustaria conservar? c. Si pudiera devolver el tiempo, cual de las actividades de mi generacion me gustaria que realizaran mis padres o abue",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Elegimos un periodo de la Historia que nos llame la atencion",
+              "descripcion": "Elegimos un periodo de la Historia que nos llame la atencion. Vamos a la biblioteca e investigamos sobre el. Elaboramos carteleras con la informacion que obtuvimos. Exponemos nuestro trabajo ante los companeros y las companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Si deseamos, podemos hacer una representacion teatral sobre el periodo de la Historia que investigamos",
+              "descripcion": "Si deseamos, podemos hacer una representacion teatral sobre el periodo de la Historia que investigamos. La presentamos ante nuestros companeros y companeras y el profesor o la profesora. Trabajo en equipo La profesora o el profesor valora las actividades que desarrollamos. e. Actualmente estamos en la Edad Antigua. Contemporanea. Atomica. El hecho ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Acerquemonos a la historia de nuestro pais",
+          "concepto": "",
+          "desempeno": "Identifico las principales características de los periodos de la historia de nuestro país.",
+          "ejes_tematicos": [
+            "Épocas históricas de Colombia"
+          ],
+          "recursos": [
+            "Biblioteca y materiales necesarios para realizar carteles o una representación teatral"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Cuento a mis familiares lo que aprendi sobre los tres periodos de la historia de",
+              "descripcion": "Cuento a mis familiares lo que aprendi sobre los tres periodos de la historia de nuestro pais. Les pregunto que otros hechos conocen que hayan ocurrido en cada uno de estos periodos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, recorto ilustraciones de periodicos o revistas que representen cambios importantes",
+              "descripcion": "Con ayuda de mis familiares, recorto ilustraciones de periodicos o revistas que representen cambios importantes en la forma de vivir del ser humano a traves de la historia. Las pego en una hoja.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Llevo mi trabajo al salon de clases y lo comparto con mis companeros y companeras",
+              "descripcion": "Llevo mi trabajo al salon de clases y lo comparto con mis companeros y companeras y el profesor o la profesora. Escucho sus sugerencias y mejoro mi trabajo. Acti vidades de aplicacion Trabajo con mi familia El profesor o la profesora valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Comentamos nuestro trabajo",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos con atencion el siguiente texto: Todos los acontecimientos de la Historia, ya sean positivos",
+              "descripcion": "Leemos con atencion el siguiente texto: Todos los acontecimientos de la Historia, ya sean positivos o negativos, desencadenan otra serie de hechos. Asimismo, en nuestra vida diaria, todas aquellas acciones que realizamos y las palabras que decimos afectan las acciones y sentimientos de las demas personas. Por eso, debemos pensar muy bien antes de a",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Reflexionamos sobre el texto anterior",
+              "descripcion": "Reflexionamos sobre el texto anterior. Pensamos si hemos ofendido a nuestros companeros o companeras mediante palabras o acciones. Escribimos un compromiso para ser cada dia mas amables y mejores seres humanos. Lo depositamos en el Buzon de compromisos.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "¿Qué fue la Revolución de Independencia?",
+          "concepto": "",
+          "desempeno": "Describo las características de la Revolu- ción de Independencia en el Nuevo Reino de Granada o Colombia.",
+          "ejes_tematicos": [
+            "Principales acontecimientos de la Revolución de Independencia",
+            "Vida y obra de Antonio Nariño"
+          ],
+          "recursos": [
+            "Biblioteca y materiales necesarios para realizar una representación teatral"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la colaboracion de mis familiares, elaboro un cartel en el cual explique tres derechos",
+              "descripcion": "Con la colaboracion de mis familiares, elaboro un cartel en el cual explique tres derechos proclamados en la Declaracion de los Derechos del Hombre y del Ciudadano.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Busco en periodicos y revistas alguna noticia en donde se demuestre un caso de discriminacion",
+              "descripcion": "Busco en periodicos y revistas alguna noticia en donde se demuestre un caso de discriminacion. Despues de leerla detenidamente, escribo en el cuaderno que derechos se estan vulnerando en la noticia y por que es importante respetarlos. En la proxima clase, socializo mi trabajo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Si deseo realizar mis actividades escolares, familiares, deportivas y otras que quiera, es importante que",
+              "descripcion": "Si deseo realizar mis actividades escolares, familiares, deportivas y otras que quiera, es importante que Trabajo individual A. organice mi tiempo, de manera que sepa que actividades realizare en determinados momentos del dia. B. realice todas mis actividades al mismo tiempo, para no perder mi tiempo. C. le pida a un adulto mayor que me organice el",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "El acontecimiento que distingue la Prehistoria de la Historia es A",
+              "descripcion": "El acontecimiento que distingue la Prehistoria de la Historia es A. la aparicion de actividades agricolas. B. la aparicion de la escritura. C. la realizacion de actividades como la caza y la recoleccion. D. ninguna de las anteriores.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Para conocer la historia de Colombia, es importante estudiar las principales caracteristicas de sus tres",
+              "descripcion": "Para conocer la historia de Colombia, es importante estudiar las principales caracteristicas de sus tres grandes periodos, los cuales son A. la Segunda Guerra Mundial y la Guerra Fria. B. el Neolitico, el Paleolitico y la Guerra de los Mil Dias. C. la Edad Media, la Edad de Piedra y el Renacimiento. D. Periodo Indigena, Periodo Hispanico y Periodo ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Presentamos nuestra obra ante los demas companeros y companeras y el profesor o la profesora",
+              "descripcion": "Presentamos nuestra obra ante los demas companeros y companeras y el profesor o la profesora. Si no quitan los estancos Si no cesa la opresion Se perdera lo ganado Tendra fin la usurpacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Como un homenaje a la independencia del Nuevo Reino de Granada, leemos el siguiente pasquin",
+              "descripcion": "Como un homenaje a la independencia del Nuevo Reino de Granada, leemos el siguiente pasquin fijado en Santafe de Bogota el 19 de agosto de 1794:",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comentamos sobre la siguiente pregunta: En lugares publicos, como puentes, paredes de los edificios o",
+              "descripcion": "Comentamos sobre la siguiente pregunta: En lugares publicos, como puentes, paredes de los edificios o casas, etc., hemos visto algunos mensajes de protesta contra el gobierno de nuestro pais? Que decian estos mensajes? Acti vidades de aplicacion Trabajo con mi familia El profesor o la profesora valora los aprendizajes alcanzados con el desarrollo d",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Cunas 18. Guambianos 27. Uitotos 36. Cubeos Bibliografia CHAUX, Enrique. Conflictos, bullying y violencia escolar:",
+              "descripcion": "Cunas 18. Guambianos 27. Uitotos 36. Cubeos Bibliografia CHAUX, Enrique. Conflictos, bullying y violencia escolar: Estrategias de prevencion y manejo. Bogota, D.C., 2016. CHAUX, Enrique y MEJIA, Jose. Construccion de paz a partir del conocimiento Practicas y perspectivas en los territorios. Bogota, D.C., 2016. CHAUX, Enrique, et al. Ruta Clima Esco",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Como puedo cumplir",
+          "concepto": "",
+          "desempeno": "Actividades Conf lictos Acuerdos o normas Jugar Comer Ver television c Luego, completo el cuadro Lo decoro y lo pego en un lugar visible de la casa Esto con el fin de no olvidar su informacion Acti vidades de aplicacion Trabajo con mi familia El prof",
+          "ejes_tematicos": [
+            "las normas?",
+            "Observamos la siguiente ilustracion:"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos la siguiente ilustracion:",
+              "descripcion": "Observamos la siguiente ilustracion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "De acuerdo con la ilustracion anterior, dialogamos sobre las siguientes preguntas: a Que actividades realizan",
+              "descripcion": "De acuerdo con la ilustracion anterior, dialogamos sobre las siguientes preguntas: a Que actividades realizan los ninos y las ninas de la ilustracion? b Estaran llegando a acuerdos? Para que? Desempeno: • Reconozco los diferentes tipos de normas y participo activamente en su construccion y modificacion. Acti vidades basicas Trabajo en equipo Cienci",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos las siguientes imagenes y comentamos: a Que normas estan incumpliendo las personas que aparecen",
+              "descripcion": "Observamos las siguientes imagenes y comentamos: a Que normas estan incumpliendo las personas que aparecen en las imagenes anteriores? b A quien perjudica el incumplimiento de estas normas? Por que? c Que consejos podemos darles a las personas que no cumplen las normas?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos el siguiente cuadro y leemos con atencion los textos: Clases de normas Normas de",
+              "descripcion": "Observamos el siguiente cuadro y leemos con atencion los textos: Clases de normas Normas de relacion Normas de prevencion Nos ayudan a relacionarnos con otras personas en diferentes lugares y situaciones. Por ejemplo: saludar y despedirse. Nos ayudan a protegernos y cuidarnos de posibles peligros. Por ejemplo: las normas de transito. Las autoridade",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno, elaboramos el cuadro de la pagina anterior Adicionamos dos ejemplos a cada",
+              "descripcion": "En el cuaderno, elaboramos el cuadro de la pagina anterior Adicionamos dos ejemplos a cada tipo de norma",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Por turnos, leemos el siguiente texto: Las senales de transito Las senales de transito son",
+              "descripcion": "Por turnos, leemos el siguiente texto: Las senales de transito Las senales de transito son carteles que informan sobre el estado de calles, carreteras, avenidas, rutas y caminos. Su funcion es facilitar la movilidad en las vias y contribuir a evitar accidentes y a proteger las vidas de conductores y peatones. Existen tres tipos de senales de transi",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Tomamos de la biblioteca el Codigo Nacional de Transito Leemos uno o dos articulos Le",
+              "descripcion": "Tomamos de la biblioteca el Codigo Nacional de Transito Leemos uno o dos articulos Le explicamos al profesor o la profesora las normas de transito que leimos",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Para ampliar nuestros conocimientos, nos dirigimos al Centro de recursos Buscamos las senales de transito",
+              "descripcion": "Para ampliar nuestros conocimientos, nos dirigimos al Centro de recursos Buscamos las senales de transito y realizamos un concurso para saber quien identifica el mayor numero de ellas Decimos que tipo de senal es cada una y cual es su significado",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leemos con mucha atencion el siguiente poema Lo escribimos en el cuaderno: Hay que estar",
+              "descripcion": "Leemos con mucha atencion el siguiente poema Lo escribimos en el cuaderno: Hay que estar atento antes de cruzar, si la luz esta en rojo, ya puedo pasar. Y si es amarilla, es de prevencion. Espero calmado y con mucha atencion. Y si la luz esta en verde, tengo que parar, asi evito accidentes que he de lamentar. Autor: Ruben Dario Zuluaga Ramirez Don ",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Por turnos, leemos el siguiente texto Hacemos las pausas respectivas segun los signos de puntuacion:",
+              "descripcion": "Por turnos, leemos el siguiente texto Hacemos las pausas respectivas segun los signos de puntuacion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Dialogamos acerca de los beneficios que nos brindan las normas y de la responsabilidad que",
+              "descripcion": "Dialogamos acerca de los beneficios que nos brindan las normas y de la responsabilidad que implica cumplirlas No olvidamos escuchar y respetar la opinion de nuestros companeros y companeras Por que son importantes las normas? Las normas se construyen para beneficio de todas las personas de un grupo o de una organizacion. Las normas nos generan bene",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Con base en la informacion anterior, dialogamos sobre las siguientes preguntas No olvidamos escuchar y",
+              "descripcion": "Con base en la informacion anterior, dialogamos sobre las siguientes preguntas No olvidamos escuchar y respetar la opinion de nuestros companeros y companeras: a Por que son importantes el Consejo Estudiantil y el Consejo Directivo? b Segun lo que creamos, cuales son las diferencias y semejanzas entre el Consejo Estudiantil y el Consejo Directivo? ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 71,
+          "titulo": "GOBERNADORA",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos la siguiente ilustracion y leemos con mucha atencion lo que dicen los personajes que",
+              "descripcion": "Observamos la siguiente ilustracion y leemos con mucha atencion lo que dicen los personajes que aparecen en ella: Acti vidades basicas Trabajo en equipo Ciencias Sociales 72 3",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dialogamos sobre si alguna vez hemos oido hablar o visto en noticieros o periodicos a",
+              "descripcion": "Dialogamos sobre si alguna vez hemos oido hablar o visto en noticieros o periodicos a los personajes que se presentan en la ilustracion anterior.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Buscamos en libros de Ciencias Sociales o en el diccionario el significado de las siguientes",
+              "descripcion": "Buscamos en libros de Ciencias Sociales o en el diccionario el significado de las siguientes palabras:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con base en la informacion que obtuvimos, escribimos en el cuaderno una oracion relacionada con",
+              "descripcion": "Con base en la informacion que obtuvimos, escribimos en el cuaderno una oracion relacionada con cada una de las palabras anteriores.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elaboramos y completamos el siguiente crucigrama en el cuaderno",
+              "descripcion": "Elaboramos y completamos el siguiente crucigrama en el cuaderno. Para ello, tenemos en cuenta las palabras del numeral 3: Trabajo individual Diputado Asamblea Gobernador Juez Tribunal Superior Ordenanza T B J A D O G N R L S P R Unidad 2, Guia 7 73 Cuales son nuestras autoridades departamentales? Asi como un equipo deportivo esta dirigido por un di",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leo con mucha atencion el texto de la pagina siguiente:",
+              "descripcion": "Leo con mucha atencion el texto de la pagina siguiente:",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Respondo en el cuaderno: a",
+              "descripcion": "Respondo en el cuaderno: a. Como se llama la primera autoridad del departamento? La Rama Ejecutiva es la encargada de hacer cumplir las leyes. La Rama Legislativa es la encargada de hacer las leyes. La Rama Judicial es la encargada de sancionar a quienes no cumplen las leyes. Unidad 2, Guia 7 75 los politicos. los ciudadanos y las ciudadanas. los n",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comparo mi trabajo con el de mis companeros y companeras",
+              "descripcion": "Comparo mi trabajo con el de mis companeros y companeras. Lo corrijo, si es necesario.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leemos con atencion el siguiente mensaje y lo escribimos en el cuaderno",
+              "descripcion": "Leemos con atencion el siguiente mensaje y lo escribimos en el cuaderno. Luego, anotamos nuestra opinion sobre su contenido: Acti vidades de aplicacion Trabajo con mi familia El profesor o la profesora. valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Comentamos nuestro trabajo con la profesora o el profesor",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 79,
+          "titulo": "Desempeno:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Vamos al Centro de recursos",
+              "descripcion": "Vamos al Centro de recursos. Buscamos un mapa con la division politicoadministrativa de Colombia. Si no lo tenemos, utilizamos el de la siguiente pagina. Luego, lo observamos y comentamos: a. Que es un departamento? b. Que es un municipio? c. A cual departamento pertenece nuestro municipio? d. Cuantos departamentos tiene nuestro pais? e. Por que nu",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Buscamos en libros de Ciencias Sociales o en el diccionario el significado de las siguientes",
+              "descripcion": "Buscamos en libros de Ciencias Sociales o en el diccionario el significado de las siguientes palabras:",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Juguemos con las anteriores palabras",
+              "descripcion": "Juguemos con las anteriores palabras. Podemos inventar crucigramas, sopas de letras, loterias, jeroglificos o mensajes cifrados.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Entre todos, recordamos lo que hemos aprendido acerca de nuestro municipio y nuestro departamento",
+              "descripcion": "Entre todos, recordamos lo que hemos aprendido acerca de nuestro municipio y nuestro departamento. Luego, elaboramos un escrito sobre cada una de estas unidades administrativas, destacando aspectos importantes como su historia, su geografia, su cultura, etc.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Compartimos nuestro trabajo con los demas companeros y companeras y el profesor o la profesora",
+              "descripcion": "Compartimos nuestro trabajo con los demas companeros y companeras y el profesor o la profesora. Escuchamos sus sugerencias y lo mejoramos. Trabajo en equipo Gl os a r io A B C Entidad: conjunto de personas que se une para realizar una actividad economica, politica o cultural. Municipio Departamento Capital Division politico administrativa Zona rura",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos el siguiente texto. No olvidamos leer con un tono de voz moderado: Division politica",
+              "descripcion": "Leemos el siguiente texto. No olvidamos leer con un tono de voz moderado: Division politica del municipio El municipio es la entidad territorial mas pequena del pais. Cada municipio esta conformado por una zona urbana llamada cabecera municipal y una zona rural. Sin embargo, con el fin de mejorar la prestacion de los servicios y asegurar la partici",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con base en la informacion de los recuadros, completamos las siguientes oraciones en el cuaderno:",
+              "descripcion": "Con base en la informacion de los recuadros, completamos las siguientes oraciones en el cuaderno: El es la entidad territorial mas pequena del pais. Su organizacion administrativa esta conformada por , , , y . Los municipios y sus conforman los . Division politica del departamento Asi como los corregimientos y las comunas o las localidades conforma",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el cuaderno, elaboramos un corto texto sobre las diferencias que existen entre la organizacion",
+              "descripcion": "En el cuaderno, elaboramos un corto texto sobre las diferencias que existen entre la organizacion administrativa del municipio y del departamento. Tenemos en cuenta lo estudiado en esta guia y en la guia anterior.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Comparamos nuestro trabajo con el de otros companeros y companeras",
+              "descripcion": "Comparamos nuestro trabajo con el de otros companeros y companeras. Si es necesario, lo complementamos.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "ConozcamosConozcamosnuestra historia!nuestra historia!Desempeno general: Estudio el legado historico, social y cultural de mi pais.",
+      "desempeno_general": "Estudio el legado historico, social y cultural de mi pais.",
+      "guias": [
+        {
+          "numero": 95,
+          "titulo": "Desempeno:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos con atencion el siguiente mapa y dialogamos sobre las preguntas: 81º35´ 3º59´ 81º42´ 12º32´",
+              "descripcion": "Observamos con atencion el siguiente mapa y dialogamos sobre las preguntas: 81º35´ 3º59´ 81º42´ 12º32´ 81º22´ 13º23´ R i o A t r a t o Rio Sinu C a n a l d e l D i q u e RIO MAGDALENA RIO CAUCA R i o P a t i a Rio Mira R i o C a g u a n R IO P U T U M A Y O RIO CAQUETA Rio Apaporis R i o V a u p e s Rio Guaviare R i o V i c h a d a Rio Casanare Rio",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Del Centro de recursos, traemos un mapa de Colombia que presente sus regiones naturales y",
+              "descripcion": "Del Centro de recursos, traemos un mapa de Colombia que presente sus regiones naturales y su division politica. Si no lo tenemos, observamos el mapa del numeral 1.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Realizamos las siguientes actividades en el mapa: a",
+              "descripcion": "Realizamos las siguientes actividades en el mapa: a. Identificamos las regiones naturales y escribimos sus nombres en el cuaderno. b. Buscamos los departamentos y los contamos. Escribimos sus nombres y, al frente, sus capitales. c. Buscamos la capital de Colombia y escribimos su nombre en el cuaderno. d. Buscamos el departamento en el cual vivimos ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con ayuda del profesor o la profesora, consultamos las diferencias que existen entre la capital",
+              "descripcion": "Con ayuda del profesor o la profesora, consultamos las diferencias que existen entre la capital de un departamento y la capital del pais. En Colombia, la variedad natural y cultural se refleja en los paisajes y en las personas que habitan sus diferentes regiones. Por eso, debemos valorar, cuidar y respetar nuestro medio natural y las costumbres y t",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos con atencion la siguiente informacion: Region Caribe Departamento Capital La Guajira Riohacha Magdalena Santa",
+              "descripcion": "Leemos con atencion la siguiente informacion: Region Caribe Departamento Capital La Guajira Riohacha Magdalena Santa Marta Bolivar Cartagena Atlantico Barranquilla Cesar Valledupar Sucre Sincelejo Cordoba Monteria MAR CARIBE Regiones naturales de Colombia De acuerdo con su relieve, Colombia esta dividida en seis regiones naturales: Region Caribe: e",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Comentamos y respondemos las siguientes preguntas: a",
+              "descripcion": "Comentamos y respondemos las siguientes preguntas: a. Cuantas regiones naturales tiene Colombia? Unidad 2, Guia 10 101 b. Como se llama la region natural donde vivimos? c. Cuales departamentos conforman nuestra region? d. Que departamentos y regiones de Colombia limitan con oceanos o mares? Que ventajas y desventajas genera esta ubicacion geografic",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "En el cuaderno, escribimos un corto texto sobre la importancia de cuidar los oceanos",
+              "descripcion": "En el cuaderno, escribimos un corto texto sobre la importancia de cuidar los oceanos. Tenemos en cuenta las siguientes preguntas: a. Que actividades pueden contaminar los oceanos? b. Como la contaminacion de los oceanos afecta a las zonas cercanas? c. Como podemos contribuir al cuidado de los oceanos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Escribo en mi cuaderno los nombres de los departamentos que conforman la region donde vivo",
+              "descripcion": "Escribo en mi cuaderno los nombres de los departamentos que conforman la region donde vivo y sus respectivas capitales.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Pido al profesor o la profesora que revise mi trabajo y me de sugerencias para",
+              "descripcion": "Pido al profesor o la profesora que revise mi trabajo y me de sugerencias para mejorarlo.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 107,
+          "titulo": "Comparemos",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las siguientes ilustraciones:",
+              "descripcion": "Observamos las siguientes ilustraciones:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dialogamos sobre las anteriores ilustraciones",
+              "descripcion": "Dialogamos sobre las anteriores ilustraciones. Senalamos sus semejanzas y diferencias en cuanto a: a. Lugares que se observan. b. Actividades que realizan las personas. c. Medios de transporte. Acti vidades basicas Trabajo en parejas Ciencias Sociales 3 108",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Recordamos o consultamos en la biblioteca los conceptos de \"paisaje natural\" y \"paisaje cultural\"",
+              "descripcion": "Recordamos o consultamos en la biblioteca los conceptos de \"paisaje natural\" y \"paisaje cultural\". Si tenemos dudas, pedimos al profesor o la profesora que nos las aclare.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Comentamos cual de estos conceptos se aproxima mas a la definicion de zona rural y",
+              "descripcion": "Comentamos cual de estos conceptos se aproxima mas a la definicion de zona rural y a la de zona urbana.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Observamos las imagenes y leemos la siguiente informacion: El paisaje En un paisaje cultural, abundan",
+              "descripcion": "Observamos las imagenes y leemos la siguiente informacion: El paisaje En un paisaje cultural, abundan los elementos creados por el ser humano. La zona urbana es un ejemplo de paisaje cultural. En las grandes ciudades, encontramos elementos como calles y avenidas, puentes, edificios, centros comerciales, bancos, hospitales, hoteles, centros de diver",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Con base en la lectura anterior, comentamos: a",
+              "descripcion": "Con base en la lectura anterior, comentamos: a. Que es un paisaje natural? b. Que es un paisaje cultural? c. Cual es la diferencia entre estos paisajes? d. Que podemos observar en un paisaje natural? Los productos de la zona rural se consumen directamente y se venden en los mercados de la ciudad, especialmente las frutas, las verduras y otras mater",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos en el cuaderno las respuestas a las anteriores preguntas",
+              "descripcion": "Escribimos en el cuaderno las respuestas a las anteriores preguntas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el cuaderno, hacemos un paralelo entre un paisaje natural y un paisaje cultural",
+              "descripcion": "En el cuaderno, hacemos un paralelo entre un paisaje natural y un paisaje cultural. Ilustramos nuestro trabajo con dibujos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "En el cuaderno, respondo las siguientes preguntas: a",
+              "descripcion": "En el cuaderno, respondo las siguientes preguntas: a. Segun lo que crea, que consecuencias genera la contaminacion de los recursos naturales? b. En mi opinion, como la contaminacion de los recursos naturales afecta a las personas? c. Que acciones puedo realizar para contribuir al cuidado de los recursos naturales?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Comparo mi trabajo con el de mis companeros y companeras",
+              "descripcion": "Comparo mi trabajo con el de mis companeros y companeras. Entre todos, aclaramos posibles dudas. Trabajo individual Comento mi trabajo con la profesora o el profesor. Recurso natural Caracteristica a. Agua Principal fuente de ozono. Fuente para la formacion y conser va cion de la vida. Capa liquida de la corteza terrestre. Capa superior de la super",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Comentamos: a. Que clase de toponimia se presenta en nuestra region? Damos ejemplos. Unidad 3,",
+              "descripcion": "Comentamos: a. Que clase de toponimia se presenta en nuestra region? Damos ejemplos. Unidad 3, Guia 13 127 b. Que apellidos son propios de nuestra region? c. Que otras supersticiones conocemos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Leemos atentamente la siguiente informacion:",
+              "descripcion": "Leemos atentamente la siguiente informacion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Nos organizamos en grupos para decir algunos refranes, rimas, adivinanzas y poemas represen tati vos",
+              "descripcion": "Nos organizamos en grupos para decir algunos refranes, rimas, adivinanzas y poemas represen tati vos de nuestra region. Las rimas, las adivinanzas, las coplas, los poemas, los dichos y los refranes tambien hacen parte de la riqueza cultural propia de una region y, muchas veces, se transmiten por tradicion oral. Algunos ejemplos son: Poema Senora Sa",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Leemos sobre otras manifestaciones culturales: El mapale es un baile realizado por la poblacion afrocolombiana",
+              "descripcion": "Leemos sobre otras manifestaciones culturales: El mapale es un baile realizado por la poblacion afrocolombiana. Este baile conserva las caracteristicas musicales africanas. Por ejemplo: el canto y el palmoteo se alternan. Unidad 3, Guia 13 129",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Mencionamos algunos bailes, trajes y platos tipicos de nuestra region y de otras regiones de",
+              "descripcion": "Mencionamos algunos bailes, trajes y platos tipicos de nuestra region y de otras regiones de Colombia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Respondemos en el cuaderno: a",
+              "descripcion": "Respondemos en el cuaderno: a. Que entendemos por herencia cultural? b. En que consisten la toponimia y la antroponimia? c. En que consisten las supersticiones? d. Cuales son las principales manifestaciones literarias que hacen parte de nuestra herencia o patrimonio cultural? e. Por que la comida, la danza, el baile y el traje tipico hacen parte de",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 114,
+          "titulo": "Desempeno:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos la siguiente imagen y compartimos nuestras opiniones sobre ella: Conozcamos los recursos naturales de",
+              "descripcion": "Observamos la siguiente imagen y compartimos nuestras opiniones sobre ella: Conozcamos los recursos naturales de nuestra region Acti vidades basicas Trabajo en parejas Unidad 3, Guia 12 115",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el cuaderno, realizamos el siguiente crucigrama",
+              "descripcion": "En el cuaderno, realizamos el siguiente crucigrama. Lo completamos con las palabras que aparecen en los recuadros:",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Buscamos en el diccionario el significado de cada una de las palabras que descubrimos en",
+              "descripcion": "Buscamos en el diccionario el significado de cada una de las palabras que descubrimos en el anterior crucigrama. Luego, escribimos esta informacion en el cuaderno. Objetos Recursos naturales Recursos artif iciales (creados por el ser humano) Arboles X",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Realizamos una salida por los alrededores de nuestra escuela o colegio",
+              "descripcion": "Realizamos una salida por los alrededores de nuestra escuela o colegio. Hacemos un listado de todas las cosas u objetos que observamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Regresamos al salon de clases",
+              "descripcion": "Regresamos al salon de clases. Dialogamos sobre todas las cosas u objetos que observamos. Elaboramos el siguiente cuadro en el cuaderno. Clasificamos alli las cosas u objetos que vimos, segun sean elaborados por el ser humano o sean recursos naturales. Por ejemplo:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En el cuaderno, explicamos en que se diferencian los recursos naturales de los recursos artificiales",
+              "descripcion": "En el cuaderno, explicamos en que se diferencian los recursos naturales de los recursos artificiales o elaborados por el ser humano. Escuchemos con respeto a todos nuestros companeros y companeras! Teng a mos e n ment e Trabajo con la profesora o el profesor N T N L R S F L Flora Fauna Suelo Minerales Recursos naturales Ciencias Sociales 3 116",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos con atencion el siguiente texto: Los recursos naturales de nuestro planeta Algunos de los",
+              "descripcion": "Leemos con atencion el siguiente texto: Los recursos naturales de nuestro planeta Algunos de los recursos de la naturaleza que hacen posible las distintas formas de vida en nuestro planeta son: · El Sol, como la mayor fuente de energia. · El agua, indispensable para todas las formas de vida. · El suelo y sus diversos componentes, incluidos los mine",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Realizo en el cuaderno los siguientes esquemas",
+              "descripcion": "Realizo en el cuaderno los siguientes esquemas. Relaciono cada recurso natural de la izquierda con una caracteristica de la derecha segun corresponda:",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "En el cuaderno, respondo las siguientes preguntas: a",
+              "descripcion": "En el cuaderno, respondo las siguientes preguntas: a. Segun lo que crea, que consecuencias genera la contaminacion de los recursos naturales? b. En mi opinion, como la contaminacion de los recursos naturales afecta a las personas? c. Que acciones puedo realizar para contribuir al cuidado de los recursos naturales?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Comparo mi trabajo con el de mis companeros y companeras",
+              "descripcion": "Comparo mi trabajo con el de mis companeros y companeras. Entre todos, aclaramos posibles dudas. Trabajo individual Comento mi trabajo con la profesora o el profesor. Recurso natural Caracteristica a. Agua Principal fuente de ozono. Fuente para la formacion y conser va cion de la vida. Capa liquida de la corteza terrestre. Capa superior de la super",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Comentamos: a. Que clase de toponimia se presenta en nuestra region? Damos ejemplos. Unidad 3,",
+              "descripcion": "Comentamos: a. Que clase de toponimia se presenta en nuestra region? Damos ejemplos. Unidad 3, Guia 13 127 b. Que apellidos son propios de nuestra region? c. Que otras supersticiones conocemos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Leemos atentamente la siguiente informacion:",
+              "descripcion": "Leemos atentamente la siguiente informacion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Nos organizamos en grupos para decir algunos refranes, rimas, adivinanzas y poemas represen tati vos",
+              "descripcion": "Nos organizamos en grupos para decir algunos refranes, rimas, adivinanzas y poemas represen tati vos de nuestra region. Las rimas, las adivinanzas, las coplas, los poemas, los dichos y los refranes tambien hacen parte de la riqueza cultural propia de una region y, muchas veces, se transmiten por tradicion oral. Algunos ejemplos son: Poema Senora Sa",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Leemos sobre otras manifestaciones culturales: El mapale es un baile realizado por la poblacion afrocolombiana",
+              "descripcion": "Leemos sobre otras manifestaciones culturales: El mapale es un baile realizado por la poblacion afrocolombiana. Este baile conserva las caracteristicas musicales africanas. Por ejemplo: el canto y el palmoteo se alternan. Unidad 3, Guia 13 129",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Mencionamos algunos bailes, trajes y platos tipicos de nuestra region y de otras regiones de",
+              "descripcion": "Mencionamos algunos bailes, trajes y platos tipicos de nuestra region y de otras regiones de Colombia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Respondemos en el cuaderno: a",
+              "descripcion": "Respondemos en el cuaderno: a. Que entendemos por herencia cultural? b. En que consisten la toponimia y la antroponimia? c. En que consisten las supersticiones? d. Cuales son las principales manifestaciones literarias que hacen parte de nuestra herencia o patrimonio cultural? e. Por que la comida, la danza, el baile y el traje tipico hacen parte de",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 122,
+          "titulo": "Ciencias Sociales",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las siguientes ilustraciones: Como es la cultura de nuestra region?",
+              "descripcion": "Observamos las siguientes ilustraciones: Como es la cultura de nuestra region?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a. Que actividades realizan las personas que aparecen en las ilustraciones anteriores? b. Estas actividades representan la cultura de algunas regiones de nuestro pais? Por que? Desempeno: • Describo las diferentes manifestaciones culturales de nuestra region y la forma como se han conservado. Unidad 3, Gui",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Juguemos a presentar diferentes muestras culturales de nuestra region",
+              "descripcion": "Juguemos a presentar diferentes muestras culturales de nuestra region. Para ello, realizamos las siguientes actividades: a. Recordamos las tradiciones culturales que nuestros familiares nos han ensenado. b. Nos organizamos en grupos. Elegimos uno de los siguientes temas de acuerdo con nuestras aptitudes y conocimientos: Refranes y dichos populares.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Averiguamos cuales companeros y companeras de nuestro salon de clases no pertenecen a nuestra region",
+              "descripcion": "Averiguamos cuales companeros y companeras de nuestro salon de clases no pertenecen a nuestra region. Les pedimos que nos cuenten mas sobre las tradiciones culturales de sus respectivas regiones. Escuchamos con atencion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Comparamos las tradiciones culturales de estos companeros y companeras con nuestras tradiciones",
+              "descripcion": "Comparamos las tradiciones culturales de estos companeros y companeras con nuestras tradiciones. Encontramos las semejanzas y las diferencias. Escribimos esta informacion en el cuaderno. Las personas de cada region tienen diferentes tradiciones culturales, las cuales debemos respetar y valorar. 124 Ciencias Sociales 3",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Ahora, realizamos con orgullo un recorrido por nuestra herencia cultural a traves de la siguiente",
+              "descripcion": "Ahora, realizamos con orgullo un recorrido por nuestra herencia cultural a traves de la siguiente lectura:",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "De acuerdo con el texto anterior, dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "De acuerdo con el texto anterior, dialogamos sobre las siguientes preguntas: a. Que tradiciones y costumbres nos caracterizan como colombianos y colombianas? b. Por que es importante respetar y valorar estas tradiciones y costumbres? Nuestra herencia cultural Nuestra herencia cultural esta conformada por toda la riqueza cultural acumulada a traves ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Por turnos, leemos con atencion la siguiente leyenda: Ciencias Sociales 3 126",
+              "descripcion": "Por turnos, leemos con atencion la siguiente leyenda: Ciencias Sociales 3 126",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Dialogamos sobre las siguientes preguntas",
+              "descripcion": "Dialogamos sobre las siguientes preguntas. Tenemos en cuenta escuchar y respetar la opinion de nuestros companeros y companeras: a. Ya conociamos la leyenda de La Patasola? b. Quien nos la narro por primera vez? c. Que mas sabemos acerca de La Patasola? d. Que otras leyendas hemos escuchado? G l osario A B C Garrotazo: golpe muy fuerte que se propi",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Leemos y analizamos la siguiente informacion: La toponimia y la antroponimia La toponimia estudia el",
+              "descripcion": "Leemos y analizamos la siguiente informacion: La toponimia y la antroponimia La toponimia estudia el origen y significado de los nombres de lugares. Por ejemplo, el nombre de nuestro municipio y los lugares que lo componen: calles, veredas, montes, valles, lagunas. Los nombres tradicionales de un lugar pueden tener origen indigena, religioso, conme",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Comentamos: a. Que clase de toponimia se presenta en nuestra region? Damos ejemplos. Unidad 3,",
+              "descripcion": "Comentamos: a. Que clase de toponimia se presenta en nuestra region? Damos ejemplos. Unidad 3, Guia 13 127 b. Que apellidos son propios de nuestra region? c. Que otras supersticiones conocemos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Leemos atentamente la siguiente informacion:",
+              "descripcion": "Leemos atentamente la siguiente informacion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Nos organizamos en grupos para decir algunos refranes, rimas, adivinanzas y poemas represen tati vos",
+              "descripcion": "Nos organizamos en grupos para decir algunos refranes, rimas, adivinanzas y poemas represen tati vos de nuestra region. Las rimas, las adivinanzas, las coplas, los poemas, los dichos y los refranes tambien hacen parte de la riqueza cultural propia de una region y, muchas veces, se transmiten por tradicion oral. Algunos ejemplos son: Poema Senora Sa",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Leemos sobre otras manifestaciones culturales: El mapale es un baile realizado por la poblacion afrocolombiana",
+              "descripcion": "Leemos sobre otras manifestaciones culturales: El mapale es un baile realizado por la poblacion afrocolombiana. Este baile conserva las caracteristicas musicales africanas. Por ejemplo: el canto y el palmoteo se alternan. Unidad 3, Guia 13 129",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Mencionamos algunos bailes, trajes y platos tipicos de nuestra region y de otras regiones de",
+              "descripcion": "Mencionamos algunos bailes, trajes y platos tipicos de nuestra region y de otras regiones de Colombia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Respondemos en el cuaderno: a",
+              "descripcion": "Respondemos en el cuaderno: a. Que entendemos por herencia cultural? b. En que consisten la toponimia y la antroponimia? c. En que consisten las supersticiones? d. Cuales son las principales manifestaciones literarias que hacen parte de nuestra herencia o patrimonio cultural? e. Por que la comida, la danza, el baile y el traje tipico hacen parte de",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 132,
+          "titulo": "Desempeno:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos con atencion las siguientes ilustraciones: Cual es nuestro patrimonio cultural?",
+              "descripcion": "Observamos con atencion las siguientes ilustraciones: Cual es nuestro patrimonio cultural?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "De acuerdo con las ilustraciones anteriores, dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "De acuerdo con las ilustraciones anteriores, dialogamos sobre las siguientes preguntas: a. Que representa cada una de estas ilustraciones? Acti vidades basicas Trabajo en parejas Unidad 3, Guia 14 133 b. Que significara para los antioquenos el desfile anual de silleteros? c. Por que sera importante que los artesanos de cualquier region del pais pue",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Recordamos algunas experiencias que hayamos tenido cuando visitamos algun sitio historico importante en nuestra ciudad",
+              "descripcion": "Recordamos algunas experiencias que hayamos tenido cuando visitamos algun sitio historico importante en nuestra ciudad o cuando participamos en algun carnaval o fiesta religiosa en honor a un santo, una santa o a la Virgen. Socializamos nuestros recuerdos con otros companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Expresamos mediante un dibujo nuestros sentimientos y emociones sobre nuestro patrimonio cultural",
+              "descripcion": "Expresamos mediante un dibujo nuestros sentimientos y emociones sobre nuestro patrimonio cultural. Debajo del dibujo, escribimos un texto que lo explique.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Orgullosos de nuestra riqueza cultural y comprometidos con su defensa, realizamos las siguientes lecturas: La",
+              "descripcion": "Orgullosos de nuestra riqueza cultural y comprometidos con su defensa, realizamos las siguientes lecturas: La cultura amplia nuestras fronteras Existen determinadas manifestaciones que contribuyen a enriquecer nuestro patrimonio cultural. Se trata de las tradiciones religiosas, celebraciones populares, carnavales, ferias y fiestas, reinados popular",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Comentamos: a. Hemos participado en algunas de las festividades religiosas que se mencionan en la",
+              "descripcion": "Comentamos: a. Hemos participado en algunas de las festividades religiosas que se mencionan en la lectura anterior? b. Que sabemos acerca de estas festividades religiosas? c. Cual es el patron o patrona de nuestra region? d. Que festividad religiosa celebramos en torno a el o ella? e. En que fecha se celebra esta festividad religiosa? Ingresa a Ren",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Seguimos conociendo algunas manifestaciones culturales de nuestro pais:",
+              "descripcion": "Seguimos conociendo algunas manifestaciones culturales de nuestro pais:",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Dialogamos sobre las siguientes preguntas",
+              "descripcion": "Dialogamos sobre las siguientes preguntas. Tenemos en cuenta escuchar y respetar la opinion de nuestros companeros y companeras: a. Que carnavales, ferias o fiestas celebramos en nuestra region? b. En que consiste cada una de estas celebraciones? c. Como estas celebraciones promueven y divulgan nuestra cultura? Celebraciones populares, carnavales, ",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Seguimos leyendo: 138 Ciencias Sociales 3",
+              "descripcion": "Seguimos leyendo: 138 Ciencias Sociales 3",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Reflexionamos y comentamos: a",
+              "descripcion": "Reflexionamos y comentamos: a. Hemos visitado algunos de los lugares mencionados en la lectura anterior? Cuales? b. Cuales nos gustaria visitar? Por que? c. Que sitios de interes historico y turistico hay en nuestra region? d. Que hacemos para conservar y proteger estos sitios?",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Escribimos en el cuaderno las diferentes manifestaciones culturales existentes en nuestra comunidad y como estas",
+              "descripcion": "Escribimos en el cuaderno las diferentes manifestaciones culturales existentes en nuestra comunidad y como estas hacen parte importante de nuestro patrimonio cultural.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Comparamos nuestro trabajo con el de otros companeros y companeras",
+              "descripcion": "Comparamos nuestro trabajo con el de otros companeros y companeras. Si es necesario, lo complementamos. El Arbol Nacional La palma de cera del Quindio es el Arbol Nacional de Colombia. Es una palmera de imponente belleza y extraordinaria fortaleza. Puede vivir hasta 200 anos y alcanza una altura hasta de 70 metros. La palma de cera solo se encuentr",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 142,
+          "titulo": "Desempeno:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos la siguiente ilustracion",
+              "descripcion": "Observamos la siguiente ilustracion. Luego, dialogamos sobre las preguntas: a. Que actividades realizan los ninos y las ninas de la ilustracion anterior? b. Que simbolos podemos observar? c. Relacionamos algunos de estos simbolos con Colombia? Cuales? d. Cuales creemos que son los simbolos de nuestra escuela o colegio? Acti vidades basicas Trabajo ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leemos con atencion el siguiente texto: Los simbolos patrios Los simbolos patrios son emblemas o",
+              "descripcion": "Leemos con atencion el siguiente texto: Los simbolos patrios Los simbolos patrios son emblemas o insignias que representan la identidad y los valores comunes de los habitantes de una region, ciudad, departamento y nacion. La bandera, el escudo y el himno son los simbolos patrios. Por eso, es importante conocerlos, respetarlos y valorarlos porque no",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pensamos en algunos grupos sociales que conozcamos",
+              "descripcion": "Pensamos en algunos grupos sociales que conozcamos. Por ejemplo: equipos deportivos. Realizamos lo siguiente: a. Con ayuda del profesor o la profesora, averiguamos cuales y como son los simbolos de estos grupos sociales. b. Dibujamos algunos de estos simbolos en el cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos la siguiente ilustracion:",
+              "descripcion": "Observamos la siguiente ilustracion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a. Que estan haciendo los ninos y las ninas de la ilustracion anterior? b. Que significa para nosotros izar la bandera? c. En que ocasiones se iza la bandera en nuestra escuela o colegio? d. Que actividades realizamos cuando izamos la bandera? G l os ar io A B C Izar: hacer subir algo de la cuerda de la qu",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Comparamos nuestro trabajo con el de otros companeros y companeras",
+              "descripcion": "Comparamos nuestro trabajo con el de otros companeros y companeras. Si es necesario, lo corregimos o complementamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "En compania del profesor o la profesora, cantamos el Himno Nacional de Colombia",
+              "descripcion": "En compania del profesor o la profesora, cantamos el Himno Nacional de Colombia. Expresamos sentimientos de respeto y amor por nuestra patria colombiana.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En la biblioteca, buscamos informacion para responder las siguientes preguntas",
+              "descripcion": "En la biblioteca, buscamos informacion para responder las siguientes preguntas. Escribimos la informacion mas importante en el cuaderno: a. Quien es el autor de la letra del Himno Nacional de Colombia? Quien compuso la musica? b. Que significado tiene la letra del coro de nuestro Himno Nacional? c. Cuantas estrofas tiene este Himno? d. En que celeb",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leemos el siguiente texto. Dialogamos sobre el mensaje o ensenanza que nos deja:",
+              "descripcion": "Leemos el siguiente texto. Dialogamos sobre el mensaje o ensenanza que nos deja:",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Por turnos, leemos con atencion el siguiente texto: Nuestros simbolos patriosNuestros simbolos patrios Los colombianos",
+              "descripcion": "Por turnos, leemos con atencion el siguiente texto: Nuestros simbolos patriosNuestros simbolos patrios Los colombianos y colombianas tenemos unos simbolos patrios que nos identifican como parte de una misma nacion. Conozcamos estos simbolos a continuacion: La BanderaLa Bandera Es el emblema que mas identifica nuestra nacionalidad colombiana y el qu",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "En el cuaderno, realizamos las siguientes actividades: a",
+              "descripcion": "En el cuaderno, realizamos las siguientes actividades: a. Dibujamos los simbolos patrios de Colombia. b. Explicamos por que estos simbolos nos identifican como colombianos y colombianas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Comparamos nuestro trabajo con el de otros companeros y companeras",
+              "descripcion": "Comparamos nuestro trabajo con el de otros companeros y companeras. Si es necesario, lo complementamos. El Arbol Nacional La palma de cera del Quindio es el Arbol Nacional de Colombia. Es una palmera de imponente belleza y extraordinaria fortaleza. Puede vivir hasta 200 anos y alcanza una altura hasta de 70 metros. La palma de cera solo se encuentr",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 152,
+          "titulo": "Desempeno:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a. Cuando las distancias son muy largas, que aparatos u objetos utilizamos para desplazarnos? b. Como nos comunicamos con algun familiar que vive muy lejos de nosotros? c. Segun lo que creamos, que son los \"medios de comunicacion\" y los \"medios de transporte\"? d. En nuestra opinion, que diferencias y semej",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observamos con atencion las siguientes imagenes",
+              "descripcion": "Observamos con atencion las siguientes imagenes. Luego, realizamos la actividad:",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Escribo en el cuaderno el titulo: \"Vias y medios de comunicacion y de transporte\"",
+              "descripcion": "Escribo en el cuaderno el titulo: \"Vias y medios de comunicacion y de transporte\". Luego, elaboro un dibujo de los medios de comunicacion y de transporte que conozco.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Expongo mi trabajo ante mis companeros y companeras y el profesor o la profesora",
+              "descripcion": "Expongo mi trabajo ante mis companeros y companeras y el profesor o la profesora.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Para conocer las vias y los medios de comunicacion y de transporte, realizamos las lecturas",
+              "descripcion": "Para conocer las vias y los medios de comunicacion y de transporte, realizamos las lecturas de las paginas siguientes: EL DIARIO Identificamos en cuales de las anteriores imagenes se presentan medios de transporte y en cuales aparecen medios de comunicacion. Trabajo en equipo Trabajo individual Ciencias Sociales 3 154 Vias de comunicacion Son las q",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Completamos en el cuaderno el siguiente grafico: Medios de comunicacion Los medios de comunicacion son",
+              "descripcion": "Completamos en el cuaderno el siguiente grafico: Medios de comunicacion Los medios de comunicacion son artefactos que nos permiten comunicarnos con las demas personas, enviando o recibiendo mensajes. Ademas, nos ayudan a enterarnos de los acontecimientos que suceden en la comunidad, en el pais y en el mundo. Los medios de comunicacion pueden ser or",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Seguimos el ejemplo anterior y elaboramos un grafico sobre los medios de transporte",
+              "descripcion": "Seguimos el ejemplo anterior y elaboramos un grafico sobre los medios de transporte.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el cuaderno, escribimos todos los estereotipos que recordemos sobre las diferentes poblaciones que habitan",
+              "descripcion": "En el cuaderno, escribimos todos los estereotipos que recordemos sobre las diferentes poblaciones que habitan nuestro pais.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Entre todos, reflexionamos sobre las siguientes preguntas",
+              "descripcion": "Entre todos, reflexionamos sobre las siguientes preguntas. Escuchamos las opiniones de nuestros companeros y companeras y permitimos que hable quien lo desee: a. Cuales son los estereotipos o ideas mas comunes sobre las poblaciones indigenas, afrocolombianas, raizales, mestizas y blancas? b. Estamos de acuerdo con estas ideas o estereotipos? Por qu",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Escribimos en el cuaderno tres conclusiones sobre la actividad anterior",
+              "descripcion": "Escribimos en el cuaderno tres conclusiones sobre la actividad anterior.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 173,
+          "titulo": "Desempeno:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las siguientes imagenes: Organicemos nuestro tiempo! Acti vidades basicas Trabajo con el profesor o",
+              "descripcion": "Observamos las siguientes imagenes: Organicemos nuestro tiempo! Acti vidades basicas Trabajo con el profesor o la profesora B C D E F G H I A 174 Ciencias Sociales 3 Imagen Actividad que se realiza En que horario generalmente se realiza esta actividad? Segun lo que creamos, cuanto tiempo se debe dedicar a esta actividad? A B C D E F G H I",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con base en las imagenes anteriores, dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Con base en las imagenes anteriores, dialogamos sobre las siguientes preguntas: a. Que actividades realiza el nino que aparece en las imagenes anteriores? b. Segun lo que creamos, sera necesario que el nino establezca horarios para realizar cada una de estas actividades? Por que? c. En nuestra opinion, el orden en el que el nino realiza las activid",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "De acuerdo con las imagenes presentadas en el numeral 1, completamos el siguiente cuadro en",
+              "descripcion": "De acuerdo con las imagenes presentadas en el numeral 1, completamos el siguiente cuadro en el cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Identificamos la hora mas adecuada del dia para realizar las siguientes actividades",
+              "descripcion": "Identificamos la hora mas adecuada del dia para realizar las siguientes actividades. Luego, dialogamos sobre las preguntas: a. Los horarios en los que realizamos estas actividades son adecuados? Por que? b. Que consecuencias genera que no realicemos estas actividades en los horarios adecuados? Realizar labores escolares Jugar con mis Almorzar amigo",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leo el siguiente texto: · La hora de entrada a la escuela es a las",
+              "descripcion": "Leo el siguiente texto: · La hora de entrada a la escuela es a las 7:00 de la manana. · Estuvimos de paseo en la epoca de Semana Santa. · Mayo es el mes de la madre. Trabajo individual Ciencias Sociales 3 176",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "De acuerdo con todo lo que lei, respondo en el cuaderno las siguientes preguntas: a",
+              "descripcion": "De acuerdo con todo lo que lei, respondo en el cuaderno las siguientes preguntas: a. Como se puede medir el tiempo? b. Para que me sirve medir el tiempo? c. Segun lo que crea, que ocurre si no aprovecho bien el tiempo?",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "En el cuaderno, elaboro un corto texto sobre el tiempo que empleo para realizar las",
+              "descripcion": "En el cuaderno, elaboro un corto texto sobre el tiempo que empleo para realizar las siguientes actividades: Compartir con mis familiares. Realizar las Actividades de aplicacion de las Guias de Aprendizaje. Jugar con mis amigos y amigas. Practicar mi deporte favorito. Leer cuentos, historietas u otros textos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leo la siguiente informacion: Por que es importante organizar el tiempo? Es importante establecer determinados",
+              "descripcion": "Leo la siguiente informacion: Por que es importante organizar el tiempo? Es importante establecer determinados momentos del dia para realizar nuestras actividades estudiantiles, familiares, deportivas y recreativas, es decir, aquellas que nos divierten. Asi, realizaremos estas actividades de manera organizada y aprovecharemos nuestro tiempo. Podemo",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Con base en la informacion anterior, respondo las siguientes preguntas en el cuaderno: a",
+              "descripcion": "Con base en la informacion anterior, respondo las siguientes preguntas en el cuaderno: a. Que es organizar el tiempo? b. Por que es importante organizar mi tiempo? c. Que acciones puedo realizar para organizar mi tiempo de manera adecuada?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "En el cuaderno, completo el siguiente cuadro:",
+              "descripcion": "En el cuaderno, completo el siguiente cuadro:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Elaboro en el cuaderno un texto corto sobre la importancia de organizar mi tiempo y",
+              "descripcion": "Elaboro en el cuaderno un texto corto sobre la importancia de organizar mi tiempo y de realizar las actividades que mas me gustan.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Comparo mi trabajo con el de otro companero o companera",
+              "descripcion": "Comparo mi trabajo con el de otro companero o companera. Si es necesario, lo complemento.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 183,
+          "titulo": "Desempeno:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos la siguiente ilustracion y dialogamos sobre las preguntas: Recorramos algunos periodos de la Historia!",
+              "descripcion": "Observamos la siguiente ilustracion y dialogamos sobre las preguntas: Recorramos algunos periodos de la Historia! a. Que hacen las personas de la ilustracion anterior? b. Como estan vestidas? c. Que epoca de la Historia representan? Por que? 184 Ciencias Sociales 3",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comparamos la forma de vestir y las actividades que realizan las personas de la ilustracion",
+              "descripcion": "Comparamos la forma de vestir y las actividades que realizan las personas de la ilustracion del numeral anterior con la forma de vida de las personas actualmente. En el cuaderno, escribimos en que se parecen y en que se diferencian.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Por turnos, leemos atentamente la siguiente informacion: Las edades de la Historia Con frecuencia nos",
+              "descripcion": "Por turnos, leemos atentamente la siguiente informacion: Las edades de la Historia Con frecuencia nos preguntamos como eramos cuando nacimos, cuando teniamos un ano y cuando empezamos a caminar y a hablar. Seguramente nuestros padres y madres nos lo han contado y nos han dicho lo mucho que hemos cambiado desde que eramos bebes. De la misma manera, ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Completamos en el cuaderno el siguiente esquema de los periodos de la Historia:",
+              "descripcion": "Completamos en el cuaderno el siguiente esquema de los periodos de la Historia:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con base en lo estudiado en esta guia, completo la siguiente linea de tiempo en",
+              "descripcion": "Con base en lo estudiado en esta guia, completo la siguiente linea de tiempo en el cuaderno. Me guio por las indicaciones que se presentan: Igualmente, se produjo el mestizaje; se difundio el idioma espanol; se construyeron centros educativos fundados por las comunidades religiosas; se produjo el movimiento de los comuneros, y se creo un gobierno i",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribimos en el cuaderno las conclusiones a las cuales llegamos",
+              "descripcion": "Escribimos en el cuaderno las conclusiones a las cuales llegamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Comparo mi trabajo con el de mis companeros y companeras",
+              "descripcion": "Comparo mi trabajo con el de mis companeros y companeras. Si es necesario, lo complemento. Acti vidades de practica Trabajo con la profesora o el profesor Presento mi trabajo al profesor o a la profesora. Unidad 4, Guia 20 195",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Reflexionamos sobre el texto anterior",
+              "descripcion": "Reflexionamos sobre el texto anterior. Pensamos si hemos ofendido a nuestros companeros o companeras mediante palabras o acciones. Escribimos un compromiso para ser cada dia mas amables y mejores seres humanos. Lo depositamos en el Buzon de compromisos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leemos con atencion el siguiente texto: Trabajo con la profesora o el profesor Trabajo en",
+              "descripcion": "Leemos con atencion el siguiente texto: Trabajo con la profesora o el profesor Trabajo en equipo Trabajo individual Unidad 4, Guia 21 199 Por haber nacido en Santafe de Bogota fue discriminado como un criollo hijo de espanoles y considerado como un manchado de la tierra o “americano”. Fue despreciado por los espanoles, en especial, debido a sus cri",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 196,
+          "titulo": "Desempeno:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos la siguiente informacion atentamente: La Independencia de Colombia se inicia con la lucha de",
+              "descripcion": "Leemos la siguiente informacion atentamente: La Independencia de Colombia se inicia con la lucha de los comuneros en el ano 1781. Para los espanoles, los comuneros representaban un movimiento popular de protestas sociales. El 16 de Marzo de 1781 la heroina Manuela Beltran arranco el edicto con los nuevos impuestos. El pueblo se amotino gritando “Vi",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En la biblioteca o Internet, consultamos el significado de palabras como “comuneros”, “capitulaciones”, “impuestos”, “edicto”",
+              "descripcion": "En la biblioteca o Internet, consultamos el significado de palabras como “comuneros”, “capitulaciones”, “impuestos”, “edicto” y otras palabras que desconozcamos. En el cuaderno, escribimos la informacion mas importante.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Teniendo en cuenta las actividades realizadas en los numerales 1 y 2, dialogamos sobre las",
+              "descripcion": "Teniendo en cuenta las actividades realizadas en los numerales 1 y 2, dialogamos sobre las siguientes preguntas: a. Que representaban los comuneros para los espanoles? b. Con que movimiento se inicia la independencia de Colombia? c. Que causas motivaron el movimiento comunero en el Socorro el 16 de marzo de 1781? d. Que papel desempeno Manuela Belt",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos y escribimos en el cuaderno el siguiente mensaje: El comunero Jose Antonio Galan, campesino",
+              "descripcion": "Leemos y escribimos en el cuaderno el siguiente mensaje: El comunero Jose Antonio Galan, campesino mestizo nacido en Charala, se convirtio en lider e incito a los pueblos de Villeta, Guaduas, Honda, Ambalema, Mariquita y Neiva contra las autoridades espanolas. En su discurso, decia: “La tierra es para quien la trabaje, se acabo la esclavitud”. Los ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Realizo uno de los siguientes dibujos en mi cuaderno: a",
+              "descripcion": "Realizo uno de los siguientes dibujos en mi cuaderno: a. Movimiento de los comuneros en el Socorro el 16 de Marzo de 1781. b. Manuela Beltran rompiendo el edicto de los nuevos impuestos. c. Jose Antonio Galan repartiendo tierras entre los campesinos y las campesinas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Presento a mis companeros y companeras el dibujo que realice",
+              "descripcion": "Presento a mis companeros y companeras el dibujo que realice. Conozcamos quien fue Antonio Narino Antonio Narino nacio en Santafe de Bogota el 9 de Abril de 1765. Fue hijo de los espanoles Vicente de Narino y Vazquez y Catalina Alvarez del Casal. En el ano 1784, se caso con Magdalena Ortega y Mesa, con quien tuvo seis hijos: Gregorio, Francisco, An",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Comentamos y respondemos en el cuaderno las siguientes preguntas: a",
+              "descripcion": "Comentamos y respondemos en el cuaderno las siguientes preguntas: a. Cuales de los dibujos que hicimos representan algun grado de injusticia y por que? b. Por que Manuela Beltran rompio los edictos? c. Por que fue importante el movimiento de los comuneros para la independencia de Colombia?",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En la biblioteca o Internet, consultamos lo siguiente: a",
+              "descripcion": "En la biblioteca o Internet, consultamos lo siguiente: a. Que significa la palabra \"revolucion\"? b. Como se desarrollo la revolucion de independencia en Colombia? c. Por que el movimiento comunero es considerado como un movimiento precursor de la independencia colombiana?",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leemos con atencion el siguiente texto: Trabajo con la profesora o el profesor Trabajo en",
+              "descripcion": "Leemos con atencion el siguiente texto: Trabajo con la profesora o el profesor Trabajo en equipo Trabajo individual Unidad 4, Guia 21 199 Por haber nacido en Santafe de Bogota fue discriminado como un criollo hijo de espanoles y considerado como un manchado de la tierra o “americano”. Fue despreciado por los espanoles, en especial, debido a sus cri",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Respondemos las siguientes preguntas: a",
+              "descripcion": "Respondemos las siguientes preguntas: a. Quien fue Antonio Narino? Por que es conocido como el promotor o precursor de los derechos humanos en America? b. Cuales son los derechos fundamentales publicados por Antonio Narino? c. Por que encarcelaron a Antonio Narino? d. En donde y en que ano murio Antonio Narino? Comentamos nuestro trabajo con la pro",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

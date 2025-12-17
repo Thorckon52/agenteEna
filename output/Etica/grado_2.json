@@ -1,0 +1,493 @@
+{
+  "asignatura": "Etica y Valores",
+  "grado": 2,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Yuly Correa Diaz, Diana M. Montoya Rodriguez, Beatriz E. Munoz Toro, Maria C. Ramirez Rincon, Victor M. Velez Carriazo",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "Los estudiantes identifican situaciones de agresión y sus consecuencias.",
+    "Los estudiantes reconocen que las diferencias entre las personas (por características físicas, origen geográfico, grupo étnico,",
+    "Identifica sus rasgos físicos y siente orgullo de ser como es.",
+    "Identifica diferentes formas de agresión.",
+    "Cuida responsablemente su cuerpo, practicando hábitos de higiene y tomando precauciones para evitar accidentes.",
+    "Cuida y valora sus órganos de los sentidos.",
+    "Los estudiantes reconocen sus emociones (especialmente la ira o el enojo) y son capaces de generar comportamientos pacíficos",
+    "Los estudiantes proponen y realizan acciones para evitar agredir o maltratar a sus compañeros.",
+    "Identifica algunas de las situaciones que le causan alegría, tristeza, llanto, ira, etc.",
+    "Realiza acciones para evitar agredir o maltratar a las demás personas."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Me reconozco como persona valiosa",
+      "desempeno_general": "Reconozco mis cualidades y valoro a los demás.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "Así soy yo",
+          "concepto": "Identidad, Autoconocimiento",
+          "desempeno": "Reconozco mis características personales. Expreso cómo soy y cómo me siento.",
+          "ejes_tematicos": [
+            "Identidad",
+            "Autoconocimiento"
+          ],
+          "recursos": [
+            "Hojas blancas",
+            "Colores",
+            "Espejo (opcional)",
+            "Aula organizada en círculo",
+            "Acompañamiento del docente"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Todos somos importantes",
+          "concepto": "Respeto, Valor personal",
+          "desempeno": "Reconozco que todas las personas tienen valor.",
+          "ejes_tematicos": [
+            "Respeto",
+            "Valor personal"
+          ],
+          "recursos": [
+            "Cuentos impresos",
+            "Tarjetas con situaciones",
+            "Espacio amplio"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Reconozco mis emociones",
+          "concepto": "Emociones, Sentimientos",
+          "desempeno": "Identifico emociones propias.",
+          "ejes_tematicos": [
+            "Emociones",
+            "Sentimientos"
+          ],
+          "recursos": [
+            "Láminas con expresiones faciales",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": []
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Convivimos con respeto",
+      "desempeno_general": "Comprendo la importancia de la convivencia respetuosa.",
+      "guias": [
+        {
+          "numero": 4,
+          "titulo": "Normas para convivir mejor",
+          "concepto": "Normas, Convivencia",
+          "desempeno": "Reconozco normas básicas de convivencia.",
+          "ejes_tematicos": [
+            "Normas",
+            "Convivencia"
+          ],
+          "recursos": [
+            "Cartulina",
+            "Marcadores",
+            "Aula organizada en grupo"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Invito a mis familiares a jugar a ser actores y a expresar diferentes emociones mediante",
+              "descripcion": "Invito a mis familiares a jugar a ser actores y a expresar diferentes emociones mediante gestos y movimientos corporales. Podemos utilizar un espejo para ver nuestros gestos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dialogo con mis familiares sobre las siguientes preguntas",
+              "descripcion": "Dialogo con mis familiares sobre las siguientes preguntas. No olvido escribir la informacion mas importante en el cuaderno: • Cuando tengamos emociones dificiles de manejar como la ira, por que es importante controlar nuestras reacciones y comportamientos? • Por que es importante reconocer que todas las personas se pueden equivocar?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la siguiente clase, comparto mi trabajo con los demas companeros y companeras y la",
+              "descripcion": "En la siguiente clase, comparto mi trabajo con los demas companeros y companeras y la profesora o el profesor. C Actividades de Aplicacion Trabajo con mi familia La profesora o el profesor valora mis aprendizajes y registra mi progreso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Digo la verdad! Escribo en el cuaderno las siguientes oraciones y las completo: a",
+              "descripcion": "Digo la verdad! Escribo en el cuaderno las siguientes oraciones y las completo: a. Me siento alegre cuando ! b. Me siento muy triste cuando ! c. Siento rabia cuando !",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Comparto mi trabajo con otro companero y companera",
+              "descripcion": "Comparto mi trabajo con otro companero y companera. Si es necesario, lo complemento. Trabajo individual Presento el trabajo al profesor o a la profesora para que valore mi progreso.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Practicamos el respeto",
+          "concepto": "Respeto, Tolerancia",
+          "desempeno": "Practico el respeto en situaciones cotidianas.",
+          "ejes_tematicos": [
+            "Respeto",
+            "Tolerancia"
+          ],
+          "recursos": [
+            "Tarjetas con roles",
+            "Espacio amplio",
+            "Orientación docente"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Elaboro el siguiente cuadro en mi cuaderno: Como expreso mis emociones? De forma respetuosa De",
+              "descripcion": "Elaboro el siguiente cuadro en mi cuaderno: Como expreso mis emociones? De forma respetuosa De forma irrespetuosa Trabajo con mi familia C Actividades de Aplicacion",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Les pregunto a mis familiares cuales emociones expreso de forma respetuosa y cuales de manera",
+              "descripcion": "Les pregunto a mis familiares cuales emociones expreso de forma respetuosa y cuales de manera irrespetuosa. Les pido ejemplos y con su ayuda completo el cuadro anterior.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En mi cuaderno, escribo un compromiso para expresar adecuadamente las emociones que manifiesto de manera",
+              "descripcion": "En mi cuaderno, escribo un compromiso para expresar adecuadamente las emociones que manifiesto de manera inadecuada.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, comparto mi trabajo con los demas companeros y companeras y la",
+              "descripcion": "En la proxima clase, comparto mi trabajo con los demas companeros y companeras y la profesora o el profesor. La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "En una hoja de block, nos comprometemos a realizar las acciones anteriores para controlar nuestras",
+              "descripcion": "En una hoja de block, nos comprometemos a realizar las acciones anteriores para controlar nuestras emociones. Depositamos la hoja en el Buzon de compromisos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Traemos hojas blancas y colores del Centro de recursos",
+              "descripcion": "Traemos hojas blancas y colores del Centro de recursos. Con estos materiales, salimos al patio de la escuela o colegio y nos sentamos formando un circulo: a. En una hoja, cada uno dibuja una cara feliz. En otra hoja, cada uno elabora una cara triste. Nos guiamos por las siguientes ilustraciones: Trabajo con el profesor o la profesora b. Luego, cada",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Pienso en las emociones de mis companeros y companeras",
+              "descripcion": "Pienso en las emociones de mis companeros y companeras. Luego, realizo lo siguiente: a. Escojo una companera o un companero. Le escribo una carta en la que lo invite a manifestar sus emociones de manera respetuosa. b. Llevo mi carta al Correo de la amistad. Presento el trabajo al profesor o a la profesora para que valore mi progreso. Trabajo indivi",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Solucionamos conflictos dialogando",
+          "concepto": "Diálogo, Resolución de conflictos",
+          "desempeno": "Uso el diálogo para resolver conflictos.",
+          "ejes_tematicos": [
+            "Diálogo",
+            "Resolución de conflictos"
+          ],
+          "recursos": [
+            "Situaciones impresas",
+            "Aula",
+            "Acompañamiento del docente"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la participacion de uno o varios de mis familiares, practico la actividad de los",
+              "descripcion": "Con la participacion de uno o varios de mis familiares, practico la actividad de los abrazos que aprendi en esta guia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Corto una hoja o una cartulina por la mitad y elaboro dos tarjetas, asi: a",
+              "descripcion": "Corto una hoja o una cartulina por la mitad y elaboro dos tarjetas, asi: a. En una tarjeta, le escribo un mensaje a la persona que me demuestra mas amor. b. En la otra tarjeta, le escribo un mensaje a la persona que mas amo. c. Entrego cada tarjeta a la persona correspondiente y le brindo un abrazo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la siguiente clase, comparto mi trabajo con mis companeros y companeras y la profesora",
+              "descripcion": "En la siguiente clase, comparto mi trabajo con mis companeros y companeras y la profesora o el profesor. Presentamos nuestro trabajo al profesor o a la profesora para que valore nuestro progreso. La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso. a. Escribimos el verso, la cancion o hacemos el dibujo en el cua",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Me relaciono con los demás",
+      "desempeno_general": "Fortalezco relaciones basadas en el respeto y la empatía.",
+      "guias": [
+        {
+          "numero": 7,
+          "titulo": "Compartimos con los demás",
+          "concepto": "Cooperación, Amistad",
+          "desempeno": "Practico la cooperación.",
+          "ejes_tematicos": [
+            "Cooperación",
+            "Amistad"
+          ],
+          "recursos": [
+            "Material lúdico",
+            "Espacio abierto"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos con atencion las siguientes imagenes: Desempeno: • Descubro que puedo comunicar muchas cosas mediante",
+              "descripcion": "Observamos con atencion las siguientes imagenes: Desempeno: • Descubro que puedo comunicar muchas cosas mediante mi cuerpo. Mi cuerpo dice muchas cosas",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a. Que hacen los dos ninos y la nina de las imagenes anteriores? b. Que habilidades tienen estas personas? c. Que dificultades tienen estas personas? Como superan sus dificultades? A Actividades Basicas Trabajo con la profesora o el profesor 69",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "La importancia de ayudar",
+          "concepto": "Solidaridad, Ayuda",
+          "desempeno": "Reconozco acciones solidarias.",
+          "ejes_tematicos": [
+            "Solidaridad",
+            "Ayuda"
+          ],
+          "recursos": [
+            "Historias impresas",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento con mis familiares todo lo que podemos expresar con nuestro cuerpo",
+              "descripcion": "Comento con mis familiares todo lo que podemos expresar con nuestro cuerpo. Los invito a representar mediante mimica acciones como bailar, abrazar, sonreir, etc.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dialogo con mis familiares sobre las siguientes preguntas",
+              "descripcion": "Dialogo con mis familiares sobre las siguientes preguntas. No olvido escribir la informacion mas importante en el cuaderno: a. Mientras realizabamos las acciones anteriores, que emociones manifestamos? b. Por que nuestro cuerpo comunica nuestras emociones? c. Como podemos cuidar las partes de nuestro cuerpo?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Escribimos el poema anterior en el cuaderno",
+              "descripcion": "Escribimos el poema anterior en el cuaderno. Nos aprendemos este poema para luego decirlo en voz alta o recitarlo ante los demas companeros y companeras en un centro literario.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Pienso de que manera puedo utilizar mi cuerpo para comunicarles a las demas personas mis",
+              "descripcion": "Pienso de que manera puedo utilizar mi cuerpo para comunicarles a las demas personas mis pensamientos o emociones. Luego, completo la siguiente informacion en el cuaderno. Tengo en cuenta el ejemplo que se presenta: a. La cara comunica sonrisas, gestos de alegria, enojo, amor, indiferencia, etc. b. Las manos comunican . c. Los brazos comunican . d.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Voy a imitar a la naturaleza! Sigo las siguientes instrucciones: a",
+              "descripcion": "Voy a imitar a la naturaleza! Sigo las siguientes instrucciones: a. Escojo un animal o cualquier ser vivo que me llame la atencion. Trabajo individual Vi vo l a e mp at i a Cuando en los centros literarios me comunico con los demas mediante las expresiones de mi cuerpo. 74 Etica y Educacion para la Paz 2 b. Pienso en algunas caracteristicas del ser",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Tratamos bien a los demás",
+          "concepto": "Buen trato, Empatía",
+          "desempeno": "Practico el buen trato.",
+          "ejes_tematicos": [
+            "Buen trato",
+            "Empatía"
+          ],
+          "recursos": [
+            "Tarjetas con situaciones",
+            "Espacio amplio"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la ayuda de un familiar, escribo los nombres de las instituciones que cuidan la",
+              "descripcion": "Con la ayuda de un familiar, escribo los nombres de las instituciones que cuidan la integridad fisica y mental de los ninos y ninas de mi barrio o municipio.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Mediante un dibujo, represento una de las fiestas o celebraciones que hemos realizado en nuestra",
+              "descripcion": "Mediante un dibujo, represento una de las fiestas o celebraciones que hemos realizado en nuestra casa. Explico las emociones que senti durante esta fiesta o celebracion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, comparto mi trabajo con mis companeros y companeras y el profesor",
+              "descripcion": "En la proxima clase, comparto mi trabajo con mis companeros y companeras y el profesor o la profesora. Presentamos nuestro trabajo al profesor o a la profesora para que valore nuestro progreso. La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso. Trabajo en equipo C Actividades de Aplicacion Trabajo con mi famil",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Le pedimos ayuda al Gobierno Estudiantil para organizar una fiesta",
+              "descripcion": "Le pedimos ayuda al Gobierno Estudiantil para organizar una fiesta. Tenemos en cuenta lo siguiente: • Fijamos una fecha para nuestra fiesta. • Programamos actividades que nos ayuden a sentirnos bien fisica y emocionalmente.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Cuidamos nuestro entorno",
+      "desempeno_general": "Reconozco la importancia de cuidar el entorno y a los demás.",
+      "guias": [
+        {
+          "numero": 10,
+          "titulo": "Cuidamos a las personas",
+          "concepto": "Cuidado, Responsabilidad",
+          "desempeno": "Reconozco acciones de cuidado.",
+          "ejes_tematicos": [
+            "Cuidado",
+            "Responsabilidad"
+          ],
+          "recursos": [
+            "Imágenes impresas",
+            "Aula"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento con mis familiares lo que aprendi sobre las caracteristicas de los grupos etnicos que",
+              "descripcion": "Comento con mis familiares lo que aprendi sobre las caracteristicas de los grupos etnicos que habitan nuestro pais. Les pregunto lo siguiente: a. A que grupos etnicos pertenecen los integrantes de nuestra comunidad? b. Cuales son las caracteristicas de estos grupos etnicos? c. Como es el trato y la aceptacion que tenemos con estas personas?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con la ayuda de mis familiares, escribo un compromiso que nos permita valorar los grupos",
+              "descripcion": "Con la ayuda de mis familiares, escribo un compromiso que nos permita valorar los grupos etnicos que conocemos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, presento mi trabajo a la profesora o al profesor",
+              "descripcion": "En la proxima clase, presento mi trabajo a la profesora o al profesor. La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso. Vivamos la paz Cuando aceptamos e integramos de manera amable a los companeros y companeras que vienen de otro lugar y tienen una cultura diferente, estamos construyendo una convivencia pac",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Comentamos: a. Por que son importantes las necesidades que se presentan en el numeral anterior?",
+              "descripcion": "Comentamos: a. Por que son importantes las necesidades que se presentan en el numeral anterior? b. A cuales de estas necesidades les damos mayor importancia en nuestra familia? Por que? c. Ademas de estas necesidades, que otras necesidades tenemos? VivolaempatiaVivo la empatia Cuando un companero o companera me pide que lo ayude a resolver alguna n",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con el dedo indice, relacionamos cada una de las siguientes tres oraciones con la imagen",
+              "descripcion": "Con el dedo indice, relacionamos cada una de las siguientes tres oraciones con la imagen que la representa: • Tengo un lugar donde vivir y compartir con mi familia. (Comentario de nota adhesiva AC Design 10/03/2025 7:55:07 p. m. Tuve que dejar esta distribucion, porque como la planteabas no entraba el texto.) b. • Tengo personas que me quieren y me",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Cuidamos el entorno",
+          "concepto": "Cuidado del entorno",
+          "desempeno": "Practico acciones de cuidado ambiental.",
+          "ejes_tematicos": [
+            "Cuidado del entorno"
+          ],
+          "recursos": [
+            "Cartulina",
+            "Marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la ayuda de un familiar, dibujo las necesidades basicas que tenemos en nuestra familia",
+              "descripcion": "Con la ayuda de un familiar, dibujo las necesidades basicas que tenemos en nuestra familia y escribo la manera como las satisfacemos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pienso en como podemos mejorar la manera en la que cumplimos o satisfacemos nuestras necesidades",
+              "descripcion": "Pienso en como podemos mejorar la manera en la que cumplimos o satisfacemos nuestras necesidades basicas. Escribo dos ideas en el cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos la siguiente situacion: realizan las actividades en parejas que indican las Guias de Aprendizaje",
+              "descripcion": "Leemos la siguiente situacion: realizan las actividades en parejas que indican las Guias de Aprendizaje. A Sara no le gusta compartir sus utiles escolares, los cuales tiene marcados con su nombre. Por su parte, Manuela solo tiene un lapiz pequenito, porque su papa no le ha podido comprar sus utiles para este ano. El lapiz de Manuela esta tan pequen",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Compartimos nuestras opiniones sobre como solucionar las necesidades de Manuela",
+              "descripcion": "Compartimos nuestras opiniones sobre como solucionar las necesidades de Manuela. Sara y Manuela son dos ninas de segundo grado. Ambas son amigas, porque juegan juntas durante el descanso y casi siempre Trabajo en parejas Vivamos la paz Cuando ayudamos y compartimos lo que tenemos con quien lo necesita, estamos contribuyendo a la armonia y a la conv",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En una hoja blanca o en una cartulina, dibujo la silueta de mi mano: a",
+              "descripcion": "En una hoja blanca o en una cartulina, dibujo la silueta de mi mano: a. Con un lapiz, dibujo una linea por el borde de mi mano desde la muneca hasta la parte superior de los dedos. b. Pienso en las cinco necesidades mas importantes que tengo. Escribo cada una de estas necesidades en alguno de los dedos que dibuje. Cuando trabajamos en equipo para s",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Vivimos en paz",
+          "concepto": "Paz, Convivencia",
+          "desempeno": "Practico acciones de paz.",
+          "ejes_tematicos": [
+            "Paz",
+            "Convivencia"
+          ],
+          "recursos": [
+            "Tarjetas de roles",
+            "Espacio amplio"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento con mis familiares lo que aprendi sobre que es vivir dignamente",
+              "descripcion": "Comento con mis familiares lo que aprendi sobre que es vivir dignamente.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con la ayuda de mis familiares, escribo en el cuaderno en cuales momentos de nuestra",
+              "descripcion": "Con la ayuda de mis familiares, escribo en el cuaderno en cuales momentos de nuestra vida familiar practicamos los siguientes valores: Solidaridad Cooperacion Dialogo",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Escribo en mi cuaderno por que los valores anteriores nos permiten tener una vida digna",
+              "descripcion": "Escribo en mi cuaderno por que los valores anteriores nos permiten tener una vida digna.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Hago una lista de las necesidades que satisfacemos diariamente en casa y que nos permiten",
+              "descripcion": "Hago una lista de las necesidades que satisfacemos diariamente en casa y que nos permiten tener una vida digna.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora. La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso. Amistad Sinceridad Responsabilidad C Actividades de Aplicacion Trabajo con mi familia 110 Valoro mis aprendizajes I. Completo las siguientes oraciones",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

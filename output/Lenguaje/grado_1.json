@@ -1,0 +1,2357 @@
+{
+  "asignatura": "Lenguaje",
+  "grado": 1,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Mery Chala Lancheros",
+  "isbn": "978-628-7616-10-3",
+  "derechos_basicos_aprendizaje": [
+    "Enuncia textos orales de diferente índole",
+    "Interpreta diversos textos a partir de",
+    "Reconoce las temáticas presentes en",
+    "Interpreta textos literarios como parte",
+    "Escribe palabras que le permiten",
+    "Reconoce las temáticas presentes",
+    "Reconoce en los textos literarios"
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Me comunico con palabras, imágenes y sonidos",
+      "desempeno_general": "Reconocer y cuidar el cuerpo con habitos saludables,",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "¡Nos comunicamos con palabras!",
+          "concepto": "Comunicación oral, Emisor y receptor",
+          "desempeno": "Expreso ideas y sentimientos de manera oral. Escucho con atención a mis compañeros.",
+          "ejes_tematicos": [
+            "Comunicación oral",
+            "Emisor y receptor"
+          ],
+          "recursos": [
+            "Aula organizada en círculo",
+            "Tarjetas con turnos de palabra",
+            "Espacio tranquilo"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Saco una manita, la hago bailar, Saco la otra mano, la hago bailar, y las",
+              "descripcion": "Saco una manita, la hago bailar, Saco la otra mano, la hago bailar, y las paseo y las paseo. y las paseo haciendo asi. Haciendo ruido y poco ruido, y haciendo ruido y mucho ruido, AOeaoaEaOEoAoEoeOaAUnidadUnidad GuiaGuia 172.2. Seguimos con el dedo el camino que lleva cada animal a su casa. 3.3. Inventamos otros caminos y los seguimos con el dedo. ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Relacionamos las oraciones con los dibujos: Oscar lava sus manos antes de comer",
+              "descripcion": "Relacionamos las oraciones con los dibujos: Oscar lava sus manos antes de comer.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Jugamos a hablar sin palabras",
+              "descripcion": "Jugamos a hablar sin palabras. Pensamos en otras formas de cuidar nuestro cuerpo y las decimos con gestos. 1 6 Oscar cepilla sus dientes despues de comer. Oscar se alimenta sanamente. A O ea oa Ea O Eo Ao Eo eO aA Unidad Guia 23 Oscar cuida sus ojos. olla oso pina oveja",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Decimos en voz alta el sonido /o/",
+              "descripcion": "Decimos en voz alta el sonido /o/. Con el dedo indice seguimos las flechas para escribir esta vocal. O o 1 6 Ea EoAoEoeOaAUnidadUnidad GuiaGuia 24Hagodeporte!Hago deporte! practicar baloncesto con sus amigos y amigas. Ella siempre esta sana y fuerte. Un dia, durante un partido de baloncesto, una companera la empujo y la hizo caer al piso. Su compan",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Observamos los dibujos y senalamos los objetos cuyo nombre empieza por el sonido /o/",
+              "descripcion": "Observamos los dibujos y senalamos los objetos cuyo nombre empieza por el sonido /o/.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Los sonidos también comunican",
+          "concepto": "Sonido, Ruido, Silencio",
+          "desempeno": "Reconozco sonidos del entorno. Diferencio sonidos fuertes y suaves.",
+          "ejes_tematicos": [
+            "Sonido",
+            "Ruido",
+            "Silencio"
+          ],
+          "recursos": [
+            "Grabaciones de sonidos",
+            "Objetos del entorno",
+            "Reproductor de audio"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Me expreso con gestos y movimientos",
+          "concepto": "Comunicación no verbal, Gestos y expresiones",
+          "desempeno": "Utilizo gestos para comunicar emociones. Interpreto gestos de otros.",
+          "ejes_tematicos": [
+            "Comunicación no verbal",
+            "Gestos y expresiones"
+          ],
+          "recursos": [
+            "Tarjetas con emociones",
+            "Espacio amplio"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa",
+              "descripcion": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa Eo aA Unidad 3 Guia 25 64 A O ea oa Ea O Eo Ao Eo eO aA 65 Unidad Guia",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Decimos en voz alta el sonido /n/",
+              "descripcion": "Decimos en voz alta el sonido /n/. Seguimos con el dedo las flechas para escribir la letra n (ene).",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pronunciamos el sonido /k/",
+              "descripcion": "Pronunciamos el sonido /k/. Con el dedo seguimos las flechas para escribir la letra k (ka). K Ki e come iwi. iwi",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Relacionamos los dibujos con las palabras",
+              "descripcion": "Relacionamos los dibujos con las palabras. Leemos varias veces estas palabras. oala arao e arate 2 22 A OeaoaEaOEoAoEoeOaA58UnidadUnidad GuiaGuia Dibujo: ilustrar el poema. Mediviertoconlamusica!Me divierto con la musica!23231.1. Escuchamos o leemos el poema: NicolasNicolas Tengo un nino chiquitin que se llama Nicolas, si lo quieres conocer, anda a",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Las imágenes cuentan historias",
+          "concepto": "Imagen, Narración oral",
+          "desempeno": "Interpreto imágenes. Relato oralmente lo que observo.",
+          "ejes_tematicos": [
+            "Imagen",
+            "Narración oral"
+          ],
+          "recursos": [
+            "Láminas ilustradas",
+            "Cuaderno",
+            "Colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa",
+              "descripcion": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa Eo aA Unidad 3 Guia 25 64 A O ea oa Ea O Eo Ao Eo eO aA 65 Unidad Guia",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Decimos en voz alta el sonido /n/",
+              "descripcion": "Decimos en voz alta el sonido /n/. Seguimos con el dedo las flechas para escribir la letra n (ene).",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pronunciamos el sonido /k/",
+              "descripcion": "Pronunciamos el sonido /k/. Con el dedo seguimos las flechas para escribir la letra k (ka). K Ki e come iwi. iwi",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Relacionamos los dibujos con las palabras",
+              "descripcion": "Relacionamos los dibujos con las palabras. Leemos varias veces estas palabras. oala arao e arate 2 22 A OeaoaEaOEoAoEoeOaA58UnidadUnidad GuiaGuia Dibujo: ilustrar el poema. Mediviertoconlamusica!Me divierto con la musica!23231.1. Escuchamos o leemos el poema: NicolasNicolas Tengo un nino chiquitin que se llama Nicolas, si lo quieres conocer, anda a",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Las letras están en todas partes",
+          "concepto": "Letras, Nombre propio",
+          "desempeno": "Identifico letras en mi entorno. Reconozco mi nombre escrito.",
+          "ejes_tematicos": [
+            "Letras",
+            "Nombre propio"
+          ],
+          "recursos": [
+            "Carteles con letras",
+            "Tarjetas con nombres",
+            "Cuaderno"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa",
+              "descripcion": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa Eo aA Unidad 3 Guia 25 64 A O ea oa Ea O Eo Ao Eo eO aA 65 Unidad Guia",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Decimos en voz alta el sonido /n/",
+              "descripcion": "Decimos en voz alta el sonido /n/. Seguimos con el dedo las flechas para escribir la letra n (ene).",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pronunciamos el sonido /k/",
+              "descripcion": "Pronunciamos el sonido /k/. Con el dedo seguimos las flechas para escribir la letra k (ka). K Ki e come iwi. iwi",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Relacionamos los dibujos con las palabras",
+              "descripcion": "Relacionamos los dibujos con las palabras. Leemos varias veces estas palabras. oala arao e arate 2 22 A OeaoaEaOEoAoEoeOaA58UnidadUnidad GuiaGuia Dibujo: ilustrar el poema. Mediviertoconlamusica!Me divierto con la musica!23231.1. Escuchamos o leemos el poema: NicolasNicolas Tengo un nino chiquitin que se llama Nicolas, si lo quieres conocer, anda a",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Jugamos con las letras",
+          "concepto": "Vocales, Sonido inicial",
+          "desempeno": "Reconozco vocales. Pronuncio sonidos vocálicos.",
+          "ejes_tematicos": [
+            "Vocales",
+            "Sonido inicial"
+          ],
+          "recursos": [
+            "Canciones infantiles",
+            "Tarjetas con imágenes",
+            "Reproductor de audio"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa",
+              "descripcion": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa Eo aA Unidad 3 Guia 25 64 A O ea oa Ea O Eo Ao Eo eO aA 65 Unidad Guia",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Decimos en voz alta el sonido /n/",
+              "descripcion": "Decimos en voz alta el sonido /n/. Seguimos con el dedo las flechas para escribir la letra n (ene).",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pronunciamos el sonido /k/",
+              "descripcion": "Pronunciamos el sonido /k/. Con el dedo seguimos las flechas para escribir la letra k (ka). K Ki e come iwi. iwi",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Relacionamos los dibujos con las palabras",
+              "descripcion": "Relacionamos los dibujos con las palabras. Leemos varias veces estas palabras. oala arao e arate 2 22 A OeaoaEaOEoAoEoeOaA58UnidadUnidad GuiaGuia Dibujo: ilustrar el poema. Mediviertoconlamusica!Me divierto con la musica!23231.1. Escuchamos o leemos el poema: NicolasNicolas Tengo un nino chiquitin que se llama Nicolas, si lo quieres conocer, anda a",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Escucho y reconozco palabras",
+          "concepto": "Palabra, Sonido inicial",
+          "desempeno": "Identifico palabras en oraciones orales. Reconozco sonidos iniciales.",
+          "ejes_tematicos": [
+            "Palabra",
+            "Sonido inicial"
+          ],
+          "recursos": [
+            "Tarjetas con imágenes",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa",
+              "descripcion": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa Eo aA Unidad 3 Guia 25 64 A O ea oa Ea O Eo Ao Eo eO aA 65 Unidad Guia",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Decimos en voz alta el sonido /n/",
+              "descripcion": "Decimos en voz alta el sonido /n/. Seguimos con el dedo las flechas para escribir la letra n (ene).",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Identificamos otra forma de representar el sonido /k k/, la Ce a, o u",
+              "descripcion": "Identificamos otra forma de representar el sonido /k k/, la Ce a, o u. Ce con las vocales a o, y u AOeaoaEaOEoAoEoeOaA C c Nicolas come coco. ca co cu",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Relacionamos los dibujos con las palabras",
+              "descripcion": "Relacionamos los dibujos con las palabras. Leemos varias veces estas palabras. oala arao e arate 2 22 A OeaoaEaOEoAoEoeOaA58UnidadUnidad GuiaGuia Dibujo: ilustrar el poema. Mediviertoconlamusica!Me divierto con la musica!23231.1. Escuchamos o leemos el poema: NicolasNicolas Tengo un nino chiquitin que se llama Nicolas, si lo quieres conocer, anda a",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Leo imágenes y palabras",
+          "concepto": "Imagen, Palabra escrita",
+          "desempeno": "Relaciono imágenes con palabras. Comprendo mensajes simples.",
+          "ejes_tematicos": [
+            "Imagen",
+            "Palabra escrita"
+          ],
+          "recursos": [
+            "Carteles ilustrados",
+            "Cuaderno",
+            "Colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa",
+              "descripcion": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa Eo aA Unidad 3 Guia 25 64 A O ea oa Ea O Eo Ao Eo eO aA 65 Unidad Guia",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Decimos en voz alta el sonido /n/",
+              "descripcion": "Decimos en voz alta el sonido /n/. Seguimos con el dedo las flechas para escribir la letra n (ene).",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Identificamos otra forma de representar el sonido /k k/, la Ce a, o u",
+              "descripcion": "Identificamos otra forma de representar el sonido /k k/, la Ce a, o u. Ce con las vocales a o, y u AOeaoaEaOEoAoEoeOaA C c Nicolas come coco. ca co cu",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Relacionamos los dibujos con las palabras",
+              "descripcion": "Relacionamos los dibujos con las palabras. Leemos varias veces estas palabras. oala arao e arate 2 22 A OeaoaEaOEoAoEoeOaA58UnidadUnidad GuiaGuia Dibujo: ilustrar el poema. Mediviertoconlamusica!Me divierto con la musica!23231.1. Escuchamos o leemos el poema: NicolasNicolas Tengo un nino chiquitin que se llama Nicolas, si lo quieres conocer, anda a",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Escuchar también es aprender",
+          "concepto": "Escucha activa, Comprensión oral",
+          "desempeno": "Escucho atentamente cuentos. Respondo preguntas sencillas.",
+          "ejes_tematicos": [
+            "Escucha activa",
+            "Comprensión oral"
+          ],
+          "recursos": [
+            "Libro de cuentos",
+            "Espacio de lectura"
+          ],
+          "actividades": [
+            {
+              "numero": 2,
+              "titulo": "Decimos en voz alta el sonido /p p/",
+              "descripcion": "Decimos en voz alta el sonido /p p/. Seguimos con el dedo las flechas para escribir esta letra llamada pe. AOeaoaEaOEoAoEoeOaA P Pepe baila con su perro Pipo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Ordenamos las letras que estan en los circulos de colores y descubrimos las palabras",
+              "descripcion": "Ordenamos las letras que estan en los circulos de colores y descubrimos las palabras. p o p r p i o Pe r Pe e",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Los cuentos me cuentan historias",
+          "concepto": "Cuento, Personajes",
+          "desempeno": "Identifico personajes y acciones. Relato oralmente un cuento.",
+          "ejes_tematicos": [
+            "Cuento",
+            "Personajes"
+          ],
+          "recursos": [
+            "Cuentos ilustrados",
+            "Disfraces simples (opcional)"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Tomas toma precauciones Tomas es un nino muy cuidadoso",
+              "descripcion": "Leemos el siguiente texto: Tomas toma precauciones Tomas es un nino muy cuidadoso. Siempre toma precauciones para evitar accidentes. Cuando sale tiene cuidado al cruzar la calle. Ve a los dos lados. Ve el semaforo. Espera que cambie el semaforo. Espera que se detengan los carros. Usa los pasos peatonales. Ve las senales: alto, solo bicicletas, zona",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comentamos cuales vocales tiene la palabra mariposa",
+              "descripcion": "Comentamos cuales vocales tiene la palabra mariposa.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Decimos en voz alta el sonido /d/",
+              "descripcion": "Decimos en voz alta el sonido /d/. Seguimos con el dedo las flechas para escribir la letra d (de).",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Senalamos los dibujos que tienen en su nombre el sonido /d/",
+              "descripcion": "Senalamos los dibujos que tienen en su nombre el sonido /d/. 1 11 12 Mecuidoyevitoaccidentes!Me cuido y evito accidentes! EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Comprendo lo que escucho",
+          "concepto": "Comprensión, Opinión",
+          "desempeno": "Respondo preguntas sobre textos orales. Expreso ideas sobre lo escuchado.",
+          "ejes_tematicos": [
+            "Comprensión",
+            "Opinión"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa",
+              "descripcion": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa Eo aA Unidad 3 Guia 25 64 A O ea oa Ea O Eo Ao Eo eO aA 65 Unidad Guia",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Decimos en voz alta el sonido /n/",
+              "descripcion": "Decimos en voz alta el sonido /n/. Seguimos con el dedo las flechas para escribir la letra n (ene).",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Identificamos otra forma de representar el sonido /k k/, la Ce a, o u",
+              "descripcion": "Identificamos otra forma de representar el sonido /k k/, la Ce a, o u. Ce con las vocales a o, y u AOeaoaEaOEoAoEoeOaA C c Nicolas come coco. ca co cu",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Senalamos los dibujos de los objetos cuyos nombres tienen el sonido /k k/",
+              "descripcion": "Senalamos los dibujos de los objetos cuyos nombres tienen el sonido /k k/. loro pato conejo cama coco Unidad 2 59Guia 23 oaEaEoAoEoeO60UnidadUnidad GuiaGuiaMediviertoenelcirco!Me divierto en el circo!24241.1. Leemos con atencion el siguiente texto: Ayer mi tio me dio una gran sorpresa. Me mostro las boletas que habia comprado en la taquilla del cir",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Mis primeros trazos",
+          "concepto": "Trazo, Coordinación motriz",
+          "desempeno": "Realizo trazos dirigidos. Coordino mano y vista.",
+          "ejes_tematicos": [
+            "Trazo",
+            "Coordinación motriz"
+          ],
+          "recursos": [
+            "Hojas guía",
+            "Lápices",
+            "Colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos el dibujo y respondemos con la profesora o el profesor: a",
+              "descripcion": "Observamos el dibujo y respondemos con la profesora o el profesor: a. Que hay a la derecha de la mariposa? b. Que hay arriba de la mariposa?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comentamos cuales vocales tiene la palabra mariposa",
+              "descripcion": "Comentamos cuales vocales tiene la palabra mariposa.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos o escuchamos el poema e identificamos los sonidos que hemos estudiado en clase",
+              "descripcion": "Leemos o escuchamos el poema e identificamos los sonidos que hemos estudiado en clase. La mariposa Mariposita multicolor, tu vuelo es suave, no tienes voz? Schisss... (Aura Marina Castro) Unidad 1 Evaluacion 36endido? Unidad 2Unidad 2 AprendoAprendo ymey me diviertodivierto con lascon las personaspersonas Unidad 2Unidad 2 AprendoAprendo ymey me div",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Escribo palabras sencillas",
+          "concepto": "Palabra escrita, Copia",
+          "desempeno": "Copio palabras. Reconozco palabras conocidas.",
+          "ejes_tematicos": [
+            "Palabra escrita",
+            "Copia"
+          ],
+          "recursos": [
+            "Tarjetas con palabras",
+            "Cuaderno"
+          ],
+          "actividades": [
+            {
+              "numero": 2,
+              "titulo": "Decimos en voz alta el sonido /bb/",
+              "descripcion": "Decimos en voz alta el sonido /bb/. Seguimos con el dedo las flechas para escribir la letra llamada be AOeaoaEaOEoAoEoeOaA Beto baila con su abuelita. B b",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Relacionamos los dibujos con las palabras",
+              "descripcion": "Relacionamos los dibujos con las palabras. Senalamos con el dedo la palabra que no tiene la letra b. burro ballena perro",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Expreso ideas con dibujos y palabras",
+          "concepto": "Escritura inicial, Dibujo",
+          "desempeno": "Represento ideas con dibujos. Acompaño dibujos con palabras.",
+          "ejes_tematicos": [
+            "Escritura inicial",
+            "Dibujo"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Colores",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos o escuchamos el siguiente texto: Como era lobito? Lobito era muy bello",
+              "descripcion": "Leemos o escuchamos el siguiente texto: Como era lobito? Lobito era muy bello. Parecia un gatito: peludo, suave y muy carinoso. Mama Luna y papa Sol decidieron ayudarlo al verlo solito. En las mananas, papa Sol lo despertaba sonriendo y, en las noches, mama Luna le ensenaba a aullar para que la llamara si la necesitaba. Asi lobito aprendio a subir ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con el dedo seguimos las flechas para escribir la letra l (ele) (ele)",
+              "descripcion": "Con el dedo seguimos las flechas para escribir la letra l (ele) (ele). Pronunciamos su sonido. AOeaoaEaOEoAoEoeOaA L l La luna ilumina el cielo en la noche.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Identificamos la otra forma de representar el sonido /b/",
+              "descripcion": "Identificamos la otra forma de representar el sonido /b/. Esta letra se llama uve. Seguimos con el dedo las flechas para escribir esta letra.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Relacionamos los dibujos con las palabras y encontramos el nombre del animal que no tiene",
+              "descripcion": "Relacionamos los dibujos con las palabras y encontramos el nombre del animal que no tiene la letra v. El venado es veloz. ave vaca gato vibora V v 2 15 ea oaEaOEoAoeOaA44UnidadUnidad GuiaGuia 1.1. Leemos el texto y observamos el dibujo: Mi amigo Gustavo es alto y delgado. Tiene los ojos negros y la piel morena. El usa el pelo corto y crespo. Es un ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Aprendo y me divierto con mi profe! ..............",
+          "concepto": "",
+          "desempeno": "Guia 13 Valoro mi familia! Guia 14 Me divierto con mis abuelos!",
+          "ejes_tematicos": [
+            "divierto con mi profe!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos",
+              "descripcion": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos. Ellos viajan muy lejos con su imaginacion. Hoy se van en tren al desierto, un lugar muy caliente, donde crecen unas plantas llamadas cactus. Alli se encontraron con mucha gente divertida y misteriosa, hasta una gitana quien les di",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con el dedo seguimos las flechas para escribir las silabas ge y gi",
+              "descripcion": "Con el dedo seguimos las flechas para escribir las silabas ge y gi. Pronunciamos su sonido. La gente viaja con su imaginacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota)",
+              "descripcion": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota). Pronunciamos su sonido. AOeaoaEaOEoAoEoeOaA Jj Juana la jirafa come hojas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las figuras y leemos las silabas para descubrir las palabras",
+              "descripcion": "Observamos las figuras y leemos las silabas para descubrir las palabras. jas ji fa ves rajue ta jo ho Unidad 3 Guia 29 73 30 Viajemosconlaimaginacion!Viajemos con la imaginacion!",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Me divierto con mis amigos!.......................",
+          "concepto": "",
+          "desempeno": "Guia 13 Valoro mi familia! Guia 14 Me divierto con mis abuelos! Guia 15 Aprendo y me divierto con mi profe!",
+          "ejes_tematicos": [
+            "con mis amigos!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos",
+              "descripcion": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos. Ellos viajan muy lejos con su imaginacion. Hoy se van en tren al desierto, un lugar muy caliente, donde crecen unas plantas llamadas cactus. Alli se encontraron con mucha gente divertida y misteriosa, hasta una gitana quien les di",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con el dedo seguimos las flechas para escribir las silabas ge y gi",
+              "descripcion": "Con el dedo seguimos las flechas para escribir las silabas ge y gi. Pronunciamos su sonido. La gente viaja con su imaginacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota)",
+              "descripcion": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota). Pronunciamos su sonido. AOeaoaEaOEoAoEoeOaA Jj Juana la jirafa come hojas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las figuras y leemos las silabas para descubrir las palabras",
+              "descripcion": "Observamos las figuras y leemos las silabas para descubrir las palabras. jas ji fa ves rajue ta jo ho Unidad 3 Guia 29 73 30 Viajemosconlaimaginacion!Viajemos con la imaginacion!",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Descubro el lenguaje escrito",
+      "desempeno_general": "Reconocer y cuidar el cuerpo con habitos saludables,",
+      "guias": [
+        {
+          "numero": 17,
+          "titulo": "Canto con mis amigos! ............................",
+          "concepto": "",
+          "desempeno": "Guia 13 Valoro mi familia! Guia 14 Me divierto con mis abuelos! Guia 15 Aprendo y me divierto con mi profe! Guia 16 Me divierto con mis amigos!",
+          "ejes_tematicos": [
+            "con mis amigos!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos o escuchamos el siguiente texto: Como era lobito? Lobito era muy bello",
+              "descripcion": "Leemos o escuchamos el siguiente texto: Como era lobito? Lobito era muy bello. Parecia un gatito: peludo, suave y muy carinoso. Mama Luna y papa Sol decidieron ayudarlo al verlo solito. En las mananas, papa Sol lo despertaba sonriendo y, en las noches, mama Luna le ensenaba a aullar para que la llamara si la necesitaba. Asi lobito aprendio a subir ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Me divierto escuchando cuentos! ..................",
+          "concepto": "",
+          "desempeno": "Guia 13 Valoro mi familia! Guia 14 Me divierto con mis abuelos! Guia 15 Aprendo y me divierto con mi profe! Guia 16 Me divierto con mis amigos! Guia 17 Canto con mis amigos!",
+          "ejes_tematicos": [
+            "escuchando cuentos!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa",
+              "descripcion": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa Eo aA Unidad 3 Guia 25 64 A O ea oa Ea O Eo Ao Eo eO aA 65 Unidad Guia",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Decimos en voz alta el sonido /n/",
+              "descripcion": "Decimos en voz alta el sonido /n/. Seguimos con el dedo las flechas para escribir la letra n (ene).",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pronunciamos el sonido /k/",
+              "descripcion": "Pronunciamos el sonido /k/. Con el dedo seguimos las flechas para escribir la letra k (ka). K Ki e come iwi. iwi",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Relacionamos los dibujos con las palabras",
+              "descripcion": "Relacionamos los dibujos con las palabras. Leemos varias veces estas palabras. oala arao e arate 2 22 A OeaoaEaOEoAoEoeOaA58UnidadUnidad GuiaGuia Dibujo: ilustrar el poema. Mediviertoconlamusica!Me divierto con la musica!23231.1. Escuchamos o leemos el poema: NicolasNicolas Tengo un nino chiquitin que se llama Nicolas, si lo quieres conocer, anda a",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Aprendo jugando en el parque!.....................",
+          "concepto": "",
+          "desempeno": "Guia 13 Valoro mi familia! Guia 14 Me divierto con mis abuelos! Guia 15 Aprendo y me divierto con mi profe! Guia 16 Me divierto con mis amigos! Guia 17 Canto con mis amigos! Guia 18 Me divierto escuchando cuentos!",
+          "ejes_tematicos": [
+            "en el parque!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos",
+              "descripcion": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos. Ellos viajan muy lejos con su imaginacion. Hoy se van en tren al desierto, un lugar muy caliente, donde crecen unas plantas llamadas cactus. Alli se encontraron con mucha gente divertida y misteriosa, hasta una gitana quien les di",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con el dedo seguimos las flechas para escribir las silabas ge y gi",
+              "descripcion": "Con el dedo seguimos las flechas para escribir las silabas ge y gi. Pronunciamos su sonido. La gente viaja con su imaginacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota)",
+              "descripcion": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota). Pronunciamos su sonido. AOeaoaEaOEoAoEoeOaA Jj Juana la jirafa come hojas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las figuras y leemos las silabas para descubrir las palabras",
+              "descripcion": "Observamos las figuras y leemos las silabas para descubrir las palabras. jas ji fa ves rajue ta jo ho Unidad 3 Guia 29 73 30 Viajemosconlaimaginacion!Viajemos con la imaginacion!",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Aprendo en la granja! ............................",
+          "concepto": "",
+          "desempeno": "Guia 13 Valoro mi familia! Guia 14 Me divierto con mis abuelos! Guia 15 Aprendo y me divierto con mi profe! Guia 16 Me divierto con mis amigos! Guia 17 Canto con mis amigos! Guia 18 Me divierto escuchando cuentos! Guia 19 Aprendo jugando en el parque",
+          "ejes_tematicos": [
+            "en la granja!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos",
+              "descripcion": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos. Ellos viajan muy lejos con su imaginacion. Hoy se van en tren al desierto, un lugar muy caliente, donde crecen unas plantas llamadas cactus. Alli se encontraron con mucha gente divertida y misteriosa, hasta una gitana quien les di",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con el dedo seguimos las flechas para escribir las silabas ge y gi",
+              "descripcion": "Con el dedo seguimos las flechas para escribir las silabas ge y gi. Pronunciamos su sonido. La gente viaja con su imaginacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota)",
+              "descripcion": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota). Pronunciamos su sonido. AOeaoaEaOEoAoEoeOaA Jj Juana la jirafa come hojas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las figuras y leemos las silabas para descubrir las palabras",
+              "descripcion": "Observamos las figuras y leemos las silabas para descubrir las palabras. jas ji fa ves rajue ta jo ho Unidad 3 Guia 29 73 30 Viajemosconlaimaginacion!Viajemos con la imaginacion!",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Aprendo en el zoologico! .........................",
+          "concepto": "",
+          "desempeno": "Guia 13 Valoro mi familia! Guia 14 Me divierto con mis abuelos! Guia 15 Aprendo y me divierto con mi profe! Guia 16 Me divierto con mis amigos! Guia 17 Canto con mis amigos! Guia 18 Me divierto escuchando cuentos! Guia 19 Aprendo jugando en el parque",
+          "ejes_tematicos": [
+            "en el zoologico!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos",
+              "descripcion": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos. Ellos viajan muy lejos con su imaginacion. Hoy se van en tren al desierto, un lugar muy caliente, donde crecen unas plantas llamadas cactus. Alli se encontraron con mucha gente divertida y misteriosa, hasta una gitana quien les di",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con el dedo seguimos las flechas para escribir las silabas ge y gi",
+              "descripcion": "Con el dedo seguimos las flechas para escribir las silabas ge y gi. Pronunciamos su sonido. La gente viaja con su imaginacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota)",
+              "descripcion": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota). Pronunciamos su sonido. AOeaoaEaOEoAoEoeOaA Jj Juana la jirafa come hojas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las figuras y leemos las silabas para descubrir las palabras",
+              "descripcion": "Observamos las figuras y leemos las silabas para descubrir las palabras. jas ji fa ves rajue ta jo ho Unidad 3 Guia 29 73 30 Viajemosconlaimaginacion!Viajemos con la imaginacion!",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Me divierto en mi escuela! .......................",
+          "concepto": "",
+          "desempeno": "Guia 13 Valoro mi familia! Guia 14 Me divierto con mis abuelos! Guia 15 Aprendo y me divierto con mi profe! Guia 16 Me divierto con mis amigos! Guia 17 Canto con mis amigos! Guia 18 Me divierto escuchando cuentos! Guia 19 Aprendo jugando en el parque",
+          "ejes_tematicos": [
+            "en mi escuela!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos",
+              "descripcion": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos. Ellos viajan muy lejos con su imaginacion. Hoy se van en tren al desierto, un lugar muy caliente, donde crecen unas plantas llamadas cactus. Alli se encontraron con mucha gente divertida y misteriosa, hasta una gitana quien les di",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con el dedo seguimos las flechas para escribir las silabas ge y gi",
+              "descripcion": "Con el dedo seguimos las flechas para escribir las silabas ge y gi. Pronunciamos su sonido. La gente viaja con su imaginacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota)",
+              "descripcion": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota). Pronunciamos su sonido. AOeaoaEaOEoAoEoeOaA Jj Juana la jirafa come hojas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las figuras y leemos las silabas para descubrir las palabras",
+              "descripcion": "Observamos las figuras y leemos las silabas para descubrir las palabras. jas ji fa ves rajue ta jo ho Unidad 3 Guia 29 73 30 Viajemosconlaimaginacion!Viajemos con la imaginacion!",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Me divierto con la musica! .......................",
+          "concepto": "",
+          "desempeno": "Guia 13 Valoro mi familia! Guia 14 Me divierto con mis abuelos! Guia 15 Aprendo y me divierto con mi profe! Guia 16 Me divierto con mis amigos! Guia 17 Canto con mis amigos! Guia 18 Me divierto escuchando cuentos! Guia 19 Aprendo jugando en el parque",
+          "ejes_tematicos": [
+            "con la musica!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 4,
+              "titulo": "Decimos en voz alta el sonido /o/",
+              "descripcion": "Decimos en voz alta el sonido /o/. Con el dedo indice seguimos las flechas para escribir esta vocal. O o 1 6 Ea EoAoEoeOaAUnidadUnidad Guia",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Observamos los dibujos y senalamos los objetos cuyo nombre empieza por el sonido /o/",
+              "descripcion": "Observamos los dibujos y senalamos los objetos cuyo nombre empieza por el sonido /o/.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "de Aprendizaje Derechos Básicos cativos auténticos. quecer procesos comuni- comunicación para enri- elementos y roles de Identifico los principales Comunicación Ética de la comunicación no verbal. de algunos sistemas ción que circula a través Comprendo la informa- ción que difunden. y caracterizo la informa- de comunicación masiva Reconozco los medios simbólicos ción y otros sistemas Medios de comunica- tos y finalidades. t C ie o n m e p n r e d n i d fe o r en te te x s t o f s o rm qu Literatura tos y finalidades. t C ie o n m e p n r e d n i d fe o r en te te x s t o f s o rm qu Interpretación textual Comprensión e tivas. necesidades comunica- que responden a diversas Produzco textos escritos cativos. tos propósitos comuni- que responden a distin- Produzco textos orales Producción textual relacionados Estándares la de a e - a e - • Escribe palabras que le permiten • Reconoce las temáticas presentes • Reconoce en los textos literarios de las sílabas que y qui. t A ra p s re n a d va o n z s o o b e r n e e l l o r s e c c o ir n c o o c s i , m m ie i n en to - ca, co y cu. el reconocimiento de las sílabas de poemas, mientras avanzo en Disfruto de la música y la lectura miento de la consonante k. mientras avanzo en el reconoci- Describo actividades o acciones, de la consonante z. tras avanzo en el reconocimiento Describo animales salvajes, mien- miento de las sílabas ce, ci. mientras avanzo en el reconoci- Describo animales domésticos, nante s. e D n e s e c l r r ib e o co lu n g o a ci r m es i , e m nt i o e n d t e ra l s a a c v o a n n s z o o - e n l a n r t e e c o l. nocimiento de la conso- de cuentos, mientras avanzo en Comprendo y disfruto la lectura e g l u r e e , c g o u no i. c imiento de las sílabas musicales, mientras avanzo en Reconozco algunos instrumentos g (ga, go, gu). reconocimiento de la consonante personas, mientras avanzo en el de amistad que tengo con las Reconozco y valoro la relación nante v. el reconocimiento de la conso- o profesora, mientras avanzo en Reconozco y valoro a mi profesor consonante b. avanzo en el reconocimiento de la nas de la tercera edad, mientras Reconozco y valoro a las perso- consonante f. a m v i a li n a z r o a l e q n u e e l r p e e c r o te n n o e c z im co ie , n m t i o e n d t e r a la s Reconozco y valoro el grupo fa- Desempeños comunicar en la escu divierto sus ideas, preferencias los mensajes que escucha, posibilidad de desarrollar en el circo! ¡Me divierto Guía 24 con la música! ¡Me divierto Guía 23 en mi escuela! ¡Me divierto Guía 22 en el zoológico! ¡Aprendo Guía 21 en la granja! ¡Aprendo Guía 20 en el parque! ¡Aprendo jugando Guía 19 ¡ c M ha e n d d i o v i c e u rt e o n tos! Guía 18 con mis amigos! ¡Canto Guía 17 con mis amigos! ¡Me divierto Guía 16 con mi profe! ¡Aprendo y me Guía 15 con mis abuelos! ¡Me divierto Guía 14 ¡Valoro mi familia! Guía 13 Guías su a capacidad partir ciones Diferencias en Sonido Lenguaje Los ciones Diferencias en Sonido La Sonido Descripción La ciones Diferencias Sonido Descripción Animales Sílabas Sonido Descripción Animales Sonido Nociones Descripción Los Sonido Descripción Lectura Sílabas Sonido Descripción Instrumentos Sílabas Sonido Uso Descripción La ciones Diferencias Sonido Los Sonido La Descripción Abuelos Sonido sobrinos, Relaciones Tipos La y aprendizajes. las circos. las música escuela parques de amistad. profesores carta. familia. de la diferenciación creativa y lúdica. k, c (ca, co, cu) y y semejanzas sílabas que y qui. consonántico /K/ corporal y gestual. k y c (ca, co, cu). y semejanzas sílabas ca, co, cu. consonántico /K/ y los poemas. consonántico /K/ de actividades o colegio. s, c (ce, ci) y z. y semejanzas consonántico /s/ de animales. salvajes. ce, ci. consonántico /s/. de animales. domésticos. consonántico /s/. de subir y bajar. de lugares. consonántico /l/. de personajes de cuentos gue, gui. consonántico /g/. de objetos. musicales. ga, go, gu. consonántico /g/. mayúscula en los de personas. b y v. y semejanzas consonántico /b/ y profesoras consonántico /b/ de personas. maternos y paternos. consonántico /f/. primos. de parentesco: de familia. Ejes temáticos de los qu (que, qui). entre las y su representación entre las y su representación y su representación y acciones. entre las y su representación de los cuentos. nombres entre las y su representación y su función. y su representación abuelos, sonidos representa- representa- representa- propios. representa- nietos, que qu c k. z. v. b. tíos, componen las palabras. Plastilina. ces de colores o témperas. circos. Hojas de papel. Lápi- Imágenes y videos sobre los niños. Libro con jeroglíficos para Libro de poemas infantiles. de música para escuchar. Grabadora. Diferentes tipos de papel. Lápices de colores. Calendario. Agenda. Hojas pices de colores o témperas. salvajes. Hojas de papel. Lá- zoológicos y los animales Imágenes y videos sobre los Plastilina. pices de colores o témperas. mésticos. Hojas de papel. Lá- granja y los animales do- Imágenes y videos sobre la subir o bajar. evidencien las nociones de c g o e l n o e re s s o o v t id ém eo p s e ra d s o . nd e Im s á e - Hojas blancas. Lápices de nes de varios personajes. otros tipos de textos. Imáge- Libros de cuentos infantiles y mentos musicales. d d e e os c o o lo i r m es á . ge G n r e a s b a d d e o r i a n . s tr V u i- - gui. Hojas de papel. Lápices Fichas con las sílabas gue, lores. entre amigos. Hojas de co- Alimentos para compartir y con las sílabas ga, go, gu. Fichas con la consonante g las consonantes: b, v. fesores. Fichas comparando bras que nombran a los pro- Fichas con diferentes pala- papel. sonantes: p, b, d. Hojas de chas comparando las con- abuelos: nona, abuela. Fi- labras que nombran a los Fichas con diferentes pa- que se han visto en clases. rentesco. Fichas con sílabas palabras que indiquen pa- tipos de familias. Fichas con Fichas o fotos de diferentes Recursos",
+          "concepto": "",
+          "desempeno": "Guia 13 Valoro mi familia! Guia 14 Me divierto con mis abuelos! Guia 15 Aprendo y me divierto con mi profe! Guia 16 Me divierto con mis amigos! Guia 17 Canto con mis amigos! Guia 18 Me divierto escuchando cuentos! Guia 19 Aprendo jugando en el parque",
+          "ejes_tematicos": [
+            "de Derechos Aprendizaje Básicos"
+          ],
+          "recursos": [
+            "cativos quecer comunicación elementos Identifico comunicación de ción Comprendo ción y de Reconozco ción Medios tos tienen Comprendo tos tienen Comprendo Interpretación tivas",
+            "necesidades que Produzco cativos",
+            "tos que Produzco caracterizo Producción auténticos",
+            "procesos Comunicación Ética algunos que que comunicación simbólicos y otros y finalidades",
+            "diferentes Literatura y finalidades",
+            "diferentes Comprensión responden propósitos responden y los circula difunden",
+            "de textos textos para roles principales de no sistemas la la los sistemas comunica- textos textos comunica- a textual comuni- enri- de la verbal",
+            "a través informa- informa- masiva medios forma- que forma- que textual e diversas escritos comuni- a distin- orales la de"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Me alimento de manera saludable! Todas las personas debemos alimentarnos bien",
+              "descripcion": "Leemos el siguiente texto: Me alimento de manera saludable! Todas las personas debemos alimentarnos bien para mantener el cuerpo sano y fuerte. Comer bien no quiere decir que comamos mucho sino que comamos lo que el cuerpo necesita para mantenerse con energia y nos permita movernos, correr, saltar y jugar. Si no nos alimentamos bien, podemos enferm",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observamos los dibujos y decimos cual representa mucho y cual poco",
+              "descripcion": "Observamos los dibujos y decimos cual representa mucho y cual poco.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observo los dibujos de platos de comida y elijo el que representa un almuerzo balanceado",
+              "descripcion": "Observo los dibujos de platos de comida y elijo el que representa un almuerzo balanceado y nutritivo. 1 8 A O ea oa Ea O Eo Ao Eo eO aA Unidad Guia 27 U u Julio come frutas y verduras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Decimos en voz alta el sonido /u/",
+              "descripcion": "Decimos en voz alta el sonido /u/. Seguimos con el dedo las flechas para escribir esta vocal.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Senalamos los alimentos cuyos nombres tienen el sonido /u/",
+              "descripcion": "Senalamos los alimentos cuyos nombres tienen el sonido /u/. Relacionamos los dibujos con las palabras lulo sandia lechuga curuba uva 1 8 A OeaoaEaOEoAoEoeOaAUnidadUnidad GuiaGuia 28991.1. Observamos los dibujos: Antes despues Mariana viste muy bien. Mariana es una nina muy linda de pelo cafe, sonrisa picarona y ojos brillantes. Ella peina su cabell",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Que sabemos del dia y la noche?...................",
+          "concepto": "",
+          "desempeno": "Guia 24: Me divierto en el circo!.",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos",
+              "descripcion": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos. Ellos viajan muy lejos con su imaginacion. Hoy se van en tren al desierto, un lugar muy caliente, donde crecen unas plantas llamadas cactus. Alli se encontraron con mucha gente divertida y misteriosa, hasta una gitana quien les di",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Decimos en voz alta el sonido /n/",
+              "descripcion": "Decimos en voz alta el sonido /n/. Seguimos con el dedo las flechas para escribir la letra n (ene).",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Senalamos los objetos cuyos nombres tienen el sonido /n/",
+              "descripcion": "Senalamos los objetos cuyos nombres tienen el sonido /n/. La luna sale en la noche. N n 3 25 A OeaoaEaOEoAoEoeOaA66UnidadUnidad GuiaGuia 262633 1.1. Observamos el dibujo y decimos sobre que trata la lectura. 2.2. Leemos o escuchamos el siguiente texto: Habia una vez una nina que vivia en una cabana cerca a las montanas. Se acercaba su cumpleanos y ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las figuras y leemos las silabas para descubrir las palabras",
+              "descripcion": "Observamos las figuras y leemos las silabas para descubrir las palabras. jas ji fa ves rajue ta jo ho Unidad 3 Guia 29 73 30 Viajemosconlaimaginacion!Viajemos con la imaginacion!",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Celebramos durante el dia! .......................",
+          "concepto": "",
+          "desempeno": "Guia 25 Que sabemos del dia y la noche?",
+          "ejes_tematicos": [
+            "durante el dia!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos",
+              "descripcion": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos. Ellos viajan muy lejos con su imaginacion. Hoy se van en tren al desierto, un lugar muy caliente, donde crecen unas plantas llamadas cactus. Alli se encontraron con mucha gente divertida y misteriosa, hasta una gitana quien les di",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con el dedo seguimos las flechas para escribir las silabas ge y gi",
+              "descripcion": "Con el dedo seguimos las flechas para escribir las silabas ge y gi. Pronunciamos su sonido. La gente viaja con su imaginacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota)",
+              "descripcion": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota). Pronunciamos su sonido. AOeaoaEaOEoAoEoeOaA Jj Juana la jirafa come hojas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las figuras y leemos las silabas para descubrir las palabras",
+              "descripcion": "Observamos las figuras y leemos las silabas para descubrir las palabras. jas ji fa ves rajue ta jo ho Unidad 3 Guia 29 73 30 Viajemosconlaimaginacion!Viajemos con la imaginacion!",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Conozco la noche!. ...............................",
+          "concepto": "",
+          "desempeno": "Guia 25 Que sabemos del dia y la noche? Guia 26 Celebramos durante el dia!",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos",
+              "descripcion": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos. Ellos viajan muy lejos con su imaginacion. Hoy se van en tren al desierto, un lugar muy caliente, donde crecen unas plantas llamadas cactus. Alli se encontraron con mucha gente divertida y misteriosa, hasta una gitana quien les di",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con el dedo seguimos las flechas para escribir las silabas ge y gi",
+              "descripcion": "Con el dedo seguimos las flechas para escribir las silabas ge y gi. Pronunciamos su sonido. La gente viaja con su imaginacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota)",
+              "descripcion": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota). Pronunciamos su sonido. AOeaoaEaOEoAoEoeOaA Jj Juana la jirafa come hojas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las figuras y leemos las silabas para descubrir las palabras",
+              "descripcion": "Observamos las figuras y leemos las silabas para descubrir las palabras. jas ji fa ves rajue ta jo ho Unidad 3 Guia 29 73 30 Viajemosconlaimaginacion!Viajemos con la imaginacion!",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Conozco el dia!...................................",
+          "concepto": "",
+          "desempeno": "Guia 25 Que sabemos del dia y la noche? Guia 26 Celebramos durante el dia! Guia 27 Conozco la noche!",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 3,
+              "titulo": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota)",
+              "descripcion": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota). Pronunciamos su sonido. AOeaoaEaOEoAoEoeOaA Jj Juana la jirafa come hojas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las figuras y leemos las silabas para descubrir las palabras",
+              "descripcion": "Observamos las figuras y leemos las silabas para descubrir las palabras. jas ji fa ves rajue ta jo ho",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 29,
+          "titulo": "Que sabemos sobre los animales salvajes?..........",
+          "concepto": "",
+          "desempeno": "Guia 25 Que sabemos del dia y la noche? Guia 26 Celebramos durante el dia! Guia 27 Conozco la noche! Guia 28 Conozco el dia!",
+          "ejes_tematicos": [
+            "sobre los animales",
+            "salvajes?"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos",
+              "descripcion": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos. Ellos viajan muy lejos con su imaginacion. Hoy se van en tren al desierto, un lugar muy caliente, donde crecen unas plantas llamadas cactus. Alli se encontraron con mucha gente divertida y misteriosa, hasta una gitana quien les di",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con el dedo seguimos las flechas para escribir las silabas ge y gi",
+              "descripcion": "Con el dedo seguimos las flechas para escribir las silabas ge y gi. Pronunciamos su sonido. La gente viaja con su imaginacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Relacionamos los dibujos con las silabas ge y gi",
+              "descripcion": "Relacionamos los dibujos con las silabas ge y gi. gi ge ge gi COLEGIO 3 30 A OeaoaEaOEoAoEoeOaA76UnidadUnidad GuiaGuia 31311.1. Observamos los dibujos: 2.2. Relacionamos los dibujos con las siguientes oraciones: ·· La familia Perez ve television. ·· Sara y su papa leen el periodico. ·· Karen hace su tarea. ·· Mario escucha su emisora favorita. Apre",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos y senalamos las palabras que se escriben con w",
+              "descripcion": "Leemos y senalamos las palabras que se escriben con w. hueco Wilson wayuu Kiwi hueso agua Unidad 3 87Guia 36 AOeaoaEaOEoAoEoeOaAAOeaoaEaOEoAoEoeOaA 88UnidadUnidad EvaluacionEvaluacion Aprendido?Aprendido? Cuanto heCuanto he33 Aprendido?Aprendido? Cuanto heCuanto he 1.1. Observamos los dibujos y los relacionamos con las oraciones: 2.2. Ubicamos elem",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 30,
+          "titulo": "Viajemos con la imaginacion! .....................",
+          "concepto": "",
+          "desempeno": "Guia 25 Que sabemos del dia y la noche? Guia 26 Celebramos durante el dia! Guia 27 Conozco la noche! Guia 28 Conozco el dia! Guia 29 Que sabemos sobre los animales salvajes?",
+          "ejes_tematicos": [
+            "imaginacion!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos",
+              "descripcion": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos. Ellos viajan muy lejos con su imaginacion. Hoy se van en tren al desierto, un lugar muy caliente, donde crecen unas plantas llamadas cactus. Alli se encontraron con mucha gente divertida y misteriosa, hasta una gitana quien les di",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con el dedo seguimos las flechas para escribir las silabas ge y gi",
+              "descripcion": "Con el dedo seguimos las flechas para escribir las silabas ge y gi. Pronunciamos su sonido. La gente viaja con su imaginacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota)",
+              "descripcion": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota). Pronunciamos su sonido. AOeaoaEaOEoAoEoeOaA Jj Juana la jirafa come hojas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las figuras y leemos las silabas para descubrir las palabras",
+              "descripcion": "Observamos las figuras y leemos las silabas para descubrir las palabras. jas ji fa ves rajue ta jo ho Unidad 3 Guia 29 73 30 Viajemosconlaimaginacion!Viajemos con la imaginacion!",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 31,
+          "titulo": "Aprendo de los medios de comunicacion!............",
+          "concepto": "",
+          "desempeno": "Guia 25 Que sabemos del dia y la noche? Guia 26 Celebramos durante el dia! Guia 27 Conozco la noche! Guia 28 Conozco el dia! Guia 29 Que sabemos sobre los animales salvajes? Guia 30 Viajemos con la imaginacion!",
+          "ejes_tematicos": [
+            "los medios de",
+            "comunicacion!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos",
+              "descripcion": "Leemos y escuchamos el siguiente texto: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA German, Gilberto, Angela y Angelica son amigos. Ellos viajan muy lejos con su imaginacion. Hoy se van en tren al desierto, un lugar muy caliente, donde crecen unas plantas llamadas cactus. Alli se encontraron con mucha gente divertida y misteriosa, hasta una gitana quien les di",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con el dedo seguimos las flechas para escribir las silabas ge y gi",
+              "descripcion": "Con el dedo seguimos las flechas para escribir las silabas ge y gi. Pronunciamos su sonido. La gente viaja con su imaginacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota)",
+              "descripcion": "Con el dedo seguimos las flechas para escribir la letra j (jota) (jota). Pronunciamos su sonido. AOeaoaEaOEoAoEoeOaA Jj Juana la jirafa come hojas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las figuras y leemos las silabas para descubrir las palabras",
+              "descripcion": "Observamos las figuras y leemos las silabas para descubrir las palabras. jas ji fa ves rajue ta jo ho Unidad 3 Guia 29 73 30 Viajemosconlaimaginacion!Viajemos con la imaginacion!",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 32,
+          "titulo": "Aprendo mas sobre los animales pequenos!..........",
+          "concepto": "",
+          "desempeno": "Guia 25 Que sabemos del dia y la noche? Guia 26 Celebramos durante el dia! Guia 27 Conozco la noche! Guia 28 Conozco el dia! Guia 29 Que sabemos sobre los animales salvajes? Guia 30 Viajemos con la imaginacion! Guia 31 Aprendo de los medios de comuni",
+          "ejes_tematicos": [
+            "sobre los animales",
+            "pequenos!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no",
+              "descripcion": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no nos alcanza para hacer todo lo que queremos. Antes de salir para el colegio siempre nos acordamos de algun cuaderno o una tarea que olvidamos y nos toca devolvernos y llegamos tarde. Todos podemos medir el tiempo y ponernos plazos para hacer determinadas tare",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya",
+              "descripcion": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya. y/. Observamos otra forma de representarlo: la letra y (ye)(ye). y y",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos y leemos algunas palabras que se escriben con y",
+              "descripcion": "Observamos y leemos algunas palabras que se escriben con y. Identificamos cuando suena como /y/ /i/. /y/ y cuando suena como /i/ ReyyaKK leyBuey soy yyucayoyo payaso y Unidad 3 Guia 34 83 EaEoAoEoeOaA Conocemoselparamo?Conocemos el paramo? 1.1. Observamos y comentamos que hacen los ninos y las ninas del dibujo. Alexandra, Alex y sus amigos fueron a",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos y senalamos las palabras que se escriben con w",
+              "descripcion": "Leemos y senalamos las palabras que se escriben con w. hueco Wilson wayuu Kiwi hueso agua Unidad 3 87Guia 36 AOeaoaEaOEoAoEoeOaAAOeaoaEaOEoAoEoeOaA 88UnidadUnidad EvaluacionEvaluacion Aprendido?Aprendido? Cuanto heCuanto he33 Aprendido?Aprendido? Cuanto heCuanto he 1.1. Observamos los dibujos y los relacionamos con las oraciones: 2.2. Ubicamos elem",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Escucho, leo y comprendo",
+      "desempeno_general": "Observar y comprender el entorno,",
+      "guias": [
+        {
+          "numero": 33,
+          "titulo": "Aprendo sobre los animales domesticos!............",
+          "concepto": "",
+          "desempeno": "Guia 25 Que sabemos del dia y la noche? Guia 26 Celebramos durante el dia! Guia 27 Conozco la noche! Guia 28 Conozco el dia! Guia 29 Que sabemos sobre los animales salvajes? Guia 30 Viajemos con la imaginacion! Guia 31 Aprendo de los medios de comuni",
+          "ejes_tematicos": [
+            "los animales",
+            "domesticos!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Tomas toma precauciones Tomas es un nino muy cuidadoso",
+              "descripcion": "Leemos el siguiente texto: Tomas toma precauciones Tomas es un nino muy cuidadoso. Siempre toma precauciones para evitar accidentes. Cuando sale tiene cuidado al cruzar la calle. Ve a los dos lados. Ve el semaforo. Espera que cambie el semaforo. Espera que se detengan los carros. Usa los pasos peatonales. Ve las senales: alto, solo bicicletas, zona",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comentamos cuales vocales tiene la palabra mariposa",
+              "descripcion": "Comentamos cuales vocales tiene la palabra mariposa.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Decimos en voz alta el sonido /d/",
+              "descripcion": "Decimos en voz alta el sonido /d/. Seguimos con el dedo las flechas para escribir la letra d (de).",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Senalamos los dibujos que tienen en su nombre el sonido /d/",
+              "descripcion": "Senalamos los dibujos que tienen en su nombre el sonido /d/. 1 11 12 Mecuidoyevitoaccidentes!Me cuido y evito accidentes! EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 34,
+          "titulo": "Sabemos que es un yak?............................",
+          "concepto": "",
+          "desempeno": "Guia 25 Que sabemos del dia y la noche? Guia 26 Celebramos durante el dia! Guia 27 Conozco la noche! Guia 28 Conozco el dia! Guia 29 Que sabemos sobre los animales salvajes? Guia 30 Viajemos con la imaginacion! Guia 31 Aprendo de los medios de comuni",
+          "ejes_tematicos": [
+            "es un yak?"
+          ],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 35,
+          "titulo": "Conocemos el paramo? .............................",
+          "concepto": "",
+          "desempeno": "Guia 25 Que sabemos del dia y la noche? Guia 26 Celebramos durante el dia! Guia 27 Conozco la noche! Guia 28 Conozco el dia! Guia 29 Que sabemos sobre los animales salvajes? Guia 30 Viajemos con la imaginacion! Guia 31 Aprendo de los medios de comuni",
+          "ejes_tematicos": [
+            "el paramo?"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 3,
+              "titulo": "Seguimos las flechas para escribir la letra w (doble uve)(doble uve)",
+              "descripcion": "Seguimos las flechas para escribir la letra w (doble uve)(doble uve). AOeaoaEaOEoAoEoeOaA W w Los wayuu hablan wayuunaiKi.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos y senalamos las palabras que se escriben con w",
+              "descripcion": "Leemos y senalamos las palabras que se escriben con w. hueco Wilson wayuu Kiwi hueso agua Unidad 3 87",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 36,
+          "titulo": "Conozcamos a los indigenas Wayuu!.................",
+          "concepto": "",
+          "desempeno": "Guia 25 Que sabemos del dia y la noche? Guia 26 Celebramos durante el dia! Guia 27 Conozco la noche! Guia 28 Conozco el dia! Guia 29 Que sabemos sobre los animales salvajes? Guia 30 Viajemos con la imaginacion! Guia 31 Aprendo de los medios de comuni",
+          "ejes_tematicos": [
+            "indigenas Wayuu!"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no",
+              "descripcion": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no nos alcanza para hacer todo lo que queremos. Antes de salir para el colegio siempre nos acordamos de algun cuaderno o una tarea que olvidamos y nos toca devolvernos y llegamos tarde. Todos podemos medir el tiempo y ponernos plazos para hacer determinadas tare",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leemos las siguientes silabas: AOeaoaEaOEoAoEoeOaA gue gui Pinguino 91UnidadUnidad GuiaGuia Los pinguinos viven en el",
+              "descripcion": "Leemos las siguientes silabas: AOeaoaEaOEoAoEoeOaA gue gui Pinguino 91UnidadUnidad GuiaGuia Los pinguinos viven en el sur. 3.3. Relacionamos los dibujos con las palabras. Ciguena Yeguita Unguento 373744 AOeaoaEaOEoAoEoeOaAAOeaoaEaOEoAoEoeOaA 3838Comopodemosmedireltiempo?Como podemos medir el tiempo?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA Pp Debemos cuidar las plantas",
+              "descripcion": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA Pp Debemos cuidar las plantas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos las siguientes silabas y las relacionamos con las palabras: pla ple pli plo plu",
+              "descripcion": "Leemos las siguientes silabas y las relacionamos con las palabras: pla ple pli plo plu disciplina cumpleanos plato platano aplauso diploma plomero pluma",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio",
+              "descripcion": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio y conocer mejor los espacios, ojala que cada sitio tenga carteles con el nombre.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 37,
+          "titulo": "Donde viven los pinguinos?........................",
+          "concepto": "",
+          "desempeno": "Guia 36: Conozcamos a los indigenas Wayuu!.",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no",
+              "descripcion": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no nos alcanza para hacer todo lo que queremos. Antes de salir para el colegio siempre nos acordamos de algun cuaderno o una tarea que olvidamos y nos toca devolvernos y llegamos tarde. Todos podemos medir el tiempo y ponernos plazos para hacer determinadas tare",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya",
+              "descripcion": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya. y/. Observamos otra forma de representarlo: la letra y (ye)(ye). y y",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos y leemos algunas palabras que se escriben con y",
+              "descripcion": "Observamos y leemos algunas palabras que se escriben con y. Identificamos cuando suena como /y/ /i/. /y/ y cuando suena como /i/ ReyyaKK leyBuey soy yyucayoyo payaso y Unidad 3 Guia 34 83 EaEoAoEoeOaA Conocemoselparamo?Conocemos el paramo? 1.1. Observamos y comentamos que hacen los ninos y las ninas del dibujo. Alexandra, Alex y sus amigos fueron a",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos y senalamos las palabras que se escriben con w",
+              "descripcion": "Leemos y senalamos las palabras que se escriben con w. hueco Wilson wayuu Kiwi hueso agua Unidad 3 87Guia 36 AOeaoaEaOEoAoEoeOaAAOeaoaEaOEoAoEoeOaA 88UnidadUnidad EvaluacionEvaluacion Aprendido?Aprendido? Cuanto heCuanto he33 Aprendido?Aprendido? Cuanto heCuanto he 1.1. Observamos los dibujos y los relacionamos con las oraciones: 2.2. Ubicamos elem",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 38,
+          "titulo": "Como podemos medir el tiempo?.....................",
+          "concepto": "",
+          "desempeno": "Guia 37 Donde viven los pinguinos?",
+          "ejes_tematicos": [
+            "medir el tiempo?"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos lo siguiente: Podemos cuidar nuestro planeta haciendo campanas de aseo, sembrando plantas, informando sobre",
+              "descripcion": "Leemos lo siguiente: Podemos cuidar nuestro planeta haciendo campanas de aseo, sembrando plantas, informando sobre los danos que ocasiona la tala de arboles para hacer muebles y papel. Todospodemosaportar,simplementedebemos comprometernos. No hay nada mas lindo que contemplar un paisaje libre de contaminacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Respondemos: a. Por que debemos cuidar los animales y las plantas? b. Que hacemos para",
+              "descripcion": "Respondemos: a. Por que debemos cuidar los animales y las plantas? b. Que hacemos para cuidar los animales y las plantas?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA Pp Debemos cuidar las plantas",
+              "descripcion": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA Pp Debemos cuidar las plantas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos las siguientes silabas y las relacionamos con las palabras: pla ple pli plo plu",
+              "descripcion": "Leemos las siguientes silabas y las relacionamos con las palabras: pla ple pli plo plu disciplina cumpleanos plato platano aplauso diploma plomero pluma",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 39,
+          "titulo": "Como podemos cuidar nuestro entorno?..............",
+          "concepto": "",
+          "desempeno": "Guia 37 Donde viven los pinguinos? Guia 38 Como podemos medir el tiempo?",
+          "ejes_tematicos": [
+            "cuidar nuestro",
+            "entorno?"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 2,
+              "titulo": "Comentamos: a. Que libros nos gusta leer? b. Que libros tenemos? c. Que es una",
+              "descripcion": "Comentamos: a. Que libros nos gusta leer? b. Que libros tenemos? c. Que es una libreria? d. Que es un librero? Los libros nos brindan diversion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos los siguientes titulos de libros y elegimos dos y los leemos en clase: Titulos",
+              "descripcion": "Leemos los siguientes titulos de libros y elegimos dos y los leemos en clase: Titulos de los libros Autores br Thomas de Iriarte La pobre viejecita Rafael Pombo El lobo y los siete cabritos Hermanos Grimm Br La cabray el caballo r El libro de la selva Rudyard Kipling La bruja de la montana Gloria Cecilia Diaz Unidad 4 97",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 40,
+          "titulo": "Cual es la historia de los libros? ...............",
+          "concepto": "",
+          "desempeno": "Guia 37 Donde viven los pinguinos? Guia 38 Como podemos medir el tiempo? Guia 39 Como podemos cuidar nuestro entorno?",
+          "ejes_tematicos": [
+            "de los libros?"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no",
+              "descripcion": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no nos alcanza para hacer todo lo que queremos. Antes de salir para el colegio siempre nos acordamos de algun cuaderno o una tarea que olvidamos y nos toca devolvernos y llegamos tarde. Todos podemos medir el tiempo y ponernos plazos para hacer determinadas tare",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya",
+              "descripcion": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya. y/. Observamos otra forma de representarlo: la letra y (ye)(ye). y y",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos y leemos algunas palabras que se escriben con y",
+              "descripcion": "Observamos y leemos algunas palabras que se escriben con y. Identificamos cuando suena como /y/ /i/. /y/ y cuando suena como /i/ ReyyaKK leyBuey soy yyucayoyo payaso y Unidad 3 Guia 34 83 EaEoAoEoeOaA Conocemoselparamo?Conocemos el paramo? 1.1. Observamos y comentamos que hacen los ninos y las ninas del dibujo. Alexandra, Alex y sus amigos fueron a",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos y senalamos las palabras que se escriben con w",
+              "descripcion": "Leemos y senalamos las palabras que se escriben con w. hueco Wilson wayuu Kiwi hueso agua Unidad 3 87Guia 36 AOeaoaEaOEoAoEoeOaAAOeaoaEaOEoAoEoeOaA 88UnidadUnidad EvaluacionEvaluacion Aprendido?Aprendido? Cuanto heCuanto he33 Aprendido?Aprendido? Cuanto heCuanto he 1.1. Observamos los dibujos y los relacionamos con las oraciones: 2.2. Ubicamos elem",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 41,
+          "titulo": "Que es una biblioteca?............................",
+          "concepto": "",
+          "desempeno": "Guia 37 Donde viven los pinguinos? Guia 38 Como podemos medir el tiempo? Guia 39 Como podemos cuidar nuestro entorno? Guia 40 Cual es la historia de los libros?",
+          "ejes_tematicos": [
+            "biblioteca?"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no",
+              "descripcion": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no nos alcanza para hacer todo lo que queremos. Antes de salir para el colegio siempre nos acordamos de algun cuaderno o una tarea que olvidamos y nos toca devolvernos y llegamos tarde. Todos podemos medir el tiempo y ponernos plazos para hacer determinadas tare",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya",
+              "descripcion": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya. y/. Observamos otra forma de representarlo: la letra y (ye)(ye). y y",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos y leemos algunas palabras que se escriben con y",
+              "descripcion": "Observamos y leemos algunas palabras que se escriben con y. Identificamos cuando suena como /y/ /i/. /y/ y cuando suena como /i/ ReyyaKK leyBuey soy yyucayoyo payaso y Unidad 3 Guia 34 83 EaEoAoEoeOaA Conocemoselparamo?Conocemos el paramo? 1.1. Observamos y comentamos que hacen los ninos y las ninas del dibujo. Alexandra, Alex y sus amigos fueron a",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos y senalamos las palabras que se escriben con w",
+              "descripcion": "Leemos y senalamos las palabras que se escriben con w. hueco Wilson wayuu Kiwi hueso agua Unidad 3 87Guia 36 AOeaoaEaOEoAoEoeOaAAOeaoaEaOEoAoEoeOaA 88UnidadUnidad EvaluacionEvaluacion Aprendido?Aprendido? Cuanto heCuanto he33 Aprendido?Aprendido? Cuanto heCuanto he 1.1. Observamos los dibujos y los relacionamos con las oraciones: 2.2. Ubicamos elem",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 42,
+          "titulo": "Como podemos hacer una brocheta de frutas?........",
+          "concepto": "",
+          "desempeno": "Guia 37 Donde viven los pinguinos? Guia 38 Como podemos medir el tiempo? Guia 39 Como podemos cuidar nuestro entorno? Guia 40 Cual es la historia de los libros? Guia 41 Que es una biblioteca?",
+          "ejes_tematicos": [
+            "hacer una",
+            "brocheta"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 3,
+              "titulo": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA F",
+              "descripcion": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA F",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos las palabras que aparecen en la flor y explicamos como se relacionan",
+              "descripcion": "Leemos las palabras que aparecen en la flor y explicamos como se relacionan. El camaleon se camuf la. f lorecerf lorero f lorista f lorido f loracionf loricultorf lor f la f le f lo f li f lu",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 43,
+          "titulo": "Que es camuflaje? ................................",
+          "concepto": "",
+          "desempeno": "Guia 37 Donde viven los pinguinos? Guia 38 Como podemos medir el tiempo? Guia 39 Como podemos cuidar nuestro entorno? Guia 40 Cual es la historia de los libros? Guia 41 Que es una biblioteca? Guia 42 Como podemos hacer una brocheta de frutas?",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos lo siguiente: Iglu es un termino que pertenece a la lengua hablada por los",
+              "descripcion": "Leemos lo siguiente: Iglu es un termino que pertenece a la lengua hablada por los esquimales, quienes habitan en el Artico. Se trata de una vivienda construida con bloques de hielo, que tiene forma semiesferica. Como puede ser calido dentro de un refugio construido con nieve y hielo? Dentro del iglu hay un ambiente tibio porque esta resguardado del",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA G g El iglu es una vivienda",
+              "descripcion": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA G g El iglu es una vivienda.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos las siguientes silabas y las relacionamos con las palabras: Iglu glacial ingles globo regla",
+              "descripcion": "Leemos las siguientes silabas y las relacionamos con las palabras: Iglu glacial ingles globo regla gla gle gli glo glu jeroglif lico iglesia Unidad 4 Guia 45 107 46464646 AOeaoaEaOEoAoEoeOaA",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos las siguientes palabras y las relacionamos segun el numero de silabas: Una silaba dos",
+              "descripcion": "Leemos las siguientes palabras y las relacionamos segun el numero de silabas: Una silaba dos silabas tres silabas cuatro silabas trabalenguas trompo tren tristes estrellas letrerotrigotres",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras y nos inventamos una historia",
+              "descripcion": "Elegimos tres palabras y nos inventamos una historia. La narramos o contamos en clase. Unidad 4 109Guia 46 AOeaoaEaOEoAoEoeOaA110UnidadUnidad GuiaGuia 4747Existenrealmentelosdragones?Existen realmente los dragones? 1.1. Leemos y aprendemos. El dragon es, sin lugar a dudas, un animal fantastico. Las leyendas sobre estas criaturas con aspecto de rept",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio",
+              "descripcion": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio y conocer mejor los espacios, ojala que cada sitio tenga carteles con el nombre.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 44,
+          "titulo": "Por que cantan los grillos?.......................",
+          "concepto": "",
+          "desempeno": "Guia 37 Donde viven los pinguinos? Guia 38 Como podemos medir el tiempo? Guia 39 Como podemos cuidar nuestro entorno? Guia 40 Cual es la historia de los libros? Guia 41 Que es una biblioteca? Guia 42 Como podemos hacer una brocheta de frutas? Guia 43",
+          "ejes_tematicos": [
+            "los grillos?"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no",
+              "descripcion": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no nos alcanza para hacer todo lo que queremos. Antes de salir para el colegio siempre nos acordamos de algun cuaderno o una tarea que olvidamos y nos toca devolvernos y llegamos tarde. Todos podemos medir el tiempo y ponernos plazos para hacer determinadas tare",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya",
+              "descripcion": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya. y/. Observamos otra forma de representarlo: la letra y (ye)(ye). y y",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos y leemos algunas palabras que se escriben con y",
+              "descripcion": "Observamos y leemos algunas palabras que se escriben con y. Identificamos cuando suena como /y/ /i/. /y/ y cuando suena como /i/ ReyyaKK leyBuey soy yyucayoyo payaso y Unidad 3 Guia 34 83 EaEoAoEoeOaA Conocemoselparamo?Conocemos el paramo? 1.1. Observamos y comentamos que hacen los ninos y las ninas del dibujo. Alexandra, Alex y sus amigos fueron a",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos y senalamos las palabras que se escriben con w",
+              "descripcion": "Leemos y senalamos las palabras que se escriben con w. hueco Wilson wayuu Kiwi hueso agua Unidad 3 87Guia 36 AOeaoaEaOEoAoEoeOaAAOeaoaEaOEoAoEoeOaA 88UnidadUnidad EvaluacionEvaluacion Aprendido?Aprendido? Cuanto heCuanto he33 Aprendido?Aprendido? Cuanto heCuanto he 1.1. Observamos los dibujos y los relacionamos con las oraciones: 2.2. Ubicamos elem",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 45,
+          "titulo": "Que es un iglu? ..................................",
+          "concepto": "",
+          "desempeno": "Guia 37 Donde viven los pinguinos? Guia 38 Como podemos medir el tiempo? Guia 39 Como podemos cuidar nuestro entorno? Guia 40 Cual es la historia de los libros? Guia 41 Que es una biblioteca? Guia 42 Como podemos hacer una brocheta de frutas? Guia 43",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos y nos divertimos. comen trigo en un trigal. retahilas son juegos de palabras dificiles",
+              "descripcion": "Leemos y nos divertimos. comen trigo en un trigal. retahilas son juegos de palabras dificiles de pronunciar. palabras que se repiten y tienen musicalidad y rima. Los trabalenguas son juegos de Las retahilas Tres tristes tigres Tengo, tengo, tengo, tu no tienes nada. Tengo tres ovejas en una cabana. Una me da leche, Traca, traca traqueando otra me d",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Relacionamos los dibujos con los trabalenguas",
+              "descripcion": "Relacionamos los dibujos con los trabalenguas. 108UnidadUnidad GuiaGuia para la semana. 464644 Quesontrabalenguasyretahilas?Que son trabalenguas y retahilas?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA Tr tr Los trabalenguas traban la lengua",
+              "descripcion": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA Tr tr Los trabalenguas traban la lengua. Tengo, tengo, tengo, tu no tienes nada. Tengo tres ovejas en una cabana. Tres tristes tigres comen trigo en un trigal.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos las siguientes palabras y las relacionamos segun el numero de silabas: Una silaba dos",
+              "descripcion": "Leemos las siguientes palabras y las relacionamos segun el numero de silabas: Una silaba dos silabas tres silabas cuatro silabas trabalenguas trompo tren tristes estrellas letrerotrigotres",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras y nos inventamos una historia",
+              "descripcion": "Elegimos tres palabras y nos inventamos una historia. La narramos o contamos en clase. Unidad 4 109",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 46,
+          "titulo": "Que son trabalenguas y retahilas? ................",
+          "concepto": "",
+          "desempeno": "Guia 37 Donde viven los pinguinos? Guia 38 Como podemos medir el tiempo? Guia 39 Como podemos cuidar nuestro entorno? Guia 40 Cual es la historia de los libros? Guia 41 Que es una biblioteca? Guia 42 Como podemos hacer una brocheta de frutas? Guia 43",
+          "ejes_tematicos": [
+            "trabalenguas",
+            "y retahilas?"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 2,
+              "titulo": "Leemos lo siguiente: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA Los dragones viven en Komodo",
+              "descripcion": "Leemos lo siguiente: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA Los dragones viven en Komodo. Dr r",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos las palabras y descubrimos las oraciones",
+              "descripcion": "Leemos las palabras y descubrimos las oraciones. Las escribimos en el cuaderno. dragones Los Komodo son reptiles. de piedras caen la montana. de Las cocodrilo un es reptil. El",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos en voz alta las oraciones que descubrimos",
+              "descripcion": "Leemos en voz alta las oraciones que descubrimos. Unidad 4 111",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 47,
+          "titulo": "Existen realmente los dragones?...................",
+          "concepto": "",
+          "desempeno": "Guia 37 Donde viven los pinguinos? Guia 38 Como podemos medir el tiempo? Guia 39 Como podemos cuidar nuestro entorno? Guia 40 Cual es la historia de los libros? Guia 41 Que es una biblioteca? Guia 42 Como podemos hacer una brocheta de frutas? Guia 43",
+          "ejes_tematicos": [
+            "los dragones?"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no",
+              "descripcion": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no nos alcanza para hacer todo lo que queremos. Antes de salir para el colegio siempre nos acordamos de algun cuaderno o una tarea que olvidamos y nos toca devolvernos y llegamos tarde. Todos podemos medir el tiempo y ponernos plazos para hacer determinadas tare",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya",
+              "descripcion": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya. y/. Observamos otra forma de representarlo: la letra y (ye)(ye). y y",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos y leemos algunas palabras que se escriben con y",
+              "descripcion": "Observamos y leemos algunas palabras que se escriben con y. Identificamos cuando suena como /y/ /i/. /y/ y cuando suena como /i/ ReyyaKK leyBuey soy yyucayoyo payaso y Unidad 3 Guia 34 83 EaEoAoEoeOaA Conocemoselparamo?Conocemos el paramo? 1.1. Observamos y comentamos que hacen los ninos y las ninas del dibujo. Alexandra, Alex y sus amigos fueron a",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos y senalamos las palabras que se escriben con w",
+              "descripcion": "Leemos y senalamos las palabras que se escriben con w. hueco Wilson wayuu Kiwi hueso agua Unidad 3 87Guia 36 AOeaoaEaOEoAoEoeOaAAOeaoaEaOEoAoEoeOaA 88UnidadUnidad EvaluacionEvaluacion Aprendido?Aprendido? Cuanto heCuanto he33 Aprendido?Aprendido? Cuanto heCuanto he 1.1. Observamos los dibujos y los relacionamos con las oraciones: 2.2. Ubicamos elem",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 48,
+          "titulo": "de Derechos auténticos. enriquecer y Identifico de cula Comprendo mación cación Reconozco cidad propiciar Comprendo rentes Comprendo municativas. ponden Produzco cativos. den Produzco Aprendizaje Básicos procesos roles de la comunicación los principales Comunicación Ética de comunicación no a través de algunos la información que difunden. masiva y caracterizo los medios otros sistemas Medios de comunicación creativa y lúdica. el desarrollo textos Literatura formatos y finalidades. textos Interpretación Comprensión a diversas textos escritos a distintos propósitos textos orales Producción relacionados Estándares comunicativos la verbal. de simbólicos de literarios que tienen textual necesidades que textual elementos e sistemas que la comuni- mi que comuni- respon- para cir- infor- y capa- para dife- co- res- • • • de mientras Reconozco el gones Identifico combinación tras Recito combinación tras entre Encuentro miento grillos, Reconozco miento sirve, Aprendo combinación avanzo Aprendo combinación tras un Reconozco miento libros, Reconozco miento torno, Realizo cimiento tiempo, Reconozco nocimiento pingüinos, Reconozco Escribe palabras. Reconoce Interpreta la reconocimiento avanzo avanzo avanzo lugar palabras las temáticas textos combinación avanzo en los medios de de Komodo, las características tr. en el reconocimiento trabalenguas gl. en el reconocimiento varios tipos semejanzas de la combinación mientras avanzo las características de la combinación mientras avanzo qué es camuflaje fr. en el reconocimiento sobre las bl. en el reconocimiento para leer y valoro de la combinación mientras avanzo y valoro de la combinación mientras avanzo campañas de la combinación mientras avanzo las formas de las sílabas mientras las características Desempeños que le permiten presentes literarios como cl. el reconocimiento de transporte, la combinación mientras avanzo de los de y retahílas, mien- de de vivienda, mien- y diferencias gr. en el reconoci- de fl. en el reconoci- y para de recetas, mientras de y aprender, mien- la biblioteca como br. en el reconoci- la historia de pl. en el reconoci- para cuidar el pr. en el recono- de medir güe, güi. avanzo en el reco- de comunicar parte dr. en dra- la la los qué la la los en- el los en sus ideas, preferencias los mensajes que de su iniciación en bicicleta? pinchar mi ¿Qué puede Guía 48 los dragones? ¿Existen realmente Guía 47 y retahílas? trabalenguas ¿Qué son Guía 46 ¿Qué es un iglú? Guía 45 los grillos? ¿Por qué cantan Guía 44 ¿Qué es camuflaje? Guía 43 de frutas? brocheta hacer una ¿Cómo podemos Guía 42 biblioteca? ¿Qué es una Guía 41 de los libros? ¿Cuál es la historia Guía 40 entorno? cuidar nuestro ¿Cómo podemos Guía 39 medir el tiempo? ¿Cómo podemos Guía 38 los pingüinos? ¿Dónde viven Guía 37 Guías escucha, la comprensión y a Sonidos Deportistas El Medios Sonidos Los Textos Sonidos Trabalenguas Textos Sonidos Características Tipos Sonidos pequeños. Cuidado El Textos Sonidos flan. Animales Propósito El Sonidos Las Las Textos Sonidos Comportamiento La Sonidos Los Características La Sonidos adecuado males, Campañas Cuidado Sonidos Medidas Formas El Sílabas Clases Los aprendizajes. partir ciclismo. dragones canto camuflaje. frutas. recetas. biblioteca. cuidados historia tiempo. pingüinos. Ejes de de la diferenciación de textos. de la combinación destacados. de transporte. de la combinación de narrativos de la combinación y retahílas. poéticos. de la combinación de vivienda. de la combinación de de los grillos. informativos. de la combinación y plantas y función de la combinación instructivos. de la combinación de la combinación de de de los de la combinación de los las plantas para del entorno. de la combinación de tiempo de medir güe, güi. de pingüinos. temáticos Komodo. e informativos. un iglú. los que del en la los libros. los libros. libros. recursos. y sobre cuidar el tiempo. camuflaje. biblioteca. animales se los cl. dr. tr. gl. gr. fl. camu- fr. bl. br. pl. el pr. de uso ani- los sonidos que componen las t c u o l l i o n r a e s o . T i c je a r r a tó s. n. Lápices de medios de transporte. Car- Imágenes o videos de los de papel. dragones de Komodo. Hojas Imágenes o videos de los Tijeras. Pegamento. Lápices de colores. Cartón. retahílas. Hojas de papel. Libros de trabalenguas y Lápices de colores. de un iglú. Hojas de papel. rentes tipos de vivienda y Imágenes o videos de dife- sobre las ranas. ranas y los sapos. Un cuento Videos o imágenes sobre las colores. Pinceles. c L a á m pic u e fl s a d je e . c o H lo o r ja e s s . V de in i p lo a s p d e e l. Videos o imágenes sobre el i L n á f p a i n c t e i s le d s. e c H o o lo ja r s e s. de papel. recetas. Diferentes recetas Videos o imágenes sobre sobre animales salvajes. colores. Cuentos y poemas Hojas de papel. Lápices de Videos sobre las bibliotecas. Lápices de colores. Recortes. los libros. Hojas de papel. Videos sobre la historia de Lápices de colores. Cartulina. entorno. Hojas de papel. Videos sobre el cuidado del recipiente, arcilla, tabla. de medir el tiempo. Arena, Imágenes sobre las formas Lápices de colores. güinos. Hojas de papel. Videos o imágenes de pin- Recursos",
+          "concepto": "",
+          "desempeno": "Guia 37 Donde viven los pinguinos? Guia 38 Como podemos medir el tiempo? Guia 39 Como podemos cuidar nuestro entorno? Guia 40 Cual es la historia de los libros? Guia 41 Que es una biblioteca? Guia 42 Como podemos hacer una brocheta de frutas? Guia 43",
+          "ejes_tematicos": [
+            "de Derechos Aprendizaje Básicos"
+          ],
+          "recursos": [
+            "auténticos",
+            "enriquecer y Identifico de cula Comprendo mación cación Reconozco cidad propiciar Comprendo rentes Comprendo municativas",
+            "ponden Produzco cativos",
+            "den Produzco roles comunicación otros Medios procesos de la comunicación los principales Comunicación Ética de no a través de algunos la información que difunden",
+            "masiva y caracterizo los medios sistemas de comunicación creativa y lúdica",
+            "el desarrollo textos Literatura formatos y finalidades",
+            "textos Interpretación Comprensión a diversas textos escritos a distintos propósitos textos orales Producción comunicativos la verbal",
+            "de simbólicos de literarios que tienen textual necesidades que textual elementos e sistemas que la comuni- mi que comuni- respon- para cir- infor- y capa- para dife- co- res-"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos o escuchamos el siguiente texto: Andrea se gano un trofeo por ocupar el primer",
+              "descripcion": "Leemos o escuchamos el siguiente texto: Andrea se gano un trofeo por ocupar el primer puesto como patinadora. Ella tiene unos patines negros que le dan mucha suerte. Su amiga Francy quiere que le ensene a patinar y que le diga todas las reglas de las competencias, para ganar todos los premios.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comentamos: a. Quien gano el trofeo? b. En que deporte gano? c. En el texto,",
+              "descripcion": "Comentamos: a. Quien gano el trofeo? b. En que deporte gano? c. En el texto, que significado tiene la palabra reglas? d. Quienes ocuparon el segundo y el tercer puesto en la competencia? Unidad 4 114Evaluacion endido? AdrianaAdriana AndreaAndrea PatriciaPatricia AOeaoaEaOEoAoEoeOaAoeEeAOeaoaEaOEoAoEoeOaAoeEe Juego y me divierto! 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observar con atencion el dibujo de la pagina 11 y preguntar: • Que hacen los",
+              "descripcion": "Observar con atencion el dibujo de la pagina 11 y preguntar: • Que hacen los ninos y las ninas? Se divierten? • Cuando jugamos, podemos aprender? Por que? • Que juegos nos gusta? • Que aprendemos con estos juegos? 4.Cantamos algunas canciones infantiles que conozcamos. Podemos utilizar una grabadora para colocar musica y cantar juntos. Preguntar a ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Identificar a los estudiantes que son diestros y zurdos para ayudarlos a acomodarse durante el",
+              "descripcion": "Identificar a los estudiantes que son diestros y zurdos para ayudarlos a acomodarse durante el proceso de escritura. Me muevo a la derecha y a la izquierda!",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Hacer la reflexion con ellos sobre las ventajas de salir a los parques y divertirse",
+              "descripcion": "Hacer la reflexion con ellos sobre las ventajas de salir a los parques y divertirse con los amigos y no quedarse siempre en casa jugando con el computador, la tableta o el celular. 6.Explicarles las ventajas de compartir y dialogar con las personas y hacer ejercicios fisicos, como correr, saltar, dar vueltas para divertirse.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio",
+              "descripcion": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio y conocer mejor los espacios, ojala que cada sitio tenga carteles con el nombre.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Explicar que normas de cortesia y valores se muestran en la actitud y las acciones",
+              "descripcion": "Explicar que normas de cortesia y valores se muestran en la actitud y las acciones de Daniel. 9.Preguntarles: • Que hubieran hecho si se les pierde su balon? • Que hubieran hecho si encuentran el balon de Diego?, lo devolverian?, por que? • Como nos hubieramos sentido si alguien se encuentra nuestro balon y no nos lo devuelve? 1O.Orientar las activ",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Empiezo a escribir",
+      "desempeno_general": "Observar y comprender el entorno,",
+      "guias": [
+        {
+          "numero": 121,
+          "titulo": ".1. Con la profesora o el profesor jugamos la sigui",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 141,
+          "titulo": ".1. Cantamos y jugamos la ronda:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 172,
+          "titulo": ".2. Seguimos con el dedo el camino que lleva cada a",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 192,
+          "titulo": ".2. Decimos en voz alta el sonido /aa/. Con el dedo",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 212,
+          "titulo": ".2. Decimos en voz alta el sonido /ee/. Con el dedo",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 2266,
+          "titulo": "Aseomicuerpo!Aseo mi cuerpo! AOeaoaEaOEoAoEoeOaAU",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos los dibujos:",
+              "descripcion": "Observamos los dibujos:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Relacionamos las oraciones con los dibujos: Oscar lava sus manos antes de comer",
+              "descripcion": "Relacionamos las oraciones con los dibujos: Oscar lava sus manos antes de comer.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Jugamos a hablar sin palabras",
+              "descripcion": "Jugamos a hablar sin palabras. Pensamos en otras formas de cuidar nuestro cuerpo y las decimos con gestos. 1 6 Oscar cepilla sus dientes despues de comer. Oscar se alimenta sanamente. A O ea oa Ea O Eo Ao Eo eO aA Unidad Guia 23 Oscar cuida sus ojos. olla oso pina oveja",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Decimos en voz alta el sonido /o/",
+              "descripcion": "Decimos en voz alta el sonido /o/. Con el dedo indice seguimos las flechas para escribir esta vocal. O o 1 6 Ea EoAoEoeOaAUnidadUnidad GuiaGuia 24Hagodeporte!Hago deporte! practicar baloncesto con sus amigos y amigas. Ella siempre esta sana y fuerte. Un dia, durante un partido de baloncesto, una companera la empujo y la hizo caer al piso. Su compan",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Observamos los dibujos y senalamos los objetos cuyo nombre empieza por el sonido /o/",
+              "descripcion": "Observamos los dibujos y senalamos los objetos cuyo nombre empieza por el sonido /o/.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3333,
+          "titulo": "Aprendosobrelosanimalesdomesticos!Aprendo sobre l",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no",
+              "descripcion": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no nos alcanza para hacer todo lo que queremos. Antes de salir para el colegio siempre nos acordamos de algun cuaderno o una tarea que olvidamos y nos toca devolvernos y llegamos tarde. Todos podemos medir el tiempo y ponernos plazos para hacer determinadas tare",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya",
+              "descripcion": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya. y/. Observamos otra forma de representarlo: la letra y (ye)(ye). y y",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos y leemos algunas palabras que se escriben con y",
+              "descripcion": "Observamos y leemos algunas palabras que se escriben con y. Identificamos cuando suena como /y/ /i/. /y/ y cuando suena como /i/ ReyyaKK leyBuey soy yyucayoyo payaso y Unidad 3 Guia 34 83 EaEoAoEoeOaA Conocemoselparamo?Conocemos el paramo? 1.1. Observamos y comentamos que hacen los ninos y las ninas del dibujo. Alexandra, Alex y sus amigos fueron a",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos y senalamos las palabras que se escriben con w",
+              "descripcion": "Leemos y senalamos las palabras que se escriben con w. hueco Wilson wayuu Kiwi hueso agua Unidad 3 87Guia 36 AOeaoaEaOEoAoEoeOaAAOeaoaEaOEoAoEoeOaA 88UnidadUnidad EvaluacionEvaluacion Aprendido?Aprendido? Cuanto heCuanto he33 Aprendido?Aprendido? Cuanto heCuanto he 1.1. Observamos los dibujos y los relacionamos con las oraciones: 2.2. Ubicamos elem",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3434,
+          "titulo": "Sabemosqueesunyak?Sabemos que es un yak?",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no",
+              "descripcion": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no nos alcanza para hacer todo lo que queremos. Antes de salir para el colegio siempre nos acordamos de algun cuaderno o una tarea que olvidamos y nos toca devolvernos y llegamos tarde. Todos podemos medir el tiempo y ponernos plazos para hacer determinadas tare",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya",
+              "descripcion": "Pronunciamos el sonido /y AOeaoaEaOEoAoEoeOaA El yaKK vive en el Himalaya. y/. Observamos otra forma de representarlo: la letra y (ye)(ye). y y",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos y leemos algunas palabras que se escriben con y",
+              "descripcion": "Observamos y leemos algunas palabras que se escriben con y. Identificamos cuando suena como /y/ /i/. /y/ y cuando suena como /i/ ReyyaKK leyBuey soy yyucayoyo payaso y Unidad 3 Guia 34 83 EaEoAoEoeOaA Conocemoselparamo?Conocemos el paramo? 1.1. Observamos y comentamos que hacen los ninos y las ninas del dibujo. Alexandra, Alex y sus amigos fueron a",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos y senalamos las palabras que se escriben con w",
+              "descripcion": "Leemos y senalamos las palabras que se escriben con w. hueco Wilson wayuu Kiwi hueso agua Unidad 3 87Guia 36 AOeaoaEaOEoAoEoeOaAAOeaoaEaOEoAoEoeOaA 88UnidadUnidad EvaluacionEvaluacion Aprendido?Aprendido? Cuanto heCuanto he33 Aprendido?Aprendido? Cuanto heCuanto he 1.1. Observamos los dibujos y los relacionamos con las oraciones: 2.2. Ubicamos elem",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio",
+              "descripcion": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio y conocer mejor los espacios, ojala que cada sitio tenga carteles con el nombre.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4040,
+          "titulo": "Cualeslahistoriadeloslibros?Cual es la historia d",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos la siguiente receta: Brocheta de frutas Ingredientes para 6 porciones: 6 fresas 6 uvas",
+              "descripcion": "Leemos la siguiente receta: Brocheta de frutas Ingredientes para 6 porciones: 6 fresas 6 uvas 6 rueditas de banana 6 trozos de melocotones en almibar 6 masmelos de diferentes colores 2OO gramos de salsa de chocolate. Necesitamos: 6 palitos de brocheta 2 platos Preparacion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comentamos: a. Que libros nos gusta leer? b. Que libros tenemos? c. Que es una",
+              "descripcion": "Comentamos: a. Que libros nos gusta leer? b. Que libros tenemos? c. Que es una libreria? d. Que es un librero? Los libros nos brindan diversion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos los siguientes titulos de libros y elegimos dos y los leemos en clase: Titulos",
+              "descripcion": "Leemos los siguientes titulos de libros y elegimos dos y los leemos en clase: Titulos de los libros Autores br Thomas de Iriarte La pobre viejecita Rafael Pombo El lobo y los siete cabritos Hermanos Grimm Br La cabray el caballo r El libro de la selva Rudyard Kipling La bruja de la montana Gloria Cecilia Diaz Unidad 4 97Guia 40 oaEaEoAoEoeOaA98Unid",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Servimos las brochetas en dos platos, tres en cada uno",
+              "descripcion": "Servimos las brochetas en dos platos, tres en cada uno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Cubrimos las brochetas con salsa de chocolate",
+              "descripcion": "Cubrimos las brochetas con salsa de chocolate. Unidad 4 100Guia 42 AOeaoaEaOEoAoEoeOaA101UnidadUnidad GuiaGuia 2.2. Leemos lo siguiente: Fr r Frida disfruta sus brochetas de fresa. fra fre fri fro fru 3.3. Leemos las siguientes palabras y senalamos cuales se relacionan. Explicamos como se relacionan. refrescofrescura fresco frutafrutero fruteria 42",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio",
+              "descripcion": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio y conocer mejor los espacios, ojala que cada sitio tenga carteles con el nombre.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4343,
+          "titulo": "Queescamuflaje?Que es camuflaje?",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos lo siguiente: Iglu es un termino que pertenece a la lengua hablada por los",
+              "descripcion": "Leemos lo siguiente: Iglu es un termino que pertenece a la lengua hablada por los esquimales, quienes habitan en el Artico. Se trata de una vivienda construida con bloques de hielo, que tiene forma semiesferica. Como puede ser calido dentro de un refugio construido con nieve y hielo? Dentro del iglu hay un ambiente tibio porque esta resguardado del",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA G g El iglu es una vivienda",
+              "descripcion": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA G g El iglu es una vivienda.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA F",
+              "descripcion": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA F",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos las palabras que aparecen en la flor y explicamos como se relacionan",
+              "descripcion": "Leemos las palabras que aparecen en la flor y explicamos como se relacionan. El camaleon se camuf la. f lorecerf lorero f lorista f lorido f loracionf loricultorf lor f la f le f lo f li f lu Unidad 4 Guia 43 103 44 Porquecantanlosgrillos?Por que cantan los grillos? EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA 1. Leemos: Solo los grillos machos cantan, pues lo ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras y nos inventamos una historia",
+              "descripcion": "Elegimos tres palabras y nos inventamos una historia. La narramos o contamos en clase. Unidad 4 109Guia 46 AOeaoaEaOEoAoEoeOaA110UnidadUnidad GuiaGuia 4747Existenrealmentelosdragones?Existen realmente los dragones? 1.1. Leemos y aprendemos. El dragon es, sin lugar a dudas, un animal fantastico. Las leyendas sobre estas criaturas con aspecto de rept",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio",
+              "descripcion": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio y conocer mejor los espacios, ojala que cada sitio tenga carteles con el nombre.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4747,
+          "titulo": "Existenrealmentelosdragones?Existen realmente los",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos el dibujo.",
+              "descripcion": "Observamos el dibujo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leemos lo siguiente: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA Los dragones viven en Komodo",
+              "descripcion": "Leemos lo siguiente: EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA Los dragones viven en Komodo. Dr r",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos las palabras y descubrimos las oraciones",
+              "descripcion": "Leemos las palabras y descubrimos las oraciones. Las escribimos en el cuaderno. dragones Los Komodo son reptiles. de piedras caen la montana. de Las cocodrilo un es reptil. El",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos en voz alta las oraciones que descubrimos",
+              "descripcion": "Leemos en voz alta las oraciones que descubrimos. Unidad 4 111Guia 47 48 Quepuedepincharmibicicleta?Que puede pinchar mi bicicleta? EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Hacer la reflexion con ellos sobre las ventajas de salir a los parques y divertirse",
+              "descripcion": "Hacer la reflexion con ellos sobre las ventajas de salir a los parques y divertirse con los amigos y no quedarse siempre en casa jugando con el computador, la tableta o el celular. 6.Explicarles las ventajas de compartir y dialogar con las personas y hacer ejercicios fisicos, como correr, saltar, dar vueltas para divertirse.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio",
+              "descripcion": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio y conocer mejor los espacios, ojala que cada sitio tenga carteles con el nombre.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Explicar que normas de cortesia y valores se muestran en la actitud y las acciones",
+              "descripcion": "Explicar que normas de cortesia y valores se muestran en la actitud y las acciones de Daniel. 9.Preguntarles: • Que hubieran hecho si se les pierde su balon? • Que hubieran hecho si encuentran el balon de Diego?, lo devol",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 18441,
+          "titulo": ".1. Leemos o escuchamos el siguiente texto:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 28991,
+          "titulo": ".1. Observamos los dibujos:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 31311,
+          "titulo": ".1. Observamos los dibujos:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 36361,
+          "titulo": ".1. Observamos los dibujos:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 242422,
+          "titulo": "oaEaEoAoEoeO60UnidadUnidad GuiaGuiaMediviertoenelc",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa",
+              "descripcion": "Respondemos: · Que dibujo representa el dia?, que dibujo representa la noche?, por que? oa Eo aA Unidad 3 Guia 25 64 A O ea oa Ea O Eo Ao Eo eO aA 65 Unidad Guia",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Decimos en voz alta el sonido /n/",
+              "descripcion": "Decimos en voz alta el sonido /n/. Seguimos con el dedo las flechas para escribir la letra n (ene).",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Senalamos los objetos cuyos nombres tienen el sonido /n/",
+              "descripcion": "Senalamos los objetos cuyos nombres tienen el sonido /n/. La luna sale en la noche. N n 3 25 A OeaoaEaOEoAoEoeOaA66UnidadUnidad GuiaGuia 262633 1.1. Observamos el dibujo y decimos sobre que trata la lectura. 2.2. Leemos o escuchamos el siguiente texto: Habia una vez una nina que vivia en una cabana cerca a las montanas. Se acercaba su cumpleanos y ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las figuras y leemos las silabas para descubrir las palabras",
+              "descripcion": "Observamos las figuras y leemos las silabas para descubrir las palabras. jas ji fa ves rajue ta jo ho Unidad 3 Guia 29 73 30 Viajemosconlaimaginacion!Viajemos con la imaginacion!",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 301010,
+          "titulo": "Muestromishabilidadesytalentos!Muestro mis habili",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Tomas toma precauciones Tomas es un nino muy cuidadoso",
+              "descripcion": "Leemos el siguiente texto: Tomas toma precauciones Tomas es un nino muy cuidadoso. Siempre toma precauciones para evitar accidentes. Cuando sale tiene cuidado al cruzar la calle. Ve a los dos lados. Ve el semaforo. Espera que cambie el semaforo. Espera que se detengan los carros. Usa los pasos peatonales. Ve las senales: alto, solo bicicletas, zona",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Decimos en voz alta el sonido /p p/",
+              "descripcion": "Decimos en voz alta el sonido /p p/. Seguimos con el dedo las flechas para escribir esta letra llamada pe. AOeaoaEaOEoAoEoeOaA P Pepe baila con su perro Pipo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Ordenamos las letras que estan en los circulos de colores y descubrimos las palabras",
+              "descripcion": "Ordenamos las letras que estan en los circulos de colores y descubrimos las palabras. p o p r p i o Pe r Pe e Unidad 1 Guia 10 31 AOeaoaEaOEoAoEoeOaAUnidadUnidad GuiaGuia 321111Digopalabrascordiales!Digo palabras cordiales! 1.1. Observamos los dibujos y comentamos las cosas que hacemos durante el dia, como jugar, correr, estudiar... 2.2. Leemos o e",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Senalamos los dibujos que tienen en su nombre el sonido /d/",
+              "descripcion": "Senalamos los dibujos que tienen en su nombre el sonido /d/. 1 11 12 Mecuidoyevitoaccidentes!Me cuido y evito accidentes! EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 321111,
+          "titulo": "Digopalabrascordiales!Digo palabras cordiales!",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Tomas toma precauciones Tomas es un nino muy cuidadoso",
+              "descripcion": "Leemos el siguiente texto: Tomas toma precauciones Tomas es un nino muy cuidadoso. Siempre toma precauciones para evitar accidentes. Cuando sale tiene cuidado al cruzar la calle. Ve a los dos lados. Ve el semaforo. Espera que cambie el semaforo. Espera que se detengan los carros. Usa los pasos peatonales. Ve las senales: alto, solo bicicletas, zona",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comentamos cuales vocales tiene la palabra mariposa",
+              "descripcion": "Comentamos cuales vocales tiene la palabra mariposa.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Decimos en voz alta el sonido /d/",
+              "descripcion": "Decimos en voz alta el sonido /d/. Seguimos con el dedo las flechas para escribir la letra d (de).",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Senalamos los dibujos que tienen en su nombre el sonido /d/",
+              "descripcion": "Senalamos los dibujos que tienen en su nombre el sonido /d/. 1 11 12 Mecuidoyevitoaccidentes!Me cuido y evito accidentes! EaEoAoEoeOaAAOeaoaEaOEoAoEoeOaA",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3737373744,
+          "titulo": "Dondevivenlospinguinos?Donde viven los pinguinos?",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no",
+              "descripcion": "Leemos el siguiente texto: Muchas veces estamos corriendo a toda prisa porque el tiempo no nos alcanza para hacer todo lo que queremos. Antes de salir para el colegio siempre nos acordamos de algun cuaderno o una tarea que olvidamos y nos toca devolvernos y llegamos tarde. Todos podemos medir el tiempo y ponernos plazos para hacer determinadas tare",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leemos las siguientes silabas: AOeaoaEaOEoAoEoeOaA gue gui Pinguino 91UnidadUnidad GuiaGuia Los pinguinos viven en el",
+              "descripcion": "Leemos las siguientes silabas: AOeaoaEaOEoAoEoeOaA gue gui Pinguino 91UnidadUnidad GuiaGuia Los pinguinos viven en el sur. 3.3. Relacionamos los dibujos con las palabras. Ciguena Yeguita Unguento 373744 AOeaoaEaOEoAoEoeOaAAOeaoaEaOEoAoEoeOaA 3838Comopodemosmedireltiempo?Como podemos medir el tiempo?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA Pp Debemos cuidar las plantas",
+              "descripcion": "Leemos lo siguiente: AOeaoaEaOEoAoEoeOaA Pp Debemos cuidar las plantas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos las siguientes silabas y las relacionamos con las palabras: pla ple pli plo plu",
+              "descripcion": "Leemos las siguientes silabas y las relacionamos con las palabras: pla ple pli plo plu disciplina cumpleanos plato platano aplauso diploma plomero pluma",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada",
+              "descripcion": "Elegimos tres palabras de las anteriores y escribimos en el cuaderno una oracion con cada una. Unidad 4 95Guia 39 EaEoAoEoeOaA96UnidadUnidad GuiaGuia 4040Cualeslahistoriadeloslibros?Cual es la historia de los libros? 1.1. Leemos lo siguiente: A los seres humanos siempre nos ha gustado contar historias. Primero se hacia de forma oral y, luego de la ",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio",
+              "descripcion": "Salir al patio con los estudiantes para hacer un recorrido por la escuela o colegio y conocer mejor los espacios, ojala que cada sitio tenga carteles con el nombre.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

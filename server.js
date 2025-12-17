@@ -2,6 +2,7 @@ import "dotenv/config";
 import express from "express";
 import morgan from "morgan";
 import flexRouter from "./src/routes/generate-flex.js";
+import guiasDataRouter from "./src/routes/guias-data.js";
 import path from "path";
 import { fileURLToPath } from "url";
 
@@ -18,8 +19,9 @@ app.use(express.json());
 // 👉 Servir archivos estáticos desde la carpeta "public"
 app.use(express.static(path.join(__dirname, "public")));
 
-// Ruta API
+// Rutas API
 app.use("/api/generate-flex", flexRouter);
+app.use("/api/guias-data", guiasDataRouter);
 
 // Ruta raíz
 app.get("/", (req, res) => {

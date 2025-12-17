@@ -1,0 +1,864 @@
+{
+  "asignatura": "Tecnologia",
+  "grado": 2,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Luis G. Agudelo Camacho, Juana Carrizosa Umana, Pedro Alberto Sierra Guerrero",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "Clasifica objetos naturales y artificiales de acuerdo con sus características.",
+    "Identifica la diferencia entre recurso, objeto natural, objeto artificial, proceso y producto.",
+    "Identifica los elementos naturales con los cuales están elaborados algunos productos que utiliza a diario.",
+    "Define qué es materia prima e identifica la materia prima de algunos objetos de uso cotidiano.",
+    "Utiliza racionalmente los recursos naturales de su entorno para la elaboración de artefactos análogos.",
+    "Establece semejanzas y diferencias entre materiales diferentes que pueden cumplir funciones similares.",
+    "Comprende un texto instructivo y sigue un procedimiento con el fin de construir un artefacto análogo sencillo o la elaboración de un alimento.",
+    "Reconoce la importancia de recursos naturales como la madera y la arcilla, y de recursos artificiales como el papel en situaciones cotidianas.",
+    "Diferencia y clasifica prendas de vestir elaboradas con lana.",
+    "Identifica las estructuras que soportan el peso de algunos objetos y edificaciones."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "¡La naturaleza nos provee de recursos valiosos!",
+      "desempeno_general": "Reconozco que el entorno está compuesto por elementos naturales y artificiales.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "¿Objetos naturales y objetos artificiales?",
+          "concepto": "Objeto natural, objeto artificial, materia prima, transformación",
+          "desempeno": "Reconozco cómo el ser humano ha elaborado diferentes productos a partir de elementos naturales.",
+          "ejes_tematicos": [
+            "Objeto natural",
+            "objeto artificial",
+            "materia prima",
+            "transformación"
+          ],
+          "recursos": [
+            "Papel de color",
+            "tijeras punta roma",
+            "arcilla",
+            "vinilos",
+            "elementos naturales"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las imagenes y comentamos: a",
+              "descripcion": "Observamos las imagenes y comentamos: a. Que usa el ser humano para cubrir su cuerpo y protegerlo del clima? b. Que materiales se utilizan para elaborar las prendas de vestir? c. Que prendas de vestir usan las personas que viven en clima calido? d. Que prendas de vestir usan las personas que viven en clima frio? Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observamos con atencion la siguiente informacion: 61 Haciendo hilo: Despues, las fibras se estiran y",
+              "descripcion": "Observamos con atencion la siguiente informacion: 61 Haciendo hilo: Despues, las fibras se estiran y se retuercen para formar largos hilos. Este proceso se llama hilado. En muchas ocasiones, los hilos son tenidos de diferentes colores. El origen de la fibra: Todo empieza con las fibras que se usan para hacer la tela. Algunas fibras vienen de planta",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Respondemos en el cuaderno: a",
+              "descripcion": "Respondemos en el cuaderno: a. Cuales son los pasos para obtener lana? b. Las prendas de vestir elaboradas con lana se utilizan principalmente en los climas calidos o frios? Por que? c. Que otros productos, que no sean prendas de vestir, se pueden fabricar con lana? Comentamos el trabajo con la profesora o el profesor. 63",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Escribo las caracteristicas de la arcilla y la plastilina",
+              "descripcion": "Escribo las caracteristicas de la arcilla y la plastilina. Completo en mi cuaderno el siguiente cuadro: Unidad 33 Queinteresanteesdescubrir! Que interesante es descubrir! Unidad 33 Queinteresanteesdescubrir! Que interesante es descubrir! 7Guia Desempeno: • Caracterizo latelacomoun material de origennaturalo artificialquesatisfaceuna necesidadfundam",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Pensamos en que otros objetos podemos elaborar con lana de colores",
+              "descripcion": "Pensamos en que otros objetos podemos elaborar con lana de colores. Por ejemplo: titeres, munecas, etc. Hacemos una lista de estos objetos. 65 Unidad 3, Guia 7 Tomamos cada madeja de lana y cortamos un trozo o tira de dieciocho (18) centimetros de largo. Juntamos las tiras a lo largo, como se muestra en la imagen. Continuamos haciendo nudos que que",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Seleccionamos uno de los objetos de la lista anterior",
+              "descripcion": "Seleccionamos uno de los objetos de la lista anterior. Lo elaboramos con lana, con ayuda de la profesora o profesor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Una vez terminado el objeto de lana que elaboramos, comentamos con los companeros y companeras",
+              "descripcion": "Una vez terminado el objeto de lana que elaboramos, comentamos con los companeros y companeras y el profesor o la profesora: a. Que materiales utilizamos? b. Que herramientas usamos? c. Que proceso o pasos seguimos para elaborar el objeto? Comentamos nuestro trabajo con la profesora o el profesor. CActividades de aplicacion Trabajo con mi familiaTr",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Respondemos las siguientes preguntas: a",
+              "descripcion": "Respondemos las siguientes preguntas: a. Que pasaria si los lapices fueran cuadrados? b. Que pasaria si la mina del lapiz no estuviera recubierta con madera? c. Por que los lapices son delgados y no son gruesos como un vaso? d. Cuanto mide un lapiz nuevo? e. Por que los lapices no son igual de largos a una regla? BActividades de practica Presentamo",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "La naturaleza, una gran productora",
+          "concepto": "Recursos naturales, procesos, productos",
+          "desempeno": "Reconozco la naturaleza como principal proveedora de materiales.",
+          "ejes_tematicos": [
+            "Recursos naturales",
+            "procesos",
+            "productos"
+          ],
+          "recursos": [
+            "Leche",
+            "cuajo",
+            "recipientes",
+            "cuchara de palo"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, transformo elementos naturales en un nuevo producto",
+              "descripcion": "Con ayuda de un familiar, transformo elementos naturales en un nuevo producto. Por ejemplo: Transformo las frutas en jugo, helado o mermelada.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con la orientacion de nuestro profesor o profesora, dialogamos sobre los aprendizajes de la anterior",
+              "descripcion": "Con la orientacion de nuestro profesor o profesora, dialogamos sobre los aprendizajes de la anterior experiencia: a. Conocemos que reaccion sucede entre la leche y el cuajo? b. Que sucede si no seguimos con precision los pasos de la experiencia? c. Que aprendimos sobre el manejo de cantidades y proporciones? d. Podriamos pensar en que caracteristic",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Socializo mi trabajo con mis companeros y companeras y el profesor o profesora",
+              "descripcion": "Socializo mi trabajo con mis companeros y companeras y el profesor o profesora. CActividades de aplicacion Trabajo con mi familiaTrabajo con mi familia Comento mi trabajo con la profesora o el profesor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Escribimos en el cuaderno que son materias primas y de donde provienen",
+              "descripcion": "Escribimos en el cuaderno que son materias primas y de donde provienen. Tecnologia 2 32Presentamos nuestro trabajo a la profesora o el profesor. BActividades de practica Trabajo individualTrabajo individual 1.2. En Observo todo lo que se encuentra a mi alrededor. Luego, elijo tres objetos. el cuaderno, elaboro el siguiente cuadro. Lo completo con l",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "¿Con qué materiales construye el ser humano?",
+          "concepto": "Materia prima, proceso, producto",
+          "desempeno": "Identifico la materia prima de objetos cotidianos.",
+          "ejes_tematicos": [
+            "Materia prima",
+            "proceso",
+            "producto"
+          ],
+          "recursos": [
+            "Cartulina",
+            "pegamento",
+            "hojas secas",
+            "semillas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comentamos: a. Cuales son mis alimentos favoritos? b. En donde se producen estos alimentos? c.",
+              "descripcion": "Comentamos: a. Cuales son mis alimentos favoritos? b. En donde se producen estos alimentos? c. Puedo consumirlos tal y como vienen de la naturaleza? d. Son alimentos preparados? Trabajo en equipoTrabajo en equipo 4Guia Desempeno: • Describo algunos procesos que sufren los elementosnaturales para transformarseen productosartificiales. Aprovechemos l",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Escribo en mi cuaderno: a. El nombre de dos objetos naturales que veo en las",
+              "descripcion": "Escribo en mi cuaderno: a. El nombre de dos objetos naturales que veo en las imagenes. b. El nombre de dos objetos artificiales que veo en estas imagenes.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Escribo en mi cuaderno los siguientes nombres de materiales: a",
+              "descripcion": "Escribo en mi cuaderno los siguientes nombres de materiales: a. Papel b. Lana c. Cuero d. Plastico e. Madera Al frente de cada palabra, escribo si es un material natural o artificial.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Escribo el nombre de un producto artificial que se encuentre en el aula de clase",
+              "descripcion": "Escribo el nombre de un producto artificial que se encuentre en el aula de clase. Explico por que es un producto artificial.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Escribo que son las materias primas y de donde provienen",
+              "descripcion": "Escribo que son las materias primas y de donde provienen. Valoromis1. Observo las imagenes: Trabajo individualTrabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo una o varias ideas para transformar un vaso desechable ya utilizado en otro producto",
+              "descripcion": "Escribo una o varias ideas para transformar un vaso desechable ya utilizado en otro producto util.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Selecciono uno de mis utiles escolares",
+              "descripcion": "Selecciono uno de mis utiles escolares. Luego, respondo las siguientes preguntas: a. Para que sirve? b. Como lo uso? c. Cual es la materia prima principal que se utilizo para fabricarlo?",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Observo el objeto que aparece en la siguiente foto",
+              "descripcion": "Observo el objeto que aparece en la siguiente foto. Luego, escribo en mi cuaderno: a. De que materiales esta hecho este objeto? b. Para que sirve? c. Como fue hecho este objeto? d. Pudo ser inspirado por la naturaleza? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribo con detalle que pasos seguiria para elaborar el objeto",
+              "descripcion": "Escribo con detalle que pasos seguiria para elaborar el objeto.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Identifico que modificaciones puedo hacerle, es decir, otras formas, otros colores, tambien si puedo cambiar",
+              "descripcion": "Identifico que modificaciones puedo hacerle, es decir, otras formas, otros colores, tambien si puedo cambiar el tamano.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Senalo con que instrumento puedo medir su area",
+              "descripcion": "Senalo con que instrumento puedo medir su area.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Indico que necesito para ponerlo a prueba y la manera en que haria los ajustes",
+              "descripcion": "Indico que necesito para ponerlo a prueba y la manera en que haria los ajustes para mejorar su desempeno. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso. RecordemosRecordemosRecordemos Al reutilizar ciertos objetos nos volvemos mas creativos.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "¡Manos a la obra!",
+      "desempeno_general": "Sigo instrucciones para construir artefactos sencillos.",
+      "guias": [
+        {
+          "numero": 4,
+          "titulo": "¡Aprovechemos los recursos que nos brinda la naturaleza!",
+          "concepto": "Proceso de elaboración, uso racional de recursos",
+          "desempeno": "Guia 9: Como son mis utiles escolares?.",
+          "ejes_tematicos": [
+            "Proceso de elaboración",
+            "uso racional de recursos"
+          ],
+          "recursos": [
+            "Frutas variadas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, busco una receta de un alimento que se prepare en",
+              "descripcion": "Con ayuda de un familiar, busco una receta de un alimento que se prepare en casa, a partir de los productos que cultivamos en nuestra region. Escribo esta receta en el Cuaderno viajero. Tengo en cuenta: a. Que ingredientes se necesitan b. Que cantidades de cada ingrediente debemos utilizar c. Que utensilios son necesarios para su preparacion d. Cua",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Realizamos la siguiente experiencia STEAM",
+              "descripcion": "Realizamos la siguiente experiencia STEAM. Traemos del Centro de recursos los utensilios que Utensilio: instrumento o herramienta que sirve para el uso requerimos para nuestra actividad. manual y frecuente. Por ejemplo, utensilios de cocina, como ollas, cucharas, colador, etc. sabor, nutrientes. Quimica: oxidacion. Optimizacion de procesos -uso de ",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Respondemos: a. Que frutas podemos conseguir para hacer nuestra ensalada? b. En donde podemos conseguir",
+              "descripcion": "Respondemos: a. Que frutas podemos conseguir para hacer nuestra ensalada? b. En donde podemos conseguir estas frutas? c. Que cantidad de frutas necesitamos para que alcancen para todos? d. Que otros ingredientes necesitamos? e. Que utensilios necesitamos? f. Que proceso o pasos debemos seguir?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Iniciamos la preparacion de nuestra ensalada de frutas: a",
+              "descripcion": "Iniciamos la preparacion de nuestra ensalada de frutas: a. Como ya sabemos como preparar la receta, nos organizamos para ayudar en los pasos que debemos seguir. b. Tenemos en cuenta lavar bien nuestras manos antes de iniciar. Luego, cada uno hace lo que le correspondio. Habilidades para el siglo XXI Colaboracion, creatividad, empatia cultural, inte",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dialogamos sobre nuestra experiencia",
+              "descripcion": "Dialogamos sobre nuestra experiencia. Respondemos: a. Que nos gusto mas de preparar la ensalada de frutas? Unidad 2, Guia 4b. Que se nos dificulto mas? c. Que hubiera pasado si no hubieramos tenido los utensilios necesarios para preparar la receta? d. Que aspectos mejorariamos para una proxima vez? e. Alcanzo para todas y todos? Como podemos asegur",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Arcilla o plastilina, ¿cuál usar?",
+          "concepto": "Estados de la materia, materiales",
+          "desempeno": "Que objetos elaborados con arcilla conocemos? GGGlllooosssaaarrriiiooo una figura o Modelar: formar adorno con cera, arcilla, barro u otro material blando.",
+          "ejes_tematicos": [
+            "Estados de la materia",
+            "materiales"
+          ],
+          "recursos": [
+            "Arcilla",
+            "plastilina",
+            "harina",
+            "sal",
+            "agua"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos los objetos que hay alrededor",
+              "descripcion": "Observamos los objetos que hay alrededor. Comentamos: a. Que objetos de los que observamos estan elaborados con papel? b. Para que sirven estos objetos? c. Que clases de papel conocemos? Por ejemplo, papel silueta, papel periodico, cartulina, etc. a. Traemos del centro de recursos: • Diferentes tipos de papel, como periodico, papel higienico, papel",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Vamos a comparar diferentes clases de papel! cartulina, 52",
+              "descripcion": "Vamos a comparar diferentes clases de papel! cartulina, 52",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "¡Podemos hacer muchas cosas con papel!",
+          "concepto": "Papel, reciclaje",
+          "desempeno": "Ingenieria:plastilina, cual objetos.",
+          "ejes_tematicos": [
+            "Papel",
+            "reciclaje"
+          ],
+          "recursos": [
+            "Papel reciclado",
+            "bastidor",
+            "recipientes"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Explico a mi familia por que es importante reciclar el papel",
+              "descripcion": "Explico a mi familia por que es importante reciclar el papel.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pensamos que objetos podemos crear con el papel que elaboramos",
+              "descripcion": "Pensamos que objetos podemos crear con el papel que elaboramos. Hacemos un listado de objetos, como tarjetas, folletos, libros, albumes, etc.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Dibujamos el siguiente cuadro en el cuaderno",
+              "descripcion": "Dibujamos el siguiente cuadro en el cuaderno. Lo completamos con los diferentes tipos de papel que hemos observado: Trabajo en parejas 7 Colocamos las laminas de papel sobre una de las tablas de madera. Luego, colocamos encima la otra tabla y, sobre ella, colocamos un objeto pesado. Dejamos todo en esta posicion por una hora aproximadamente. 8 Una ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Socializamos nuestro trabajo con los demas companeros y companeras",
+              "descripcion": "Socializamos nuestro trabajo con los demas companeros y companeras. 57Presentamos nuestro trabajo a la profesora o el profesor. CActividades de aplicacion Trabajo con mi familiaTrabajo con mi familia",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Explico lo siguiente: Al comparar la arcilla y la plastilina casera, con cual de ellas",
+              "descripcion": "Explico lo siguiente: Al comparar la arcilla y la plastilina casera, con cual de ellas pude moldear mejor los objetos? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Respondo las siguientes preguntas: a",
+              "descripcion": "Respondo las siguientes preguntas: a. Cual es la materia prima con la que se elabora el papel? b. Por que es importante reutilizar el papel? c. Que uso le podemos dar al papel reciclado? Caracteristicas Plastilina Arcilla Es suave La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "¡Qué interesante es descubrir!",
+      "desempeno_general": "Reconozco principios naturales en construcciones tecnológicas.",
+      "guias": [
+        {
+          "numero": 7,
+          "titulo": "¿De dónde viene la tela de nuestra ropa?",
+          "concepto": "Tela, origen natural y artificial",
+          "desempeno": "Caracterizo la tela como un material de origen natural o artificial que satisface una necesidad fundamental para las personas.",
+          "ejes_tematicos": [
+            "Tela",
+            "origen natural y artificial"
+          ],
+          "recursos": [
+            "Lana",
+            "tijeras",
+            "regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, elaboro un objeto con lana: a",
+              "descripcion": "Con ayuda de un familiar, elaboro un objeto con lana: a. En el cuaderno hago la lista de los materiales que utilice. b. Explico cual es el uso o utilidad del objeto que elabore. c. Comparto mi trabajo con mis companeros, companeras, profesor o profesora. Explico como hicimos el objeto, los materiales y las herramientas que usamos para elaborarlo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el salon de clases, con ayuda del profesor o profesora, organizamos un espacio para",
+              "descripcion": "En el salon de clases, con ayuda del profesor o profesora, organizamos un espacio para que todos expongamos los trabajos que elaboramos en casa. Tecnologia 2 66La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Comentamos: Hacemosunnudoaunadistancia de tres o cuatro centimetros de una de las puntas",
+              "descripcion": "Comentamos: Hacemosunnudoaunadistancia de tres o cuatro centimetros de una de las puntas. Pedimos a la profesora o el profesor que, mediante un nudo, una las puntas de la manilla, formando un circulo alrededor de la muneca de nuestra mano izquierda. Luego, le pedimos que corte las puntas sobrantes.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Seleccionamos uno de los objetos de la lista anterior",
+              "descripcion": "Seleccionamos uno de los objetos de la lista anterior. Lo elaboramos con lana, con ayuda de la profesora o profesor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Una vez terminado el objeto de lana que elaboramos, comentamos con los companeros y companeras",
+              "descripcion": "Una vez terminado el objeto de lana que elaboramos, comentamos con los companeros y companeras y el profesor o la profesora: a. Que materiales utilizamos? b. Que herramientas usamos? c. Que proceso o pasos seguimos para elaborar el objeto? Comentamos nuestro trabajo con la profesora o el profesor. CActividades de aplicacion Trabajo con mi familiaTr",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "¿Cómo se sostienen las cosas?",
+          "concepto": "Estructuras, fuerzas",
+          "desempeno": "Explico por qué algunos objetos necesitan de estructuras sólidas para mantener su forma y cumplir una función.",
+          "ejes_tematicos": [
+            "Estructuras",
+            "fuerzas"
+          ],
+          "recursos": [
+            "Plastilina",
+            "palos de paleta"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En compania de un familiar, recorro mi casa y la observo detenidamente",
+              "descripcion": "En compania de un familiar, recorro mi casa y la observo detenidamente. Identifico la estructura que sostiene el lugar donde vivo, por ejemplo, las paredes, columnas, vigas en madera, etc.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Construyo la estructura de mi casa con palos de paletas",
+              "descripcion": "Construyo la estructura de mi casa con palos de paletas. profesora. Tecnologia 274La profesora o el profesor valora mis aprendizajes y me autoriza a registrar mi progreso. Guia 759 Desempeno: • Identificolarelacionqueexisteentre el disenode losutiles escolaresylafuncionque cumplen. Como son mis utiles escolares? AActividades basicas El material, la",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Socializo mi trabajo con mis companeros y companeras y el profesor o la CActividades de",
+              "descripcion": "Socializo mi trabajo con mis companeros y companeras y el profesor o la CActividades de aplicacion Trabajo con mi familiaTrabajo con mi familia",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Comentamos y completamos el siguiente cuadro, teniendo en cuenta las caracteristicas de un lapiz y",
+              "descripcion": "Comentamos y completamos el siguiente cuadro, teniendo en cuenta las caracteristicas de un lapiz y un borrador: Tecnologia 276lapizborrador Para que sirve? Que forma tiene? Por que creemos que tiene esta forma? De que material esta hecho? Que pasaria si fuera de otro material, como por ejemplo de metal?",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "¿Cómo son mis útiles escolares?",
+          "concepto": "Diseño y función",
+          "desempeno": "Identifico la relación que existe entre el diseño de los útiles escolares y la función que cumplen.",
+          "ejes_tematicos": [
+            "Diseño y función"
+          ],
+          "recursos": [
+            "Útiles escolares",
+            "cartulina",
+            "colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Vamos al centro de recursos",
+              "descripcion": "Vamos al centro de recursos. Tomamos el juguete que mas nos guste y lo observamos. Luego, comentamos: 87a. Que forma tiene el juguete? b. De que materiales esta hecho? c. El juguete tiene movimiento? d. Que juegos podemos practicar con ese juguete? e. Por que me gusta ese juguete?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Recuerdo y escribo los pasos que se siguen para: a",
+              "descripcion": "Recuerdo y escribo los pasos que se siguen para: a. Obtener lana. b. Hacer una manilla de lana.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observo la imagen y respondo: a",
+              "descripcion": "Observo la imagen y respondo: a. A que llamamos estructura? b. Para que sirven las estructuras? c. Como es la estructura de un edificio? Valoromis1. Observo las siguientes imagenes y respondo en mi cuaderno: Trabajo individualTrabajo individual a. Cuales de estas prendas de vestir estan elaboradas con lana? b. En que clima (calido o frio) utilizamo",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Recuerdo los diferentes tipos de esfuerzos que soportan las estructuras",
+              "descripcion": "Recuerdo los diferentes tipos de esfuerzos que soportan las estructuras. Luego, defino en mi cuaderno los siguientes conceptos: ConceptosDefinicionTraccion Compresion Flexion Cortadura Torsion La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso. Valoromis855. Pienso en uno de mis uti",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo en el cuaderno que cuidados debemos tener en cuenta al manejar un lapiz y",
+              "descripcion": "Escribo en el cuaderno que cuidados debemos tener en cuenta al manejar un lapiz y unas tijeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Imagino que voy a inventar un nuevo util escolar",
+              "descripcion": "Imagino que voy a inventar un nuevo util escolar. Pienso para que serviria, cual seria su forma, tamano, color, etc.",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Aprendo y me divierto",
+      "desempeno_general": "Reconozco que los instrumentos tecnológicos facilitan actividades humanas.",
+      "guias": [
+        {
+          "numero": 10,
+          "titulo": "Detrás de cada juguete hay una historia",
+          "concepto": "Historia y materiales de los juguetes",
+          "desempeno": "Identifico que en el proceso de fabricación de juguetes se utilizan diversos tipos de materiales.",
+          "ejes_tematicos": [
+            "Historia y materiales de los juguetes"
+          ],
+          "recursos": [
+            "Globo",
+            "CD",
+            "pegamento"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Dialogo con mis familiares sobre que juguetes utilizaban ellos cuando eran ninos",
+              "descripcion": "Dialogo con mis familiares sobre que juguetes utilizaban ellos cuando eran ninos. Los comparamos con algunos juguetes que utilizo actualmente. Luego, escribo en mi cuaderno en que se parecen y en que se diferencian esos juguetes. Por ejemplo, los carros que mis familiares usaban no tenian Podemos hacer un carro con una caja de carton, un barco con ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de un familiar, elaboro un juguete con materiales reciclados",
+              "descripcion": "Con ayuda de un familiar, elaboro un juguete con materiales reciclados.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparto mi trabajo con los demas companeros y companeras y el profesor o la profesora",
+              "descripcion": "Comparto mi trabajo con los demas companeros y companeras y el profesor o la profesora. Recuerdo describir: · Como hice el juguete? · Que materiales utilice para elaborarlo? · Por que escogi ese juguete? · A que puedo jugar con este juguete? Tecnologia 2 94La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Experimentar y mejorar",
+          "concepto": "Diseño, prototipo",
+          "desempeno": "Explico la relación entre los conceptos de diseño, propósito y prototipo en un objeto de uso cotidiano.",
+          "ejes_tematicos": [
+            "Diseño",
+            "prototipo"
+          ],
+          "recursos": [
+            "Material reciclado",
+            "telas",
+            "tijeras"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pregunto a mis familiares o a un adulto: a",
+              "descripcion": "Pregunto a mis familiares o a un adulto: a. Como eran los elementos de aseo para la casa que se utilizaban cuando ellos eran jovenes? b. De que material estaban elaborados? c. Cuales elementos de aseo construian ellos mismos? d. Como construian esos elementos? e. Donde conseguian los materiales?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Luego de que tengamos nuestro prototipo, hacemos las pruebas correspondientes de uso y resistencia",
+              "descripcion": "Luego de que tengamos nuestro prototipo, hacemos las pruebas correspondientes de uso y resistencia. Podemos orientarnos con las siguientes preguntas: a. El material del que estan hechas las fibras es absorbente? b. Por cual otro material podriamos cambiar las fibras? c. El prototipo resiste el uso continuo? d. Que cambios hariamos a nuestro prototi",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparto mi trabajo con los companeros, companeras y el profesor o profesora, en la proxima",
+              "descripcion": "Comparto mi trabajo con los companeros, companeras y el profesor o profesora, en la proxima clase. Tecnologia 2102La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "¿Pensamiento computacional?",
+          "concepto": "Algoritmo, código, pensamiento computacional",
+          "desempeno": "Comprendo qué es el pensamiento computacional y establezco una relación entre diferentes tipos de lenguaje.",
+          "ejes_tematicos": [
+            "Algoritmo",
+            "código",
+            "pensamiento computacional"
+          ],
+          "recursos": [
+            "Cartulina",
+            "punzón",
+            "computador"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Describo como fabricamos el platillo volador de juguete",
+              "descripcion": "Describo como fabricamos el platillo volador de juguete. Explico que materiales utilizamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observo los siguientes objetos",
+              "descripcion": "Observo los siguientes objetos. Luego, completo el cuadro en mi cuaderno: Trabajo individualTrabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Respondo en mi cuaderno: a",
+              "descripcion": "Respondo en mi cuaderno: a. Que pasaria si el cepillo dental estuviera elaborado con madera? Caracteristicas Cepillo dental Cepillo para zapatos De que materiales esta hecho? Cual es el nombre de las partes que lo componen? Como es su forma? Para que sirve? ValoromisI.Leo, observo y respondo las preguntas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Explico como se elabora un trapero casero y que materiales puedo utilizar",
+              "descripcion": "Explico como se elabora un trapero casero y que materiales puedo utilizar.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En mi cuaderno, completo el siguiente cuadro con el nombre correspondiente a cada una de",
+              "descripcion": "En mi cuaderno, completo el siguiente cuadro con el nombre correspondiente a cada una de las partes del computador:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Con mis propias palabras, escribo que actividades o tareas podemos hacer en un computador",
+              "descripcion": "Con mis propias palabras, escribo que actividades o tareas podemos hacer en un computador. La profesora o el profesor valora los apredizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Nombre de las partes de computador Para que sirve? Mouse",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Explico que es el sistema braille, para que sirve y como funciona",
+              "descripcion": "Explico que es el sistema braille, para que sirve y como funciona. b. Podriamos utilizar el cepillo de ropa para lavar nuestros dientes? Por que? c. Como se relaciona la forma del cepillo de dientes con la funcion que cum- ple?",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titulo": "Unidad 5",
+      "desempeno_general": "",
+      "guias": [
+        {
+          "numero": 22,
+          "titulo": "Desempeno:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las imagenes y comentamos: a",
+              "descripcion": "Observamos las imagenes y comentamos: a. Que usa el ser humano para cubrir su cuerpo y protegerlo del clima? b. Que materiales se utilizan para elaborar las prendas de vestir? c. Que prendas de vestir usan las personas que viven en clima calido? d. Que prendas de vestir usan las personas que viven en clima frio? Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observamos con atencion la siguiente informacion: 61 Haciendo hilo: Despues, las fibras se estiran y",
+              "descripcion": "Observamos con atencion la siguiente informacion: 61 Haciendo hilo: Despues, las fibras se estiran y se retuercen para formar largos hilos. Este proceso se llama hilado. En muchas ocasiones, los hilos son tenidos de diferentes colores. El origen de la fibra: Todo empieza con las fibras que se usan para hacer la tela. Algunas fibras vienen de planta",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Respondemos en el cuaderno: a",
+              "descripcion": "Respondemos en el cuaderno: a. Cuales son los pasos para obtener lana? b. Las prendas de vestir elaboradas con lana se utilizan principalmente en los climas calidos o frios? Por que? c. Que otros productos, que no sean prendas de vestir, se pueden fabricar con lana? Comentamos el trabajo con la profesora o el profesor. 63",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Comentamos: Hacemosunnudoaunadistancia de tres o cuatro centimetros de una de las puntas",
+              "descripcion": "Comentamos: Hacemosunnudoaunadistancia de tres o cuatro centimetros de una de las puntas. Pedimos a la profesora o el profesor que, mediante un nudo, una las puntas de la manilla, formando un circulo alrededor de la muneca de nuestra mano izquierda. Luego, le pedimos que corte las puntas sobrantes.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Pensamos en que otros objetos podemos elaborar con lana de colores",
+              "descripcion": "Pensamos en que otros objetos podemos elaborar con lana de colores. Por ejemplo: titeres, munecas, etc. Hacemos una lista de estos objetos. 65 Unidad 3, Guia 7 Tomamos cada madeja de lana y cortamos un trozo o tira de dieciocho (18) centimetros de largo. Juntamos las tiras a lo largo, como se muestra en la imagen. Continuamos haciendo nudos que que",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Seleccionamos uno de los objetos de la lista anterior",
+              "descripcion": "Seleccionamos uno de los objetos de la lista anterior. Lo elaboramos con lana, con ayuda de la profesora o profesor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Una vez terminado el objeto de lana que elaboramos, comentamos con los companeros y companeras",
+              "descripcion": "Una vez terminado el objeto de lana que elaboramos, comentamos con los companeros y companeras y el profesor o la profesora: a. Que materiales utilizamos? b. Que herramientas usamos? c. Que proceso o pasos seguimos para elaborar el objeto? Comentamos nuestro trabajo con la profesora o el profesor. CActividades de aplicacion Trabajo con mi familiaTr",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Respondemos las siguientes preguntas: a",
+              "descripcion": "Respondemos las siguientes preguntas: a. Que pasaria si los lapices fueran cuadrados? b. Que pasaria si la mina del lapiz no estuviera recubierta con madera? c. Por que los lapices son delgados y no son gruesos como un vaso? d. Cuanto mide un lapiz nuevo? e. Por que los lapices no son igual de largos a una regla? BActividades de practica Presentamo",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 32,
+          "titulo": ". Vamos a analizar algunos objetos artificiales:",
+          "concepto": "",
+          "desempeno": "Por turnos, el rey y la reina piden en voz alta un objeto.",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la ayuda de un familiar, observo cuales materiales se usaron para fabricar las siguientes",
+              "descripcion": "Con la ayuda de un familiar, observo cuales materiales se usaron para fabricar las siguientes partes de nuestra vivienda: a. La puerta de la entrada b. Las ventanas c. El piso de la cocina d. El techo o tejado e. Las paredes.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comentamos de donde provienen los anteriores materiales",
+              "descripcion": "Comentamos de donde provienen los anteriores materiales.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos y leemos la siguiente historieta: Trabajo en parejas Mira mis zapatos",
+              "descripcion": "Observamos y leemos la siguiente historieta: Trabajo en parejas Mira mis zapatos... Sabes de que material estan hechos? Sabias que los materiales que se utilizan para fabricar objetos se llaman materias primas?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Escribimos en el cuaderno que son materias primas y de donde provienen",
+              "descripcion": "Escribimos en el cuaderno que son materias primas y de donde provienen. Tecnologia 2 32Presentamos nuestro trabajo a la profesora o el profesor. BActividades de practica Trabajo individualTrabajo individual 1.2. En Observo todo lo que se encuentra a mi alrededor. Luego, elijo tres objetos. el cuaderno, elaboro el siguiente cuadro. Lo completo con l",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Escribo que son las materias primas y de donde provienen",
+              "descripcion": "Escribo que son las materias primas y de donde provienen. Valoromis1. Observo las imagenes: Trabajo individualTrabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo una o varias ideas para transformar un vaso desechable ya utilizado en otro producto",
+              "descripcion": "Escribo una o varias ideas para transformar un vaso desechable ya utilizado en otro producto util.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Selecciono uno de mis utiles escolares",
+              "descripcion": "Selecciono uno de mis utiles escolares. Luego, respondo las siguientes preguntas: a. Para que sirve? b. Como lo uso? c. Cual es la materia prima principal que se utilizo para fabricarlo?",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Observo el objeto que aparece en la siguiente foto",
+              "descripcion": "Observo el objeto que aparece en la siguiente foto. Luego, escribo en mi cuaderno: a. De que materiales esta hecho este objeto? b. Para que sirve? c. Como fue hecho este objeto? d. Pudo ser inspirado por la naturaleza? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribo con detalle que pasos seguiria para elaborar el objeto",
+              "descripcion": "Escribo con detalle que pasos seguiria para elaborar el objeto.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Identifico que modificaciones puedo hacerle, es decir, otras formas, otros colores, tambien si puedo cambiar",
+              "descripcion": "Identifico que modificaciones puedo hacerle, es decir, otras formas, otros colores, tambien si puedo cambiar el tamano.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Senalo con que instrumento puedo medir su area",
+              "descripcion": "Senalo con que instrumento puedo medir su area.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Indico que necesito para ponerlo a prueba y la manera en que haria los ajustes",
+              "descripcion": "Indico que necesito para ponerlo a prueba y la manera en que haria los ajustes para mejorar su desempeno. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta unidad y registra mi progreso. RecordemosRecordemosRecordemos Al reutilizar ciertos objetos nos volvemos mas creativos.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 291,
+          "titulo": ". Vamos a jugar La reina y el rey ordenan:",
+          "concepto": "",
+          "desempeno": "Con ayuda de un familiar, transformo elementos naturales en un nuevo producto.",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 759,
+          "titulo": "Desempeno:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos el siguiente poema: Mi lapizUsa ropa de madera, cuello fuerte de laton y sombrerito",
+              "descripcion": "Leemos el siguiente poema: Mi lapizUsa ropa de madera, cuello fuerte de laton y sombrerito de goma, mi lapiz con borrador. Lleva bajo su vestido la punta negra de un pie. Cuando yo dibujo rapido, mi lapiz baila bien. Si hago las letras feas, invierte su posicion. Baila entonces de cabeza, mi lapiz con borrador. (Morita Carrillo)",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comentamos: a. De que objeto se habla en el poema anterior? b. Como es este",
+              "descripcion": "Comentamos: a. De que objeto se habla en el poema anterior? b. Como es este objeto? c. Para que sirve este objeto?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos detalladamente los utiles escolares que tenemos",
+              "descripcion": "Observamos detalladamente los utiles escolares que tenemos. Por ejemplo, los lapices, borradores, colores, tajalapices, etc. Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Comentamos y completamos el siguiente cuadro, teniendo en cuenta las caracteristicas de un lapiz y",
+              "descripcion": "Comentamos y completamos el siguiente cuadro, teniendo en cuenta las caracteristicas de un lapiz y un borrador: Tecnologia 276lapizborrador Para que sirve? Que forma tiene? Por que creemos que tiene esta forma? De que material esta hecho? Que pasaria si fuera de otro material, como por ejemplo de metal? Unidad 3, Guia 9 Trabajoconelprofesorolaprofe",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dibujamos en el cuaderno los utiles escolares que creemos son los mas importantes",
+              "descripcion": "Dibujamos en el cuaderno los utiles escolares que creemos son los mas importantes. Explicamos por que pensamos que estos utiles son importantes.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Respondemos las siguientes preguntas: a",
+              "descripcion": "Respondemos las siguientes preguntas: a. Para trazar una linea recta, que utiles escolares empleamos? b. Para hacer un dibujo, que utiles escolares empleamos? c. Cuando no tenemos algunos de los anteriores objetos, que podemos hacer para realizar la actividad? Trabajo en parejas Unidad 3, Guia 9 TrabajoconelprofesorolaprofesoraTrabajo con el profes",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Imagino que voy a inventar un nuevo util escolar",
+              "descripcion": "Imagino que voy a inventar un nuevo util escolar. Pienso para que serviria, cual seria su forma, tamano, color, etc.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Respondemos las siguientes preguntas: a",
+              "descripcion": "Respondemos las siguientes preguntas: a. Que pasaria si los lapices fueran cuadrados? b. Que pasaria si la mina del lapiz no estuviera recubierta con madera? c. Por que los lapices son delgados y no son gruesos como un vaso? d. Cuanto mide un lapiz nuevo? e. Por que los lapices no son igual de largos a una regla? BActividades de practica Presentamo",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

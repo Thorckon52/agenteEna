@@ -1,0 +1,1597 @@
+{
+  "asignatura": "Ciencias Naturales",
+  "grado": 4,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Wilson Leon Adurraman Fernandez, Ligia Ester Aldana Ocampo, Liliana Patricia Sanchez Gonzalez",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "DBA 3: Comprende que el fenomeno del dia y la noche se debe a que la Tierra rota sobre su eje y en consecuencia el sol solo ilumina la mitad de su superficie.",
+    "DBA 5: Comprende que existen distintos tipos de mezclas (homogeneas y heterogeneas) que de acuerdo con los materiales que las componen pueden separarse mediante diferentes tecnicas (filtracion, tamizado, decantacion, evaporacion). Unidad 4 Relacionemos las fuerzas con el movimiento de los objetos Unidad 4",
+    "DBA 7: Comprende que existen distintos tipos de ecosistemas (terrestres y acuaticos) y que sus caracteristicas fisicas (temperatura, humedad, tipos de suelo, altitud) permiten que habiten en ellos diferentes seres vivos. Unidad 2 Aprendamos algo mas sobre los ecosistemas! Unidad 2 Aprendamos algo mas sobre",
+    "DBA 1: Comprende que la magnitud y la direccion en que se aplica una fuerza puede producir cambios en la forma como se mueve un objeto (direccion y rapidez).",
+    "DBA 6: Comprende que los organismos cumplen distintas funciones en cada uno de los niveles troficos y que las relaciones entre ellos pueden representarse en cadenas y redes alimenticias.",
+    "DBA 4: Comprende que las fases de la Luna se deben a la posicion relativa del Sol, la Luna y la Tierra a lo largo del mes.",
+    "DBA 7: Comprende que existen distintos tipos de ecosistemas (terrestres y acuaticos) y que sus caracteristicas fisicas (temperatura, humedad, tipos de suelo, altitud) permiten que habiten en ellos diferentes seres vivos.",
+    "DBA 2: Comprende los efectos y las ventajas de utilizar maquinas simples en diferentes tareas que requieren la aplicacion de una fuerza."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "El planeta Tierra: un lugar maravilloso para vivir",
+      "desempeno_general": "Reconozco las características del sistema solar y de nuestro planeta Tierra.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "¡Aprendamos más sobre el sistema solar!",
+          "concepto": "Sistema solar, planetas, Sol, satélites",
+          "desempeno": "Identifico algunas características de nuestro sistema solar.",
+          "ejes_tematicos": [
+            "Sistema solar",
+            "planetas",
+            "Sol",
+            "satélites"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "colores",
+            "imágenes de referencia"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento con mis familiares acerca de las caracteristicas que hacen posible la vida en el",
+              "descripcion": "Comento con mis familiares acerca de las caracteristicas que hacen posible la vida en el planeta Tierra",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Elaboro un modelo de cohete o nave espacial que se podria utilizar para viajar al",
+              "descripcion": "Elaboro un modelo de cohete o nave espacial que se podria utilizar para viajar al espacio Para ello, utilizo materiales que encuentre en mi casa, como semillas, hilo, lana, vasos plasticos y materiales reciclables",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Dialogo con mis familiares sobre la importancia que tienen las naves espaciales y los trajes",
+              "descripcion": "Dialogo con mis familiares sobre la importancia que tienen las naves espaciales y los trajes protectores para viajar fuera del planeta Tierra",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, llevo el modelo de cohete o nave espacial que elabore y",
+              "descripcion": "En la proxima clase, llevo el modelo de cohete o nave espacial que elabore y lo explico a mis companeros y companeras S ab i as q u e... El primer astronauta de origen colombiano se llama George Zamka. Este hombre piloteo el trasbordador Discovery hacia la Estacion Espacial Internacional, en el ano 2007. Mostramos nuestro trabajo al profesor o a la",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos con atencion la siguiente informacion: Conozcamos los movimientos de traslacion y de rotacion de",
+              "descripcion": "Leemos con atencion la siguiente informacion: Conozcamos los movimientos de traslacion y de rotacion de la Tierra! En la antiguedad, se creia que la Tierra no se movia, sino que era el Sol quien se movia alrededor de la Tierra. En la actualidad, se sabe que no es asi. La Tierra, al igual que los demas planetas del sistema solar, gira alrededor del ",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos con atencion la siguiente informacion: Ciencias Naturales 4 20",
+              "descripcion": "Leemos con atencion la siguiente informacion: Ciencias Naturales 4 20",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a Hace cuantos anos el ser humano llego a la",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a Hace cuantos anos el ser humano llego a la Luna por primera vez? b Cual es la importancia de este hecho para el ser humano? c Por que es importante que el ser humano conozca otros planetas? d Por que los astronautas deben usar trajes protectores cuando se encuentran fuera del planeta Tierra? e Por que lo",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Estudiemos los efectos de los movimientos de rotación y traslación de la Tierra",
+          "concepto": "Rotación, traslación, día, noche, estaciones",
+          "desempeno": "Describo los movimientos de la Tierra y sus efectos.",
+          "ejes_tematicos": [
+            "Rotación",
+            "traslación",
+            "día",
+            "noche",
+            "estaciones"
+          ],
+          "recursos": [
+            "Linterna",
+            "esfera",
+            "cuaderno"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Realizo la siguiente actividad: a Tomo un pliego de cartulina y lo divido en dos",
+              "descripcion": "Realizo la siguiente actividad: a Tomo un pliego de cartulina y lo divido en dos partes iguales b En una de las partes, represento el movimiento de rotacion de la Tierra En la otra parte, represento el movimiento de traslacion c Debajo de las representaciones, escribo como se relacionan los movimientos de rotacion y traslacion con la existencia del",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Luego, comentamos: a Cuales semejanzas encontramos entre los movimientos del trompo y el movimiento de",
+              "descripcion": "Luego, comentamos: a Cuales semejanzas encontramos entre los movimientos del trompo y el movimiento de rotacion de la Tierra? b Por que la Tierra nunca deja de girar y el trompo si? Trabajo individual Debemos cuidar a los ninos y ninas de nuestra familia para que no sufran quemaduras por el sol. 26 Ciencias Naturales 4",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leo con atencion la siguiente informacion: Debemos protegernos de los rayos del sol! Es recomendable",
+              "descripcion": "Leo con atencion la siguiente informacion: Debemos protegernos de los rayos del sol! Es recomendable exponerse cada dia a la luz solar, durante cierta cantidad de tiempo. La radiacion ultravioleta de la luz solar ayuda a que una sustancia que se localiza en la piel se transforme en vitamina D. Esta vitamina permite formar huesos fuertes. Cuando est",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Comparto con mi familia la informacion que aprendi en el texto de la actividad B4:",
+              "descripcion": "Comparto con mi familia la informacion que aprendi en el texto de la actividad B4: Cuidados que debemos tener con los rayos del sol De esta forma, nos informamos sobre la importancia de protegernos de los rayos solares",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Teniendo en cuenta nuestra consulta y la infografia de la actividad A3, escribimos en el",
+              "descripcion": "Teniendo en cuenta nuestra consulta y la infografia de la actividad A3, escribimos en el cuaderno en que consisten las fases lunares Acompanamos nuestro escrito con los dibujos necesarios",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "La Luna: nuestro satélite natural",
+          "concepto": "Fases de la Luna, movimientos lunares",
+          "desempeno": "Identifico las características de la Luna y sus fases.",
+          "ejes_tematicos": [
+            "Fases de la Luna",
+            "movimientos lunares"
+          ],
+          "recursos": [
+            "Calendario lunar",
+            "cuaderno"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comento con mis padres o familiares lo que aprendi en la guia sobre las fases",
+              "descripcion": "Comento con mis padres o familiares lo que aprendi en la guia sobre las fases de la Luna",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En un almanaque o calendario, busco el mes del ano en el que nos encontramos",
+              "descripcion": "En un almanaque o calendario, busco el mes del ano en el que nos encontramos Identifico los dias que corresponden a cada fase lunar",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comentamos: a Por que se producen las fases de la Luna? b Como influyen las",
+              "descripcion": "Comentamos: a Por que se producen las fases de la Luna? b Como influyen las fases de la Luna en las diferentes actividades del ser humano?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Realizamos las siguientes actividades: a En libros de texto o en Internet, consultamos informacion sobre",
+              "descripcion": "Realizamos las siguientes actividades: a En libros de texto o en Internet, consultamos informacion sobre cosechas o actividades de siembra que se realicen segun las fases de la Luna b Explicamos por que es importante realizar estas actividades en estas fases j Colocamos el circulo de cartulina azul sobre el circulo negro, uniendolos de forma exacta",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos con atencion el siguiente poema: Pero va creciendo hasta verse mas, es cuarto creciente",
+              "descripcion": "Leemos con atencion el siguiente poema: Pero va creciendo hasta verse mas, es cuarto creciente esta faz lunar. Si la luz visible, empieza a menguar, cuarto menguante se puede llamar. Si en el recorrido queda frente al Sol, es la Luna llena, Que hermoso farol! Las fases dependen de la posicion terrestre o lunar, respecto del Sol. Si entre Tierra y S",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Elegimos los versos o estrofas que mas nos gusten del poema anterior Luego: Escribimos los",
+              "descripcion": "Elegimos los versos o estrofas que mas nos gusten del poema anterior Luego: Escribimos los versos o estrofas que escogimos en una hoja b Acompanamos estos versos con un dibujo c Obsequiamos nuestro trabajo a una companera o companero a traves del Correo amistoso a 33La profesora o el profesor valora nuestro progreso. 34 Ciencias Naturales 4",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "¿Cómo son las capas externas de la Tierra?",
+          "concepto": "Corteza, hidrosfera, atmósfera",
+          "desempeno": "Describo las capas externas de la Tierra.",
+          "ejes_tematicos": [
+            "Corteza",
+            "hidrosfera",
+            "atmósfera"
+          ],
+          "recursos": [
+            "Láminas",
+            "colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Copio la siguiente actividad en el cuaderno Relaciono cada lugar de la izquierda con la",
+              "descripcion": "Copio la siguiente actividad en el cuaderno Relaciono cada lugar de la izquierda con la respectiva capa de la Tierra de la derecha: • La superficie del mar • La corteza continental • Los rios, lagunas y quebradas • Las nubes • Las cordilleras • La capa de ozono • El oxigeno que respiramos • La Tierra de cultivo",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En la biblioteca o en Internet, consulto sobre alguna tecnologia que genere clorofluorocarbonos (CFCs) y",
+              "descripcion": "En la biblioteca o en Internet, consulto sobre alguna tecnologia que genere clorofluorocarbonos (CFCs) y la manera como afecta la capa de ozono",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Teniendo en cuenta la consulta anterior, elaboro en mi cuaderno un pequeno escrito en el",
+              "descripcion": "Teniendo en cuenta la consulta anterior, elaboro en mi cuaderno un pequeno escrito en el que resuma esta informacion",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Pregunto a mis familiares si usan algun producto que produzca CFCs Si es asi, identificamos",
+              "descripcion": "Pregunto a mis familiares si usan algun producto que produzca CFCs Si es asi, identificamos productos que puedan reemplazarlo Litosfera Atmosfera Hidrosfera Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. 43 5 Desempeno: • Diferen",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "A partir del analisis de la lectura anterior, reflexionamos: a De que manera nos puede",
+              "descripcion": "A partir del analisis de la lectura anterior, reflexionamos: a De que manera nos puede afectar el calentamiento global? b Por que hoy dia el calentamiento global esta causando tanta preocupacion? c Que acciones podemos realizar para mitigar los impactos causados por el calentamiento global?",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Escribimos en el cuaderno un resumen del recuadro del numeral 9 y de las conclusiones",
+              "descripcion": "Escribimos en el cuaderno un resumen del recuadro del numeral 9 y de las conclusiones a las que llegamos en el numeral 10 El profesor o la profesora valora mis aprendizajes. Nuestras acciones pueden poner en riesgo la vida. Por ejemplo: las emisiones de gases de efecto invernadero afectan a la atmosfera; los derrames de petroleo y el uso indiscrimi",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "¡Estudiemos las capas internas del planeta Tierra!",
+          "concepto": "Manto, núcleo, estructura interna",
+          "desempeno": "Identifico las capas internas de la Tierra.",
+          "ejes_tematicos": [
+            "Manto",
+            "núcleo",
+            "estructura interna"
+          ],
+          "recursos": [
+            "Plastilina",
+            "cartulina"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Elaboro un album sobre la Tierra! Sigo las indicaciones: a Elaboro un cuadernillo con hojas",
+              "descripcion": "Elaboro un album sobre la Tierra! Sigo las indicaciones: a Elaboro un cuadernillo con hojas de cuaderno o papel reciclado b Diseno una portada para el cuadernillo Puedo utilizar una imagen o un dibujo del planeta Tierra c Creo un titulo adecuado para mi album Por ejemplo: El planeta viviente o Gaia, el sitio de la vida",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, busco en revistas o periodicos imagenes que representen las capas",
+              "descripcion": "Con ayuda de mis familiares, busco en revistas o periodicos imagenes que representen las capas internas de la Tierra Las pego en mi album y, junto a ellas, escribo un pequeno texto sobre las caracteristicas de cada una de las capas",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, enseno mi album a los companeros y las companeras de clase",
+              "descripcion": "En la proxima clase, enseno mi album a los companeros y las companeras de clase",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos con atencion el siguiente texto informativo: La hipotesis de “Gaia” En 1979, el cientifico",
+              "descripcion": "Leemos con atencion el siguiente texto informativo: La hipotesis de “Gaia” En 1979, el cientifico britanico James Lovelock y la microbiologa americana Lynn Margulis propusieron una teoria en la que consideraban a la Tierra como un ser vivo. Esta teoria cientifica fue llamada Gaia, nombre que se refiere a la diosa griega de la Tierra. La teoria prop",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "De acuerdo con la informacion anterior, dialogamos sobre las siguientes preguntas: a En que consiste",
+              "descripcion": "De acuerdo con la informacion anterior, dialogamos sobre las siguientes preguntas: a En que consiste la teoria de Gaia? b Quien controla y regula la temperatura y el ambiente de Gaia? Recordamos informacion de guias anteriores c A que se refiere el texto cuando dice que hemos puesto en riesgo la salud de Gaia? d Que pasaria con los seres vivos si G",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribimos las conclusiones del numeral anterior en el cuaderno de Ciencias Naturales",
+              "descripcion": "Escribimos las conclusiones del numeral anterior en el cuaderno de Ciencias Naturales",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "En la biblioteca o en Internet, consultamos informacion sobre lo siguiente: a Cuales son las",
+              "descripcion": "En la biblioteca o en Internet, consultamos informacion sobre lo siguiente: a Cuales son las capas que conforman el manto de la Tierra? b Que es la atmosfera? Cuales son sus capas?",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a Por que se concentran en el nucleo de la",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a Por que se concentran en el nucleo de la Tierra los compuestos mas pesados? b Cuales son los principales ecosistemas presentes en la corteza terrestre?",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "En el cuaderno de Ciencias Naturales, escribimos las respuestas del numeral anterior La profesora o",
+              "descripcion": "En el cuaderno de Ciencias Naturales, escribimos las respuestas del numeral anterior La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. El profesor o la profesora valora el correcto desarrollo de nuestras actividades. Actividades de aplicacion C Trabajo con mi familia 49 6 Desempeno:",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "¡Conozcamos los ecosistemas de nuestro país!",
+          "concepto": "Ecosistemas, biodiversidad, regiones naturales",
+          "desempeno": "Reconozco los principales ecosistemas de Colombia.",
+          "ejes_tematicos": [
+            "Ecosistemas",
+            "biodiversidad",
+            "regiones naturales"
+          ],
+          "recursos": [
+            "Mapas",
+            "cuaderno"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, respondo las siguientes preguntas en el cuaderno Si es necesario,",
+              "descripcion": "Con ayuda de mis familiares, respondo las siguientes preguntas en el cuaderno Si es necesario, consulto informacion en la biblioteca o en Internet: a Cuales son las plantas y animales mas comunes en mi region? Dibujo estos animales y plantas b Cual o cuales ecosistemas encuentro en la region donde vivo? c Que cambios se han presentado en los ecosis",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Busco dos recipientes o cajas para reciclar el papel y el plastico que se produce",
+              "descripcion": "Busco dos recipientes o cajas para reciclar el papel y el plastico que se produce en mi casa Comento con mis familiares los beneficios que tiene el reciclaje para los ecosistemas Mis compromisos personales y sociales Mostramos nuestro trabajo al profesor o a la profesora. Actividades de aplicacion C La profesora o el profesor valora los aprendizaje",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Las nubes y los eventos relacionados con el clima suceden en A",
+              "descripcion": "Las nubes y los eventos relacionados con el clima suceden en A. el nucleo. B. la atmosfera. C. la litosfera. D. el manto.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos y comentamos: Como avanzo en el desarrollo de mis competencias? 56",
+              "descripcion": "Leemos y comentamos: Como avanzo en el desarrollo de mis competencias? 56",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "El relieve, es decir, las diferentes formas de la Tierra, como las cordilleras, volcanes, nevados,",
+              "descripcion": "El relieve, es decir, las diferentes formas de la Tierra, como las cordilleras, volcanes, nevados, hacen parte de A. la atmosfera. B. la corteza. C. la hidrosfera. D. el nucleo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Una de las causas del calentamiento global es el aumento de CO2",
+              "descripcion": "Una de las causas del calentamiento global es el aumento de CO2. Este fenomeno ocurre en la capa de Tierra llamada A. atmosfera. B. litosfera. C. biosfera. D. hidrosfera. II. A partir del siguiente texto, respondo la pregunta 7: Las sustancias que producen el efecto invernadero en el planeta son conocidas como . Si aumenta la concentracion de estas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Para completar los espacios en blanco del texto anterior, se debe colocar respectivamente las palabras",
+              "descripcion": "Para completar los espacios en blanco del texto anterior, se debe colocar respectivamente las palabras A. nutrientes-enfrie el planeta. B. gases de efecto invernadero-se eleve la temperatura del planeta. C. agua-se caliente el espacio exterior. D. gases de efecto invernadero-se enfrie el planeta. III. Respondo las preguntas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Las fases de la Luna se producen por las distintas posiciones entre el Sol, la",
+              "descripcion": "Las fases de la Luna se producen por las distintas posiciones entre el Sol, la Luna y el planeta Tierra. La fase de luna llena se produce porque A. la Luna tiene luz propia. B. la Luna se interpone entre el Sol y la Tierra. C. los rayos de luz solar pasan por encima y por debajo de la Tierra e iluminan la Luna. D. la Luna deja pasar los rayos de lu",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Los efectos que NO se producen por el movimiento de rotacion de la Tierra son",
+              "descripcion": "Los efectos que NO se producen por el movimiento de rotacion de la Tierra son A. la aparicion de vientos y mareas y las estaciones climaticas. B. la desviacion de la trayectoria de los objetos. C. la aparicion del dia y la noche. D. la destruccion de la capa de ozono, el calentamiento global y la gravedad. 58IV. Respondo las preguntas 10 a 13 tenie",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Los ecosistemas de las imagenes anteriores corresponden respectivamente a A",
+              "descripcion": "Los ecosistemas de las imagenes anteriores corresponden respectivamente a A. paramo, estuario, desierto, manglar y nevado. B. nevado, manglar, bosque seco, selva tropical y paramo. C. paramo, bosque tropical humedo, desierto, manglar y nevado. D. paramo, selva tropical, desierto, manglar y bosque seco.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Los paramos son importantes para otros ecosistemas porque A",
+              "descripcion": "Los paramos son importantes para otros ecosistemas porque A. tienen un gran numero de especies depredadoras. B. en ellos nacen los rios de los cuales se benefician otros ecosistemas. C. en ellos no se presenta el ciclo del agua. D. hay especies que se adaptan alli por sus calidas temperaturas. 12.Los arboles que habitan en el ecosistema 2 se caract",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "En el ecosistema 3 encontramos condiciones de escasez de agua y A",
+              "descripcion": "En el ecosistema 3 encontramos condiciones de escasez de agua y A. altas temperaturas en el dia y bajas en la noche. B. lagos y mares. C. fuertes lluvias y humedad. D. paramos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Colombia tiene hermosos nevados",
+              "descripcion": "Colombia tiene hermosos nevados. Esta clase de ecosistema es uno de los mas importantes que existe en la Tierra. En relacion con este tipo de ecosistema podemos afirmar que 59La profesora o el profesor valora los aprendizajes alcanzadoscon el desarrollo de esta unidad y registra mi progreso. A. evitan el crecimiento de otras plantas. B. son ecosist",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Aprendamos algo más sobre los ecosistemas",
+      "desempeno_general": "Comprendo las relaciones entre los seres vivos y su entorno.",
+      "guias": [
+        {
+          "numero": 7,
+          "titulo": "Factores bióticos y abióticos",
+          "concepto": "Seres vivos, factores físicos",
+          "desempeno": "Diferencio factores bióticos y abióticos en los ecosistemas.",
+          "ejes_tematicos": [
+            "Seres vivos",
+            "factores físicos"
+          ],
+          "recursos": [
+            "Fichas",
+            "cuaderno"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Recuerdo la informacion que aprendi sobre los ecosistemas",
+              "descripcion": "Recuerdo la informacion que aprendi sobre los ecosistemas. Luego, pienso en un individuo, una poblacion y una comunidad biologica que habite en un ecosistema de mi region. Luego: a. Escribo un pequeno cuento donde el personaje principal sea el individuo que pense. Tengo en cuenta nombrar la poblacion, la comunidad biologica y los factores bioticos ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En la proxima clase, comparto el cuento que escribi con los companeros y companeras de",
+              "descripcion": "En la proxima clase, comparto el cuento que escribi con los companeros y companeras de clase. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. La profesora o el profesor valora el trabajo que realizamos. Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos las siguientes oraciones",
+              "descripcion": "Leemos las siguientes oraciones. Luego, decimos cuales oraciones son verdaderas y cuales son falsas: a. La rana hace parte de los factores abioticos del ecosistema. (falsa) b. El gallo hace parte de los factores abioticos del ecosistema. ( ) c. Las plantas hacen parte de los factores bioticos del ecosistema. ( ) d. El agua hace parte de los factore",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Escogemos un lugar cercano a nuestra escuela o colegio, donde sea posible observar un ecosistema",
+              "descripcion": "Escogemos un lugar cercano a nuestra escuela o colegio, donde sea posible observar un ecosistema. Luego, realizamos lo siguiente: a. En el cuaderno, elaboramos una lista de los seres vivos y los seres inertes que encontramos en este lugar. b. Volvemos al salon de clase. c. Luego, clasificamos los seres de la lista en factores bioticos y abioticos. ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Identificamos conceptos. Realizamos lo siguiente: Actividades de aplicacion C Trabajo con mi familia e c",
+              "descripcion": "Identificamos conceptos. Realizamos lo siguiente: Actividades de aplicacion C Trabajo con mi familia e c o s i s t e m a y t a o r e g i s s r o s r r m r g e n c p e s t a t u e t x i e e a s y b i n p o b l a c i o n a c i d e h a b i t a t j i d a b c a o e o n i o p a e r t a n l l l t s a d b i o t i c o s t a e. En las fichas, escribimos el s",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos la informacion del texto de la siguiente pagina: 68 Ciencias Naturales 4",
+              "descripcion": "Leemos la informacion del texto de la siguiente pagina: 68 Ciencias Naturales 4",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "La energía fluye en los ecosistemas",
+          "concepto": "Cadenas y redes tróficas",
+          "desempeno": "Identifico las relaciones entre los seres vivos.",
+          "ejes_tematicos": [
+            "Cadenas y redes tróficas"
+          ],
+          "recursos": [
+            "Cartulina",
+            "marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En el cuaderno, realizo las siguientes actividades: a",
+              "descripcion": "En el cuaderno, realizo las siguientes actividades: a. Identifico algunos animales de mi region que formen parte de una cadena alimenticia. b. Dibujo la cadena alimenticia a la que pertenecen estos animales. c. Explico a mis familiares como fluye la energia en esta cadena alimenticia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con mis familiares, comento la importancia de cuidar nuestro medio ambiente y de preservar las",
+              "descripcion": "Con mis familiares, comento la importancia de cuidar nuestro medio ambiente y de preservar las especies animales y vegetales. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Actividades de aplicacion C Trabajo con mi familia 74 9 Ciencias Naturales 4 Desempeno: • Reconozco la impo",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Dialogamos sobre lo siguiente: a",
+              "descripcion": "Dialogamos sobre lo siguiente: a. De acuerdo con lo que hemos aprendido sobre las cadenas alimenticias, que consecuencias tiene la extincion de los animales y plantas para los humedales? b. Despues de talar los arboles o eliminar de un ecosistema sus plantas, como podria recuperarse el equilibrio de este lugar?",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "El suelo: sustento de la vida en el planeta",
+          "concepto": "Suelo, nutrientes",
+          "desempeno": "Represento cadenas alimentarias de diferentes ecosistemas.",
+          "ejes_tematicos": [
+            "Suelo",
+            "nutrientes"
+          ],
+          "recursos": [
+            "Muestras de suelo"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pregunto a mis familiares sobre los metodos o tecnicas que utilizan para abonar el suelo",
+              "descripcion": "Pregunto a mis familiares sobre los metodos o tecnicas que utilizan para abonar el suelo y sembrar arboles o plantas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Recuerdo lo que aprendi en la guia sobre los horizontes del suelo y sus caracteristicas",
+              "descripcion": "Recuerdo lo que aprendi en la guia sobre los horizontes del suelo y sus caracteristicas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Luego, con ayuda de mis familiares, realizo las siguientes actividades: a",
+              "descripcion": "Luego, con ayuda de mis familiares, realizo las siguientes actividades: a. Consigo los siguientes materiales: La profesora o el profesor revisa mis trabajos, valora mis desempenos y registra mi progreso. Actividades de aplicacion C Trabajo con mi familia Materiales • Tres vasijas o materas marcadas con los numeros 1, 2 y 3 respectivamente. • Semill",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Buscamos un lugar para plantar un arbol o una planta",
+              "descripcion": "Buscamos un lugar para plantar un arbol o una planta. Hacemos la siguiente promesa cuando estemos sembrando nuestras plantas o arboles:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con el profesor o la profesora, dialogamos sobre los cuidados que debemos tener con el",
+              "descripcion": "Con el profesor o la profesora, dialogamos sobre los cuidados que debemos tener con el suelo para conservar los arboles y otras plantas de nuestra region. Mis compromisos personales y sociales Trabajo en equipo Reconozco la importancia de las plantas de mi region. 80 Ciencias Naturales 4",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "¡Cuidemos los recursos hídricos!",
+          "concepto": "Agua, conservación",
+          "desempeno": "Reconozco la importancia del suelo para los seres vivos.",
+          "ejes_tematicos": [
+            "Agua",
+            "conservación"
+          ],
+          "recursos": [
+            "Carteles"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pregunto a mis familiares si los recursos hidricos de nuestra region sufren contaminacion",
+              "descripcion": "Pregunto a mis familiares si los recursos hidricos de nuestra region sufren contaminacion. Luego, dialogo con ellos sobre algunas acciones que se podrian realizar para que no se siga contaminando el agua de este recurso hidrico.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Elaboro un cartel donde explique los tipos de contaminacion que pueden presentar los recursos hidricos",
+              "descripcion": "Elaboro un cartel donde explique los tipos de contaminacion que pueden presentar los recursos hidricos. En la proxima clase, expongo mi cartel a los demas companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparto con los ninos y ninas de mi familia lo que aprendi acerca del uso",
+              "descripcion": "Comparto con los ninos y ninas de mi familia lo que aprendi acerca del uso adecuado de nuestros recursos hidricos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En compania del profesor o la profesora, realizamos las siguientes actividades: a",
+              "descripcion": "En compania del profesor o la profesora, realizamos las siguientes actividades: a. Salimos del salon de clase. Visitamos algunos lugares de la escuela o el colegio en los cuales se utilice el agua en diferentes labores: •Lavamanos. •Tanque. •Lavaderos. •Lavaplatos. •Sanitarios. b. Observamos si en estos lugares hay desperdicio de agua, goteo de lla",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con ayuda del profesor o la profesora y el delegado del Comite de Ambiente, realizamos",
+              "descripcion": "Con ayuda del profesor o la profesora y el delegado del Comite de Ambiente, realizamos una campana para prevenir el desperdicio de agua en los lugares que visitamos en la actividad anterior. Para llevar a cabo la campana, realizamos lo siguiente: a. Del Centro de recursos, traemos los siguientes materiales: •Medio pliego de cartulina. •Hojas de col",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Los parques naturales",
+          "concepto": "Conservación, áreas protegidas",
+          "desempeno": "Valoro la importancia del agua y propongo acciones para su cuidado.",
+          "ejes_tematicos": [
+            "Conservación",
+            "áreas protegidas"
+          ],
+          "recursos": [
+            "Recursos impresos"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comparto con mis familiares la informacion que aprendi sobre los parques naturales de nuestro pais",
+              "descripcion": "Comparto con mis familiares la informacion que aprendi sobre los parques naturales de nuestro pais. Luego, les pregunto: a. Conocen algun parque nacional natural? Cual? b. Por que creen que los parques naturales son importantes?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Teniendo en cuenta lo aprendido en la guia y con ayuda de mis familiares, realizo",
+              "descripcion": "Teniendo en cuenta lo aprendido en la guia y con ayuda de mis familiares, realizo las siguientes actividades: a. En un octavo de cartulina, elaboro una historieta sobre la importancia de los parques naturales. b. En la proxima clase, comparto mi historieta con los demas companeros y companeras. Mostramos nuestro trabajo al profesor o a la profesora",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos con atencion el siguiente texto: Cuidemos los recursos hidricos de los parques nacionales naturales!",
+              "descripcion": "Leemos con atencion el siguiente texto: Cuidemos los recursos hidricos de los parques nacionales naturales! Como vimos en grados anteriores, nuestro pais es uno de los mas ricos en biodiversidad. Esta diversidad tanto de flora como de fauna, la podemos apreciar en los parques nacionales naturales. Estos lugares tambien albergan importantes extensio",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la biblioteca o Internet, buscamos la siguiente informacion sobre el parque nacional natural mas",
+              "descripcion": "En la biblioteca o Internet, buscamos la siguiente informacion sobre el parque nacional natural mas cercano al lugar donde vivimos: • Nombre del parque natural. • Objetivos de conservacion o servicios ambientales. • Recursos que protege el parque. • Ruta o recorrido para llegar al parque. • Actividades que podemos realizar alli y que ayudan en la c",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Teniendo en cuenta la informacion consultada, realizamos lo siguiente: a",
+              "descripcion": "Teniendo en cuenta la informacion consultada, realizamos lo siguiente: a. Escribimos la informacion mas importante en el cuaderno. b. Compartimos la informacion sobre este parque con los demas companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Comentamos: a. Que tipo de recursos se protegen en los parques nacionales naturales? b. En",
+              "descripcion": "Comentamos: a. Que tipo de recursos se protegen en los parques nacionales naturales? b. En cual parque nacional natural se protegen las fuentes de agua que abastecen la region donde vivimos? c. Por que se dice que los parques nacionales naturales son un patrimonio de la nacion?",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "¡Aprendamos a reciclar!",
+          "concepto": "Residuos, reciclaje",
+          "desempeno": "Reconozco la importancia de los parques naturales y reservas.",
+          "ejes_tematicos": [
+            "Residuos",
+            "reciclaje"
+          ],
+          "recursos": [
+            "Material reciclable"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, realizo las siguientes actividades: a",
+              "descripcion": "Con ayuda de mis familiares, realizo las siguientes actividades: a. Observo que clase de residuos solidos se producen en mi casa. b. Luego, explico a mis familiares lo que aprendi en la guia sobre el reciclaje de residuos solidos. c. Buscamos canecas u otros recipientes que podamos adaptar para realizar el reciclaje de los residuos solidos. Tengo e",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En la proxima clase, le cuento a mis companeros y companeras como realice la actividad",
+              "descripcion": "En la proxima clase, le cuento a mis companeros y companeras como realice la actividad de reciclaje con mi familia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Si desapareciera el organismo numero 2 que representa un consumidor de primer orden A",
+              "descripcion": "Si desapareciera el organismo numero 2 que representa un consumidor de primer orden A. aumentaria la poblacion de organismos descomponedores. B. la cadena alimenticia no se afectaria. C. se pondria en peligro la existencia de otros organismos. D. los productores desaparecerian.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "El organismo numero 1 es importante en los ecosistemas porque A",
+              "descripcion": "El organismo numero 1 es importante en los ecosistemas porque A. constituye el primer organismo de la piramide trofica. B. convierte la energia del sol en combustibles. C. contribuye a la conservacion de otros organismos. D. cumple todas las funciones anteriores.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "El organismo numero 4 es un organismo A",
+              "descripcion": "El organismo numero 4 es un organismo A. productor. B. consumidor de segundo orden. C. consumidor de primer orden. D. descomponedor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "El Sol brinda la energia necesaria para que los organismos productores elaboren su alimento",
+              "descripcion": "El Sol brinda la energia necesaria para que los organismos productores elaboren su alimento. En las imagenes, el organismo productor es A. 1 B. 2 C. 3 D. 5 3103 73% se entierra en depositos 13% 73% se entierra en depositos 13% II. El siguiente grafico muestra los resultados de una encuesta realizada por los estudiantes de la Institucion Simon Boliv",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "La cantidad de desechos solidos que se queman es mucho menor que la cantidad de",
+              "descripcion": "La cantidad de desechos solidos que se queman es mucho menor que la cantidad de desechos solidos que se se recicla A. reciclan. B. depositan en rellenos sanitarios. C. entierran en depositos abiertos. D. desechan.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "El grafico nos permite deducir que la mayor parte de los desechos solidos se A",
+              "descripcion": "El grafico nos permite deducir que la mayor parte de los desechos solidos se A. entierra. B. mantiene sobre la tierra. C. quema. D. recicla.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Los residuos solidos que se pueden aprovechar para aumentar la produccion de los suelos son",
+              "descripcion": "Los residuos solidos que se pueden aprovechar para aumentar la produccion de los suelos son los A. residuos inorganicos. B. residuos plasticos. C. residuos metalicos. D. residuos organicos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Una de las acciones que podemos realizar en casa y en la escuela en beneficio",
+              "descripcion": "Una de las acciones que podemos realizar en casa y en la escuela en beneficio del ambiente es A. sembrar arboles de porte alto. B. separar los residuos organicos de los inorganicos. C. clasificar los arboles mas altos. D. cubrir con tierra los residuos que se producen. III. Leo el siguiente texto y respondo las preguntas 11 y 12: Valentina sembro t",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "La conclusion a la cual llego Valentina es: A",
+              "descripcion": "La conclusion a la cual llego Valentina es: A. El suelo fertil proporciona a las plantas minerales necesarios para vivir. B. Las plantas se desarrollan bien en cualquier tipo de suelo. C. No interesa el tipo de suelo, lo mas importante es la cantidad de luz solar. D. No interesa el tipo de suelo, lo mas importante es la cantidad de agua.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "El suelo esta compuesto por minerales y otras sustancias que se han ido acumulando a",
+              "descripcion": "El suelo esta compuesto por minerales y otras sustancias que se han ido acumulando a traves del tiempo. Esto se debe a A. la adicion de fertilizantes en el suelo. 105B. la presencia de pesticidas y fungicidas. C. la descomposicion de la materia inorganica. D. la descomposicion de plantas, animales y otros seres. La profesora o el profesor valora lo",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Sustancias químicas y sus propiedades",
+      "desempeno_general": "Diferencia los conceptos de masa, peso, volumen y reconoce los cambios de estado.",
+      "guias": [
+        {
+          "numero": 13,
+          "titulo": "Un mundo de átomos y de moléculas",
+          "concepto": "Materia, átomos y modelos atómicos, moléculas",
+          "desempeno": "Explico las principales características de las partículas subatómicas que conforman el átomo. Explico cómo se asocian los átomos para formar moléculas.",
+          "ejes_tematicos": [
+            "Materia",
+            "átomos y modelos atómicos",
+            "moléculas"
+          ],
+          "recursos": [
+            "Tizas",
+            "hojas blancas",
+            "lápices de colores",
+            "regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Comparto con mis familiares los conocimientos que aprendi sobre la materia y el atomo, en",
+              "descripcion": "Comparto con mis familiares los conocimientos que aprendi sobre la materia y el atomo, en esta guia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Respondo en el cuaderno: a",
+              "descripcion": "Respondo en el cuaderno: a. Por que es importante conocer como esta conformada la materia? b. Cuales son las particulas que conforman el atomo? Que cargan tienen estas particulas?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con ayuda de mis familiares, elaboro un modelo estructural del atomo",
+              "descripcion": "Con ayuda de mis familiares, elaboro un modelo estructural del atomo. Para ello, utilizo materiales comunes como plastilina, icopor, alambre, entre otros.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, llevo mi trabajo y lo comparto con mis companeros y companeras",
+              "descripcion": "En la proxima clase, llevo mi trabajo y lo comparto con mis companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con ayuda de mis familiares, organizo un lugar seguro para guardar las sustancias que puedan",
+              "descripcion": "Con ayuda de mis familiares, organizo un lugar seguro para guardar las sustancias que puedan ser peligrosas. Presentamos nuestro trabajo al profesor o a la profesora. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. 115 14 Desempen",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos con atencion la siguiente informacion: La radiactividad En la naturaleza existen atomos radioactivos",
+              "descripcion": "Leemos con atencion la siguiente informacion: La radiactividad En la naturaleza existen atomos radioactivos. Estos atomos son inestables, es decir, que se desintegran, emitiendo grandes cantidades de energia en forma de radiacion. La radiacion es peligrosa para los seres vivos, ya que puede afectar el funcionamiento normal de su cuerpo. Sin embargo",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Dialogamos sobre el concepto de radiacion y su importancia para algunas investigaciones cientificas",
+              "descripcion": "Dialogamos sobre el concepto de radiacion y su importancia para algunas investigaciones cientificas. Mis compromisos personales y sociales Ciencias Naturales 4 114",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos y ponemos en practica la siguiente informacion: Sustancias quimicas peligrosas en casa Muchos productos",
+              "descripcion": "Leemos y ponemos en practica la siguiente informacion: Sustancias quimicas peligrosas en casa Muchos productos de uso frecuente en el hogar contienen sustancias peligrosas para nuestra salud y para el ambiente. Algunas normas importantes para prevenir accidentes con estas sustancias son: • Conservar los productos en el envase original. • Asegurarse",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Con el apoyo del delegado del Comite de Salud, dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Con el apoyo del delegado del Comite de Salud, dialogamos sobre las siguientes preguntas: a. Por que es importante seguir las normas que se presentan en el texto anterior? c. Cuales de las acciones o normas anteriores NO seguimos en casa? b. Cuales de los productos que utilizamos en la casa son peligrosos para nuestra salud? d. Que acciones nos com",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "¡Diferenciemos los conceptos de masa y peso!",
+          "concepto": "Masa y peso, unidades y patrones de medida de masa y peso",
+          "desempeno": "Comparo la masa y el peso de diferentes cuerpos a través de mediciones.",
+          "ejes_tematicos": [
+            "Masa y peso",
+            "unidades y patrones de medida de masa y peso"
+          ],
+          "recursos": [
+            "Barras de plastilina",
+            "balanza de platos",
+            "cucharas",
+            "balanza digital",
+            "arena",
+            "piedras",
+            "tarros pequeños",
+            "regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pregunto a las personas de mi comunidad: • Cuales instrumentos utilizan para medir la masa",
+              "descripcion": "Pregunto a las personas de mi comunidad: • Cuales instrumentos utilizan para medir la masa de objetos, alimentos y otros productos utilizados en nuestra region? En el cuaderno, escribo los nombres de estos objetos y los dibujo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, consigo un pedazo de plastilina o de arcilla y formo",
+              "descripcion": "Con ayuda de mis familiares, consigo un pedazo de plastilina o de arcilla y formo una esfera. Luego, moldeo un cubo con la misma plastilina o arcilla. Dibujo en el cuaderno la experiencia realizada.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Despues de realizar la experiencia anterior, respondo las preguntas en el cuaderno: a",
+              "descripcion": "Despues de realizar la experiencia anterior, respondo las preguntas en el cuaderno: a. Que sucede con la cantidad de masa de la plastilina o arcilla al formar el cubo? b. Si hago diferentes figuras, cambia el peso de la plastilina o arcilla?Por que? c. Explico cuales son las diferencias entre masa y peso. d. En la proxima clase, comparto mi trabajo",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En nuestro cuaderno, respondemos las siguientes preguntas: a",
+              "descripcion": "En nuestro cuaderno, respondemos las siguientes preguntas: a. Cuando vamos al medico, la balanza que se utiliza mide la masa o el peso de nuestro cuerpo? b. En cuales unidades de medida el medico presenta esta medicion?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Con la ayuda del Comite de Salud de nuestro salon, organizamos una campana para medir",
+              "descripcion": "Con la ayuda del Comite de Salud de nuestro salon, organizamos una campana para medir la masa corporal y talla de todos los ninos y ninas. A partir de estos resultados, comentamos con el profesor o la profesora acerca de las acciones que debemos realizar en beneficio de la salud de los ninos y las ninas de nuestro salon. La profesora o el profesor ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "¡Calculemos el volumen de algunos cuerpos!",
+          "concepto": "Concepto de volumen, instrumentos para medir el volumen de sustancias en estado líquido, sólido y gaseoso",
+          "desempeno": "Comparo el volumen de líquidos, sólidos y gases por medio de técnicas sencillas.",
+          "ejes_tematicos": [
+            "Concepto de volumen",
+            "instrumentos para medir el volumen de sustancias en estado líquido",
+            "sólido y gaseoso"
+          ],
+          "recursos": [
+            "Globos",
+            "vasos iguales",
+            "botellas",
+            "agua",
+            "jeringa",
+            "frasco de vidrio",
+            "piedra",
+            "probeta",
+            "regla",
+            "balde con agua",
+            "manguera"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, elaboro un instrumento para medir volumenes",
+              "descripcion": "Con ayuda de mis familiares, elaboro un instrumento para medir volumenes. Para ello, consigo un recipiente de viidrio y una jeringa. Realizo lo siguiente: a. Mido 10 mL de agua con una jeringa. Vierto los 10 mL de agua en un recipiente transparente limpio y seco. b. Luego, realizo una marca en el lugar al cual llega el agua. c. Repito este procedim",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de un familiar, busco algunos productos liquidos que haya en mi casa",
+              "descripcion": "Con ayuda de un familiar, busco algunos productos liquidos que haya en mi casa. Observo el volumen de contenido que indica cada frasco o envase.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, elaboro un cuadro como el siguiente",
+              "descripcion": "En el cuaderno, elaboro un cuadro como el siguiente. Lo completo con los volumenes de los liquidos que observe en la actividad anterior. Por ejemplo: La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. 130 16 Ciencias Naturales 4 Desempeno: • Identifico los cambios quimicos y fisicos ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "¡Diferenciemos los cambios físicos y los cambios químicos de la materia!",
+          "concepto": "Estados de la materia, cambios físicos y químicos, propiedades de la materia (peso, volumen, masa y densidad)",
+          "desempeno": "Identifico los cambios químicos y físicos de la materia.",
+          "ejes_tematicos": [
+            "Estados de la materia",
+            "cambios físicos y químicos",
+            "propiedades de la materia (peso",
+            "volumen",
+            "masa y densidad)"
+          ],
+          "recursos": [
+            "Varias tizas",
+            "vinagre",
+            "vasos",
+            "piedras",
+            "lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, elaboro el siguiente cuadro en el cuaderno",
+              "descripcion": "Con ayuda de mis familiares, elaboro el siguiente cuadro en el cuaderno. Luego, lo completo con el nombre de algunas sustancias en estado liquido, solido y gaseoso que usamos a diario en nuestra casa: cientifico Soy Sustancias solidas Sustancias liquidas Sustancias gaseosas",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Teniendo en cuenta el cuadro anterior, realizo las siguientes actividades en el cuaderno: a",
+              "descripcion": "Teniendo en cuenta el cuadro anterior, realizo las siguientes actividades en el cuaderno: a. Escojo una de las sustancias del cuadro. Represento un cambio fisico que sufra esta sustancia. b. Pienso si existe un cambio quimico que pueda generar cambios fisicos en esta sustancia. Si es asi, describo como se producen estos cambios.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Elaboro el siguiente esquema en el cuaderno",
+              "descripcion": "Elaboro el siguiente esquema en el cuaderno. Luego, con ayuda de mis familiares, escribo ejemplos de cambios fisicos y de cambios quimicos que observo en mi casa: La profesora o el profesor revisa mis trabajos, valora mis aprendizajes y registra mi progreso. Cambios fisicos Cambios quimicos",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, presento mi trabajo al profesor o a la profesora",
+              "descripcion": "En la proxima clase, presento mi trabajo al profesor o a la profesora. Actividades de aplicacion C Trabajo con mi familia 138 17 Ciencias Naturales 4 Desempenos: • Identifico algunas caracteristicas de las mezclas. • Diseno experiencias relacionadas con las mezclas y sus metodos de separacion. !Hagamos y comparemos mezclas! cientifico Soy 1. Experi",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "¡Hagamos y comparemos mezclas!",
+          "concepto": "Elementos, sustancias puras, compuestos, mezclas homogéneas y heterogéneas, métodos de separación de mezclas, combinaciones",
+          "desempeno": "Identifico algunas características de las mezclas. Diseño experiencias relacionadas con las mezclas y sus métodos de separación.",
+          "ejes_tematicos": [
+            "Elementos",
+            "sustancias puras",
+            "compuestos",
+            "mezclas homogéneas y heterogéneas",
+            "métodos de separación de mezclas",
+            "combinaciones"
+          ],
+          "recursos": [
+            "Frascos transparentes de boca ancha",
+            "agua",
+            "azúcar",
+            "aceite",
+            "cucharas",
+            "regla",
+            "vasos de vidrio o plástico",
+            "imán",
+            "tinta o colorante vegetal",
+            "azufre en polvo",
+            "limadura de hierro",
+            "hojas de papel"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leo con atencion y realizo las siguientes actividades: a",
+              "descripcion": "Leo con atencion y realizo las siguientes actividades: a. Identifico diferentes tipos de sustancias que se utilicen en mi casa. b. En el cuaderno, clasifico estas sustancias como mezclas homogeneas o heterogeneas. c. Luego, las clasifico segun sean compuestos o elementos quimicos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, elaboro un listado de acciones que podamos realizar para prevenir",
+              "descripcion": "Con ayuda de mis familiares, elaboro un listado de acciones que podamos realizar para prevenir accidentes con sustancias peligrosas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pienso en los metodos para separar las sustancias de una mezcla",
+              "descripcion": "Pienso en los metodos para separar las sustancias de una mezcla. Luego, propongo el nombre de aquellos que me sirvan para separar las sustancias de algunas de las mezclas que identifique en la actividad C1.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Elijo uno de los metodos de separacion de mezclas estudiados en la guia",
+              "descripcion": "Elijo uno de los metodos de separacion de mezclas estudiados en la guia. Luego, elaboro un cartel en el cual explique dicho metodo. En la proxima clase, expongo mi cartel. Presentamos nuestro trabajo al profesor o a la profesora. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con base en el texto anterior, dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Con base en el texto anterior, dialogamos sobre las siguientes preguntas: a. Cuales son las mezclas, elementos o compuestos que se mencionan en el texto? b. Cuales acciones responsables debemos tener en cuenta al manipular mezclas peligrosas? c. Por que son importantes para las personas ciertas sustancias creadas por el ser humano, como las medicin",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "La importancia de las mezclas en la vida diaria",
+          "concepto": "Mezclas y sus aplicaciones, sustancias tóxicas, precauciones con el uso de sustancias tóxicas",
+          "desempeno": "Identifico la importancia y los usos de algunas mezclas.",
+          "ejes_tematicos": [
+            "Mezclas y sus aplicaciones",
+            "sustancias tóxicas",
+            "precauciones con el uso de sustancias tóxicas"
+          ],
+          "recursos": [
+            "Harina de trigo",
+            "anilina mineral de colores",
+            "aceite",
+            "sal",
+            "azúcar",
+            "canela",
+            "cocoa",
+            "cinco huevos",
+            "una bolsa de leche",
+            "cinco naranjas",
+            "azúcar pulverizada"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Dialogo con mis familiares sobre la siguiente pregunta: • Por que es importante guardar las",
+              "descripcion": "Dialogo con mis familiares sobre la siguiente pregunta: • Por que es importante guardar las medicinas en lugares adecuados y tomarlas solamente cuando las haya recetado un medico?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el cuaderno, dibujo la siguiente imagen",
+              "descripcion": "En el cuaderno, dibujo la siguiente imagen. Luego, escribo si la sustancia que contiene el envase es una mezcla homogenea o heterogenea.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observo algunas de las sustancias que hay en mi casa, Luego: a",
+              "descripcion": "Observo algunas de las sustancias que hay en mi casa, Luego: a. Identifico las sustancias que representan algun peligro si no se utilizan con precaucion. b. Dialogo con mis familiares sobre las acciones que debemos realizar para utilizar adecuadamente estas mezclas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos con atencion el siguiente texto: El trabajo cientifico debe proteger el medio ambiente",
+              "descripcion": "Leemos con atencion el siguiente texto: El trabajo cientifico debe proteger el medio ambiente",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Teniendo en cuenta el texto anterior, realizamos lo siguiente: a",
+              "descripcion": "Teniendo en cuenta el texto anterior, realizamos lo siguiente: a. En la biblioteca o en Internet, consultamos informacion sobre cinco mezclas que se utilicen en la medicina, la ingenieria, la quimica o la fisica. Ciencias Naturales 4 154",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Una mezcla heterogenea se caracteriza porque A",
+              "descripcion": "Una mezcla heterogenea se caracteriza porque A. no tiene elementos ni compuestos quimicos. B. es imposible separar sus componentes. C. sus componentes se pueden distinguir facilmente. D. esta hecha de elementos quimicos unicamente. III. Las preguntas 7 a 10 se responden con base en la siguiente ilustracion: 156",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "La cantidad de 50 gramos que se miden en la balanza corresponden a la medida",
+              "descripcion": "La cantidad de 50 gramos que se miden en la balanza corresponden a la medida de A. el peso. C. la longitud. B. el volumen. D. la masa.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "La piedra que aparece en el platillo izquierdo de la balanza tiene una masa de",
+              "descripcion": "La piedra que aparece en el platillo izquierdo de la balanza tiene una masa de A.50 g. C.15 g. B.10 g. D.20 g.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "En la ilustracion, la probeta permite encontrar el volumen de un A",
+              "descripcion": "En la ilustracion, la probeta permite encontrar el volumen de un A. solido regular e irregular. C. gas. B. liquido. D. todas las anteriores.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "El corcho que esta en la probeta que contiene agua, flota porque A",
+              "descripcion": "El corcho que esta en la probeta que contiene agua, flota porque A. no tiene volumen. IV B. esta hecho de agua. C. tiene un volumen y desplaza agua hacia arriba. D. se evapora al tocar el agua. . A partir de la siguiente informacion, respondemos las preguntas 11 y 12: En un experimento se mezclo agua y un trozo de sodio metalico blanco. De inmediat",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Un cambio quimico ocurre cuando A",
+              "descripcion": "Un cambio quimico ocurre cuando A. los atomos pierden protones. B. los atomos de las moleculas se reacomodan para dar nuevas sustancias. C. los atomos de las moleculas cambian de color y forma. D. los atomos mantienen el mismo numero de electrones. La profesora o el profesor valora los aprendizajes alcanzadoscon el desarrollo de esta unidad y regis",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Fuerzas y movimiento",
+      "desempeno_general": "Relaciono las fuerzas y el movimiento de las máquinas simples más comunes en nuestro medio, reconociendo la importancia de los avances tecnológicos para el desarrollo de nuestra sociedad.",
+      "guias": [
+        {
+          "numero": 19,
+          "titulo": "¡Estudiemos las fuerzas y sus características!",
+          "concepto": "Fuerzas, magnitud y dirección, tipos de fuerzas",
+          "desempeno": "Identifico el concepto de fuerza y lo relaciono con el trabajo y el movimiento.",
+          "ejes_tematicos": [
+            "Fuerzas",
+            "magnitud y dirección",
+            "tipos de fuerzas"
+          ],
+          "recursos": [
+            "Tijeras",
+            "imán",
+            "puntillas",
+            "papel reciclado",
+            "peine",
+            "monedas",
+            "trozos de plástico",
+            "regla",
+            "lápices de colores",
+            "cartulina",
+            "marcadores de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Escribo el nombre de algunas labores o profesiones",
+              "descripcion": "Escribo el nombre de algunas labores o profesiones. Luego, las ordeno de mayor a menor teniendo en cuenta la fuerza que se necesita para realizarlas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Realizo las siguientes actividades: a",
+              "descripcion": "Realizo las siguientes actividades: a. Observo los juguetes que hay en mi casa o los de mis amigos o amigas. b. Identifico si los juguetes necesitan fuerza para funcionar o jugar con ellos. c. En el cuaderno, dibujo uno de los juguetes que necesita fuerza para funcionar. Senalo con flechas estas fuerzas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Enseno a mis familiares la forma adecuada de agacharse para levantar objetos pesados del suelo",
+              "descripcion": "Enseno a mis familiares la forma adecuada de agacharse para levantar objetos pesados del suelo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Consulto informacion sobre las causas de las enfermedades de la columna vertebral",
+              "descripcion": "Consulto informacion sobre las causas de las enfermedades de la columna vertebral. En el cuaderno, escribo lo que consulte. Lo comparto con mis companeros y companeras en la proxima clase. Actividades de aplicacion C La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Trabajo con mi f",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Compartimos las acciones que escribimos con los demas companeros y companeras",
+              "descripcion": "Compartimos las acciones que escribimos con los demas companeros y companeras. Luego, realizamos lo siguiente: a. Escogemos algunas de estas acciones. b. Escribimos las acciones que escogimos en una cartelera y las publicamos en el Periodico mural. Es importante seguir los consejos de salud para adquirir buenos habitos en nuestra vida diaria. 166 2",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "¡Experimentemos con los efectos que producen las fuerzas!",
+          "concepto": "Fuerzas de rozamiento, tipos de movimiento",
+          "desempeno": "Indago sobre las fuerzas que producen movimiento a partir de experiencias sencillas.",
+          "ejes_tematicos": [
+            "Fuerzas de rozamiento",
+            "tipos de movimiento"
+          ],
+          "recursos": [
+            "Pelotas de plástico",
+            "trompos",
+            "caja de cartón",
+            "libros",
+            "arena",
+            "piedras",
+            "talcos",
+            "regla",
+            "lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, realizo las siguientes actividades: a",
+              "descripcion": "Con ayuda de mis familiares, realizo las siguientes actividades: a. Elijo uno de los siguientes fenomenos que ocurren por la accion de una fuerza: • Un vaso que se desliza por una mesa. • Un ciclista que avanza en linea recta. • Un balon que rueda por el piso. b. En mi cuaderno, dibujo el fenomeno que elegi. Luego, marco las fuerzas que actuan en e",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Identifico como actuan algunas fuerzas en mi casa",
+              "descripcion": "Identifico como actuan algunas fuerzas en mi casa. Por ejemplo: cuales objetos se trasladan, rotan, oscilan o estan en reposo. Luego, escribo lo que observe en el cuaderno. Presento mi trabajo a la profesora o el profesor en la proxima clase.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, elaboramos los siguientes cuadros",
+              "descripcion": "En el cuaderno, elaboramos los siguientes cuadros. Luego, clasificamos los objetos de los recuadros, segun corresponda: 172 Ciencias Naturales 4",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos el siguiente texto: Las palancas son las maquinas mas simples Es dificil destapar una",
+              "descripcion": "Leemos el siguiente texto: Las palancas son las maquinas mas simples Es dificil destapar una botella de gaseosa si no tenemos un destapador a la mano. El destapador es una palanca que modifica la magnitud o la direccion de nuestra fuerza al momento de realizar un trabajo, el cual es el producto de la fuerza aplicada sobre un cuerpo y el desplazamie",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos con atencion y comentamos: El valor de la fuerza de voluntad Quiza la fuerza",
+              "descripcion": "Leemos con atencion y comentamos: El valor de la fuerza de voluntad Quiza la fuerza mas poderosa que existe es la de nuestra mente. La humanidad ha logrado progresos sorprendentes en todo nivel porque su voluntad no le ha permitido rendirse ante las dificultades. Inventos como la aviacion, el cine, los automoviles, los telefonos moviles, los transb",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Teniendo en cuenta el texto de la actividad anterior, escribo en el cuaderno las ideas",
+              "descripcion": "Teniendo en cuenta el texto de la actividad anterior, escribo en el cuaderno las ideas mas importantes de la lectura.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leo y pienso en la siguiente frase",
+              "descripcion": "Leo y pienso en la siguiente frase. Luego, respondo en el cuaderno: “La gota abre la piedra, no por su fuerza sino por su constancia”. (Ovidio) a. Que relacion tiene la frase anterior con el trabajo que desarrolla un cientifico? b. Por que es importante ser constantes en nuestras tareas?",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comparto mi trabajo con mis companeros y companeras",
+              "descripcion": "Comparto mi trabajo con mis companeros y companeras. Presento mi trabajo al profesor o a la profesora. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Trabajo individual 173 21 Desempenos: • Identifico las maquinas simples mas com",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "¡Conozcamos algunas máquinas simples y sus usos!",
+          "concepto": "Máquinas simples, palancas, géneros de palancas, usos de las palancas",
+          "desempeno": "Identifico las máquinas simples más comunes en mi entorno. Relaciono las máquinas simples con algunas funciones del aparato osteomuscular.",
+          "ejes_tematicos": [
+            "Máquinas simples",
+            "palancas",
+            "géneros de palancas",
+            "usos de las palancas"
+          ],
+          "recursos": [
+            "Lápices de colores",
+            "regla"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Realizo las siguientes actividades en el cuaderno: a",
+              "descripcion": "Realizo las siguientes actividades en el cuaderno: a. Identifico las maquinas simples que se utilizan en mi casa y las dibujo. b. Con ayuda de mis familiares, senalo con una flecha el punto de apoyo, la fuerza motriz y la resistencia de cada maquina que dibuje. c. Luego, escribo a que genero pertenece cada palanca.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Le explico a mis familiares la manera como debemos utilizar y guardar en casa las",
+              "descripcion": "Le explico a mis familiares la manera como debemos utilizar y guardar en casa las herramientas. Ademas, les recuerdo las precauciones que debemos tener cuando las utilicemos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Consulto con los miembros de mi comunidad cuales han sido las maquinas simples que mas",
+              "descripcion": "Consulto con los miembros de mi comunidad cuales han sido las maquinas simples que mas se han utilizado en nuestra region. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. La profesora o el profesor valora nuestro progreso. Trabajo",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos atentamente el siguiente texto: Las palancas son una tecnologia util para la sociedad! Los",
+              "descripcion": "Leemos atentamente el siguiente texto: Las palancas son una tecnologia util para la sociedad! Los seres humanos han creado diferentes maquinas para aplicar las fuerzas con mayor facilidad. Dentro de esa gran variedad de maquinas, encontramos las maquinas simples. Algunas maquinas simples son: la palanca, la polea y los engranajes. • La palanca: es ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos con atencion el siguiente texto: Nuestro aparato osteomuscular o locomotor es un complejo conjunto",
+              "descripcion": "Leemos con atencion el siguiente texto: Nuestro aparato osteomuscular o locomotor es un complejo conjunto de palancas En nuestro aparato osteomuscular o locomotor encontramos un complejo sistema de palancas. Este aparato esta formado principalmente por la union de huesos y articulaciones. Ponemos en funcionamiento las palancas de nuestro cuerpo cad",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "A partir de la lectura anterior, realizamos lo siguiente: a",
+              "descripcion": "A partir de la lectura anterior, realizamos lo siguiente: a. Con mucho respeto, senalamos algunas palancas de nuestro cuerpo. b. En estas palancas, ubicamos la fuerza motriz, la resistencia y el punto de apoyo. c. Clasificamos estas palancas segun sean de primer, segundo o tercer genero.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "En el cuaderno, escribimos algunos consejos sobre los cuidados que debemos tener cuando utilicemos herramientas",
+              "descripcion": "En el cuaderno, escribimos algunos consejos sobre los cuidados que debemos tener cuando utilicemos herramientas de trabajo.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "¡Relacionemos las fuerzas, las palancas y las máquinas!",
+          "concepto": "Máquinas simples, palancas, géneros de palancas, usos",
+          "desempeno": "Valoro la importancia de las máquinas como herramientas que facilitan el trabajo de las personas.",
+          "ejes_tematicos": [
+            "Máquinas simples",
+            "palancas",
+            "géneros de palancas",
+            "usos"
+          ],
+          "recursos": [
+            "Compás",
+            "tijeras o bisturí",
+            "regla",
+            "palitos redondos de madera",
+            "silicona líquida o pegamento",
+            "lana",
+            "hojas de colores",
+            "láminas de cartón",
+            "témperas"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observo dos maquinas simples que se utilicen en mi casa",
+              "descripcion": "Observo dos maquinas simples que se utilicen en mi casa. Las dibujo en el cuaderno. Luego, indico los puntos de apoyo (A), la fuerza motriz (F) y la resistencia (R).",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el cuaderno, realizo un listado de maquinas o instrumentos que funcionen con ruedas o",
+              "descripcion": "En el cuaderno, realizo un listado de maquinas o instrumentos que funcionen con ruedas o poleas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comento con mis familiares lo que aprendi en la guia sobre la biomecanica y sus",
+              "descripcion": "Comento con mis familiares lo que aprendi en la guia sobre la biomecanica y sus aportes para el bienestar de la humanidad.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Dialogo con mis familiares acerca del respeto que debemos tener con las personas discapacitadas",
+              "descripcion": "Dialogo con mis familiares acerca del respeto que debemos tener con las personas discapacitadas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Llevo mi trabajo a clase y lo comparto con mis companeros y companeras",
+              "descripcion": "Llevo mi trabajo a clase y lo comparto con mis companeros y companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "A partir de la lectura anterior, comentamos: a",
+              "descripcion": "A partir de la lectura anterior, comentamos: a. Por que se dice que el cuerpo humano es una compleja maquina compuesta? b. Por que se afirma en el texto que el aparato locomotor humano se compone principalmente de palancas? c. Que aportes ha hecho la biomecanica al ser humano? d. Que beneficios aporta la biomecanica para la salud de las personas?",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Elaboramos un cartel informativo sobre el respeto y la consideracion que debemos tener con las",
+              "descripcion": "Elaboramos un cartel informativo sobre el respeto y la consideracion que debemos tener con las personas con discapacidades fisicas. Actividades de aplicacion C Presentamos nuestro trabajo al profesor o a la profesora. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Trabajo con mi ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "¡Las máquinas son un invento sorprendente!",
+          "concepto": "Máquinas simples, palancas, energía eléctrica, conservación de la energía",
+          "desempeno": "Reconozco la importancia de las máquinas complejas en el desarrollo de la humanidad.",
+          "ejes_tematicos": [
+            "Máquinas simples",
+            "palancas",
+            "energía eléctrica",
+            "conservación de la energía"
+          ],
+          "recursos": [
+            "Hojas blancas",
+            "regla",
+            "tijeras"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, hago un inventario de todas las maquinas o herramientas que",
+              "descripcion": "Con ayuda de mis familiares, hago un inventario de todas las maquinas o herramientas que hay en la casa. En el cuaderno, escribo sus nombres y que funcion cumplen.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En compania de mis familiares, observo los recibos de cobro de energia de la casa",
+              "descripcion": "En compania de mis familiares, observo los recibos de cobro de energia de la casa. En el cuaderno, anoto cuantos vatios (Watts) consumimos y cual fue el costo de este servicio en el ultimo mes. Lo comparo en clase con el de mis companeros y mis companeras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comento con mis familiares acerca de algunas acciones que podemos realizar para ahorrar energia electrica",
+              "descripcion": "Comento con mis familiares acerca de algunas acciones que podemos realizar para ahorrar energia electrica.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con base en la actividad anterior, elaboramos un mapa de riesgos de nuestra institucion",
+              "descripcion": "Con base en la actividad anterior, elaboramos un mapa de riesgos de nuestra institucion. Incluimos escaleras, depositos de agua o basura y otros lugares de riesgo. Actividades basicas A Trabajo en equipo",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Nombramos las maquinas electricas que hay en nuestra escuela o colegio",
+              "descripcion": "Nombramos las maquinas electricas que hay en nuestra escuela o colegio. Luego, dialogamos sobre las acciones que debemos realizar para ahorrar energia en este lugar. Actividades de aplicacion C Mostramos nuestro trabajo al profesor o a la profesora. Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrol",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Las fuerzas de la naturaleza nos afectan: ¡actuemos unidos!",
+          "concepto": "Tipos de fuerza, desastres naturales, energía, contaminación",
+          "desempeno": "Participo en acciones para prevenir situaciones de riesgo en nuestra comunidad.",
+          "ejes_tematicos": [
+            "Tipos de fuerza",
+            "desastres naturales",
+            "energía",
+            "contaminación"
+          ],
+          "recursos": [
+            "Regla",
+            "lápices de colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, planeo en un simulacro de evacuacion que nos permita realizar",
+              "descripcion": "Con ayuda de un familiar, planeo en un simulacro de evacuacion que nos permita realizar las acciones necesarias para afrontar un desastre natural en nuestra casa. Para ello, sigo las indicaciones: a. Identifico los sitios de mayor riesgo y los mas seguros de la casa. Los dibujo en un mapa de riesgos. b. Busco materiales y elementos de primeros auxi",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pregunto a varias personas de mi comunidad sobre los desastres naturales ocurridos en nuestra region",
+              "descripcion": "Pregunto a varias personas de mi comunidad sobre los desastres naturales ocurridos en nuestra region en los ultimos anos. Tambien indago sobre los planes de emergencia que se tienen en cuenta para prevenir proximos desastres.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, escribo mi consulta para compartirla en la proxima clase con mis companeros",
+              "descripcion": "En el cuaderno, escribo mi consulta para compartirla en la proxima clase con mis companeros y companeras. Actividades de aplicacion C Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la imagen anterior, las fuerzas que estan aplicando los ninos y las ninas en",
+              "descripcion": "En la imagen anterior, las fuerzas que estan aplicando los ninos y las ninas en Grupo 1 Grupo 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con la orientacion del profesor o la profesora, revisamos el proyecto de prevencion de desastres",
+              "descripcion": "Con la orientacion del profesor o la profesora, revisamos el proyecto de prevencion de desastres de nuestra escuela o colegio. Si no existe el proyecto, tratamos de implementarlo. Nos comprometemos a participar activamente de los simulacros de evacuacion que realice el Comite de prevencion de desastres de nuestra institucion. Como avanzo en el desa",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En la imagen del pescador hay una fuerza motriz (F), una resistencia (R) y un",
+              "descripcion": "En la imagen del pescador hay una fuerza motriz (F), una resistencia (R) y un punto de apoyo (A). Por lo tanto alli encontramos una A. polea. C. maquina compleja. B. palanca. D. rueda. Si el pez es muy grande y ejerce mucha resistencia, puede suceder que A. el pescador caiga hacia atras. B. el pez sea atrapado facilmente. C. el nailon de la cana se",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Son ejemplos de palancas A",
+              "descripcion": "Son ejemplos de palancas A. el edificio y el poste de la luz. B. la pizzeria y la calle. C. la grua y la bicicleta. D. el avion y el cielo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "El coche con el nino y la grua representan el funcionamiento de A",
+              "descripcion": "El coche con el nino y la grua representan el funcionamiento de A. las fuentes de energia. B. aparatos electricos. C. las maquinas simples. D. aparatos complejos. 206",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Podemos decir que las maquinas y los aparatos de la ilustracion representan A",
+              "descripcion": "Podemos decir que las maquinas y los aparatos de la ilustracion representan A. un ejemplo de vida. B. un avance tecnologico. C. un derroche de energia. D. una ciudad moderna.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "El aviso de la pizzeria es visible durante la noche gracias a la transformacion de",
+              "descripcion": "El aviso de la pizzeria es visible durante la noche gracias a la transformacion de la energia electrica en energia A. solar. B. termica. C. atomica. D. luminica.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "La nina que conduce la bicicleta podria sufrir un accidente si A",
+              "descripcion": "La nina que conduce la bicicleta podria sufrir un accidente si A. conduce con velocidad adecuada. B. irrespeta las normas de transito. C. conduce con elementos de proteccion. D. conoce el funcionamiento de la bicicleta.",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "El avion, la grua, la bombilla y el letrero de la pizzeria funcionan gracias a",
+              "descripcion": "El avion, la grua, la bombilla y el letrero de la pizzeria funcionan gracias a A. la fuerza. B. el movimiento. C. la energia. D. el viento.",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Todas las maquinas simples tienen un punto de apoyo",
+              "descripcion": "Todas las maquinas simples tienen un punto de apoyo. Teniendo en cuenta lo anterior, la grua se puede clasificar como una palanca de A. primer genero. B. segundo genero. C. tercer genero. D. cuarto genero. 207 La profesora o el profesor valora los aprendizajes alcanzadoscon el desarrollo de esta unidad y registra mi progreso. Bibliografia AFLATOUN ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 65,
+          "titulo": ". Utilizando nuestros organos de los sentidos, obse",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Teniendo en cuenta la informacion del texto anterior, elaboro un esquema que resuma los conceptos",
+              "descripcion": "Teniendo en cuenta la informacion del texto anterior, elaboro un esquema que resuma los conceptos mencionados y lo comparto con mis companeros y companeras Corrijo si es necesario",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Elaboro el siguiente cuadro en el cuaderno Luego, relaciono los ecosistemas con sus respectivas caracteristicas,",
+              "descripcion": "Elaboro el siguiente cuadro en el cuaderno Luego, relaciono los ecosistemas con sus respectivas caracteristicas, con su flora y su fauna Para ello, escribo en el parentesis el numero correspondiente:",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con ayuda del profesor o la profesora, formamos once equipos Luego: a Cada equipo elige",
+              "descripcion": "Con ayuda del profesor o la profesora, formamos once equipos Luego: a Cada equipo elige un ecosistema de la infografia de la actividad A9 b En un pliego de cartulina o papel periodico, representamos y escribimos las principales caracteristicas de cada ecosistema Podemos usar material reciclable, hojas secas, algodon, papel, etc c Reunimos las repre",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Desierto Periodos largos de sequia",
+              "descripcion": "Desierto Periodos largos de sequia. ( ) Arboles altos. ( ) Actividades de practica B Trabajo individual Trabajo con el profesor o la profesora Unidad 1, Guia 6 55 Cuidemos nuestro ambiente! De nuestras acciones depende el futuro de nuestros ecosistemas. El reciclaje es una actividad que ayuda a mantener el equilibrio de los ecosistemas. Por esto, e",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "El relieve, es decir, las diferentes formas de la Tierra, como las cordilleras, volcanes, nevados,",
+              "descripcion": "El relieve, es decir, las diferentes formas de la Tierra, como las cordilleras, volcanes, nevados, hacen parte de A. la atmosfera. B. la corteza. C. la hidrosfera. D. el nucleo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Con ayuda de la pala, levantamos cuidadosamente un poco de la capa superficial del suelo",
+              "descripcion": "Con ayuda de la pala, levantamos cuidadosamente un poco de la capa superficial del suelo Observamos la microfauna (pequenos invertebrados) que hay alli",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Registramos nuestras observaciones en la libreta de apuntes",
+              "descripcion": "Registramos nuestras observaciones en la libreta de apuntes",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Completamos el siguiente cuadro con los nombres de los seres que observamos: AnimalesVegetalesMicroorganismos Sabias que...",
+              "descripcion": "Completamos el siguiente cuadro con los nombres de los seres que observamos: AnimalesVegetalesMicroorganismos Sabias que... Todo ser vivo es un individuo. Los individuos se agrupan en poblaciones, cuyo conjunto forma las comunidades. Las relaciones de las comunidades entre si y su relacion con los factores abioticos, en un lugar determinado, consti",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Teniendo en cuenta los apuntes que tomamos, elaboramos un informe sobre la actividad anterior Incluimos",
+              "descripcion": "Teniendo en cuenta los apuntes que tomamos, elaboramos un informe sobre la actividad anterior Incluimos dibujos de las observaciones",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Observamos y leemos con atencion la infografia de las paginas siguientes: 51Presentamos nuestro trabajo al",
+              "descripcion": "Observamos y leemos con atencion la infografia de las paginas siguientes: 51Presentamos nuestro trabajo al profesor o a la profesora. LosecosistemascolombianosLos ecosistemas colombianos LosecosistemascolombianosLos ecosistemas colombianos Arrecifes coralinos Son los ecosistemas mas fragiles que podamos conocer. En ellos habitan pequenos animales l",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Los paramos son importantes para otros ecosistemas porque A",
+              "descripcion": "Los paramos son importantes para otros ecosistemas porque A. tienen un gran numero de especies depredadoras. B. en ellos nacen los rios de los cuales se benefician otros ecosistemas. C. en ellos no se presenta el ciclo del agua. D. hay especies que se adaptan alli por sus calidas temperaturas. 12.Los arboles que habitan en el ecosistema 2 se caract",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "En el ecosistema 3 encontramos condiciones de escasez de agua y A",
+              "descripcion": "En el ecosistema 3 encontramos condiciones de escasez de agua y A. altas temperaturas en el dia y bajas en la noche. B. lagos y mares. C. fuertes lluvias y humedad. D. paramos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Colombia tiene hermosos nevados",
+              "descripcion": "Colombia tiene hermosos nevados. Esta clase de ecosistema es uno de los mas importantes que existe en la Tierra. En relacion con este tipo de ecosistema podemos afirmar que 59La profesora o el profesor valora los aprendizajes alcanzadoscon el desarrollo de esta unidad y registra mi progreso. A. evitan el crecimiento de otras plantas. B. son ecosist",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

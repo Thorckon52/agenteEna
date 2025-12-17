@@ -1,0 +1,2440 @@
+{
+  "asignatura": "Matematicas",
+  "grado": 4,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Maria J. Botero Acevedo, Campo E. Guevara Alvarez, Pedro A. Sierra Guerrero",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "DBA 2: Describe y justifica diferentes estrategias para representar, operar y hacer estimaciones con numeros naturales y numeros racionales (fraccionarios), expresados como fraccion o como decimal.",
+    "DBA 7: Identifica los movimientos realizados a una figura en el plano respecto a una posicion o eje (rotacion, traslacion y simetria) y las modificaciones que pueden sufrir las formas (ampliacion- reduccion).",
+    "DBA 8: Identifica, documenta e interpreta variaciones de dependencia entre cantidades en diferentes fenomenos (en las matematicas y en otras ciencias) y los representa por medio de graficas.",
+    "DBA 3: Establece relaciones mayor que, menor que, igual que y relaciones multiplicativas entre numeros racionales en sus formas de fraccion o decimal.",
+    "DBA 7: Identifica los movimientos realizados a una figura en el plano respecto a una posicion o eje (rotacion, traslacion y simetria) y las modificaciones que pueden sufrir las formas (ampliacion- reduccion). Unidad 3 Que sucede cuando las unidades no estan completas? Desempenos generales: Aplico las propi",
+    "DBA 6: Identifica, describe y representa figuras bidimensionales y tridimensionales, y establece relaciones entre ellas.",
+    "DBA 9: Identifica patrones en secuencias (aditivas o multiplicativas) y los utiliza para establecer generalizaciones aritmeticas o algebraicas.",
+    "DBA 10: Recopila y organiza datos en tablas de doble entrada y los representa en graficos de barras agrupadas o graficos de lineas, para dar respuesta a una pregunta planteada. Interpreta la informacion y comunica sus conclusiones.",
+    "DBA 1: Interpreta las fracciones como razon, relacion parte todo, cociente y operador en diferentes contextos."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Números y operaciones",
+      "desempeno_general": "Utilizo números naturales y operaciones básicas para resolver situaciones cotidianas.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "Repasamos los números naturales",
+          "concepto": "Números naturales, Valor posicional",
+          "desempeno": "Leo, escribo y comparo números naturales.",
+          "ejes_tematicos": [
+            "Números naturales",
+            "Valor posicional"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz",
+            "Tarjetas con números",
+            "Tablero"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leo atentamente la siguiente situacion y respondo las preguntas en mi cuaderno:",
+              "descripcion": "Leo atentamente la siguiente situacion y respondo las preguntas en mi cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mi familia, construyo la maqueta de mi casa usando poligonos para la",
+              "descripcion": "Con ayuda de mi familia, construyo la maqueta de mi casa usando poligonos para la base de la construccion. Podemos usar material de reciclaje o plastilina.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparto con mis companeros, companeras y profesor o profesora la maqueta que elabore",
+              "descripcion": "Comparto con mis companeros, companeras y profesor o profesora la maqueta que elabore. Carlos sembro trigo en un terreno que tiene 10 m de largo y 8 m de ancho. · Cual es el area del terreno? La produccion de cada metro cuadrado de trigo se vende a $20.000. Actividades de aplicacion Trabajo con mi familia A $20.000 la produccion de cada m2. Adriana",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Cuanto dinero le sobra a Maria y a Monica despues de comprar el regalo de",
+              "descripcion": "Cuanto dinero le sobra a Maria y a Monica despues de comprar el regalo de su padre? A. $ 27.150. B. $ 25.710. C. $ 21.750. Desarrollo la evaluacion en mi cuaderno. Tengo en cuenta que solo hay una respuesta correcta para cada pregunta. I. Respondo las preguntas 1 a 4 teniendo en cuenta la siguiente situacion: Trabajo individual Maria y Monica le qu",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Cual de las siguientes tablas muestra el total de entradas por adultos y ninos y",
+              "descripcion": "Cual de las siguientes tablas muestra el total de entradas por adultos y ninos y el dinero recaudado por el museo en su inauguracion? A. Adultos 10 B. C. Ninos 2.000 Dinero recaudado 4.560.000 Adultos 100 Ninos 200 Dinero recaudado 4.560.000 Adultos 1.000 Ninos 200 Dinero recaudado 4.560.000 69",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Cuantos huevos ponen las gallinas en total durante los siete dias de la semana? A",
+              "descripcion": "Cuantos huevos ponen las gallinas en total durante los siete dias de la semana? A. 820 huevos. B. 280 huevos. C. 208 huevos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Claudia y Patricia desean empacar todos los huevos de la semana en cajas con capacidad",
+              "descripcion": "Claudia y Patricia desean empacar todos los huevos de la semana en cajas con capacidad para 15 huevos. Cuantas cajas necesitaran para empacar todos los huevos? A. 10 cajas. B. 20 cajas. C. 18 cajas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos la siguiente situacion y respondemos las preguntas en el cuaderno: · Cuanto dinero recibe",
+              "descripcion": "Leemos la siguiente situacion y respondemos las preguntas en el cuaderno: · Cuanto dinero recibe por la venta de toda la produccion? Cuanto he aprendido? 67",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Cual de las siguientes tablas representa correctamente la informacion del esquema anterior? Boleto Representa 4",
+              "descripcion": "Cual de las siguientes tablas representa correctamente la informacion del esquema anterior? Boleto Representa 4.000 espectadores Ciudad 1 Ciudad 2 Ciudad 3 Boleto Boleto Boleto Boleto Boleto Boleto Boleto Boleto Boleto Boleto Boleto Boleto A. B. C. V. Leo la siguiente informacion y respondo las preguntas de la 10 a la 12. Ciudad Cantidad de especta",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "El solido que forma el agua en la cubeta al congelarse recibe el nombre de",
+              "descripcion": "El solido que forma el agua en la cubeta al congelarse recibe el nombre de A. cubo. B. rectangulo. C. prisma. D. cilindro.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Reorganizando y usando todos los cubos de hielo de la figura, el solido que NO",
+              "descripcion": "Reorganizando y usando todos los cubos de hielo de la figura, el solido que NO podriamos formar es: IV. Leo la siguiente informacion y respondo la pregunta 9. Se jugaron distintos partidos de futbol en tres estadios de tres ciudades distintas. La siguiente ilustracion representa la cantidad de espectadores que ingresaron a ver cada partido: La prof",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Los poligonos que forman las caras de la cubeta son A",
+              "descripcion": "Los poligonos que forman las caras de la cubeta son A. rectangulos. C. triangulos. B. cuadrados. D. cuadrados y rectangulos. UnidadUnidad Me divierto con mis conocimientos matematicos 71 7 Guia",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Recordamos la informacion de la tabla de la actividad anterior",
+              "descripcion": "Recordamos la informacion de la tabla de la actividad anterior. Luego respondemos en el cuaderno las siguientes preguntas: a. Que relacion encontramos entre el numero de empaques y la capacidad de los empaques? b. Necesitamos saber cuantos empaques se necesitan para empacar 5, 15 y 30 cajas de chocolates. Que operacion debemos realizar para saber e",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Leemos atentamente el siguiente texto sobre los divisores de un numero: Divisor de un numero",
+              "descripcion": "Leemos atentamente el siguiente texto sobre los divisores de un numero: Divisor de un numero El divisor o submultiplo es aquel numero que divide exactamente a otro numero. 2 divide a 30 exactamente, es decir, el residuo es cero. Significa que 2 x 15 = 30. 2 es divisor-factor de 30. S abia s q ue... La relacion que se presenta en la tabla es entre u",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Escribimos en el cuaderno cuando un numero es divisor de otro numero",
+              "descripcion": "Escribimos en el cuaderno cuando un numero es divisor de otro numero. Luego escribimos un ejemplo. Le ponemos un titulo a nuestro escrito. Presentamos nuestro trabajo a la profesora o al profesor. Actividades de practica",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Sumamos y restamos",
+          "concepto": "Suma, Resta",
+          "desempeno": "Resuelvo sumas y restas con números naturales.",
+          "ejes_tematicos": [
+            "Suma",
+            "Resta"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz",
+            "Fichas de ejercicios"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos y leemos la informacion de la siguiente tabla: Fuente: DANE, proyecciones 2020",
+              "descripcion": "Observamos y leemos la informacion de la siguiente tabla: Fuente: DANE, proyecciones 2020. 24 Matematicas 4 Trabajo en parejas 444.446 444.466 446.464 464.444 Colombia es un pais multicultural. Esto quiere decir que en las diferentes ciudades que tiene hay practicas culturales diferentes. Conozcamoslas, valoremoslas y respetemoslas!",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observamos la lista que don Ricardo le dio a su hijo y la lista de",
+              "descripcion": "Observamos la lista que don Ricardo le dio a su hijo y la lista de precios de alimentos. Luego comentamos con nuestros companeros y companeras las siguientes preguntas: a. Cual es el precio total de todos los productos que aparecen en la lista que don Ricardo le dio a su hijo? b. Cuanto dinero le entrego don Ricardo a su hijo? c. Le hace falta dine",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos con mucha atencion la siguiente informacion: Para resolver sustracciones y adiciones, es necesario alinear",
+              "descripcion": "Leemos con mucha atencion la siguiente informacion: Para resolver sustracciones y adiciones, es necesario alinear las cifras de las cantidades una debajo de la otra, de derecha a izquierda. Luego realizamos la operacion en este mismo orden. Recordemos que los terminos de la adicion son los sumandos y la suma. Los terminos de la sustraccion son el m",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Teniendo en cuenta la informacion anterior, escribimos en el cuaderno lo siguiente: a",
+              "descripcion": "Teniendo en cuenta la informacion anterior, escribimos en el cuaderno lo siguiente: a. Cual es el procedimiento para resolver una adicion con numeros de mas de seis cifras. b. Cual es el procedimiento para resolver una sustraccion con numeros de mas de seis cifras.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "De acuerdo con lo que escribimos en el cuaderno, resolvemos las siguientes operaciones: a",
+              "descripcion": "De acuerdo con lo que escribimos en el cuaderno, resolvemos las siguientes operaciones: a. 14.278.098 + 34.876 + 31.256.009 b. 345.098 - 209.349 c. 134.907 + 1.908.367 + 55.288 + 1.098 d. 7.109.478 - 6.239.479 23 UUnnididaadd 11, , GGuuiaia 2 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Ahora encontramos los numeros que se borraron en cada una de las siguientes operaciones",
+              "descripcion": "Ahora encontramos los numeros que se borraron en cada una de las siguientes operaciones. Luego escribimos las operaciones completas en el cuaderno: 207.265 9 1 .3 7 80 .420 + 69 .2 - 78. 2 + 48. 7 03. 12 22 .824 51 .0 9",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "En una hoja, realizamos las siguientes adiciones y sustracciones",
+              "descripcion": "En una hoja, realizamos las siguientes adiciones y sustracciones. Las escribimos en forma vertical para resolverlas. Luego pegamos la hoja en el cuaderno: 29. 087. 567 791.245 23.602.159 + 4. 908.192 - 598.637 + 8.497.951 Trabajo en parejas R ec ordem os Para realizar adiciones y sustracciones verticales, tenemos en cuenta lo siguiente: • Ubicamos ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Observamos el precio de algunos productos del almacen de electrodomesticos",
+              "descripcion": "Observamos el precio de algunos productos del almacen de electrodomesticos. Analizamos la informacion y respondemos en el cuaderno: a. Si Martin compra un televisor y una lavadora, cuanto dinero tiene que pagar en total por los dos electrodomesticos? b. Si Martin paga con un millon quinientos mil pesos los dos electrodomesticos mencionados, le alca",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leemos atentamente el siguiente texto: A pesar de las dos maneras en que se organizaron",
+              "descripcion": "Leemos atentamente el siguiente texto: A pesar de las dos maneras en que se organizaron los libros, el total de ellos sigue siendo el mismo. Tambien encontramos que el resultado es el mismo al poner los factores en distinto orden y realizar las multiplicaciones. Esta caracteristica o propiedad de la multiplicacion se conoce como propiedad conmutati",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Elaboramos en el cuaderno nuestra propia idea de la propiedad conmutativa de la multiplicacion",
+              "descripcion": "Elaboramos en el cuaderno nuestra propia idea de la propiedad conmutativa de la multiplicacion. Tenemos en cuenta la lectura y las actividades anteriores para elaborarla. Trabajo en parejas Ingresa a Renueva en: www.campus.escuelanueva.co y diviertete practicando las propiedades de la multiplicacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Analizamos la siguiente situacion y realizamos las actividades indicadas: Una agricultora esta empacando frutas para",
+              "descripcion": "Analizamos la siguiente situacion y realizamos las actividades indicadas: Una agricultora esta empacando frutas para vender. Ella empaca seis frutas en una bolsa y luego empaca tres bolsas en una caja. · Cuantas frutas vendio la agricultora si vendio cuatro cajas? 11.Analizamos la siguiente situacion y realizamos las actividades indicadas: Una agri",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Leemos y analizamos atentamente la siguiente informacion: 30Matematicas4Los factores de una multiplicacion pueden asociarse de",
+              "descripcion": "Leemos y analizamos atentamente la siguiente informacion: 30Matematicas4Los factores de una multiplicacion pueden asociarse de diferentes maneras sin que el producto cambie. Por ejemplo: 6 x 3 x 2 = 36 (6 x 3) x 2 6 x (3 x 2) 18 x 2 6 x 6 36 36 Esta propiedad de la multiplicacion entre numeros naturales recibe el nombre de propiedad asociativa. Uad",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Multiplicamos",
+          "concepto": "Multiplicación",
+          "desempeno": "Utilizo la multiplicación en situaciones problema.",
+          "ejes_tematicos": [
+            "Multiplicación"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz",
+            "Material concreto (semillas, fichas)"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos con atencion la siguiente situacion: Actividades de practica Presentamos nuestro trabajo a la profesora",
+              "descripcion": "Leemos con atencion la siguiente situacion: Actividades de practica Presentamos nuestro trabajo a la profesora o al profesor. Trabajo con el profesor o la profesora En la tienda de ropas La hogarena, hay dos vestidos diferentes para ninas y tres vestidos diferentes para ninos. Los duenos del local estan buscando realizar parejas con esos vestidos, ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Realizo en el cuaderno la operacion para responder la pregunta de la situacion anterior",
+              "descripcion": "Realizo en el cuaderno la operacion para responder la pregunta de la situacion anterior. Resuelvo la operacion aplicando una de las propiedades de la multiplicacion. Luego escribo el nombre de la propiedad y explico por que es la propiedad que debemos utilizar en este caso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Analizo detenidamente la siguiente situacion y realizo las actividades indicadas: Manuela compra dos tarros de",
+              "descripcion": "Analizo detenidamente la siguiente situacion y realizo las actividades indicadas: Manuela compra dos tarros de leche dos veces al dia. · Cuantos tarros de leche compra durante cinco semanas? a. Represento la situacion con una grafica. b. Planteo una operacion para responder la pregunta. Luego indico la propiedad que puedo aplicar para resolver la o",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "De acuerdo con la situacion anterior, respondemos en el cuaderno las siguientes preguntas: a",
+              "descripcion": "De acuerdo con la situacion anterior, respondemos en el cuaderno las siguientes preguntas: a. Cual de los dos ninos tiene la razon? b. Que diferencia hay entre los analisis realizados por los ninos? c. Segun el analisis de Julian, cual es el total de puntos que ha ganado su equipo? d. Segun el analisis de Jessica, cual es el total de puntos que ha ",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Hallamos el total de puntos del equipo de la situacion anterior",
+              "descripcion": "Hallamos el total de puntos del equipo de la situacion anterior. Para ello, realizamos las operaciones que corresponden al analisis de Julian y al analisis de Jessica. Luego dibujamos y completamos la tabla en el cuaderno. 33 6.Leemos atentamente la siguiente situacion: A la biblioteca de secundaria de la escuela Alto de la Hocha, llego una colecci",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribimos y completamos en el cuaderno las siguientes operaciones",
+              "descripcion": "Escribimos y completamos en el cuaderno las siguientes operaciones. Tenemos en cuenta el siguiente ejemplo: Un numero que multiplicado por ocho nos da como resultado 128: 38Matematicas4 a. 9 x = 72 72 ÷ 9 = b. x 8 = 48 48 ÷ 8 = c. 12 x = 48 48 ÷ 12 = d. 6 x = 132 132 ÷ 6 = x 8 = 128 128 ÷ 8 = 39 UUnnididaadd 11, , GGuuiaia 41 Trabajo en parejas",
+              "instrucciones": [
+                "a) 9 x = 72 72 ÷ 9 =",
+                "b) x 8 = 48 48 ÷ 8 =",
+                "c) 12 x = 48 48 ÷ 12 ="
+              ]
+            },
+            {
+              "numero": 7,
+              "titulo": "Recordamos la informacion de la anterior situacion",
+              "descripcion": "Recordamos la informacion de la anterior situacion. Luego, en una hoja en blanco, realizamos las siguientes actividades: Representamos con dibujos la situacion. b. Planteamos el procedimiento para resolver la situacion. Luego la solucionamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comparamos la solucion que dimos con el siguiente esquema: a",
+              "descripcion": "Comparamos la solucion que dimos con el siguiente esquema: a. 34Matematicas4x x =x x x x x=x 35 UUnnididaadd 11, , GGuuiaia 31",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Escribo en el cuaderno las siguientes operaciones y los conceptos de los cuadros como aparecen",
+              "descripcion": "Escribo en el cuaderno las siguientes operaciones y los conceptos de los cuadros como aparecen a continuacion. Luego uno con una flecha la operacion con el concepto que le corresponde: Trabajo individual (3+5) x 7= (3x7) + (5x7) 8 x (3x6) = (8x3) x 6 8 x 4 = 4 x 8",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "En el cuaderno, escribo las siguientes operaciones",
+              "descripcion": "En el cuaderno, escribo las siguientes operaciones. Luego, resuelvo las multiplicaciones de dos maneras distintas, aplicando las propiedades de la multiplicacion: Presento mi trabajo a la profesora o al profesor. a. Dibujamos el esquema en la hoja y lo completamos. b. Pegamos la hoja en el cuaderno. 23 x (13 + 35) 2.978 x 46 12 x 24 x 14 2.987.134 ",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Organizamos un concurso por equipos para realizar divisiones sencillas! Seguimos las indicaciones: a",
+              "descripcion": "Organizamos un concurso por equipos para realizar divisiones sencillas! Seguimos las indicaciones: a. Formamos varios equipos. b. Planteamos varias divisiones. c. Buscamos estrategias para acercarnos o aproximarnos al resultado de cada division. 413 x 200 me da 600... 694 dividido entre 3, cuanto es? d. Buscamos un numero que multiplicado por el di",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Vamos a responder la pregunta de la actividad anterior! Hacemos lo siguiente: a",
+              "descripcion": "Vamos a responder la pregunta de la actividad anterior! Hacemos lo siguiente: a. Dibujamos en el cuaderno las siguientes representaciones. $ + $ 31 32 Matematicas 4 + + + +",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Dividimos cantidades",
+          "concepto": "División",
+          "desempeno": "Resuelvo divisiones exactas.",
+          "ejes_tematicos": [
+            "División"
+          ],
+          "recursos": [
+            "Material concreto",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leo atentamente la siguiente situacion: Para celebrar el cumpleanos de una nina, su papa compro",
+              "descripcion": "Leo atentamente la siguiente situacion: Para celebrar el cumpleanos de una nina, su papa compro 12 bolsas de manzanas con 25 unidades cada una. La tia de la nina compro 25 bolsas de manzanas con una docena cada una. · Cual de ellos (el papa o la tia) compro mas manzanas? 4 GuiaGuia 37 Hagamos repartos y organicemos datos Desempeno: • Realizo correc",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Realizo en el cuaderno la operacion para responder la pregunta de la situacion anterior",
+              "descripcion": "Realizo en el cuaderno la operacion para responder la pregunta de la situacion anterior. Resuelvo la operacion aplicando una de las propiedades de la multiplicacion. Luego escribo el nombre de la propiedad y explico por que es la propiedad que debemos utilizar en este caso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Analizo detenidamente la siguiente situacion y realizo las actividades indicadas: Manuela compra dos tarros de",
+              "descripcion": "Analizo detenidamente la siguiente situacion y realizo las actividades indicadas: Manuela compra dos tarros de leche dos veces al dia. · Cuantos tarros de leche compra durante cinco semanas? a. Represento la situacion con una grafica. b. Planteo una operacion para responder la pregunta. Luego indico la propiedad que puedo aplicar para resolver la o",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Llevo mi trabajo a la escuela",
+              "descripcion": "Llevo mi trabajo a la escuela. Lo comparto con mis companeros, companeras y profesor o profesora. Trabajo con mi familia Actividades de aplicacion",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Resuelvo las siguientes divisiones",
+              "descripcion": "Resuelvo las siguientes divisiones. Luego completo en el cuaderno la tabla ubicando en cada columna el numero que corresponda. Para completar la tabla, tengo en cuenta los resultados obtenidos:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribimos y completamos en el cuaderno las siguientes operaciones",
+              "descripcion": "Escribimos y completamos en el cuaderno las siguientes operaciones. Tenemos en cuenta el siguiente ejemplo: Un numero que multiplicado por ocho nos da como resultado 128: 38Matematicas4 a. 9 x = 72 72 ÷ 9 = b. x 8 = 48 48 ÷ 8 = c. 12 x = 48 48 ÷ 12 = d. 6 x = 132 132 ÷ 6 = x 8 = 128 128 ÷ 8 = 39 UUnnididaadd 11, , GGuuiaia 41 Trabajo en parejas",
+              "instrucciones": [
+                "a) 9 x = 72 72 ÷ 9 =",
+                "b) x 8 = 48 48 ÷ 8 =",
+                "c) 12 x = 48 48 ÷ 12 ="
+              ]
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos con buena entonacion o escuchamos atentamente el siguiente texto",
+              "descripcion": "Leemos con buena entonacion o escuchamos atentamente el siguiente texto. Luego analizamos la informacion que aparece: Division exacta 512 16 - 48 32 32 - 32 00 Division inexacta 478 15 - 45 31 28 - 15 13 Una division es exacta cuando: • Se reparte una cantidad en partes iguales. • En el residuo de la division, no sobra nada. Esto quiere decir que e",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos atentamente las siguientes situaciones",
+              "descripcion": "Leemos atentamente las siguientes situaciones. Luego las resolvemos utilizando diferentes estrategias: a. A la biblioteca de primaria, llegaron tres grupos de 36 estudiantes cada uno. En la biblioteca, solo hay 12 mesas. · Cuantos estudiantes se pueden acomodar en cada una de las mesas? b. Hay 216 sillas de un auditorio. Las sillas estan organizada",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos los solidos representados en la siguiente tabla, los construimos en plastilina",
+              "descripcion": "Observamos los solidos representados en la siguiente tabla, los construimos en plastilina. Luego, dibujamos en el cuaderno la tabla y la completamos con las caracteristicas de los solidos:",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "En el cuaderno, escribo las siguientes operaciones",
+              "descripcion": "En el cuaderno, escribo las siguientes operaciones. Luego, resuelvo las multiplicaciones de dos maneras distintas, aplicando las propiedades de la multiplicacion: Presento mi trabajo a la profesora o al profesor. a. Dibujamos el esquema en la hoja y lo completamos. b. Pegamos la hoja en el cuaderno. 23 x (13 + 35) 2.978 x 46 12 x 24 x 14 2.987.134 ",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Organizamos un concurso por equipos para realizar divisiones sencillas! Seguimos las indicaciones: a",
+              "descripcion": "Organizamos un concurso por equipos para realizar divisiones sencillas! Seguimos las indicaciones: a. Formamos varios equipos. b. Planteamos varias divisiones. c. Buscamos estrategias para acercarnos o aproximarnos al resultado de cada division. 413 x 200 me da 600... 694 dividido entre 3, cuanto es? d. Buscamos un numero que multiplicado por el di",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Leemos el siguiente texto acerca de los prismas y sus partes: Base Altura Cara lateral",
+              "descripcion": "Leemos el siguiente texto acerca de los prismas y sus partes: Base Altura Cara lateral Base 52 Matematicas 4 R e c ord e m os • Lineas paralelas: dos lineas son paralelas si siempre estan a la misma distancia. Esto quiere decir que son equidistantes y nunca se encuentran. Estas lineas apuntan en la misma direccion. Por ejemplo: • Aristas: son los l",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Vamos a hacer tres prismas diferentes! Hacemos lo siguiente: a",
+              "descripcion": "Vamos a hacer tres prismas diferentes! Hacemos lo siguiente: a. Traemos cartulina, tijeras y pegante del Centro de recursos. b. Dibujamos en la cartulina las siguientes plantillas de tres prismas diferentes: c. Recortamos las plantillas y las armamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Encontramos las semejanzas y las diferencias entre los solidos que hicimos en la actividad anterior",
+              "descripcion": "Encontramos las semejanzas y las diferencias entre los solidos que hicimos en la actividad anterior. Luego respondemos las siguientes preguntas a partir de ellos: a. Como son los lados de los solidos? b. Como son sus bases? c. Cuantas caras tiene cada solido? d. Que forma tiene cada una de las caras? e. Todos los prismas tienen las mismas caracteri",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos la siguiente plantilla y luego respondemos las preguntas: Los prismas y los cilindros se",
+              "descripcion": "Observamos la siguiente plantilla y luego respondemos las preguntas: Los prismas y los cilindros se caracterizan por ser figuras que constan de dos bases circulares iguales y una sola cara lateral.",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Leemos con atencion el siguiente texto: 54 Matematicas 4",
+              "descripcion": "Leemos con atencion el siguiente texto: 54 Matematicas 4",
+              "instrucciones": []
+            },
+            {
+              "numero": 17,
+              "titulo": "En el cuaderno, dibujamos un prisma y un cilindro",
+              "descripcion": "En el cuaderno, dibujamos un prisma y un cilindro. Luego senalamos las partes del prisma y las partes del cilindro. Finalmente, respondemos: · Cual es la diferencia entre los lados del prisma y los lados del cilindro que hicimos? Presentamos nuestro trabajo a la profesora o al profesor. a. Cual es el solido que se puede armar con esta plantilla? b.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Conozcamos las fracciones",
+          "concepto": "Fracción, Numerador y denominador",
+          "desempeno": "Identifico fracciones como partes de un todo.",
+          "ejes_tematicos": [
+            "Fracción",
+            "Numerador y denominador"
+          ],
+          "recursos": [
+            "Figuras fraccionarias",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leo atentamente la siguiente situacion: Para celebrar el cumpleanos de una nina, su papa compro",
+              "descripcion": "Leo atentamente la siguiente situacion: Para celebrar el cumpleanos de una nina, su papa compro 12 bolsas de manzanas con 25 unidades cada una. La tia de la nina compro 25 bolsas de manzanas con una docena cada una. · Cual de ellos (el papa o la tia) compro mas manzanas? 4 GuiaGuia 37 Hagamos repartos y organicemos datos Desempeno: • Realizo correc",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Realizo en el cuaderno la operacion para responder la pregunta de la situacion anterior",
+              "descripcion": "Realizo en el cuaderno la operacion para responder la pregunta de la situacion anterior. Resuelvo la operacion aplicando una de las propiedades de la multiplicacion. Luego escribo el nombre de la propiedad y explico por que es la propiedad que debemos utilizar en este caso.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Analizo detenidamente la siguiente situacion y realizo las actividades indicadas: Manuela compra dos tarros de",
+              "descripcion": "Analizo detenidamente la siguiente situacion y realizo las actividades indicadas: Manuela compra dos tarros de leche dos veces al dia. · Cuantos tarros de leche compra durante cinco semanas? a. Represento la situacion con una grafica. b. Planteo una operacion para responder la pregunta. Luego indico la propiedad que puedo aplicar para resolver la o",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Llevo mi trabajo a la escuela",
+              "descripcion": "Llevo mi trabajo a la escuela. Lo comparto con mis companeros, companeras y profesor o profesora. Trabajo con mi familia Actividades de aplicacion",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Resuelvo las siguientes divisiones",
+              "descripcion": "Resuelvo las siguientes divisiones. Luego completo en el cuaderno la tabla ubicando en cada columna el numero que corresponda. Para completar la tabla, tengo en cuenta los resultados obtenidos:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribimos y completamos en el cuaderno las siguientes operaciones",
+              "descripcion": "Escribimos y completamos en el cuaderno las siguientes operaciones. Tenemos en cuenta el siguiente ejemplo: Un numero que multiplicado por ocho nos da como resultado 128: 38Matematicas4 a. 9 x = 72 72 ÷ 9 = b. x 8 = 48 48 ÷ 8 = c. 12 x = 48 48 ÷ 12 = d. 6 x = 132 132 ÷ 6 = x 8 = 128 128 ÷ 8 = 39 UUnnididaadd 11, , GGuuiaia 41 Trabajo en parejas",
+              "instrucciones": [
+                "a) 9 x = 72 72 ÷ 9 =",
+                "b) x 8 = 48 48 ÷ 8 =",
+                "c) 12 x = 48 48 ÷ 12 ="
+              ]
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos con buena entonacion o escuchamos atentamente el siguiente texto",
+              "descripcion": "Leemos con buena entonacion o escuchamos atentamente el siguiente texto. Luego analizamos la informacion que aparece: Division exacta 512 16 - 48 32 32 - 32 00 Division inexacta 478 15 - 45 31 28 - 15 13 Una division es exacta cuando: • Se reparte una cantidad en partes iguales. • En el residuo de la division, no sobra nada. Esto quiere decir que e",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos atentamente las siguientes situaciones",
+              "descripcion": "Leemos atentamente las siguientes situaciones. Luego las resolvemos utilizando diferentes estrategias: a. A la biblioteca de primaria, llegaron tres grupos de 36 estudiantes cada uno. En la biblioteca, solo hay 12 mesas. · Cuantos estudiantes se pueden acomodar en cada una de las mesas? b. Hay 216 sillas de un auditorio. Las sillas estan organizada",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos los solidos representados en la siguiente tabla, los construimos en plastilina",
+              "descripcion": "Observamos los solidos representados en la siguiente tabla, los construimos en plastilina. Luego, dibujamos en el cuaderno la tabla y la completamos con las caracteristicas de los solidos:",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Observamos de nuevo los dos solidos de la actividad anterior",
+              "descripcion": "Observamos de nuevo los dos solidos de la actividad anterior. Luego comentamos: · Que diferencias encontramos entre los dos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Organizamos un concurso por equipos para realizar divisiones sencillas! Seguimos las indicaciones: a",
+              "descripcion": "Organizamos un concurso por equipos para realizar divisiones sencillas! Seguimos las indicaciones: a. Formamos varios equipos. b. Planteamos varias divisiones. c. Buscamos estrategias para acercarnos o aproximarnos al resultado de cada division. 413 x 200 me da 600... 694 dividido entre 3, cuanto es? d. Buscamos un numero que multiplicado por el di",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Leemos el siguiente texto acerca de los prismas y sus partes: Base Altura Cara lateral",
+              "descripcion": "Leemos el siguiente texto acerca de los prismas y sus partes: Base Altura Cara lateral Base 52 Matematicas 4 R e c ord e m os • Lineas paralelas: dos lineas son paralelas si siempre estan a la misma distancia. Esto quiere decir que son equidistantes y nunca se encuentran. Estas lineas apuntan en la misma direccion. Por ejemplo: • Aristas: son los l",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Vamos a hacer tres prismas diferentes! Hacemos lo siguiente: a",
+              "descripcion": "Vamos a hacer tres prismas diferentes! Hacemos lo siguiente: a. Traemos cartulina, tijeras y pegante del Centro de recursos. b. Dibujamos en la cartulina las siguientes plantillas de tres prismas diferentes: c. Recortamos las plantillas y las armamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Encontramos las semejanzas y las diferencias entre los solidos que hicimos en la actividad anterior",
+              "descripcion": "Encontramos las semejanzas y las diferencias entre los solidos que hicimos en la actividad anterior. Luego respondemos las siguientes preguntas a partir de ellos: a. Como son los lados de los solidos? b. Como son sus bases? c. Cuantas caras tiene cada solido? d. Que forma tiene cada una de las caras? e. Todos los prismas tienen las mismas caracteri",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos la siguiente plantilla y luego respondemos las preguntas: Los prismas y los cilindros se",
+              "descripcion": "Observamos la siguiente plantilla y luego respondemos las preguntas: Los prismas y los cilindros se caracterizan por ser figuras que constan de dos bases circulares iguales y una sola cara lateral.",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Leemos con atencion el siguiente texto: 54 Matematicas 4",
+              "descripcion": "Leemos con atencion el siguiente texto: 54 Matematicas 4",
+              "instrucciones": []
+            },
+            {
+              "numero": 17,
+              "titulo": "En el cuaderno, dibujamos un prisma y un cilindro",
+              "descripcion": "En el cuaderno, dibujamos un prisma y un cilindro. Luego senalamos las partes del prisma y las partes del cilindro. Finalmente, respondemos: · Cual es la diferencia entre los lados del prisma y los lados del cilindro que hicimos? Presentamos nuestro trabajo a la profesora o al profesor. a. Cual es el solido que se puede armar con esta plantilla? b.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Fracciones equivalentes",
+          "concepto": "Fracciones equivalentes",
+          "desempeno": "Reconozco fracciones equivalentes.",
+          "ejes_tematicos": [
+            "Fracciones equivalentes"
+          ],
+          "recursos": [
+            "Material fraccionario",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leo atentamente la siguiente situacion y respondo las preguntas en mi cuaderno:",
+              "descripcion": "Leo atentamente la siguiente situacion y respondo las preguntas en mi cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mi familia, construyo la maqueta de mi casa usando poligonos para la",
+              "descripcion": "Con ayuda de mi familia, construyo la maqueta de mi casa usando poligonos para la base de la construccion. Podemos usar material de reciclaje o plastilina.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparto con mis companeros, companeras y profesor o profesora la maqueta que elabore",
+              "descripcion": "Comparto con mis companeros, companeras y profesor o profesora la maqueta que elabore. Carlos sembro trigo en un terreno que tiene 10 m de largo y 8 m de ancho. · Cual es el area del terreno? La produccion de cada metro cuadrado de trigo se vende a $20.000. Actividades de aplicacion Trabajo con mi familia A $20.000 la produccion de cada m2. Adriana",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Cuanto dinero le sobra a Maria y a Monica despues de comprar el regalo de",
+              "descripcion": "Cuanto dinero le sobra a Maria y a Monica despues de comprar el regalo de su padre? A. $ 27.150. B. $ 25.710. C. $ 21.750. Desarrollo la evaluacion en mi cuaderno. Tengo en cuenta que solo hay una respuesta correcta para cada pregunta. I. Respondo las preguntas 1 a 4 teniendo en cuenta la siguiente situacion: Trabajo individual Maria y Monica le qu",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Cual de las siguientes tablas muestra el total de entradas por adultos y ninos y",
+              "descripcion": "Cual de las siguientes tablas muestra el total de entradas por adultos y ninos y el dinero recaudado por el museo en su inauguracion? A. Adultos 10 B. C. Ninos 2.000 Dinero recaudado 4.560.000 Adultos 100 Ninos 200 Dinero recaudado 4.560.000 Adultos 1.000 Ninos 200 Dinero recaudado 4.560.000 69",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Cuantos huevos ponen las gallinas en total durante los siete dias de la semana? A",
+              "descripcion": "Cuantos huevos ponen las gallinas en total durante los siete dias de la semana? A. 820 huevos. B. 280 huevos. C. 208 huevos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Claudia y Patricia desean empacar todos los huevos de la semana en cajas con capacidad",
+              "descripcion": "Claudia y Patricia desean empacar todos los huevos de la semana en cajas con capacidad para 15 huevos. Cuantas cajas necesitaran para empacar todos los huevos? A. 10 cajas. B. 20 cajas. C. 18 cajas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos la siguiente situacion y respondemos las preguntas en el cuaderno: · Cuanto dinero recibe",
+              "descripcion": "Leemos la siguiente situacion y respondemos las preguntas en el cuaderno: · Cuanto dinero recibe por la venta de toda la produccion? Cuanto he aprendido? 67",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Cual de las siguientes tablas representa correctamente la informacion del esquema anterior? Boleto Representa 4",
+              "descripcion": "Cual de las siguientes tablas representa correctamente la informacion del esquema anterior? Boleto Representa 4.000 espectadores Ciudad 1 Ciudad 2 Ciudad 3 Boleto Boleto Boleto Boleto Boleto Boleto Boleto Boleto Boleto Boleto Boleto Boleto A. B. C. V. Leo la siguiente informacion y respondo las preguntas de la 10 a la 12. Ciudad Cantidad de especta",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "El solido que forma el agua en la cubeta al congelarse recibe el nombre de",
+              "descripcion": "El solido que forma el agua en la cubeta al congelarse recibe el nombre de A. cubo. B. rectangulo. C. prisma. D. cilindro.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Reorganizando y usando todos los cubos de hielo de la figura, el solido que NO",
+              "descripcion": "Reorganizando y usando todos los cubos de hielo de la figura, el solido que NO podriamos formar es: IV. Leo la siguiente informacion y respondo la pregunta 9. Se jugaron distintos partidos de futbol en tres estadios de tres ciudades distintas. La siguiente ilustracion representa la cantidad de espectadores que ingresaron a ver cada partido: La prof",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Los poligonos que forman las caras de la cubeta son A",
+              "descripcion": "Los poligonos que forman las caras de la cubeta son A. rectangulos. C. triangulos. B. cuadrados. D. cuadrados y rectangulos. UnidadUnidad Me divierto con mis conocimientos matematicos 71 7 Guia",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Los números decimales",
+          "concepto": "Números decimales",
+          "desempeno": "Leo y escribo números decimales.",
+          "ejes_tematicos": [
+            "Números decimales"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz",
+            "Tabla de valor posicional"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Contesto en mi cuaderno la siguiente pregunta: · Como hallo los multiplos de 2, 3,",
+              "descripcion": "Contesto en mi cuaderno la siguiente pregunta: · Como hallo los multiplos de 2, 3, 4, 5, 6, 7, 8 y 9?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "De los siguientes numeros, selecciono los multiplos de 2, 3, 4 y 5",
+              "descripcion": "De los siguientes numeros, selecciono los multiplos de 2, 3, 4 y 5. Luego escribo los multiplos de cada numero en listas respectivas: Trabajo individual 6 50 7 23 8 34 12 45 15 49 25 56 18 59 26 63 42 72",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Busco dos divisores de cada uno de los siguientes numeros",
+              "descripcion": "Busco dos divisores de cada uno de los siguientes numeros. Luego escribo en el cuaderno esos divisores. 12 12 18 25 72 75 36 80 45 60 99 104 128 76 Matematicas 4 Don Carlos debe empacar 48 latas de atun en cajas. Cada caja contiene una capacidad para 6 latas. Presento mi trabajo a la profesora o al profesor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Interpreto la ilustracion de la derecha",
+              "descripcion": "Interpreto la ilustracion de la derecha. Luego respondo las siguientes preguntas: · De cuantas formas diferentes puede la senora organizar las flores colocando la misma cantidad de flores en cada florero? · Cuantos floreros necesita la senora en cada organizacion diferente que hace?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Comparto mi trabajo la proxima clase con mis companeros, companeras y profesor o profesora",
+              "descripcion": "Comparto mi trabajo la proxima clase con mis companeros, companeras y profesor o profesora. 6 8 10 12 15 20 50 100 20 24 27 30 35 39 42 45",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribimos en el cuaderno el numero 840 y respondemos: a",
+              "descripcion": "Escribimos en el cuaderno el numero 840 y respondemos: a. Este numero lo podemos dividir exactamente entre 2, 3, 5 y 10? b. Como podemos explicar que un numero divide exactamente a otro?",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos el siguiente texto. Analizamos cada parrafo y cada ejemplo: Numeros divisibles entre 2, 3,",
+              "descripcion": "Leemos el siguiente texto. Analizamos cada parrafo y cada ejemplo: Numeros divisibles entre 2, 3, 5 o 10 Los siguientes son algunos criterios de divisibilidad: • Un numero divisible entre 2 si: es par, es decir, si termina en una cifra par (0, 2, 4, 6 u 8). Tambien un numero es multiplo de 2 si termina en una cifra par. Por ejemplo: 2, 8, 12, 24, 4",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Escribimos en el cuaderno cuando un numero es divisor de otro numero",
+              "descripcion": "Escribimos en el cuaderno cuando un numero es divisor de otro numero. Luego escribimos un ejemplo. Le ponemos un titulo a nuestro escrito. Presentamos nuestro trabajo a la profesora o al profesor. Actividades de practica",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Figuras geométricas",
+          "concepto": "Figuras geométricas, Cuerpos geométricos",
+          "desempeno": "Identifico figuras planas y cuerpos geométricos.",
+          "ejes_tematicos": [
+            "Figuras geométricas",
+            "Cuerpos geométricos"
+          ],
+          "recursos": [
+            "Figuras geométricas",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Consulto los criterios de divisibilidad por 4, 6, 7, 8 y 9",
+              "descripcion": "Consulto los criterios de divisibilidad por 4, 6, 7, 8 y 9.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leo atentamente la siguiente situacion",
+              "descripcion": "Leo atentamente la siguiente situacion. Uso los criterios de divisibilidad para responder las preguntas: Actividades de aplicacion Trabajo individual Las gallinas de la finca de Clemencia ponen 120 huevos semanalmente. Ella tiene panales con capacidad para 4, 6, 8, 10 y 12 huevos. · Cuantos panales con capacidad para 4, para 6, para 8, para 10 y pa",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Recorto en carton o en cartulina un rectangulo que tenga 64 cm de perimetro",
+              "descripcion": "Recorto en carton o en cartulina un rectangulo que tenga 64 cm de perimetro. En el rectangulo, escribimos los criterios de divisibilidad por 2, 3, 4, 5, 6, 7, 8, 9 y 10. El tamano de la cartulina puede ser el siguiente: Es muy importante que colaboremos con las actividades de trabajo de nuestro hogar. Asi podremos aprender cosas que seran utiles pa",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Presento mi trabajo a mis companeros, companeras y profesor o profesora",
+              "descripcion": "Presento mi trabajo a mis companeros, companeras y profesor o profesora. 7 cm 25 cm La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso. 9 Guia 82 Matematicas 4",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Fracciones y decimales",
+      "desempeno_general": "Comprendo y utilizo fracciones y decimales en contextos reales.",
+      "guias": [
+        {
+          "numero": 9,
+          "titulo": "Perímetro",
+          "concepto": "Perímetro",
+          "desempeno": "Calculo el perímetro de figuras.",
+          "ejes_tematicos": [
+            "Perímetro"
+          ],
+          "recursos": [
+            "Regla",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leo y analizo la siguiente situacion",
+              "descripcion": "Leo y analizo la siguiente situacion. Luego en mi cuaderno respondo la pregunta: El papa de Marcela es propietario de una tienda de viveres. Para surtir su negocio, el compro 3 bultos de arroz de diferente tipo. Los bultos que compro aparecen en la derecha: El desea empacar cada tipo de arroz en bolsas pequenas. Las bolsas pequenas deben contener i",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leo la siguiente situacion y respondo la pregunta: En mi salon hay menos de 40",
+              "descripcion": "Leo la siguiente situacion y respondo la pregunta: En mi salon hay menos de 40 estudiantes. Con los estudiantes que hay, se pueden hacer grupos de 3, 4, 6 y 9 integrantes. Al hacer estos grupos, no sobra ningun estudiante. · Cuantos estudiantes hay en mi curso?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Planteo y resuelvo un problema empleando el maximo comun divisor de los numeros 8 y",
+              "descripcion": "Planteo y resuelvo un problema empleando el maximo comun divisor de los numeros 8 y 12.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Llevo mi trabajo a la escuela o colegio",
+              "descripcion": "Llevo mi trabajo a la escuela o colegio. Lo comparto con mis companeros, companeras y mi profesor o profesora. La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso. 10 Guia 89",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Realizamos las siguientes actividades con base en la situacion de la actividad 1: a",
+              "descripcion": "Realizamos las siguientes actividades con base en la situacion de la actividad 1: a. En el cuaderno, dibujamos los rectangulos que corresponden a las canchas. En los rectangulos, representamos la medida en metros de la longitud de sus lados (largo y ancho). Usamos cuadrados de igual tamano en la representacion. b. Observamos la representacion que r",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Encontramos el m.c.d. de los siguientes numeros: 604840",
+              "descripcion": "Encontramos el m.c.d. de los siguientes numeros: 604840",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Comparamos nuestro trabajo con el de nuestras companeras y companeros",
+              "descripcion": "Comparamos nuestro trabajo con el de nuestras companeras y companeros. Lo 87corregimos si es necesario. Presentamos nuestro trabajo a la profesora o al profesor. 88 Matematicas 4 Actividades de aplicacion Trabajo con mi familia",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Área",
+          "concepto": "Área",
+          "desempeno": "Calculo el área de figuras planas.",
+          "ejes_tematicos": [
+            "Área"
+          ],
+          "recursos": [
+            "Papel cuadriculado",
+            "Regla",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Identifico en mi casa o cerca de ella lo siguiente",
+              "descripcion": "Identifico en mi casa o cerca de ella lo siguiente. Luego realizo las actividades indicadas: · Dos superficies de forma rectangular. · Dos superficies de forma cuadrada.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Busco en mi casa algun objeto que tenga una superficies con forma cuadrada o rectangular",
+              "descripcion": "Busco en mi casa algun objeto que tenga una superficies con forma cuadrada o rectangular. Luego hallo el perimetro y el area de la superficie. Dibujo el objeto en mi cuaderno y le pongo las medidas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Dibujo en mi cuaderno el bano de mi casa",
+              "descripcion": "Dibujo en mi cuaderno el bano de mi casa. Tomo las medidas del piso y de las paredes del bano. Luego hallo el perimetro y el area del p iso y de las paredes. Finalmente, le pongo al dibujo las medidas que tome.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Comparto la proxima clase mi trabajo con mis companeros, companeras y profesor o profesora",
+              "descripcion": "Comparto la proxima clase mi trabajo con mis companeros, companeras y profesor o profesora. La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso. a. Elijo el instrumento de medida mas adecuado para determinar las longitudes de los lados de las superficies halladas. b. Hago las mediciones ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Recolectamos datos",
+          "concepto": "Datos, Tabla",
+          "desempeno": "Recolecto datos sencillos.",
+          "ejes_tematicos": [
+            "Datos",
+            "Tabla"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz",
+            "Tabla impresa"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Busco objetos que tengan una o mas caras de forma triangular en mi casa",
+              "descripcion": "Busco objetos que tengan una o mas caras de forma triangular en mi casa. Luego clasifico las caras triangulares segun el valor de sus angulos y segun la longitud de sus lados.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observamos el triangulo que formamos en el geoplano en la actividad anterior",
+              "descripcion": "Observamos el triangulo que formamos en el geoplano en la actividad anterior. Luego respondemos las siguientes preguntas: a. Como se denomina este triangulo segun la longitud de sus lados? b. Como se denomina este triangulo segun la amplitud de sus angulos? 2 cm 2 cm Trabajo en equipo Tenemos en cuenta medir y escribir las longitudes de los lados d",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Representamos los siguientes triangulos en un mismo geoplano",
+              "descripcion": "Representamos los siguientes triangulos en un mismo geoplano. Utilizamos lanas de diferente color para diferenciar estos triangulos: a. Un triangulo rectangulo. b. Un triangulo escaleno. c. Un triangulo equilatero.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Traemos palitos de igual longitud del Centro de recursos",
+              "descripcion": "Traemos palitos de igual longitud del Centro de recursos. Luego hacemos lo siguiente: a. Construimos una figura como la figura de la derecha: b. Con los mismos palitos de la figura que hicimos, formamos un solo triangulo. Este triangulo nuevo debe tener lados del doble de la longitud de los lados de los triangulos de la figura anterior.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dibujamos en el cuaderno las dos figuras que realizamos en la actividad anterior",
+              "descripcion": "Dibujamos en el cuaderno las dos figuras que realizamos en la actividad anterior.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En el cuaderno de Matematicas, dibujamos los siguientes triangulos",
+              "descripcion": "En el cuaderno de Matematicas, dibujamos los siguientes triangulos. Tenemos en cuenta las caracteristicas de cada uno: a. Equilatero. b. Isosceles. c. Escaleno. d. Acutangulo. e. Rectangulo. f. Obtusangulo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Observo los pasos que debo seguir para elaborar un pez en origami",
+              "descripcion": "Observo los pasos que debo seguir para elaborar un pez en origami. Luego identifico cuantos triangulos se formaron en la ultima de las figuras de cada fila. Finalmente, clasifico los triangulos que identifique: Presento mi trabajo a la profesora o al profesor. Actividades de aplicacion",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Gráficas y problemas",
+          "concepto": "Gráficas, Resolución de problemas",
+          "desempeno": "Interpreto gráficas sencillas.",
+          "ejes_tematicos": [
+            "Gráficas",
+            "Resolución de problemas"
+          ],
+          "recursos": [
+            "Papel cuadriculado",
+            "Regla",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observo los siguientes grupos de fracciones",
+              "descripcion": "Observo los siguientes grupos de fracciones. Digo si las fracciones de cada grupo son homogeneas o heterogeneas. Finalmente, explico por que.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pido a un adulto que me explique en que situaciones de la vida utilizamos las",
+              "descripcion": "Pido a un adulto que me explique en que situaciones de la vida utilizamos las fracciones. Luego escribo en mi cuaderno varios ejemplos del uso de las fracciones.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Llevo mi trabajo a la escuela o colegio",
+              "descripcion": "Llevo mi trabajo a la escuela o colegio. Lo comparto con mis companeros y companeras. Actividades de aplicacion Trabajo con mi familia",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "La cantidad de cesped que debe comprar el alcalde es A",
+              "descripcion": "La cantidad de cesped que debe comprar el alcalde es A. 270 m. C. 4.050 m. B. 270 m2. D. 4.050 m2.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Se pueden observar unos rectangulos que forma la linea blanca que atraviesa la cancha",
+              "descripcion": "Se pueden observar unos rectangulos que forma la linea blanca que atraviesa la cancha. La representacion en fraccion de cada uno de estos rectangulos es A. 1 4 C. 2 4 B. 1 2 D. 1 6",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En el cuaderno, representamos graficamente cada una de las fracciones de la derecha:",
+              "descripcion": "En el cuaderno, representamos graficamente cada una de las fracciones de la derecha:",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos y analizamos la siguiente situacion",
+              "descripcion": "Leemos y analizamos la siguiente situacion. Luego 25 58 27 respondemos la pregunta: 111 Felipe dividio una torta para compartir con siete amigos y amigas. A cada uno de ellos le correspondio una parte de la torta. · Como representamos en forma de fraccion la parte de la torta que cada nino o nina comio? 112 Matematicas 4 a. 5 7 3 7 4 7 2 7 c. 1 15 ",
+              "instrucciones": [
+                "a) 5 7 3 7 4 7 2 7",
+                "c) 1 15 15 15 6 15 10 15",
+                "b) 2 8 1 7 4 4 9 6",
+                "d) 2 13 8 10 7 9 17 20"
+              ]
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos atentamente la siguiente situacion",
+              "descripcion": "Leemos atentamente la siguiente situacion. Representamos la situacion con una grafica y realizamos lo indicado: Pablo, Ximena y Nicolas entrenan ciclomontanismo. A los cinco minutos, los tres habian recorrido las siguientes distancias: · Pablo habia recorrido tres cuartos del circuito. · Ximena habia recorrido un cuarto del circuito. · Nicolas habi",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Un cuadrado como este tiene 1 cm2",
+              "descripcion": "Un cuadrado como este tiene 1 cm2. Cuales fichas debe llevar Carlos para realizar su actividad? A. La ficha 3 y 4. B. La ficha 1 y 2. C. La ficha 2 y 3. III. Leo con atencion y respondo la pregunta 10: Un numero natural es perfecto cuando es igual a la suma de sus divisores sin incluirse el mismo. Por ejemplo: 6 es un numero perfecto porque 1 + 2 +",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Los divisores de 28 son 1, 2, 4, 7, 14 y 28",
+              "descripcion": "Los divisores de 28 son 1, 2, 4, 7, 14 y 28. Por que 28 es un numero perfecto? A. Porque 28 = 1 + 2 + 4 + 7 + 14 B. Porque 28 = 7 + 7 + 7 + 7 C. Porque 28 = 4 x 7 II. Leo con mucha atencion la siguiente situacion y respondo la pregunta 9: Se va a realizar una actividad en la clase de Matematicas. Carlos debe llevar a la clase 2 fichas de carton que",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Utilicemos las fracciones en nuestro entorno.......",
+          "concepto": "",
+          "desempeno": "Guia 12: Fraccionemos cantidades numericas.",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, represento en el cuaderno grafica y numericamente los siguientes alimentos:",
+              "descripcion": "Con ayuda de un familiar, represento en el cuaderno grafica y numericamente los siguientes alimentos: a. Un cuarto de queso. b. Media libra de harina. c. Un cuarto de chocolate. d. Media libra de carne. e. Medio frasco de aceite de un litro.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con base en los datos de la actividad anterior, respondo en el cuaderno las siguientes",
+              "descripcion": "Con base en los datos de la actividad anterior, respondo en el cuaderno las siguientes preguntas: a. Si reparto el queso y el chocolate entre mi familia, cuantos cuartos les he repartido? b. Que alimento se puede preparar con la harina y la carne? c. Cuantas medias libras de productos quedan despues de preparar la harina y la carne? Actividades de ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos e interpretamos las siguientes igualdades",
+              "descripcion": "Observamos e interpretamos las siguientes igualdades. Luego explicamos la equivalencia entre las figuras: Respondemos: a. Que relacion hay entre los elementos de cada lado de la igualdad? b. Como representamos cada relacion en forma de fraccion?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Completamos en el cuaderno las siguientes equivalencias y las representamos en forma de fraccion",
+              "descripcion": "Completamos en el cuaderno las siguientes equivalencias y las representamos en forma de fraccion. Tenemos en cuenta el ejercicio de la actividad anterior para realizar este: b. Jenny tiene 20 naranjas. 1 4 de las naranjas lo vendio en la manana. 2 4 de las naranjas lo vendio en la tarde. · Que fraccion de naranjas vendio Jenny en total? · Cuantas n",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Ampliemos y reduzcamos las fracciones..............",
+          "concepto": "",
+          "desempeno": "Regla, colores, lapiz, bloques logicos, palitos y recurso Renueva M4U3G13A7.",
+          "ejes_tematicos": [
+            "las fracciones",
+            "Equivalencia entre fracciones"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pido a mis padres o a un familiar que me explique como preparar arroz",
+              "descripcion": "Pido a mis padres o a un familiar que me explique como preparar arroz. Escribo la receta en mi cuaderno. Utilizando fracciones, respondo las siguientes preguntas: a. Que porcion de arroz preparado le corresponde a cada miembro de mi familia? b. Que cantidad de cada uno de los ingredientes debo usar si quiero preparar la receta para el doble de pers",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En mi cuaderno, expreso en forma de fracciones las cantidades de los ingredientes de la",
+              "descripcion": "En mi cuaderno, expreso en forma de fracciones las cantidades de los ingredientes de la anterior actividad.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparto mi trabajo la proxima clase con mi profesor o profesora",
+              "descripcion": "Comparto mi trabajo la proxima clase con mi profesor o profesora. La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso. 137 15 GuiaGuia",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Dibujamos y completamos la siguiente tabla en el cuaderno",
+              "descripcion": "Dibujamos y completamos la siguiente tabla en el cuaderno. Recordamos que no debemos escribir ni rayar la guia:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Analizamos y respondemos las siguientes preguntas: a",
+              "descripcion": "Analizamos y respondemos las siguientes preguntas: a. Cuantas veces debemos sumar 1 10 para completar la unidad? b. Cuantas veces debemos sumar 2 4 para completar la unidad? c. Cuantas veces debemos sumar 6 100 para completar la unidad? d. Podemos reemplazar la suma por otra operacion para encontrar las respuestas anteriores mas facil y rapido?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Identificamos cuales de los siguientes graficos representan fracciones equivalentes",
+              "descripcion": "Identificamos cuales de los siguientes graficos representan fracciones equivalentes. Luego los dibujamos en el cuaderno: 136 Matematicas 4 Actividades de aplicacion Trabajo con mi familia 8 4 2 = 1 4 4 8 = ? 3 2 6 = ? Presentamos nuestro trabajo a la profesora o al profesor.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Coloreamos en el cuaderno los siguientes graficos de manera que las fracciones sean equivalentes",
+              "descripcion": "Coloreamos en el cuaderno los siguientes graficos de manera que las fracciones sean equivalentes. Luego encontramos los numeros faltantes en cada equivalencia:",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Midamos usando fracciones..........................",
+          "concepto": "",
+          "desempeno": "Guia 14 Ampliemos y reduzcamos las fracciones Equivalencia entre fracciones.",
+          "ejes_tematicos": [
+            "Suma y resta de fracciones heterogeneas",
+            "elementos del Centro de"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de un familiar, leo, analizo y resuelvo en mi cuaderno las siguientes situaciones:",
+              "descripcion": "Con ayuda de un familiar, leo, analizo y resuelvo en mi cuaderno las siguientes situaciones:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En mi cuaderno, realizo un dibujo que represente la distancia que Cecilia recorrio en la",
+              "descripcion": "En mi cuaderno, realizo un dibujo que represente la distancia que Cecilia recorrio en la situacion de la actividad anterior.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparto la proxima clase mi trabajo con mis companeras, companeros y profesor o profesora",
+              "descripcion": "Comparto la proxima clase mi trabajo con mis companeras, companeros y profesor o profesora. a. David va a hacer un pastel para celebrar el cumpleanos de su hermanita menor. El necesita 5 2 de libra de mantequilla. Si solo tiene 4 8 de libra, cuanta mantequilla le hace falta? b. Cecilia practica patinaje en una pista. Primero patina 2 7 de la longit",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Observamos las siguientes fracciones",
+              "descripcion": "Observamos las siguientes fracciones. Luego escribimos en el cuaderno los procesos para saber si se debe colocar el signo mayor, menor o igual en los espacios, segun sea el caso: 143a. 1 4 1 3 e. 3 5 2 7 b. 7 12 8 19 f. 8 15 9 10 c. 6 18 1 3 g. 9 14 1 2 d. 4 5 1 3 h. 7 8 2 5 Presentamos nuestro trabajo a la profesora o al profesor. 144 Matematicas ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "En donde mas encontramos fracciones?..............",
+          "concepto": "",
+          "desempeno": "Regla, elementos del Centro de recursos, regletas de Cuisenaire, colores, lapices, hojas de papel y recurso Renueva M4U3G15A5.",
+          "ejes_tematicos": [
+            "fracciones?",
+            "Multiplicacion y division de fracciones",
+            "Regletas de Cuisenaire"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Acompano a un familiar a la tienda",
+              "descripcion": "Acompano a un familiar a la tienda. Alli observo cuales productos se pueden comprar usando fracciones. Escribo los nombres de esos productos en el cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pido a un familiar que me ensene a cocinar algun plato tipico",
+              "descripcion": "Pido a un familiar que me ensene a cocinar algun plato tipico. Anoto los ingredientes usando fracciones. Pienso en que quiero preparar el plato para 6 personas. Luego calculo la cantidad necesaria de cada ingrediente para preparar esa cantidad.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos, analizamos y resolvemos en el cuaderno las siguientes situaciones: a",
+              "descripcion": "Leemos, analizamos y resolvemos en el cuaderno las siguientes situaciones: a. En el triatlon, Maria recorre 3 8 km nadando, 40 8 km en bicicleta y 15 8 km corriendo. · Cuantos km recorrio Maria en total? · Maria recorrio mas kilometros nadando o corriendo? b. Juan y Ricardo quieren pintar una pared de forma rectangular. La pared mide 12 3 m de larg",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Analizamos y damos solucion a las siguientes situaciones: a",
+              "descripcion": "Analizamos y damos solucion a las siguientes situaciones: a. Jorge tiene un terreno rectangular que mide 4 24 m de largo y 4 16 m de ancho. El dividio su terreno en cuatro parcelas de igual tamano, de 4 6 m de ancho cada una. · Jorge quiere dividir el largo de la parcela de 4 16 m en secciones de 3 4 m cada una. · Cuantas secciones obtendra en el t",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Simplificar el resultado si es necesario",
+              "descripcion": "Simplificar el resultado si es necesario.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Pensar si nuestro resultado tiene sentido dentro del problema",
+              "descripcion": "Pensar si nuestro resultado tiene sentido dentro del problema. 151 17 GuiaGuia",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Geometría y medición",
+      "desempeno_general": "Reconozco figuras geométricas y realizo mediciones.",
+      "guias": [
+        {
+          "numero": 17,
+          "titulo": "Ubiquemonos en el plano cartesiano ................",
+          "concepto": "",
+          "desempeno": "Guia 16 En donde mas encontramos fracciones? Multiplicacion y division de fracciones.",
+          "ejes_tematicos": [
+            "cartesiano",
+            "Ubicacion de figuras en el plano"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Dibujo un plano cartesiano en mi cuaderno",
+              "descripcion": "Dibujo un plano cartesiano en mi cuaderno. Ubico en el plano las parejas ordenadas necesarias para formar un rombo. Despues encuentro el area teniendo en cuenta la cantidad de unidades cuadradas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En mi cuaderno, elaboro un plano cartesiano",
+              "descripcion": "En mi cuaderno, elaboro un plano cartesiano. El plano debe ilustrar las calles y las carreras de mi barrio o pueblo. Ubico en el plano, por medio de parejas ordenadas, los sitios o lugares que considere mas importantes. · El siguiente plano es un ejemplo: Actividades de aplicacion",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Analizo la siguiente ilustracion y construyo un teselado de la misma traslacion que el siguiente",
+              "descripcion": "Analizo la siguiente ilustracion y construyo un teselado de la misma traslacion que el siguiente (observo que se una la misma figura). Un teselado es una construccion de poligonos regulares o irregulares. Estos poligonos no dejan huecos entre si al ser juntados sin superponerse. Esta construccion cubre un plano. Trabajo con mi familia y x",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Llevo mi trabajo a la escuela",
+              "descripcion": "Llevo mi trabajo a la escuela. Comparto mi trabajo con mis companeros, companeras y mi profesor o profesora. La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso. GuiaGuia 162 18 Matematicas 4",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Realicemos mediciones empleando otros numeros......",
+          "concepto": "",
+          "desempeno": "Hojas cuadriculadas, regla y recurso Renueva M4U3G17A3.",
+          "ejes_tematicos": [
+            "empleando otros numeros",
+            "Fracciones decimales"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pregunto a un familiar en que situaciones de la vida diaria utilizamos las fracciones decimales",
+              "descripcion": "Pregunto a un familiar en que situaciones de la vida diaria utilizamos las fracciones decimales. Escribo en el cuaderno los ejemplos que me dio.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Convierto las siguientes fracciones decimales en el numero decimal al cual corresponden: 732 1",
+              "descripcion": "Convierto las siguientes fracciones decimales en el numero decimal al cual corresponden: 732 1.000 28 100 45 1.000 143 10 3.426 1.000 2.125 100 5.534 10 0,001 0,40 0,72 0,568 0,229",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Ubico en la tabla que hice en la actividad anterior los siguientes numeros decimales",
+              "descripcion": "Ubico en la tabla que hice en la actividad anterior los siguientes numeros decimales. Luego represento en forma de fraccion cada uno de los numeros: Presento mi trabajo a la profesora o al profesor. Actividades de aplicacion Trabajo con mi familia 172 Matematicas 4 La profesora o el profesor valora los desempenos alcanzados con el desarrollo de est",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Presento mi trabajo la proxima clase a mi profesora o profesor",
+              "descripcion": "Presento mi trabajo la proxima clase a mi profesora o profesor. Cuanto he aprendido? 173 Desarrollo la evaluacion en mi cuaderno. Tengo en cuenta que solo hay una respuesta correcta para cada pregunta. I. Leo y analizo el siguiente caso. Luego respondo las preguntas 1 a 4: La granja de Pablo Don Pablo es un campesino que vive feliz en su granja. La",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Que distancia debe recorrer en total Daniel para ir de su casa al colegio?",
+              "descripcion": "Que distancia debe recorrer en total Daniel para ir de su casa al colegio?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Cual de las tres distancias es la mas larga que debe recorrer Daniel de su",
+              "descripcion": "Cual de las tres distancias es la mas larga que debe recorrer Daniel de su casa a la escuela?",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "La trasformacion que sufrio la figura de la serie 2 con respecto a la figura",
+              "descripcion": "La trasformacion que sufrio la figura de la serie 2 con respecto a la figura de la serie 1 fue A. Reflexion. B. Traslacion. C. Rotacion. D. Homotecia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "La transformacion que hizo la figura que fue ampliada en el plano se llama A",
+              "descripcion": "La transformacion que hizo la figura que fue ampliada en el plano se llama A. Reflexion. B. Traslacion. C. Rotacion. D. Homotecia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Si realizo una reflexion de la figura que resulta de la serie 1 usando como",
+              "descripcion": "Si realizo una reflexion de la figura que resulta de la serie 1 usando como eje de simetria el eje horizontal del plano, el resultado que se obtiene es: Serie 1: (4, 2) (6, 4) (6, 3) (9, 3) (9, 4) (11, 2) (9, 0) (9, 1) (6, 1) (6, 0) (4, 2). Serie 2: (2, 3) (6, 6) (4, 6) (4, 12) (6, 12) (2, 15) (-2, 12) (0, 12) (0, 6) (-2, 6) (2, 3). x y 5 -4 4 -4 4",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "La linea que trazamos paralela al eje y, que va desde la pareja ordenada (2,",
+              "descripcion": "La linea que trazamos paralela al eje y, que va desde la pareja ordenada (2, 0) hasta (2, 16) y que parte la figura en 2 partes iguales se llama A. 2 km 5 B. 6 km 5 C. 1,5 km D. Ninguna de las anteriores. III. Dibujo el siguiente plano cartesiano en una hoja. Despues uno los puntos de cada serie como indican las flechas para encontrar las figuras. ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Comparemos algunos numeros.........................",
+          "concepto": "",
+          "desempeno": "Guia 18: Realicemos mediciones empleando otros numeros.",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Le pido ayuda a un familiar para esta actividad",
+              "descripcion": "Le pido ayuda a un familiar para esta actividad. Con mi familiar, hago una estimacion del dinero que se ha gastado en comida en mi casa durante el ultimo mes. Tengo en cuenta las frutas, el arroz, las verduras, la leche y los huevos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Si es posible, tomo nota de los precios de los siguientes productos en el mercado",
+              "descripcion": "Si es posible, tomo nota de los precios de los siguientes productos en el mercado internacional que aparecen en noticieros o periodicos. Luego escribo los precios en el cuaderno: a. Una libra de cafe c. Un barril de petroleo b. El valor del dolar d. El valor del euro. O Finalmente, invento una situacion utilizando los datos obtenidos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Ordenamos de mayor a menor los siguientes valores: 18 kg 125 gr 17,3 kg 93",
+              "descripcion": "Ordenamos de mayor a menor los siguientes valores: 18 kg 125 gr 17,3 kg 93 gr 18,2 kg 63 gr",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Analizamos las balanzas y luego respondemos en el cuaderno a que equivale cada uno de",
+              "descripcion": "Analizamos las balanzas y luego respondemos en el cuaderno a que equivale cada uno de los signos de interrogacion que aparecen. Presentamos nuestro trabajo a la profesora o al profesor. Trabajo con mi familia Actividades de aplicacion Mantequilla Mantequilla ? Cuantos panes? ? Cuanta mantequilla? ? Cuanta mantequilla? Consulta los Contenidos para A",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Como calculamos porcentajes? .....................",
+          "concepto": "",
+          "desempeno": "Realizo operaciones de suma y de resta con numeros decimales para resolver Guia 19 Conversion de numeros decimales a situaciones problema.",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Busco en el periodico o en un almacen cinco articulos en promocion con sus descuentos",
+              "descripcion": "Busco en el periodico o en un almacen cinco articulos en promocion con sus descuentos. En el cuaderno, elaboro y completo una tabla como la siguiente. Me guio por el ejemplo:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En compania de mis familiares, voy al supermercado",
+              "descripcion": "En compania de mis familiares, voy al supermercado. Luego realizo lo siguiente: a. Pregunto el porcentaje de descuento de algunos articulos en promocion. b. Escribo en el cuaderno de Matematicas la informacion de los porcentajes de descuento. c. Realizo los procedimientos para hallar el valor que se debe pagar por cada uno de los articulos con desc",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos el precio de los siguientes productos",
+              "descripcion": "Observamos el precio de los siguientes productos. Luego decimos cuanto debe pagar un cliente por cada articulo si cada uno tiene el 30% de descuento: Paquete de frijol 4 Kg $ 10.000 Paquete de salchichas 8 unidades $ 4.800 Frasco de aceite 5.000 ml $ 25.700 Articulo Porcentaje de descuento Fraccion decimal Crema dental 12% 100 12 Presentamos nuestr",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Es hora de med",
+          "concepto": "",
+          "desempeno": "Vasos desechables, jarra de un litro, jeringa, cajas de Diferencio atributos medibles como la masa, peso, volumen y capacidad, para Volumen, multiplos y submultiplos fosforo, frijoles, semillas, tabla de carton, banda de utilizarlos en la vida diaria",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observo la imagen de la derecha",
+              "descripcion": "Observo la imagen de la derecha. Guiandome por la imagen, construyo una balanza con los siguientes elementos: O Una tabla de madera de 18 cm x 18 cm. O Dos tapas metalicas de betun. O Una piola o cuerda. O Dos tablas de madera, una mas larga que otra. O Puntillas. O Una caja de clips.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Mido con la balanza el peso de los siguientes objetos y los comparo",
+              "descripcion": "Mido con la balanza el peso de los siguientes objetos y los comparo. Utilizo los clips como medida de peso en un lado: Actividades de aplicacion Trabajo con mi familia a. Un anillo. b. Una moneda. c. Un color pequeno. d. Una llave.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "De acuerdo con los resultados de la actividad anterior, respondo las siguientes preguntas en mi",
+              "descripcion": "De acuerdo con los resultados de la actividad anterior, respondo las siguientes preguntas en mi cuaderno: a. Cuantos clips peso cada objeto? b. Cual objeto peso mas? c. Cual objeto peso menos? d. Cual objeto tiene mayor volumen?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observo una factura de agua de los ultimos cuatro meses",
+              "descripcion": "Observo una factura de agua de los ultimos cuatro meses. Luego hago la suma de los metros cubicos (m³) de agua consumidos en esos dos meses.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dibujo tres empaques de productos liquidos",
+              "descripcion": "Dibujo tres empaques de productos liquidos. Observo su capacidad en centimetros cubicos (cm³) o en mililitros (ml). Expreso su capacidad en metros cubicos (m³) y en litros (l).",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Consulto en la biblioteca el significado de los siguientes terminos",
+              "descripcion": "Consulto en la biblioteca el significado de los siguientes terminos. Luego reflexiono sobre la importancia de medir estas magnitudes: Densidad Dureza Viscosidad Masa Capacidad La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso. 22 Guia 212 Matematicas 4 Que podemos hacer con la informac",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Que podemos hacer con la informacion recolectada?",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Averiguo cual es la cantidad de libras de los alimentos mas importantes que consumimos en",
+              "descripcion": "Averiguo cual es la cantidad de libras de los alimentos mas importantes que consumimos en casa durante el mes. Entre ellos, la cantidad de arroz, frijol, maiz y papa. Escribo esta informacion en mi cuaderno y la represento en una grafica circular.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leo el siguiente caso y observo el diagrama: Actividades de aplicacion Trabajo con mi familia",
+              "descripcion": "Leo el siguiente caso y observo el diagrama: Actividades de aplicacion Trabajo con mi familia El diagrama representa la cantidad de dinero que la familia Gonzalez pago por el servicio de agua y energia durante 6 meses: Guia 219 23",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Analizo el diagrama de la actividad anterior y respondo en mi cuaderno las siguientes preguntas:",
+              "descripcion": "Analizo el diagrama de la actividad anterior y respondo en mi cuaderno las siguientes preguntas: a. Cual fue el precio del consumo de agua y energia en el mes de enero? b. Cual fue el mes de mayor consumo? c. Cual fue el mes de menor consumo? Cuanto dinero se pago en el mes de menor consumo? d. Cual fue el precio total de estos servicios durante lo",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Hallo la moda y el rango de la situacion de la actividad 2 y de",
+              "descripcion": "Hallo la moda y el rango de la situacion de la actividad 2 y de la situacion de la actividad 3.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Completo la siguiente tabla en mi cuaderno",
+              "descripcion": "Completo la siguiente tabla en mi cuaderno. La completo calculando la moda y el rango de los datos que aparecen en ella: Datos Moda Rango 1,1,1,1,3,3,4,4,5,5,5 9,9,10,10,10,10,10,11,11,11 5,5,5,5,6,6,6,6,6,9,9,9,9,9,10,10 Ventas de la tienda escolar 65 60 55 50 45 40 35 30 25 20 15 10 5 0 Arepas Cantidad Producto Galletas Bebidas Empanadas Platanit",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Establezcamos relaciones de variacion .............",
+          "concepto": "",
+          "desempeno": "Guia 22 Hojas blancas, colores y regla.",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pido a mis padres que me den tres ejemplos de variables que se relacionan directamente",
+              "descripcion": "Pido a mis padres que me den tres ejemplos de variables que se relacionan directamente. Puedo tambien pedirles a mis vecinos los ejemplos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Escribo una receta y elaboro una tabla aumentando cada vez los ingredientes que deberia tener",
+              "descripcion": "Escribo una receta y elaboro una tabla aumentando cada vez los ingredientes que deberia tener. Completo la tabla con los ingredientes para 2, 4, 6, 8 y 10 personas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparto la proxima clase mi trabajo con mis companeras y companeros",
+              "descripcion": "Comparto la proxima clase mi trabajo con mis companeras y companeros. Le muestro mi trabajo a la profesora o profesor. a. Esteban viaja en su auto a una velocidad constante de 60 km por hora. El ha recorrido 180 km. Cuanto tiempo lleva conduciendo? b. Maria esta cocinando para su familia. Ella utiliza tres huevos en una receta para seis personas. C",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Escribimos las siguientes expresiones en el cuaderno",
+              "descripcion": "Escribimos las siguientes expresiones en el cuaderno. En frente de cada expresion, indicamos si las razones son o no proporciones: 4 28 515 530",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Elaboramos en el cuaderno las siguientes tablas y las completamos",
+              "descripcion": "Elaboramos en el cuaderno las siguientes tablas y las completamos. Identificamos la relacion entre la magnitud independiente y magnitud dependiente de cada tabla: 1 b. 3 10 c.4 24 = a. = = a. b. 223 Area a pintar (m2) 24 60 Tarros de pintura (litros) 2 6 10 Litros de gasolina 1 5 11 Precio $ 2.140 19.260 Tiempo (dias) 5 10 15 20 25 30 Salario ($) 1",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Recordamos las relaciones entre cada par de variables de las tablas de la actividad anterior",
+              "descripcion": "Recordamos las relaciones entre cada par de variables de las tablas de la actividad anterior. Luego inventamos una situacion con cada una de esas relaciones.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leo atentamente las siguientes situaciones y respondo las preguntas en el cuaderno: Trabajo individual Presento",
+              "descripcion": "Leo atentamente las siguientes situaciones y respondo las preguntas en el cuaderno: Trabajo individual Presento mi trabajo a la profesora o al profesor. Actividades de aplicacion Trabajo con mi familia",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Represento las situaciones de la actividad anterior con parejas ordenadas en un plano cartesiano para",
+              "descripcion": "Represento las situaciones de la actividad anterior con parejas ordenadas en un plano cartesiano para cada una. En cada caso, voy aumentando el valor de cada una de las variables.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Es posible predecirlo?............................",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pido a mis padres o vecinos que me digan cinco eventos",
+              "descripcion": "Pido a mis padres o vecinos que me digan cinco eventos. Luego clasifico los eventos en aleatorios o deterministas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Observamos lo que hay a nuestro alrededor",
+              "descripcion": "Observamos lo que hay a nuestro alrededor. Identificamos tres fenomenos deterministas y tres fenomenos aleatorios. Escribimos en el cuaderno los fenomenos que observamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Tomamos dos dados y los tiramos a la misma vez",
+              "descripcion": "Tomamos dos dados y los tiramos a la misma vez. Observamos la suma de los puntos obtenidos. Luego respondemos en el cuaderno las preguntas: a. Cuales son los resultados posibles? b. De cuantas formas puede obtenerse cada uno de los resultados posibles?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Usando los resultados obtenidos en la actividad anterior, completamos la siguiente tabla",
+              "descripcion": "Usando los resultados obtenidos en la actividad anterior, completamos la siguiente tabla. Debemos registrar en la tabla el resultado de la suma correspondiente. Nos guiamos por el ejemplo: Lanzamiento dado 1 1 2 3 4 5 6 Lanzamiento dado 2 1 5+6=11 2 3 4 5 6 Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Con nuestras companeras y companeros, comentamos las siguientes preguntas sobre la actividad de lanzar los",
+              "descripcion": "Con nuestras companeras y companeros, comentamos las siguientes preguntas sobre la actividad de lanzar los dos dados: a. Que es mas facil obtener en el ejercicio de los dados: 2 o 6? b. Al tirar los dados puede obtenerse una suma igual a 21? Por que? c. Al tirar los dados puede obtenerse una suma menor que 13? Por que? Un lider trabaja en equipo y ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribo los siguientes eventos en el cuaderno",
+              "descripcion": "Escribo los siguientes eventos en el cuaderno. Luego los ordeno desde el menos probable hasta el mas probable. Si hay eventos aleatorios, los encierro con color rojo. Si hay eventos deterministas, los encierro con color verde: a. El tio de Juan vivira 105 anos. b. La proxima semana no tendra dia martes. c. En el mes de octubre llovera todos los dia",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leo con atencion las siguientes situaciones",
+              "descripcion": "Leo con atencion las siguientes situaciones. Luego propongo un fenomeno determinista y uno aleatorio con cada situacion: O Andres quiere hacer girar la siguiente ruleta: 2 2 4 1 O Vanessa tiene las siguientes pelotas en una bolsa negra: La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Estadística y resolución de problemas",
+      "desempeno_general": "Recolecto y analizo datos para resolver problemas.",
+      "guias": [
+        {
+          "numero": 25,
+          "titulo": "Hallemos proporciones! ...........................",
+          "concepto": "",
+          "desempeno": "Dados de colores, canicas ofi chas de parques y bolsa Guia 24 DBA 1.",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En el cuaderno, escribimos las siguientes proporciones",
+              "descripcion": "En el cuaderno, escribimos las siguientes proporciones. Luego calculamos el termino desconocido de cada proporcion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leemos los siguientes casos",
+              "descripcion": "Leemos los siguientes casos. Indicamos si la relacion de proporcionalidad es directa o inversa: a. = 4 12 x 36 b. = 7 14 x 60 c. = 5 10 x 15 a. En el colegio La bella tienen concentrado para 120 gallinas por 35 dias. Si se mueren 40 gallinas, cuanto tiempo durara el concentrado? b. Con 10 rollos de alambre electrico se alcanza a cercar un terreno d",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Resolvemos los siguientes casos, identificando las variables de cada uno",
+              "descripcion": "Resolvemos los siguientes casos, identificando las variables de cada uno. Luego, identificamos la relacion de proporcionalidad directa o inversa: a. Con cuatro maquinas de confeccion los empleados tardan diez dias en terminar un trabajo. · Cuanto tardarian en el trabajo con el doble de maquinas? Cuanto tarda la mitad de las maquinas? Presentamos nu",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Completamos las siguientes tablas",
+              "descripcion": "Completamos las siguientes tablas. Luego argumentamos si son directamente proporcionales o inversamente proporcionales: b. Cinco empleados tardan diez dias en pintar una casa. · Cuanto tardaran tres empleados en pintar la casa? c. 25 personas pagan por un hostal un costo fijo de $24.000 cada uno. Si van 35 personas. · Cuanto dinero debe aportar cad",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Segun la tabla de precios, en esta situacion matematica intervienen 2 magnitudes: cantidad y precio",
+              "descripcion": "Segun la tabla de precios, en esta situacion matematica intervienen 2 magnitudes: cantidad y precio. Cuales de las siguientes afirmaciones son verdaderas? A. Las dos magnitudes son inversamente proporcionales. B. El numero de jugos es la variable independiente. C. Las dos magnitudes son directamente proporcionales. D. El precio de los jugos es la v",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Cerrar muy bien y colocar en un recipiente",
+              "descripcion": "Cerrar muy bien y colocar en un recipiente.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Hornear de 25 a 30 min a 180 grados centigrados vigilando constantemente",
+              "descripcion": "Hornear de 25 a 30 min a 180 grados centigrados vigilando constantemente.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Servir acompanado de papas y/o ensalada fresca",
+              "descripcion": "Servir acompanado de papas y/o ensalada fresca. Receta: Pastel de pollo con champinones para 8 personas Para convertir grados centigrados (°C) a grados Fahrenheit (°F), multiplicamos los °C x 9, luego dividimos entre 5 y al resultado le sumamos 32. 239",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "El total de cafe en libras entregado por los trabajadores la semana 3 son: A",
+              "descripcion": "El total de cafe en libras entregado por los trabajadores la semana 3 son: A. 125 lbs. C. 375 lbs. B. 225 lbs. D. 155 lbs. Semana 1 Semana 2 Semana 3 Semana 4 Total Samuel 60 46 55 50 Carlos 55 35 70 45",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Escribimos en el cuaderno cuando dos magnitudes son inversamente proporcionales",
+              "descripcion": "Escribimos en el cuaderno cuando dos magnitudes son inversamente proporcionales. Tambien escribimos como se resuelven las situaciones con esta caracteristica y complementamos el escrito con 2 ejemplos. Actividades de practica Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Una carga de cafe seco se vende en $784",
+              "descripcion": "Una carga de cafe seco se vende en $784.000. Si se vende todo el cafe recibido el total de dinero en el mes de octubre es A. $24.774.400. C. $326.144.000. B. $157.828.000. D. $15.782.800.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Decir que durante el mes de octubre no llovera es una situacion A",
+              "descripcion": "Decir que durante el mes de octubre no llovera es una situacion A. determinista. C. de coincidencia. B. aleatoria. D. ninguna de las anteriores. R e cord em o s 1 arroba = 25 lbs y 1 carga = 10 arrobas. La profesora o el profesor valora los desempenos alcanzados con el desarrollo de las guias de esta unidad. Si cree conveniente, me indicara que act",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Matematicas",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [
+            "Conozcamos las propiedades",
+            "de la multiplicacion"
+          ],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos con atencion la imagen de entrada de esta unidad",
+              "descripcion": "Observamos con atencion la imagen de entrada de esta unidad. Tomamos de la imagen la siguiente informacion y la escribimos en el cuaderno: a. Numero de bibliotecas que hay en el colegio La alegria de aprender. b. Numero de bibliotecas que hay en la seccion de secundaria. c. Numero de estantes que hay en cada una de las bibliotecas. d. Numero de div",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con base en la imagen de entrada de esta unidad y la actividad anterior, realizamos",
+              "descripcion": "Con base en la imagen de entrada de esta unidad y la actividad anterior, realizamos lo siguiente: a. Respondemos la siguiente pregunta: · Que estrategia podemos utilizar para saber cual es el total de libros que hay en cada estante? b. Representamos mediante un dibujo como puedo solucionar la situacion anterior. c. Comparamos nuestra representacion",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Verificamos el procedimiento que usamos para resolver la operacion de la actividad anterior",
+              "descripcion": "Verificamos el procedimiento que usamos para resolver la operacion de la actividad anterior. Para eso, leemos y analizamos el siguiente texto: 25 + 25 + 25 + 25 + 25 125 556.908 x 67 3.898.356 + 3.341.448 37.312.836 28 Matematicas 4",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Recordamos la imagen de entrada de esta unidad y la primera actividad de esta guia",
+              "descripcion": "Recordamos la imagen de entrada de esta unidad y la primera actividad de esta guia. Luego realizamos lo siguiente en el cuaderno: a. Planteamos y resolvemos la operacion necesaria para saber cuantos libros hay en total en la biblioteca de primaria. Tenemos en cuenta el procedimiento de la actividad anterior. b. Realizamos la operacion necesaria par",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos atentamente la siguiente situacion: La profesora que orienta Lenguaje en 7° grado desea que",
+              "descripcion": "Leemos atentamente la siguiente situacion: La profesora que orienta Lenguaje en 7° grado desea que los estudiantes exploren una de las colecciones de libros que se encuentran en la biblioteca. Para ello, ella organiza dos equipos y les pide que hagan arreglos rectangulares con los textos en los estantes. Uno de los equipos presento su arreglo de la",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Teniendo en cuenta la situacion anterior, comentamos las siguientes preguntas: a",
+              "descripcion": "Teniendo en cuenta la situacion anterior, comentamos las siguientes preguntas: a. En el primer arreglo: · Cuantas filas hay? · Cuantas columnas hay? · Cuantos libros hay en total? b. En el segundo arreglo: · Cuantas filas hay? · Cuantas columnas hay? · Cuantos libros hay en total?",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "A partir de la situacion anterior, completamos las siguientes operaciones en el cuaderno",
+              "descripcion": "A partir de la situacion anterior, completamos las siguientes operaciones en el cuaderno. Recordamos que no debemos rayar o escribir en la guia: Primer arreglo: x 5 = Segundo arreglo: 5 x =",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Despues de haber realizado las actividades anteriores, comentamos las siguientes preguntas: a",
+              "descripcion": "Despues de haber realizado las actividades anteriores, comentamos las siguientes preguntas: a. En que se parecen las dos formas de representar la coleccion de libros? b. Que podemos concluir de la actividad anterior?",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leemos atentamente el siguiente texto: A pesar de las dos maneras en que se organizaron",
+              "descripcion": "Leemos atentamente el siguiente texto: A pesar de las dos maneras en que se organizaron los libros, el total de ellos sigue siendo el mismo. Tambien encontramos que el resultado es el mismo al poner los factores en distinto orden y realizar las multiplicaciones. Esta caracteristica o propiedad de la multiplicacion se conoce como propiedad conmutati",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Elaboramos en el cuaderno nuestra propia idea de la propiedad conmutativa de la multiplicacion",
+              "descripcion": "Elaboramos en el cuaderno nuestra propia idea de la propiedad conmutativa de la multiplicacion. Tenemos en cuenta la lectura y las actividades anteriores para elaborarla. Trabajo en parejas Ingresa a Renueva en: www.campus.escuelanueva.co y diviertete practicando las propiedades de la multiplicacion.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Analizamos la siguiente situacion y realizamos las actividades indicadas: Una agricultora esta empacando frutas para",
+              "descripcion": "Analizamos la siguiente situacion y realizamos las actividades indicadas: Una agricultora esta empacando frutas para vender. Ella empaca seis frutas en una bolsa y luego empaca tres bolsas en una caja. · Cuantas frutas vendio la agricultora si vendio cuatro cajas? 11.Analizamos la siguiente situacion y realizamos las actividades indicadas: Una agri",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Leemos y analizamos atentamente la siguiente informacion: 30Matematicas4Los factores de una multiplicacion pueden asociarse de",
+              "descripcion": "Leemos y analizamos atentamente la siguiente informacion: 30Matematicas4Los factores de una multiplicacion pueden asociarse de diferentes maneras sin que el producto cambie. Por ejemplo: 6 x 3 x 2 = 36 (6 x 3) x 2 6 x (3 x 2) 18 x 2 6 x 6 36 36 Esta propiedad de la multiplicacion entre numeros naturales recibe el nombre de propiedad asociativa. Uad",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Vamos a responder la pregunta de la actividad anterior! Hacemos lo siguiente: a",
+              "descripcion": "Vamos a responder la pregunta de la actividad anterior! Hacemos lo siguiente: a. Dibujamos en el cuaderno las siguientes representaciones. $ + $ 31 32 Matematicas 4 + + + +",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 37,
+          "titulo": "Hagamos repartos",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos la ilustracion y dialogamos sobre la siguiente situacion: Trabajo en equipo Actividades basicas En",
+              "descripcion": "Observamos la ilustracion y dialogamos sobre la siguiente situacion: Trabajo en equipo Actividades basicas En la biblioteca de primaria, hay una coleccion de 125 cuentos. En la escuela, hay ocho estudiantes que estan solicitando en prestamo los cuentos de la coleccion. La bibliotecaria esta buscando una estrategia para que a todos les corresponda l",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con base en la informacion de la situacion de la pagina anterior, respondemos: a",
+              "descripcion": "Con base en la informacion de la situacion de la pagina anterior, respondemos: a. Que estrategia puede utilizar la bibliotecaria para saber cuantos cuentos debe entregar a cada estudiante? b. Que operacion matematica debe realizar la bibliotecaria para saber cuantos cuentos le corresponden a cada estudiante? c. Le sobran cuentos al repartirlos entr",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leo la siguiente situacion y respondo las preguntas en el cuaderno: · 36 mangos ·",
+              "descripcion": "Leo la siguiente situacion y respondo las preguntas en el cuaderno: · 36 mangos · 24 pinas · 60 naranjas · 48 guayabas. b. Es muy importante que consumamos frutas diariamente. Ellas nos aportan vitaminas y minerales, nos hidratan, ayudan al funcionamiento de nuestro aparato digestivo, entre otras cosas. La tia Edilma quiere repartir las frutas entr",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Resuelvo la siguiente situacion",
+              "descripcion": "Resuelvo la siguiente situacion. Utilizo todas las estrategias posibles para responder la pregunta: Andrea vendio 2.400 helados durante un mes (30 dias). Ella vendio la misma cantidad todos los dias. a. 2345 15 b. 248 ÷ 4 = c. 987 3 d. 5.520 ÷ 24 =",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Resuelvo las siguientes divisiones",
+              "descripcion": "Resuelvo las siguientes divisiones. Luego completo en el cuaderno la tabla ubicando en cada columna el numero que corresponda. Para completar la tabla, tengo en cuenta los resultados obtenidos:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribimos y completamos en el cuaderno las siguientes operaciones",
+              "descripcion": "Escribimos y completamos en el cuaderno las siguientes operaciones. Tenemos en cuenta el siguiente ejemplo: Un numero que multiplicado por ocho nos da como resultado 128: 38Matematicas4 a. 9 x = 72 72 ÷ 9 = b. x 8 = 48 48 ÷ 8 = c. 12 x = 48 48 ÷ 12 = d. 6 x = 132 132 ÷ 6 = x 8 = 128 128 ÷ 8 = 39 UUnnididaadd 11, , GGuuiaia 41 Trabajo en parejas",
+              "instrucciones": [
+                "a) 9 x = 72 72 ÷ 9 =",
+                "b) x 8 = 48 48 ÷ 8 =",
+                "c) 12 x = 48 48 ÷ 12 ="
+              ]
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos con buena entonacion o escuchamos atentamente el siguiente texto",
+              "descripcion": "Leemos con buena entonacion o escuchamos atentamente el siguiente texto. Luego analizamos la informacion que aparece: Division exacta 512 16 - 48 32 32 - 32 00 Division inexacta 478 15 - 45 31 28 - 15 13 Una division es exacta cuando: • Se reparte una cantidad en partes iguales. • En el residuo de la division, no sobra nada. Esto quiere decir que e",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos atentamente las siguientes situaciones",
+              "descripcion": "Leemos atentamente las siguientes situaciones. Luego las resolvemos utilizando diferentes estrategias: a. A la biblioteca de primaria, llegaron tres grupos de 36 estudiantes cada uno. En la biblioteca, solo hay 12 mesas. · Cuantos estudiantes se pueden acomodar en cada una de las mesas? b. Hay 216 sillas de un auditorio. Las sillas estan organizada",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos los solidos representados en la siguiente tabla, los construimos en plastilina",
+              "descripcion": "Observamos los solidos representados en la siguiente tabla, los construimos en plastilina. Luego, dibujamos en el cuaderno la tabla y la completamos con las caracteristicas de los solidos:",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Observamos de nuevo los dos solidos de la actividad anterior",
+              "descripcion": "Observamos de nuevo los dos solidos de la actividad anterior. Luego comentamos: · Que diferencias encontramos entre los dos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Organizamos un concurso por equipos para realizar divisiones sencillas! Seguimos las indicaciones: a",
+              "descripcion": "Organizamos un concurso por equipos para realizar divisiones sencillas! Seguimos las indicaciones: a. Formamos varios equipos. b. Planteamos varias divisiones. c. Buscamos estrategias para acercarnos o aproximarnos al resultado de cada division. 413 x 200 me da 600... 694 dividido entre 3, cuanto es? d. Buscamos un numero que multiplicado por el di",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Leemos el siguiente texto acerca de los prismas y sus partes: Base Altura Cara lateral",
+              "descripcion": "Leemos el siguiente texto acerca de los prismas y sus partes: Base Altura Cara lateral Base 52 Matematicas 4 R e c ord e m os • Lineas paralelas: dos lineas son paralelas si siempre estan a la misma distancia. Esto quiere decir que son equidistantes y nunca se encuentran. Estas lineas apuntan en la misma direccion. Por ejemplo: • Aristas: son los l",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Vamos a hacer tres prismas diferentes! Hacemos lo siguiente: a",
+              "descripcion": "Vamos a hacer tres prismas diferentes! Hacemos lo siguiente: a. Traemos cartulina, tijeras y pegante del Centro de recursos. b. Dibujamos en la cartulina las siguientes plantillas de tres prismas diferentes: c. Recortamos las plantillas y las armamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Encontramos las semejanzas y las diferencias entre los solidos que hicimos en la actividad anterior",
+              "descripcion": "Encontramos las semejanzas y las diferencias entre los solidos que hicimos en la actividad anterior. Luego respondemos las siguientes preguntas a partir de ellos: a. Como son los lados de los solidos? b. Como son sus bases? c. Cuantas caras tiene cada solido? d. Que forma tiene cada una de las caras? e. Todos los prismas tienen las mismas caracteri",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos la siguiente plantilla y luego respondemos las preguntas: Los prismas y los cilindros se",
+              "descripcion": "Observamos la siguiente plantilla y luego respondemos las preguntas: Los prismas y los cilindros se caracterizan por ser figuras que constan de dos bases circulares iguales y una sola cara lateral.",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Leemos con atencion el siguiente texto: 54 Matematicas 4",
+              "descripcion": "Leemos con atencion el siguiente texto: 54 Matematicas 4",
+              "instrucciones": []
+            },
+            {
+              "numero": 17,
+              "titulo": "En el cuaderno, dibujamos un prisma y un cilindro",
+              "descripcion": "En el cuaderno, dibujamos un prisma y un cilindro. Luego senalamos las partes del prisma y las partes del cilindro. Finalmente, respondemos: · Cual es la diferencia entre los lados del prisma y los lados del cilindro que hicimos? Presentamos nuestro trabajo a la profesora o al profesor. a. Cual es el solido que se puede armar con esta plantilla? b.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 47,
+          "titulo": "Actividades basicas",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos atentamente nuestro salon de clases",
+              "descripcion": "Observamos atentamente nuestro salon de clases. Buscamos objetos que tengan formas parecidas a las siguientes y los dibujamos: Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Recordamos los solidos de la actividad anterior",
+              "descripcion": "Recordamos los solidos de la actividad anterior. Luego comentamos con nuestra companera o companero las siguientes preguntas: a. Que objetos de nuestro salon tienen formas parecidas a los solidos anteriores? b. Que formas tienen los objetos de nuestro salon? c. Que caracteristicas tienen los objetos de nuestro salon? d. Que nombre reciben estos cue",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos y analizamos el siguiente texto sobre cuerpos o solidos geometricos: Un solido o cuerpo",
+              "descripcion": "Leemos y analizamos el siguiente texto sobre cuerpos o solidos geometricos: Un solido o cuerpo geometrico tiene tres dimensiones (largo, ancho y alto). Un solido ocupa un lugar en el espacio. Este espacio es llamado volumen. Los solidos se clasifican en poliedros y cuerpos redondos:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Buscamos en el Centro de recursos objetos que tengan formas parecidas a los diferentes cuerpos",
+              "descripcion": "Buscamos en el Centro de recursos objetos que tengan formas parecidas a los diferentes cuerpos geometricos de la actividad anterior. Traemos estos objetos, tijeras y regla. Luego realizamos lo siguiente: a. Escogemos uno de los objetos. Dibujamos el objeto en nuestro cuaderno, explicamos por que es un solido geometrico. b. Colocamos el objeto sobre",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Vamos a relacionar un solido con una figura geometrica! Hacemos lo siguiente: a",
+              "descripcion": "Vamos a relacionar un solido con una figura geometrica! Hacemos lo siguiente: a. Traemos del Centro de recursos plastilina y elaboramos los siguientes solidos geometricos. Uad1,Guia1Uad 1, Guia 1Unidad 1, Guia 5c. Respondemos las siguientes preguntas: · Que paso con el objeto cuando lo dibujamos observandolo desde diferentes posiciones? · Que eleme",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Traemos cajas de diferentes tamanos del Centro de recursos",
+              "descripcion": "Traemos cajas de diferentes tamanos del Centro de recursos. Desarmamos las cajas sin romperlas. Extendemos las cajas y observamos atentamente las partes que la forman. Luego comentamos las siguientes preguntas: Que pasa con las cajas? Quedaron igual que antes? b. a. c. e. Como se ven las cajas? Ocupan mayor espacio? d. Tienen puntas? Cuantas puntas",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos el siguiente texto y lo comentamos: Trabajo en equipo UUnnididaadd 11, , GGuuiiaa 51",
+              "descripcion": "Leemos el siguiente texto y lo comentamos: Trabajo en equipo UUnnididaadd 11, , GGuuiiaa 51 51 R e c ord e m os Las partes de una figura geometrica plana son: Solidos Numero de caras Forma de las caras",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Volvemos a armar las cajas que desarmamos en la actividad 6",
+              "descripcion": "Volvemos a armar las cajas que desarmamos en la actividad 6. Escribimos en el cuaderno cuales son las caracteristicas de las figuras planas que forman los poliedros. Luego respondemos las siguientes preguntas: a. Cuantas puntas tiene el cuadrado? b. Cuantas lineas rectas tiene el cuadrado? c. Que otro nombre reciben las puntas? Los prismas son poli",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Observamos los solidos representados en la siguiente tabla, los construimos en plastilina",
+              "descripcion": "Observamos los solidos representados en la siguiente tabla, los construimos en plastilina. Luego, dibujamos en el cuaderno la tabla y la completamos con las caracteristicas de los solidos:",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Observamos de nuevo los dos solidos de la actividad anterior",
+              "descripcion": "Observamos de nuevo los dos solidos de la actividad anterior. Luego comentamos: · Que diferencias encontramos entre los dos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Dibujamos los dos solidos de la actividad 9 en el cuaderno",
+              "descripcion": "Dibujamos los dos solidos de la actividad 9 en el cuaderno. Pintamos con un mismo color las caras que tienen la misma forma. Respondemos: · Cuantas caras tienen la misma forma en cada figura?",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Leemos el siguiente texto acerca de los prismas y sus partes: Base Altura Cara lateral",
+              "descripcion": "Leemos el siguiente texto acerca de los prismas y sus partes: Base Altura Cara lateral Base 52 Matematicas 4 R e c ord e m os • Lineas paralelas: dos lineas son paralelas si siempre estan a la misma distancia. Esto quiere decir que son equidistantes y nunca se encuentran. Estas lineas apuntan en la misma direccion. Por ejemplo: • Aristas: son los l",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Vamos a hacer tres prismas diferentes! Hacemos lo siguiente: a",
+              "descripcion": "Vamos a hacer tres prismas diferentes! Hacemos lo siguiente: a. Traemos cartulina, tijeras y pegante del Centro de recursos. b. Dibujamos en la cartulina las siguientes plantillas de tres prismas diferentes: c. Recortamos las plantillas y las armamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Encontramos las semejanzas y las diferencias entre los solidos que hicimos en la actividad anterior",
+              "descripcion": "Encontramos las semejanzas y las diferencias entre los solidos que hicimos en la actividad anterior. Luego respondemos las siguientes preguntas a partir de ellos: a. Como son los lados de los solidos? b. Como son sus bases? c. Cuantas caras tiene cada solido? d. Que forma tiene cada una de las caras? e. Todos los prismas tienen las mismas caracteri",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Observamos la siguiente plantilla y luego respondemos las preguntas: Los prismas y los cilindros se",
+              "descripcion": "Observamos la siguiente plantilla y luego respondemos las preguntas: Los prismas y los cilindros se caracterizan por ser figuras que constan de dos bases circulares iguales y una sola cara lateral.",
+              "instrucciones": []
+            },
+            {
+              "numero": 16,
+              "titulo": "Leemos con atencion el siguiente texto: 54 Matematicas 4",
+              "descripcion": "Leemos con atencion el siguiente texto: 54 Matematicas 4",
+              "instrucciones": []
+            },
+            {
+              "numero": 17,
+              "titulo": "En el cuaderno, dibujamos un prisma y un cilindro",
+              "descripcion": "En el cuaderno, dibujamos un prisma y un cilindro. Luego senalamos las partes del prisma y las partes del cilindro. Finalmente, respondemos: · Cual es la diferencia entre los lados del prisma y los lados del cilindro que hicimos? Presentamos nuestro trabajo a la profesora o al profesor. a. Cual es el solido que se puede armar con esta plantilla? b.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 57,
+          "titulo": "Actividades basicas",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos atentamente el tangram de la ilustracion de arriba",
+              "descripcion": "Observamos atentamente el tangram de la ilustracion de arriba. Luego respondemos las siguientes preguntas: a. Cuantas figuras conforman el tangram? b. Cuales son las figuras que lo conforman? Desempeno: • Reconozco las clases de poligonos, sus caracteristicas y su utilidad en la vida cotidiana. Trabajo con el profesor o la profesora 58 Matematicas ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Traemos un tangram del Centro de recursos",
+              "descripcion": "Traemos un tangram del Centro de recursos. Luego realizamos las siguientes actividades: a. En una hoja, dibujamos las siluetas de las figuras que conforman el tangram. Luego recortamos las siluetas que dibujamos. b. Luego pegamos las siluetas en columnas en el cuaderno. En cada columna, clasificamos las siluetas segun el numero de lados que tiene c",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos y analizamos el siguiente texto sobre los poligonos y su clasificacion: Poligonos irregulares: son",
+              "descripcion": "Leemos y analizamos el siguiente texto sobre los poligonos y su clasificacion: Poligonos irregulares: son aquellos poligonos que no tienen todos sus lados o angulos de igual medida. 59 UUnnididaadd 11, , GGuuiaia 61",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos las siguientes figuras",
+              "descripcion": "Observamos las siguientes figuras. Luego respondemos en el cuaderno: · Cuales de estas figuras son poligonos? Por que? Clases de poligonos segun el numero de lados Poligono Descripcion Representacion Triangulo Son poligonos formados por tres lados. Cuadrilatero Son poligonos formados por cuatro lados. Pentagono Son poligonos formados por cinco lado",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Conozcamos las clases de poligonos segun la cantidad de lados! Leemos con atencion:",
+              "descripcion": "Conozcamos las clases de poligonos segun la cantidad de lados! Leemos con atencion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Observamos las figuras que pegamos en el cuaderno en la actividad 2",
+              "descripcion": "Observamos las figuras que pegamos en el cuaderno en la actividad 2. Luego respondemos en el cuaderno las siguientes preguntas: a. Cual es el perimetro de cada figura? b. Que area ocupa cada figura en el cuaderno? c. Como encontramos el area de una figura cuadrada y de una figura rectangular? d. Como encontramos el area de una figura triangular?",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Ahora realizamos lo siguiente: a",
+              "descripcion": "Ahora realizamos lo siguiente: a. Tomamos un cuadrado del tangram y lo dibujamos en una hoja. b. Hallamos el perimetro y el area del cuadrado. c. Trazamos una diagonal en el cuadrado y recortamos siguiendo la linea. d. Hallamos el perimetro de una de las figuras que se formaron. e. Marcamos una linea recta desde la base hasta el punto mas alto del ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos con atencion la siguiente informacion: Trabajo en equipo Area = lado x lado Area",
+              "descripcion": "Leemos con atencion la siguiente informacion: Trabajo en equipo Area = lado x lado Area = 2 cm x 2 cm Area = 4 centimetros cuadrados Area = 4 cm2 2 cm 2 cm Area de un cuadrado y un rectangulo • Para hallar el area de un cuadrado, multiplicamos la longitud de un lado por la longitud del otro. La medida del area de un cuadrado se expresa en centimetr",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leemos con atencion el siguiente texto: 62 Matematicas 4",
+              "descripcion": "Leemos con atencion el siguiente texto: 62 Matematicas 4",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Leemos atentamente la informacion del siguiente texto: Area del triangulo Cuando se dividen un cuadrado,",
+              "descripcion": "Leemos atentamente la informacion del siguiente texto: Area del triangulo Cuando se dividen un cuadrado, un rectangulo, un paralelogramo o un rombo por su diagonal, se forman dos triangulos. El area de cada uno de los dos triangulos formados es igual a la mitad del area de la figura que se dividio.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Escribimos en el cuaderno el procedimiento necesario para hallar el area de la siguiente figura:",
+              "descripcion": "Escribimos en el cuaderno el procedimiento necesario para hallar el area de la siguiente figura: Presentamos nuestro trabajo a la profesora o al profesor. Actividades de practica",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Los poligonos que forman las caras de la cubeta son A",
+              "descripcion": "Los poligonos que forman las caras de la cubeta son A. rectangulos. C. triangulos. B. cuadrados. D. cuadrados y rectangulos. UnidadUnidad Me divierto con mis conocimientos matematicos 71 7 Guia",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Recordamos la informacion de la tabla de la actividad anterior",
+              "descripcion": "Recordamos la informacion de la tabla de la actividad anterior. Luego respondemos en el cuaderno las siguientes preguntas: a. Que relacion encontramos entre el numero de empaques y la capacidad de los empaques? b. Necesitamos saber cuantos empaques se necesitan para empacar 5, 15 y 30 cajas de chocolates. Que operacion debemos realizar para saber e",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "Leemos atentamente el siguiente texto sobre los divisores de un numero: Divisor de un numero",
+              "descripcion": "Leemos atentamente el siguiente texto sobre los divisores de un numero: Divisor de un numero El divisor o submultiplo es aquel numero que divide exactamente a otro numero. 2 divide a 30 exactamente, es decir, el residuo es cero. Significa que 2 x 15 = 30. 2 es divisor-factor de 30. S abia s q ue... La relacion que se presenta en la tabla es entre u",
+              "instrucciones": []
+            },
+            {
+              "numero": 15,
+              "titulo": "Escribimos en el cuaderno cuando un numero es divisor de otro numero",
+              "descripcion": "Escribimos en el cuaderno cuando un numero es divisor de otro numero. Luego escribimos un ejemplo. Le ponemos un titulo a nuestro escrito. Presentamos nuestro trabajo a la profesora o al profesor. Actividades de practica",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 77,
+          "titulo": "Angie debe empacar 360 naranjas",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos con buena entonacion o escuchamos atentamente la siguiente situacion:",
+              "descripcion": "Leemos con buena entonacion o escuchamos atentamente la siguiente situacion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Realizamos en una hoja la division de 360 entre 10",
+              "descripcion": "Realizamos en una hoja la division de 360 entre 10.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Recordamos los datos de la situacion de la actividad 1",
+              "descripcion": "Recordamos los datos de la situacion de la actividad 1. Hacemos lo siguiente: a. Pensamos en las diferentes formas en las que se pueden empacar las naranjas en las cajas. b. Hacemos una lista de todas las formas posibles de empacar las naranjas. · Cuantos grupos de 10 naranjas resultarian? · Podemos decir que 10 es divisor de 360? 78 Matematicas 4",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Teniendo en cuenta lo que realizamos en la actividad anterior, comentamos las siguientes preguntas: a",
+              "descripcion": "Teniendo en cuenta lo que realizamos en la actividad anterior, comentamos las siguientes preguntas: a. Es posible organizar las naranjas en grupos de 2? Por que? b. Es posible organizar las naranjas en grupos de 5? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Observamos las siguientes listas horizontales de numeros",
+              "descripcion": "Observamos las siguientes listas horizontales de numeros. Proponemos 5 listas mas y luego respondemos la pregunta: · Que tienen en comun los numeros de cada una de las listas? 2 14 28 32 126 278 450 956 5 10 25 160 365 1.000 Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Escribimos en el cuaderno el numero 840 y respondemos: a",
+              "descripcion": "Escribimos en el cuaderno el numero 840 y respondemos: a. Este numero lo podemos dividir exactamente entre 2, 3, 5 y 10? b. Como podemos explicar que un numero divide exactamente a otro?",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos el siguiente texto. Analizamos cada parrafo y cada ejemplo: Numeros divisibles entre 2, 3,",
+              "descripcion": "Leemos el siguiente texto. Analizamos cada parrafo y cada ejemplo: Numeros divisibles entre 2, 3, 5 o 10 Los siguientes son algunos criterios de divisibilidad: • Un numero divisible entre 2 si: es par, es decir, si termina en una cifra par (0, 2, 4, 6 u 8). Tambien un numero es multiplo de 2 si termina en una cifra par. Por ejemplo: 2, 8, 12, 24, 4",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Dialogamos sobre el texto de la actividad anterior",
+              "descripcion": "Dialogamos sobre el texto de la actividad anterior. Luego respondemos las siguientes preguntas en el cuaderno: a. Cuando un numero es divisible entre otro numero? b. Como podemos saber si un numero es divisible entre 2? c. Como podemos saber si un numero es multiplo de 3? d. Como podemos saber si un numero es multiplo de 5? e. Cuando un numero es d",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Comparamos el trabajo que realizamos en la actividad anterior con el trabajo realizado por otras",
+              "descripcion": "Comparamos el trabajo que realizamos en la actividad anterior con el trabajo realizado por otras parejas. Si es necesario, lo corregimos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Dibujamos una figura que represente la puerta y otra figura que represente el geoplano",
+              "descripcion": "Dibujamos una figura que represente la puerta y otra figura que represente el geoplano. Escribimos las diferencias y las semejanzas entre las dos figuras que dibujamos. Al hacer la comparacion, tenemos en cuenta las siguientes caracte",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 82,
+          "titulo": "Matematicas",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos atentamente la siguiente situacion: Conozcamos algunas propiedades de los numeros Desempeno: • Calculo y",
+              "descripcion": "Leemos atentamente la siguiente situacion: Conozcamos algunas propiedades de los numeros Desempeno: • Calculo y utilizo el m.c.m. y el m.c.d. de varios numeros para resolver situaciones cotidianas. Actividades basicas Trabajo con la profesora o el profesor En una valida de motocross, 4 pilotos salen al mismo tiempo. El piloto numero 1 tarda 2 minut",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con base en la situacion anterior, comentamos las siguientes preguntas: a",
+              "descripcion": "Con base en la situacion anterior, comentamos las siguientes preguntas: a. Queremos saber en que vuelta se vuelven a encontrar los pilotos en la linea de salida. Como podemos saber esto? b. Que relacion hay entre el numero de vueltas y el tiempo en minutos?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, escribimos los multiplos de 2, 3, 4 y 6",
+              "descripcion": "En el cuaderno, escribimos los multiplos de 2, 3, 4 y 6. Luego hacemos una lista de los multiplos que se repiten en estos cuatro numeros. El minimo comun multiplo (m.c.m.) de dos o mas numeros es el menor de los multiplos comunes. Siempre se exceptua el cero entre los multiplos. En el caso de 2, 3 y 6, el minimo comun multiplo de estos numeros es 6",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Buscamos a un companero o a una companera con la que casi no compartamos tiempo",
+              "descripcion": "Buscamos a un companero o a una companera con la que casi no compartamos tiempo. Le pedimos que nos lea con buena entonacion el siguiente texto: Trabajo en parejas La torre Colpatria, ubicada en Bogota, llego a ser en un momento de la historia el edificio mas alto de Colombia. Para ascender a su helipuerto ubicado en la terraza se usan 980 escalone",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno, explicamos con nuestras palabras el concepto de minimo comun multiplo",
+              "descripcion": "En el cuaderno, explicamos con nuestras palabras el concepto de minimo comun multiplo. Luego explicamos como aplicamos el m.c.m en situaciones cotidianas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Comentamos algunas situaciones de la vida diaria en las que debemos utilizar el minimo comun",
+              "descripcion": "Comentamos algunas situaciones de la vida diaria en las que debemos utilizar el minimo comun multiplo. Luego explicamos como, encontrando el m.c.m, damos solucion a la situacion de la actividad 1. Trabajo en equipo",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos el siguiente texto sobre maximo comun divisor: La mama de Vanesa piensa ponerle baldosas",
+              "descripcion": "Leemos el siguiente texto sobre maximo comun divisor: La mama de Vanesa piensa ponerle baldosas al piso y a las paredes del bano de su casa. Unidad 2, Guia 9 a. Cuantos metros cuadrados de baldosa va a poner en total la mama de Vanesa? b. Cuantas baldosas hay en un metro cuadrado del piso? c. Cuantas baldosas hay en un metro cuadrado de la pared? d",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Con base en el texto anterior, respondemos las siguientes preguntas: a",
+              "descripcion": "Con base en el texto anterior, respondemos las siguientes preguntas: a. A que se le denomina maximo comun divisor? b. Como se escribe la abreviatura de maximo comun divisor? c. En que situaciones de la vida aplicamos el concepto de maximo comun divisor? Presentamos nuestro trabajo a la profesora o al profesor. Actividades de practica Trabajo en equ",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Comparamos el trabajo que realizamos en la actividad anterior con el trabajo realizado por otras",
+              "descripcion": "Comparamos el trabajo que realizamos en la actividad anterior con el trabajo realizado por otras parejas. Si es necesario, lo corregimos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Dibujamos una figura que represente la puerta y otra figura que represente el geoplano",
+              "descripcion": "Dibujamos una figura que represente la puerta y otra figura que represente el geoplano. Escribimos las diferencias y las semejanzas entre las dos figuras que dibujamos. Al hacer la comparacion, tenemos en cuenta las siguientes caracteristicas: • Numero de lados. • Lineas que la forman. • Longitud de los lados. Presentamos nuestro trabajo a la profe",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 212,
+          "titulo": "Matematicas",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos atentamente la siguiente situacion y luego respondemos las preguntas: Luna es una estudiante de",
+              "descripcion": "Leemos atentamente la siguiente situacion y luego respondemos las preguntas: Luna es una estudiante de grado cuarto. Ella decidio preguntar cual es la mascota preferida de cada uno de sus companeros. Luego presento los resultados de su trabajo en la siguiente tabla: Mantengamos nuestra mascota saludable para estar saludables nosotros tambien. Asi c",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leemos con atencion el siguiente texto sobre la situacion de la actividad anterior: Luna uso",
+              "descripcion": "Leemos con atencion el siguiente texto sobre la situacion de la actividad anterior: Luna uso una encuesta para conocer mas sobre el gusto de sus companeros. Una encuesta es un conjunto de preguntas disenadas y pensadas para recolectar datos. En nuestra vida cotidiana, necesitamos trabajar con datos. Si organizamos los datos y los representamos graf",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Recordamos la informacion del texto de la actividad anterior",
+              "descripcion": "Recordamos la informacion del texto de la actividad anterior. Luego completamos en el cuaderno de Matematicas las siguientes oraciones: a. es un conjunto de preguntas disenadas y pensadas para recolectar datos. b. La de permite organizar e interpretar de manera mas rapida y eficiente la informacion. c. La frecuencia absoluta es y se denota por . d.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Observamos atentamente la siguiente informacion grafica",
+              "descripcion": "Observamos atentamente la siguiente informacion grafica. Despues realizamos las actividades indicadas: Preferencia por mascotas de ninos de grado 4to. 29,38% 17,71% 18,39% 17,53% 18% 120,0 100,0 tuga 80,0 % 60,0 o 40,0 20,0 o 0,0 o o 14820TortugaPerroGatoPajaroLoro121064 Escribimos en el cuaderno cual de las anteriores graficas representa correctam",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Completo la siguiente tabla en mi cuaderno",
+              "descripcion": "Completo la siguiente tabla en mi cuaderno. La completo calculando la moda y el rango de los datos que aparecen en ella: Datos Moda Rango 1,1,1,1,3,3,4,4,5,5,5 9,9,10,10,10,10,10,11,11,11 5,5,5,5,6,6,6,6,6,9,9,9,9,9,10,10 Ventas de la tienda escolar 65 60 55 50 45 40 35 30 25 20 15 10 5 0 Arepas Cantidad Producto Galletas Bebidas Empanadas Platanit",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Le pedimos al monitor que lea con buena entonacion la siguiente informacion: La moda La",
+              "descripcion": "Le pedimos al monitor que lea con buena entonacion la siguiente informacion: La moda La moda de un conjunto de datos es el dato que mas veces se repite. Esto quiere decir que la moda es el dato que tiene mayor frecuencia absoluta. Se denota con Mo. En caso de existir dos datos que tienen la mayor frecuencia absoluta, habria dos modas. Si no se repi",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Escribimos con nuestras propias palabras que es la moda y como se denota",
+              "descripcion": "Escribimos con nuestras propias palabras que es la moda y como se denota. Damos un ejemplo de ella. 216 Matematicas 4 Ubiquemos los dias de la semana en el eje horizontal. La temperatura va en el eje vertical.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Leemos la siguiente situacion",
+              "descripcion": "Leemos la siguiente situacion. Luego completamos en el cuaderno la tabla: S abia s q ue... Los cambios en donde dos cosas se relacionan se presentan en todo momento. Por ejemplo: cuando aumenta nuestra masa o estatura al pasar el tiempo. El estudio de los cambios relacionados es una herramienta util en las Matematicas. Marta es vendedora de la case",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Aprendamos sobre las razones y las proporciones! Leemos y analizamos atentamente la siguiente informacion: La",
+              "descripcion": "Aprendamos sobre las razones y las proporciones! Leemos y analizamos atentamente la siguiente informacion: La relacion entre el tiempo empleado y el numero de empanadas forma una razon. La razon es el cociente entre dos magnitudes: 2 50 Esto se lee “2 es a 50”. Una proporcion es la igualdad entre dos razones. Podemos saber que hay una proporcion cu",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Escribimos en el cuaderno que es una razon y que es una proporcion",
+              "descripcion": "Escribimos en el cuaderno que es una razon y que es una proporcion. Usamos nuestras propias palabras y damos dos ejemplos de cada una.",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Con nuestros companeros y companeras, respondemos la siguiente pregunta: O Que variable depende de la",
+              "descripcion": "Con nuestros companeros y companeras, respondemos la siguiente pregunta: O Que variable depende de la otra en la actividad 1? Por que?",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 225,
+          "titulo": "Es posible predecirlo?",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Dialogamos con nuestros companeros y companeras sobre la posibilidad de que ocurran las siguientes situaciones:",
+              "descripcion": "Dialogamos con nuestros companeros y companeras sobre la posibilidad de que ocurran las siguientes situaciones: a. Que haga calor si el dia esta soleado. b. Que salga el numero nueve al sacar una balota de la loteria. c. Que despues del numero seis siga el numero siete. d. Ganarse la rifa de un carro. e. Que el equipo de futbol favorito gane el par",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Traemos un dado del Centro de recursos",
+              "descripcion": "Traemos un dado del Centro de recursos. Cada uno adivina que numero saldra y despues lanza el dado. Luego comentamos las siguientes preguntas: a. Quienes dijeron un numero que coincidio con el resultado que salio? b. Es facil adivinar que numero caera al lanzar el dado? c. Si lanzamos un dado negro, que posibilidad hay de que caiga en una cara negr",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Comparamos las respuestas que dimos en la anterior actividad con la siguiente informacion: Es obvio",
+              "descripcion": "Comparamos las respuestas que dimos en la anterior actividad con la siguiente informacion: Es obvio que saldra una cara negra al lanzar el dado negro. Es decir, es posible predecir con total seguridad el resultado. Se trata de un experimento o fenomeno determinista. En cambio, ocurre lo contrario cuando realizamos el ejercicio de lanzar un dado. En",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos con atencion el siguiente texto: Fenomeno determinista y fenomeno aleatorio Un fenomeno es determinista",
+              "descripcion": "Leemos con atencion el siguiente texto: Fenomeno determinista y fenomeno aleatorio Un fenomeno es determinista cuando tiene unicamente una respuesta posible. Por ejemplo: • Extraer una canica azul de una caja que contiene solo canicas azules. • Que el primer companero que me encuentre al llegar al colegio tenga mi edad. • Que despues del dia siga l",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Escribimos con nuestras propias palabras que es un fenomeno determinista y que es un fenomeno",
+              "descripcion": "Escribimos con nuestras propias palabras que es un fenomeno determinista y que es un fenomeno aleatorio. Damos ejemplos de cada uno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Vamos a hacer predicciones! Hacemos lo siguiente: a",
+              "descripcion": "Vamos a hacer predicciones! Hacemos lo siguiente: a. Traemos del Centro de recursos lo siguiente: O Tres canicas azules. O Tres canicas verdes. O 1 bolsa de papel. (Si no tenemos canicas, traemos fichas de parques) b. Introducimos las canicas en la bolsa de papel. c. Cada uno adivina que color saldra y saca una canica. d. Registramos el color que d",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leo con atencion las siguientes situaciones",
+              "descripcion": "Leo con atencion las siguientes situaciones. Luego propongo un fenomeno determinista y uno aleatorio con cada situacion: O Andres quiere hacer girar la siguiente ruleta: 2 2 4 1 O Vanessa tiene las siguientes pelotas en una bolsa negra: La profesora o el profesor valora los desempenos alcanzados con el desarrollo de esta guia y registra mi progreso",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Conozcamos la regla de tres inversa! Leemos con atencion el siguiente texto: Regla de tres",
+              "descripcion": "Conozcamos la regla de tres inversa! Leemos con atencion el siguiente texto: Regla de tres inversa: se usa en las proporciones inversas. Esta regla es igual a multiplicar los valores en forma lineal.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leemos con atencion el siguiente ejemplo sobre regla de tres inversa: Los kilos de arroz",
+              "descripcion": "Leemos con atencion el siguiente ejemplo sobre regla de tres inversa: Los kilos de arroz que compran en el colegio duran 24 dias para 224 estudiantes. Se matriculan 58 estudiantes mas. Para cuantos dias alcanzara el arroz con los nuevos 58 estudiantes? Numero de estudiantes Numero de dias 224 24 282 x x = = ≈ 19.06 5.376 282 224·24 282 = 24 x 224 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Escribimos en el cuaderno cuando dos magnitudes son inversamente proporcionales",
+              "descripcion": "Escribimos en el cuaderno cuando dos magnitudes son inversamente proporcionales. Tambien escribimos como se resuelven las situaciones con esta caracteristica y complementamos el escrito con 2 ejemplos. Actividades de practica Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Una carga de cafe seco se vende en $784",
+              "descripcion": "Una carga de cafe seco se vende en $784.000. Si se vende todo el cafe recibido el total de dinero en el mes de octubre es A. $24.774.400. C. $326.144.000. B. $157.828.000. D. $15.782.800.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Decir que durante el mes de octubre no llovera es una situacion A",
+              "descripcion": "Decir que durante el mes de octubre no llovera es una situacion A. determinista. C. de coincidencia. B. aleatoria. D. ninguna de las anteriores. R e cord em o s 1 arroba = 25 lbs y 1 carga = 10 arrobas. La profesora o el profesor valora los desempenos alcanzados con el desarrollo de las guias de esta unidad. Si cree conveniente, me indicara que act",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 231,
+          "titulo": "Hallemos proporciones!",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Leemos la siguiente situacion y analizamos las tablas de registro de la profesora Rocio",
+              "descripcion": "Leemos la siguiente situacion y analizamos las tablas de registro de la profesora Rocio. Luego respondemos las preguntas y argumentamos nuestras respuestas: Trabajo en equipo Rocio es la profesora de Educacion Fisica de los estudiantes de grado cuarto. Ella prepara a sus estudiantes para las pruebas del intercolegiado de marcha Superate. La profeso",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leemos y analizamos la siguiente informacion: R ec orde m os Una magnitud es un",
+              "descripcion": "Leemos y analizamos la siguiente informacion: R ec orde m os Una magnitud es un numero que indica la medida de una cualidad. Una variable es una cantidad que cambia de valor. Una razon es la comparacion de dos cantidades. La razon se mide a partir de la division de dos valores. Una proporcion es una igualdad entre dos razones. Primero se comparan l",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos las dos tablas de la situacion de la actividad 1",
+              "descripcion": "Observamos las dos tablas de la situacion de la actividad 1. Hacemos lo siguiente: a. Identificamos los estudiantes que aumentaron la velocidad el martes con respecto al lunes. b. Escribimos el nombre de los estudiantes y los tiempos. c. Explicamos lo que hicimos. 233 Unidad 4, Guia 25",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Aprendamos sobre la proporcionalidad! Leemos el siguiente texto: Proporcionalidad Dos magnitudes son directamente proporcionales cuando:",
+              "descripcion": "Aprendamos sobre la proporcionalidad! Leemos el siguiente texto: Proporcionalidad Dos magnitudes son directamente proporcionales cuando: • Al aumentar una magnitud, la otra tambien aumenta en la misma proporcion. • Al disminuir una magnitud, la otra tambien disminuye en la misma proporcion. Atleta 200 metros/minuto 400 metros/minuto Natalia 5 10 Do",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno, escribimos las siguientes partes de oraciones",
+              "descripcion": "En el cuaderno, escribimos las siguientes partes de oraciones. Unimos con una linea la parte de la oracion que completa correctamente la parte de la izquierda: Una proporcion es... Dos magnitudes son directamente proporcionales cuando: Dos magnitudes son inversamente proporcionales cuando: • Una igualdad entre dos o mas razones. • Una equivalencia ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Conozcamos la regla de tres directa! Leemos con atencion el siguiente texto: Trabajo con el",
+              "descripcion": "Conozcamos la regla de tres directa! Leemos con atencion el siguiente texto: Trabajo con el profesor o la profesora Regla de tres: es una herramienta matematica para resolver problemas. Se usa cuando se conocen tres datos y se busca o se pregunta por un cuarto. Hay reglas de tres directa e inversa. Regla de tres directa: se usa en las proporciones ",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos con atencion el siguiente ejemplo sobre regla de tres directa: En una institucion educativa,",
+              "descripcion": "Leemos con atencion el siguiente ejemplo sobre regla de tres directa: En una institucion educativa, hay una senora que se encarga de preparar los almuerzos. Ella utiliza 1 kilo de arroz para preparar el almuerzo a 32 estudiantes. Para cuantos estudiantes alcanzan 7 kilos de arroz? Numero de estudiantes Cantidad de arroz (kg) 32 1 x 7 x = = 224 1 32",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Conozcamos la regla de tres inversa! Leemos con atencion el siguiente texto: Regla de tres",
+              "descripcion": "Conozcamos la regla de tres inversa! Leemos con atencion el siguiente texto: Regla de tres inversa: se usa en las proporciones inversas. Esta regla es igual a multiplicar los valores en forma lineal.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Leemos con atencion el siguiente ejemplo sobre regla de tres inversa: Los kilos de arroz",
+              "descripcion": "Leemos con atencion el siguiente ejemplo sobre regla de tres inversa: Los kilos de arroz que compran en el colegio duran 24 dias para 224 estudiantes. Se matriculan 58 estudiantes mas. Para cuantos dias alcanzara el arroz con los nuevos 58 estudiantes? Numero de estudiantes Numero de dias 224 24 282 x x = = ≈ 19.06 5.376 282 224·24 282 = 24 x 224 2",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Escribimos en el cuaderno cuando dos magnitudes son inversamente proporcionales",
+              "descripcion": "Escribimos en el cuaderno cuando dos magnitudes son inversamente proporcionales. Tambien escribimos como se resuelven las situaciones con esta caracteristica y complementamos el escrito con 2 ejemplos. Actividades de practica Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Una carga de cafe seco se vende en $784",
+              "descripcion": "Una carga de cafe seco se vende en $784.000. Si se vende todo el cafe recibido el total de dinero en el mes de octubre es A. $24.774.400. C. $326.144.000. B. $157.828.000. D. $15.782.800.",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Decir que durante el mes de octubre no llovera es una situacion A",
+              "descripcion": "Decir que durante el mes de octubre no llovera es una situacion A. determinista. C. de coincidencia. B. aleatoria. D. ninguna de las anteriores. R e cord em o s 1 arroba = 25 lbs y 1 carga = 10 arrobas. La profesora o el profesor valora los desempenos alcanzados con el desarrollo de las guias de esta unidad. Si cree conveniente, me indicara que act",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

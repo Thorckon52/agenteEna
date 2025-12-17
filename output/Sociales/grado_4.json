@@ -1,0 +1,1152 @@
+{
+  "asignatura": "Ciencias Sociales",
+  "grado": 4,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Cristian Alexander Cardenas Sierra, Pedro Pablo Ramirez Suarez",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "DBA 4: Analiza las caracteristicas de las culturas ancestrales que a la llegada de los espanoles, habitaban el territorio nacional. Unidad 4Unidad 4 Estudiemos las necesidadesEstudiemos las necesidades y la organizacion de nuestra sociedady la organizacion de nuestra sociedad Desempenos generales: Identifi",
+    "DBA 1: Comprende la importancia de los limites geograficos y el establecimiento de las fronteras en la organizacion de los territorios.",
+    "DBA 2: Diferencia las caracteristicas geograficas del medio urbano y el medio rural, mediante el reconocimiento de la concentracion de la poblacion y el uso del suelo, que se da en ellos.",
+    "DBA 5: Evalua la diversidad etnica y cultural del pueblo colombiano desde el reconocimiento de los grupos humanos existentes en el pais: afrodescendientes, raizales, mestizos, indigenas y blancos. Enfasis de la coleccion En ellos, encontramos elementos fundamentales o consejos acerca de los enfasis: Ciudad",
+    "DBA 3: Comprende las razones de algunos cambios socioculturales en Colombia, motivados en los ultimos anos por el uso de la tecnologia.",
+    "DBA 7: Analiza los derechos que protegen la ninez y los deberes que deben cumplirse en una sociedad democratica para el desarrollo de una sana convivencia.",
+    "DBA 8: Evalua la importancia de satisfacer las necesidades basicas para el bienestar individual, familiar y colectivo. UUnniiddaadd1111UUnniiddaadd1111 Valoremos nuestros derechos y deberes",
+    "DBA 5: Evalua la diversidad etnica y cultural del pueblo colombiano desde el reconocimiento de los grupos humanos existentes en el pais: afrodescendientes, raizales, mestizos, indigenas y blancos."
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Me reconozco como parte de un territorio",
+      "desempeno_general": "Reconozco mi identidad personal y colectiva en relación con el territorio.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "¿Quién soy y dónde vivo?",
+          "concepto": "Identidad, Territorio, Entorno",
+          "desempeno": "Reconozco características de mi entorno. Identifico mi lugar de pertenencia.",
+          "ejes_tematicos": [
+            "Identidad",
+            "Territorio",
+            "Entorno"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz",
+            "Aula organizada en círculo",
+            "Orientación del docente"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Elaboro un cartel sobre la importancia de los derechos y deberes de los ninos y",
+              "descripcion": "Elaboro un cartel sobre la importancia de los derechos y deberes de los ninos y las ninas Tengo en cuenta las siguientes preguntas: a Cuales son los derechos de las ninas y los ninos? b Por que son importantes estos derechos? c Quien establecio los derechos de los ninos y las ninas? Emociones intensas como la ira o la ansiedad pueden ocasionar que ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el cuaderno, elaboro el siguiente cuadro y lo completo con la ayuda de mis",
+              "descripcion": "En el cuaderno, elaboro el siguiente cuadro y lo completo con la ayuda de mis familiares Tengo en cuenta el ejemplo que se presenta: 2.En el cuaderno, elaboro el siguiente cuadro y lo completo con la ayuda de mis familiaresTengo en cuenta el ejemplo que se presenta: Cuales son mis derechos? De que manera mis familiares pueden garantizar estos derec",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pregunto lo siguiente a mis familiares No olvido escribir la informacion mas importante en el",
+              "descripcion": "Pregunto lo siguiente a mis familiares No olvido escribir la informacion mas importante en el cuaderno: a a Los derechos y deberes de los ninos y las ninas siempre han sido los mismos? Por que? b b Que pasaria si los ninos y las ninas no tuvieran derechos ni deberes? c c Que derechos y deberes se incumplen en nuestra region? Que acciones podemos re",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Seleccionamos cinco derechos que tenemos los ninos y las ninas, asi como sus correspondientes deberes",
+              "descripcion": "Seleccionamos cinco derechos que tenemos los ninos y las ninas, asi como sus correspondientes deberes Luego, completamos el siguiente cuadro en el cuaderno: Derechos: Deberes:",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Compartimos nuestro trabajo con los demas companeros y companeras Si es necesario, lo complementamos La",
+              "descripcion": "Compartimos nuestro trabajo con los demas companeros y companeras Si es necesario, lo complementamos La profesora o el profesor valora las actividades que desarrollamos. Acti vidades de aplicacion Trabajo con mi familia",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Mi municipio y sus características",
+          "concepto": "Municipio, Zona urbana y rural",
+          "desempeno": "Identifico características del municipio.",
+          "ejes_tematicos": [
+            "Municipio",
+            "Zona urbana y rural"
+          ],
+          "recursos": [
+            "Imágenes impresas",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Elaboro un cartel sobre la importancia del Codigo de Infancia y Adolescencia Luego, lo presento",
+              "descripcion": "Elaboro un cartel sobre la importancia del Codigo de Infancia y Adolescencia Luego, lo presento ante mis familiares Tengo en cuenta las siguientes preguntas: a Por que es importante el Codigo de Infancia y Adolescencia? b Que derechos establece este codigo? c Que instituciones o entidades se encargan de proteger los derechos de ninos, ninas y adole",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, identifico situaciones en las que se vulneren los derechos establecidos",
+              "descripcion": "Con ayuda de mis familiares, identifico situaciones en las que se vulneren los derechos establecidos por el Codigo de Infancia y Adolescencia Escribo estas situaciones en mi cuaderno",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En compania de mis familiares, visito alguna institucion o entidad encargada de defender los derechos",
+              "descripcion": "En compania de mis familiares, visito alguna institucion o entidad encargada de defender los derechos de los ninos, ninas y adolescentes Averiguo lo siguiente: a Como esta entidad protege los derechos de los ninos, ninas y adolescentes? b Como se puede solicitar su ayuda? c Cuales han sido las situaciones mas dificiles de solucionar? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora Acti vidades de aplicacion Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. 3 Guia 35 Desempeno: • Reconozco algunas instituciones que defienden los d",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con base en las noticias anteriores, dialogamos sobre las siguientes preguntas: a En nuestra opinion,",
+              "descripcion": "Con base en las noticias anteriores, dialogamos sobre las siguientes preguntas: a En nuestra opinion, las situaciones presentadas en estas noticias incumplen el Codigo de Infancia y Adolescencia? Por que? b Segun lo que creamos, como se sienten los ninos y ninas victimas de maltrato? c Si fuera un integrante de alguna institucion defensora de los d",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Analizamos la siguiente situacion y respondemos las preguntas en el cuaderno: En nuestra escuela, uno",
+              "descripcion": "Analizamos la siguiente situacion y respondemos las preguntas en el cuaderno: En nuestra escuela, uno de nuestros companeros llamado Andres siempre esta triste y callado. Un dia, la profesora decide hablar con Andres para preguntarle lo que le sucede. Cuando ambos se reunen, Andres le confiesa a su profesora que sus padres pelean constantemente en ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Representamos nuestro territorio",
+          "concepto": "Croquis, Mapas",
+          "desempeno": "Represento el territorio mediante mapas sencillos.",
+          "ejes_tematicos": [
+            "Croquis",
+            "Mapas"
+          ],
+          "recursos": [
+            "Hojas blancas",
+            "Lápiz",
+            "Colores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con la ayuda de mis familiares, averiguo lo siguiente No olvido escribir la informacion mas",
+              "descripcion": "Con la ayuda de mis familiares, averiguo lo siguiente No olvido escribir la informacion mas importante en el cuaderno: a Que instituciones defienden los derechos de los integrantes de nuestra comunidad? b Que servicios prestan estas instituciones? c Que acciones realizan estas instituciones para prevenir situaciones en las que se vulneren los derec",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con base en la informacion anterior, elaboro un cartel sobre la importancia de las instituciones",
+              "descripcion": "Con base en la informacion anterior, elaboro un cartel sobre la importancia de las instituciones que protegen los derechos de los integrantes de nuestra comunidad Tengo en cuenta los siguientes aspectos: a Escribo los nombres de estas instituciones b Debajo de estos nombres, anoto algunas funciones y cargos de las personas que trabajan en dichas in",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En compania de mis familiares, expongo mi cartel ante algunos miembros de mi comunidad",
+              "descripcion": "En compania de mis familiares, expongo mi cartel ante algunos miembros de mi comunidad",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora No olvido ubicar mi cartel en el Periodico mural La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Ciencias Sociales 4 4 Guia 45",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Normas para convivir mejor",
+          "concepto": "Normas, Convivencia",
+          "desempeno": "Reconozco normas de convivencia.",
+          "ejes_tematicos": [
+            "Normas",
+            "Convivencia"
+          ],
+          "recursos": [
+            "Cartulina",
+            "Marcadores",
+            "Aula organizada en grupos"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Los derechos que se le estan vulnerando a Daniela son A",
+              "descripcion": "Los derechos que se le estan vulnerando a Daniela son A. alimentacion, transporte, educacion y recreacion. B. trabajo, salud, educacion y recreacion. C. nombre, recreacion, libertad y alimentacion D. proteccion, libertad, nacionalidad y salud.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "De acuerdo con la historia anterior, los ninos y ninas de la misma edad de",
+              "descripcion": "De acuerdo con la historia anterior, los ninos y ninas de la misma edad de Daniela tienen el derecho a A. estudiar sin ningun tipo de interrupciones. B. ser disciplinados y ordenados en casa. C. respetar las ordenes de los adultos mayores. D. tener un nombre y una nacionalidad. 56",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "La profesora de Daniela ha estado preocupada por la inasistencia de la nina a las",
+              "descripcion": "La profesora de Daniela ha estado preocupada por la inasistencia de la nina a las clases. Por eso, ha decidido visitar a sus familiares y explicarles el Codigo de Infancia y Adolescencia. En consecuencia, el objetivo principal de la profesora es A. escuchar las necesidades de esta familia para que la escuela los ayude. B. realizar los tramites nece",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "La familia y la profesora de Daniela conversaron sobre las dificiles condiciones economicas que le",
+              "descripcion": "La familia y la profesora de Daniela conversaron sobre las dificiles condiciones economicas que le impidieron a Daniela seguir asistiendo a la escuela. Para solucionar esta situacion, Daniela debe solicitar ayuda y proteccion al A. Instituto Colombiano de Bienestar Familiar. B. la Policia de Infancia y Adolescencia. C. la Procuraduria General de la",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Si Daniela continua trabajando en la casa de sus tios, la institucion que debe defender",
+              "descripcion": "Si Daniela continua trabajando en la casa de sus tios, la institucion que debe defender sus derechos laborales es A. el hospital o centro de salud. B. la emisora comunitaria. C. el Instituto Colombiano de Bienestar Familiar. D. la escuela o el colegio. 57 Lenguaje 58 II. Leo el siguiente texto y respondo desde la pregunta 6 a la 9: En el bosque de ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Juan no estuvo de acuerdo con las acciones de la nina debido a que A",
+              "descripcion": "Juan no estuvo de acuerdo con las acciones de la nina debido a que A. vulneran su derecho a tener un ambiente sano, en el que se respete el derecho a la vida de todo ser vivo. B. corto las flores con las que el se iba a alimentar. C. no le dio el almuerzo que llevaba en la canasta. D. no le llevo las flores a su abuelita, para que ella se sintiera ",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "De acuerdo con lo que le conto la nina a Juan, a la abuelita de",
+              "descripcion": "De acuerdo con lo que le conto la nina a Juan, a la abuelita de la nina se le vulneran sus A. derechos sociales. B. derechos ambientales. C. derechos de la infancia. D. ninguna de las anteriores.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Todas las personas tienen derechos sociales, sin importar su edad, condiciones economicas, creencias, etc",
+              "descripcion": "Todas las personas tienen derechos sociales, sin importar su edad, condiciones economicas, creencias, etc. Por lo tanto, la abuelita deberia A. no contarle a nadie que se encuentra en una situacion dificil, pues es un problema que a nadie mas le importa. B. pedirle a su nieta que comente sus dificiles condiciones de vida ante el Instituto Colombian",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Si Juan quiere proteger su bosque de otras acciones que lo perjudiquen, deber pedir ayuda",
+              "descripcion": "Si Juan quiere proteger su bosque de otras acciones que lo perjudiquen, deber pedir ayuda al A. los animales del bosque, quienes pueden protegerlo durante el dia y la noche. B. Estado, quien debe garantizarle un medio ambiente sano. C. Instituto Colombiano de Bienestar Familiar, quien se encarga de proteger los bosques. D. ninguna de las anteriores",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Derechos y deberes de los niños",
+          "concepto": "Derechos, Deberes",
+          "desempeno": "Reconozco derechos y deberes.",
+          "ejes_tematicos": [
+            "Derechos",
+            "Deberes"
+          ],
+          "recursos": [
+            "Casos impresos",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En la noche, observo las estrellas",
+              "descripcion": "En la noche, observo las estrellas. Me fijo en sus formas, colores, posiciones, etc. En el cuaderno, escribo un cuento corto sobre las caracteristicas e importancia de las estrellas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, elaboro un mapa sobre el recorrido que realizo desde mi",
+              "descripcion": "Con ayuda de mis familiares, elaboro un mapa sobre el recorrido que realizo desde mi casa hasta la escuela o colegio. Tengo en cuenta senalar los puntos cardinales correspondientes.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pregunto lo siguiente a mis familiares y escribo la informacion mas importante en el cuaderno",
+              "descripcion": "Pregunto lo siguiente a mis familiares y escribo la informacion mas importante en el cuaderno. No olvido complementar sus respuestas con lo que aprendi en esta guia: a. En que departamento, pais, continente, planeta, sistema y galaxia nos encontramos? b. Por que es importante conocer nuestra ubicacion en el espacio? c. Cuantos planetas tiene el sis",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora. Acti vidades de aplicacion Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. a. De acuerdo con el mapa, que puntos cardinales debe seguir Maria para l",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Salimos del salon de clases y realizamos la siguiente actividad: a",
+              "descripcion": "Salimos del salon de clases y realizamos la siguiente actividad: a. Llevamos varios trompos del Centro de recursos. b. Hacemos girar un trompo y observamos con atencion el movimiento que realiza.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Regresamos al salon y respondemos la siguiente pregunta en el cuaderno: • En que se",
+              "descripcion": "Regresamos al salon y respondemos la siguiente pregunta en el cuaderno: • En que se parecen los movimientos del trompo a los movimientos que realiza la Tierra?",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Analizamos la siguiente situacion y respondemos las preguntas en el cuaderno: Trabajo con el profesor",
+              "descripcion": "Analizamos la siguiente situacion y respondemos las preguntas en el cuaderno: Trabajo con el profesor o la profesora Casa de Maria Casa del abuelo y de la abuela de Maria Cuando nos movilicemos en bicicleta, debemos evitar conductas peligrosas. Por ejemplo: sujetarnos de un vehiculo o transitar sobre las aceras o lugares prohibidos. Norte Sur Este ",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Convivimos y participamos en comunidad",
+      "desempeno_general": "Comprendo la importancia de la convivencia y la participación ciudadana.",
+      "guias": [
+        {
+          "numero": 6,
+          "titulo": "Participamos en nuestra comunidad",
+          "concepto": "Participación ciudadana, Gobierno escolar",
+          "desempeno": "Reconozco formas de participación.",
+          "ejes_tematicos": [
+            "Participación ciudadana",
+            "Gobierno escolar"
+          ],
+          "recursos": [
+            "Tarjetas de roles",
+            "Espacio amplio"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Elaboro un cartel sobre la posicion astronomica y geografica de nuestro pais",
+              "descripcion": "Elaboro un cartel sobre la posicion astronomica y geografica de nuestro pais. Luego, lo expongo ante mis familiares.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pregunto lo siguiente a mis familiares",
+              "descripcion": "Pregunto lo siguiente a mis familiares. No olvido complementar sus respuestas con lo que aprendi en esta guia: a. Como se puede identificar la ubicacion astronomica y geografica de cualquier lugar de la Tierra? b. Segun lo que crean, por que son importantes la posicion astronomica y las coordenadas geograficas? c. En su opinion, que son el meridian",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, elaboro un texto corto sobre la importancia de los oceanos Pacifico y",
+              "descripcion": "En el cuaderno, elaboro un texto corto sobre la importancia de los oceanos Pacifico y Atlantico para nuestro pais.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la biblioteca o Internet, consulto informacion sobre los conflictos que han ocurrido recientemente entre",
+              "descripcion": "En la biblioteca o Internet, consulto informacion sobre los conflictos que han ocurrido recientemente entre Colombia y paises limitrofes como Venezuela y Nicaragua. Con base en esta consulta, completo el siguiente cuadro en mi cuaderno: Acti vidades de aplicacion Trabajo con mi familia",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Pais con quien Colombia tuvo conf licto Cuales fueron sus causas? Cuales fueron sus consecuencias? Como se soluciono o debe",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "¿Qué es la historia?",
+          "concepto": "Historia, Tiempo histórico",
+          "desempeno": "Comprendo el concepto de historia.",
+          "ejes_tematicos": [
+            "Historia",
+            "Tiempo histórico"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las siguientes imagenes y dialogamos sobre las preguntas: Glos ar io A B C",
+              "descripcion": "Observamos las siguientes imagenes y dialogamos sobre las preguntas: Glos ar io A B C Grupo etnico: grupo de personas cuyas caracteristicas culturales, fisicas y sociales como lenguaje, costumbres y expresiones culturales lo diferencian de la mayoria de la sociedad. Silueta: forma o contorno que caracteriza un objeto, una persona, etc. Trabajo con ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Imaginemos como seria el color de piel y de cabello de Maria, Juan y Monica",
+              "descripcion": "Imaginemos como seria el color de piel y de cabello de Maria, Juan y Monica. Para ello, realizamos lo siguiente: a. Observamos las siguientes siluetas de Maria, Juan y Monica:",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos la informacion y observamos las imagenes de la siguiente infografia: Trabajo en parejas b",
+              "descripcion": "Leemos la informacion y observamos las imagenes de la siguiente infografia: Trabajo en parejas b. Pensamos en que color seran la piel y el cabello de Maria, Juan y Monica. Tenemos en cuenta caracteristicas como la forma, el largo, etc. c. Ahora, observamos los siguientes colores y determinamos cuales de ellos corresponderan a la piel y al cabello d",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Mi familia a través del tiempo",
+          "concepto": "Historia familiar, Memoria",
+          "desempeno": "Reconozco cambios en la historia familiar.",
+          "ejes_tematicos": [
+            "Historia familiar",
+            "Memoria"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz",
+            "Apoyo familiar"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Elaboro un cartel sobre algunas de las caracteristicas de los grupos etnicos que habitan las",
+              "descripcion": "Elaboro un cartel sobre algunas de las caracteristicas de los grupos etnicos que habitan las regiones naturales de nuestro pais. Luego, lo expongo ante mis familiares.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pregunto lo siguiente a mis familiares",
+              "descripcion": "Pregunto lo siguiente a mis familiares. Tengo en cuenta escribir la informacion mas importante en el cuaderno: a. Que grupos etnicos habitan en nuestra region? b. Que expresiones culturales caracterizan a estos grupos? c. Que regiones de Colombia conocen? d. Que grupos etnicos habitan estas regiones?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, elaboro un mapa de Colombia",
+              "descripcion": "En el cuaderno, elaboro un mapa de Colombia. Luego, realizo lo siguiente: a. Con distintos colores, senalo las regiones naturales. b. Realizo dibujos alusivos a las danzas, instrumentos, celebraciones y comidas tipicas de los habitantes de cada region. c. Escribo oraciones en las que resalte las cualidades y la importancia de los grupos etnicos que",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora. Acti vidades de aplicacion Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Cuando escribamos en el cuaderno, debemos anotar todas las partes de las ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Tradiciones y costumbres",
+          "concepto": "Tradición, Cultura",
+          "desempeno": "Reconozco tradiciones culturales.",
+          "ejes_tematicos": [
+            "Tradición",
+            "Cultura"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Completo el cuadro de la siguiente pagina: 118 Posicion astronomica aproximada Ciudad Latitud Longitud Bogota,",
+              "descripcion": "Completo el cuadro de la siguiente pagina: 118 Posicion astronomica aproximada Ciudad Latitud Longitud Bogota, D. C. Nueva York Sao Paulo Buenos Aires Ciudad de Mexico",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Teniendo en cuenta los puntos o lugares extremos de Colombia, completo el siguiente texto: Conozcamos",
+              "descripcion": "Teniendo en cuenta los puntos o lugares extremos de Colombia, completo el siguiente texto: Conozcamos los puntos extremos de nuestro paisConozcamos los puntos extremos de nuestro pais Al norte de nuestro pais, se encuentra , a latitud norte. Al sur, se ubica , a latitud sur. Al oriente, esta , a longitud oeste del meridiano de Greenwich. Al occiden",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "De acuerdo con la ubicacion y el tamano de la Tierra, podemos afirmar que A",
+              "descripcion": "De acuerdo con la ubicacion y el tamano de la Tierra, podemos afirmar que A. la Tierra es el tercer planeta mas cercano al Sol y el quinto mas grande del sistema solar. B. la Tierra tiene cinco continentes y un satelite natural llamado Luna. C. la superficie de la Tierra esta compuesta en su mayoria por agua. D. la Tierra gira alrededor del Sol y e",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "El sistema solar esta conformado por ocho planetas, los cuales giran alrededor de una estrella",
+              "descripcion": "El sistema solar esta conformado por ocho planetas, los cuales giran alrededor de una estrella llamada Sol. De acuerdo con el tamano de estos planetas, podemos afirmar que A. en los planetas mas grandes se encuentran seres humanos, debido a que tienen mas espacio para que vivan las personas. B. el planeta mas pequeno del sistema solar es Mercurio y",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "De acuerdo con la ubicacion y el tamano de nuestro pais, podemos afirmar que A",
+              "descripcion": "De acuerdo con la ubicacion y el tamano de nuestro pais, podemos afirmar que A. Colombia es un pais mas pequeno que Ecuador y limita con los oceanos Pacifico y Atlantico. B. Colombia es el unico pais de America del sur que limita con dos oceanos. C. Colombia se encuentra en el extremo noroccidental de America del Sur y es el cuarto pais mas grande ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "En el texto anterior, se presentan algunos elementos que caracterizan el clima de La Tatacoa",
+              "descripcion": "En el texto anterior, se presentan algunos elementos que caracterizan el clima de La Tatacoa. Sin embargo, esta informacion no es suficiente para conocer el clima de este desierto, debido a que A. presenta informacion sobre la altitud de La Tatacoa, la cual no es necesaria para conocer el clima de esta zona. B. indica los meses en los que mas lluev",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Los elementos del clima que se presentan en el texto pueden ser modificados o afectados",
+              "descripcion": "Los elementos del clima que se presentan en el texto pueden ser modificados o afectados por factores como A. corrientes oceanicas, continentalidad o distancia del mar, relieve, latitud y altitud. B. altitud, latitud, humedad y precipitacion. C. vientos, montanas, llanuras y depresiones. D. ninguna de las anteriores. IV. En el cuaderno, elaboro un c",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "El cuidado del ambiente",
+          "concepto": "Medio ambiente, Recursos naturales",
+          "desempeno": "Reconozco acciones de cuidado ambiental.",
+          "ejes_tematicos": [
+            "Medio ambiente",
+            "Recursos naturales"
+          ],
+          "recursos": [
+            "Imágenes impresas",
+            "Aula"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pregunto lo siguiente a mis familiares",
+              "descripcion": "Pregunto lo siguiente a mis familiares. No olvido explicarles quienes fueron los pueblos nomadas y sedentarios: a. Segun lo que crean, como vivian los primeros seres humanos que habitaron la Tierra? b. De que manera estas personas satisfacian sus necesidades basicas o fundamentales?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Comparo mi trabajo con el de otro companero o companera",
+              "descripcion": "Comparo mi trabajo con el de otro companero o companera. Si es necesario, lo corrijo. Trabajo en equipo",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Traemos del Centro de recursos un mapa de America, hojas papel mantequilla, colores y marcadores",
+              "descripcion": "Traemos del Centro de recursos un mapa de America, hojas papel mantequilla, colores y marcadores. Realizamos lo siguiente: a. En una hoja papel mantequilla, calcamos el mapa de America. b. Con colores, senalamos en el mapa los lugares que habitaron los aztecas, los mayas y los incas. c. Cerca de los lugares senalados anteriormente, realizamos dibuj",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Exponemos nuestros mapas en diferentes lugares del salon de clases",
+              "descripcion": "Exponemos nuestros mapas en diferentes lugares del salon de clases. Luego, recorremos el salon y observamos cada uno de los mapas.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Seleccionamos el mapa que mas nos guste e identificamos a sus autores",
+              "descripcion": "Seleccionamos el mapa que mas nos guste e identificamos a sus autores. Les escribimos una carta en la que los felicitemos por el trabajo realizado. Les enviamos la carta mediante el Correo de la amistad. Trabajo con la profesora o el profesor",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Nos ubicamos en circulo y dialogamos sobre las siguientes preguntas: a",
+              "descripcion": "Nos ubicamos en circulo y dialogamos sobre las siguientes preguntas: a. Segun lo que creamos, que hubiera pasado si los aztecas, mayas e incas hubieran sido nomadas? Asi mismo, lograron construir mejores , de manera que se convirtieron en . Lenguaje Ciencias Sociales 4 134 Acti vidades de aplicacion b. Por que fue importante para los seres humanos ",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "En el cuaderno, escribimos nuestras conclusiones sobre la actividad anterior",
+              "descripcion": "En el cuaderno, escribimos nuestras conclusiones sobre la actividad anterior. La profesora o el profesor valora las actividades que desarrollamos. Trabajo con mi familia",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Nuestro pasado nos enseña",
+      "desempeno_general": "Reconozco hechos del pasado y su relación con el presente.",
+      "guias": [
+        {
+          "numero": 11,
+          "titulo": "Problemas ambientales de mi entorno",
+          "concepto": "Contaminación, Conservación",
+          "desempeno": "Identifico problemas ambientales.",
+          "ejes_tematicos": [
+            "Contaminación",
+            "Conservación"
+          ],
+          "recursos": [
+            "Casos impresos",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Les comento a mis familiares las principales caracteristicas de algunas de las comunidades indigenas que",
+              "descripcion": "Les comento a mis familiares las principales caracteristicas de algunas de las comunidades indigenas que han habitado nuestro pais. Me baso en los aspectos de la siguiente pagina: Acti vidades de aplicacion Trabajo con mi familia Cuando realicemos las Actividades de aplicacion, siempre debemos escribir la informacion mas importante o conclusiones e",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En el cuaderno, formulamos preguntas sobre el descubrimiento de America",
+              "descripcion": "En el cuaderno, formulamos preguntas sobre el descubrimiento de America. Tenemos en cuenta el lugar, las personas y los medios de transporte que se presentan en la siguiente ilustracion: Sabiasque...Sabias que... Investigadores como Miguel Leon Portilla no estan de acuerdo con la creencia de que America fue “descubierta” por los espanoles. Esto deb",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pregunto a mis familiares o integrantes de nuestra comunidad si conocen palabras de origen indigena",
+              "descripcion": "Pregunto a mis familiares o integrantes de nuestra comunidad si conocen palabras de origen indigena. Por ejemplo: nombres de poblaciones y ciudades, alimentos, objetos, apellidos, etc. Escribo la informacion mas importante en el cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, presento mi trabajo a la profesora o al profesor",
+              "descripcion": "En la proxima clase, presento mi trabajo a la profesora o al profesor. El profesor o la profesora revisa mis trabajos, valora mis aprendizajes y me autoriza a registrar mi progreso. 146146146 Ciencias Sociales 4 Guiauia 12121212 Conozcamos algunas caracteristicas del descubrimiento de America Acti vidades basicas Desempeno: • Reconozco las causas y",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Traemos una hoja de papel mantequilla, colores y marcadores del Centro de recursos",
+              "descripcion": "Traemos una hoja de papel mantequilla, colores y marcadores del Centro de recursos. Realizamos lo siguiente: • En la hoja, dibujamos el siguiente mapa de Colombia y senalamos los lugares que han habitado algunas de las comunidades y grupos indigenas estudiados en esta guia. Tenemos en cuenta el ejemplo que se presenta: N O S E Wayuu La profesora o ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Acciones para proteger nuestro entorno",
+          "concepto": "Desarrollo sostenible",
+          "desempeno": "Propongo acciones de cuidado.",
+          "ejes_tematicos": [
+            "Desarrollo sostenible"
+          ],
+          "recursos": [
+            "Cartulina",
+            "Marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Pregunto lo siguiente a mis familiares",
+              "descripcion": "Pregunto lo siguiente a mis familiares. No olvido complementar sus respuestas con lo que aprendi en esta guia: a. Cuales fueron las causas del descubrimiento de America? b. Quien fue Cristobal Colon y por que fue importante para el descubrimiento de America? c. Como fue la relacion entre los espanoles y los habitantes nativos de America? d. Que ben",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Elaboro un corto escrito sobre como influyo el descubrimiento de America en las expresiones culturales",
+              "descripcion": "Elaboro un corto escrito sobre como influyo el descubrimiento de America en las expresiones culturales de nuestro pais. No olvido incluir dibujos o recortes alusivos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora. Ciencias Sociales 4 Guiauia 1 3 159 Como sucedio la Conquista de America? Acti vidades basicas Desempeno: • Identifico las principales caracteristicas de la Conquista del continente americano.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos los dialogos y observamos las ilustraciones de la siguiente historieta: Ciencias Sociales 4 161",
+              "descripcion": "Leemos los dialogos y observamos las ilustraciones de la siguiente historieta: Ciencias Sociales 4 161 Viviamos tranquilos en nuestro territorio, por lo que cuidabamos y conociamos la naturaleza, asi como utilizabamos sus recursos y conservabamos nuestra cultura. Esto ocurrio hasta que... El 12 de octubre de 1492, Cristobal Colon y su tripulacion l",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Comparamos nuestro trabajo con el de companeros y companeras de otros equipos",
+              "descripcion": "Comparamos nuestro trabajo con el de companeros y companeras de otros equipos. Si en necesario, lo complementamos. Acti vidades de aplicacion Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso.",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Como sucedio la Conquista de America?",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Unidad Valoremos nuestros derechos y deberes 3Guia 10: Como vivian nuestros antepasados americanos? 123 Guia 11: Cuales fueron las contribuciones culturales de las comunidades prehispanicas? 135 Guia 12: Conozcamos algunas caracter",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Elaboro un cartel sobre la Conquista de America",
+              "descripcion": "Elaboro un cartel sobre la Conquista de America. No olvido destacar los acontecimientos y personajes mas importantes. Luego, expongo mi trabajo ante mis familiares.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Realizo las siguientes preguntas a mis familiares",
+              "descripcion": "Realizo las siguientes preguntas a mis familiares. Escribo la informacion mas importante en el cuaderno: a. En la actualidad, cual es la situacion economica, politica y social de los pueblos indigenas de nuestro pais? b. Que aportes han realizado los pueblos indigenas a las expresiones culturales de nuestro pais?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Si en nuestra ciudad o region existe alguna casa colonial, casa de la cultura o",
+              "descripcion": "Si en nuestra ciudad o region existe alguna casa colonial, casa de la cultura o museo, lo visito en compania de mis familiares. Realizo lo siguiente: a. Observo e identifico aquellos objetos o expresiones culturales caracteristicas de los indigenas y de los espanoles. b. En mi cuaderno, explico la importancia que tienen estos objetos y expresiones ",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con ayuda de mis familiares, averiguo si en nuestra comunidad se conocen historias de los",
+              "descripcion": "Con ayuda de mis familiares, averiguo si en nuestra comunidad se conocen historias de los indigenas y de los espanoles durante la Conquista. Escribo algunas de estas historias en el cuaderno.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora. Trabajo con mi familia La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Ciencias Sociales 4 Guiauia 14141414 171 Como fue la epoca colonial? Acti vidades basicas Desempeno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos la siguiente informacion: Trabajo en equipo Sistemas creados Caracteristicas Repartimiento de indios • Sistema",
+              "descripcion": "Leemos la siguiente informacion: Trabajo en equipo Sistemas creados Caracteristicas Repartimiento de indios • Sistema de explotacion mediante el cual se les obligaba a los indigenas a trabajar para los espanoles a cambio de un pago minimo. • Los espanoles distribuian a los indigenas entre los duenos de diferentes explotaciones mineras y agricolas. ",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Con base en la informacion anterior, completamos la siguiente grafica en el cuaderno: La profesora",
+              "descripcion": "Con base en la informacion anterior, completamos la siguiente grafica en el cuaderno: La profesora o el profesor valora las actividades que desarrollamos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comparamos nuestro trabajo con el de companeros y companeras de otros equipos",
+              "descripcion": "Comparamos nuestro trabajo con el de companeros y companeras de otros equipos. Si es necesario, lo complementamos. La profesora o el profesor valora las actividades que desarrollamos. Acti vidades de aplicacion",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Comparamos nuestro trabajo con el de otros companeros y companeras",
+              "descripcion": "Comparamos nuestro trabajo con el de otros companeros y companeras. Si es necesario, lo corregimos. Repar timiento de indios Sistemas de trabajo en la Colonia Resguardo Encomienda Muchos indigenas y africanos fueron esclavizados. los cuales fueron en el que en el que en el que en el que en el que",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Como fue la epoca colonial?",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Unidad Valoremos nuestros derechos y deberes 3Guia 10: Como vivian nuestros antepasados americanos? 123 Guia 11: Cuales fueron las contribuciones culturales de las comunidades prehispanicas? 135 Guia 12: Conozcamos algunas caracter",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las siguientes imagenes: Estudiemos algunas caracteristicas de la poblacion afrocolombiana Acti vidades basicas Desempeno:",
+              "descripcion": "Observamos las siguientes imagenes: Estudiemos algunas caracteristicas de la poblacion afrocolombiana Acti vidades basicas Desempeno: • Identifico los origenes y las principales caracteristicas culturales de la poblacion afrocolombiana. Trabajo en equipo 180",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Estudiemos algunas caracteristicas de la poblacion",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Unidad Valoremos nuestros derechos y deberes 3Guia 10: Como vivian nuestros antepasados americanos? 123 Guia 11: Cuales fueron las contribuciones culturales de las comunidades prehispanicas? 135 Guia 12: Conozcamos algunas caracter",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Elaboro un cartel sobre la manera como la poblacion africana fue convertida en esclava",
+              "descripcion": "Elaboro un cartel sobre la manera como la poblacion africana fue convertida en esclava. Tengo en cuenta ilustrar esta informacion mediante dibujos o recortes alusivos. Presento mi cartel ante mi familia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Si en mi municipio o ciudad habitan personas afrocolombianas, visito algunas de ellas en compania",
+              "descripcion": "Si en mi municipio o ciudad habitan personas afrocolombianas, visito algunas de ellas en compania de mis familiares. Luego, les realizo las siguientes preguntas. No olvido escribir la informacion mas importante en el cuaderno: a. En su opinion, sus condiciones de vida son adecuadas? Por que? b. Que necesidades, como salud o educacion, no pueden sat",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, escribo algunas acciones que se deberian realizar para mejorar las condiciones de",
+              "descripcion": "En el cuaderno, escribo algunas acciones que se deberian realizar para mejorar las condiciones de vida de la poblacion afrocolombiana de mi municipio o ciudad. Si es posible, presento esta informacion ante la Defensoria del Pueblo.",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora. Ubico mi cartel en el Periodico mural. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Trabajo con mi familia R e cord emos La Defensoria del Pueblo es una institucion que",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Durante la Colonia, los espanoles fundaron ciudades y explotaron recursos naturales de los territorios de",
+              "descripcion": "Durante la Colonia, los espanoles fundaron ciudades y explotaron recursos naturales de los territorios de America. Una de las estrategias que implementaron para realizar estos objetivos fue A. contratar personas y maquinaria especializada. B. emplear espanoles capacitados para estos oficios. C. esclavizar a los indigenas y a personas provenientes d",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Teniendo en cuenta la ilustracion anterior, el lugar al cual llegaron los espanoles era A",
+              "descripcion": "Teniendo en cuenta la ilustracion anterior, el lugar al cual llegaron los espanoles era A. la isla caribena de Guanahani. B. el Desierto del Sahara. C. la selva amazonica. D. ninguna de las anteriores.",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Esta ilustracion representa un hecho historico conocido como A",
+              "descripcion": "Esta ilustracion representa un hecho historico conocido como A. el descubrimiento de “las Indias”. B. el surgimiento de la esclavitud en America. C. el descubrimiento de America. D. el surgimiento de la esclavitud en Colombia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "La persona que sostiene la bandera y las tres grandes embarcaciones que se encuentran en",
+              "descripcion": "La persona que sostiene la bandera y las tres grandes embarcaciones que se encuentran en el mar representan respectivamente a A. Cristobal Colon y las tres embarcaciones llamadas La Pinta, La Nina y La Santa Maria. B. una lider de los indigenas que vivia en America y tres embarcaciones espanolas. C. Cristobal Colon y tres embarcaciones indigenas. D",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Cuidamos nuestro entorno",
+      "desempeno_general": "Valoro la relación entre las personas y el medio ambiente.",
+      "guias": [
+        {
+          "numero": 16,
+          "titulo": "Cuales son las necesidades de nuestras familias?",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Unidad Valoremos nuestros derechos y deberes 3Guia 10: Como vivian nuestros antepasados americanos? 123 Guia 11: Cuales fueron las contribuciones culturales de las comunidades prehispanicas? 135 Guia 12: Conozcamos algunas caracter",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Elaboro un cartel sobre los tipos de necesidades basicas que debe satisfacer una familia para",
+              "descripcion": "Elaboro un cartel sobre los tipos de necesidades basicas que debe satisfacer una familia para vivir adecuadamente. Expongo mi trabajo ante mis familiares.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pregunto lo siguiente a mis familiares",
+              "descripcion": "Pregunto lo siguiente a mis familiares. No olvido escribir la informacion mas importante en el cuaderno: a. Cuales son las principales necesidades de nuestra familia? b. Como resolvemos o satisfacemos estas necesidades? c. Cuales miembros de la familia se encargan de conseguir los recursos necesarios para satisfacer estas necesidades?",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En compania de mis familiares, recorro algunos lugares de mi municipio o ciudad",
+              "descripcion": "En compania de mis familiares, recorro algunos lugares de mi municipio o ciudad. Realizo lo siguiente: a. Identifico algunas necesidades basicas que no satisfacen los habitantes de mi municipio o ciudad. Escribo esta informacion en el cuaderno. b. Escribo en el cuaderno algunas acciones que podrian contribuir a que estas personas satisfagan las nec",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora. La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Las necesidades economicas se refieren a los recursos economicos necesarios para comprar los objetos o cosas que necesitamo",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Leemos con atencion el texto de la siguiente pagina: Gl os a r io A",
+              "descripcion": "Leemos con atencion el texto de la siguiente pagina: Gl os a r io A B C Gasto: adquirir un producto o servicio mediante dinero. Ingreso: cantidad de dinero que se recibe por realizar un trabajo. Productos o bienes: cualquier objeto que puede ser comprado o vendido. Servicio: trabajo que una persona u organizacion realiza por otras. 211",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Comparamos nuestro trabajo con el de otros companeros y companeras",
+              "descripcion": "Comparamos nuestro trabajo con el de otros companeros y companeras. Si es necesario, lo complementamos. 207 La profesora o el profesor valora las actividades que desarrollamos. Lenguaje Ciencias Sociales 4 208 Acti vidades de aplicacion Trabajo con mi familia",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Que es la canasta familiar?",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Unidad Valoremos nuestros derechos y deberes 3Guia 10: Como vivian nuestros antepasados americanos? 123 Guia 11: Cuales fueron las contribuciones culturales de las comunidades prehispanicas? 135 Guia 12: Conozcamos algunas caracter",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos el mapa de la pagina siguiente y dialogamos sobre las preguntas que se presentan",
+              "descripcion": "Observamos el mapa de la pagina siguiente y dialogamos sobre las preguntas que se presentan a continuacion: a. Como esta dividido o que partes tiene el territorio colombiano? b. En que departamento vivimos? Cual es su capital? c. Cual es la capital de Colombia?",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con base en el mapa de la pagina 219, realizamos lo siguiente: a",
+              "descripcion": "Con base en el mapa de la pagina 219, realizamos lo siguiente: a. Identificamos los departamentos de Colombia y sus respectivas capitales. b. Mencionamos algunas caracteristicas de la capital de nuestro pais.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, elaboro el siguiente cuadro y lo completo",
+              "descripcion": "En el cuaderno, elaboro el siguiente cuadro y lo completo. Para ello, propongo acciones que le permitan a cada miembro de la familia aumentar sus ingresos economicos o reducir sus gastos. Esto con el proposito de contribuir a satisfacer las necesidades basicas de todos: Nombre del integrante de la familia Rol (papa, tio, abuelo, hermano, etc.) Apor",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora. 217El profesor o la profesora revisa mis trabajos, valora mis aprendizajes y me autoriza a registrar mi progreso. Guia 1 81 8 218",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Como esta organizado nuestro pais?",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Unidad Valoremos nuestros derechos y deberes 3Guia 10: Como vivian nuestros antepasados americanos? 123 Guia 11: Cuales fueron las contribuciones culturales de las comunidades prehispanicas? 135 Guia 12: Conozcamos algunas caracter",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las siguientes imagenes: Trabajo con el profesor o la profesora B",
+              "descripcion": "Observamos las siguientes imagenes: Trabajo con el profesor o la profesora B. A. C. F. E. D. Lenguaje 230",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Teniendo en cuenta la informacion del numeral anterior, escribo en mi cuaderno un corto texto",
+              "descripcion": "Teniendo en cuenta la informacion del numeral anterior, escribo en mi cuaderno un corto texto sobre",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Les pregunto lo siguiente a mis familiares",
+              "descripcion": "Les pregunto lo siguiente a mis familiares. No olvido escribir la informacion mas importante en el cuaderno: la importancia de los mecanismos de participacion No debemos rayar ni escribir sobre la Guia de Aprendizaje. ciudadana. No olvido ilustrar mi trabajo con dibujos o recortes alusivos. a. Que mecanismos de participacion ciudadana han utilizado",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Solicito a mis familiares que unan los departamentos de la derecha con sus respectivas ciudades",
+              "descripcion": "Solicito a mis familiares que unan los departamentos de la derecha con sus respectivas ciudades capitales de la izquierda. Si se equivocan, los corrijo y les indico las respuestas correctas: 2285.En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora. La profesora o el profesor valora los aprend",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Por que son importantes los servicios publicos?",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Unidad Valoremos nuestros derechos y deberes 3Guia 10: Como vivian nuestros antepasados americanos? 123 Guia 11: Cuales fueron las contribuciones culturales de las comunidades prehispanicas? 135 Guia 12: Conozcamos algunas caracter",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, elaboro un cuadro comparativo entre los servicios publicos que existen",
+              "descripcion": "Con ayuda de mis familiares, elaboro un cuadro comparativo entre los servicios publicos que existen en la actualidad y los que habia en la epoca en la que mis abuelos o familiares adultos eran ninos o ninas. Tengo en cuenta aspectos como los tipos de servicios, aparatos que utilizan, etc.",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Con ayuda de mis familiares, completo el siguiente cuadro en el cuaderno",
+              "descripcion": "Con ayuda de mis familiares, completo el siguiente cuadro en el cuaderno. Para ello, consigo la factura de cobro de los diferentes servicios publicos que existan en mi casa: Trabajo con mi familia Servicio publico Consumo registrado Precio a pagar por el servicio prestado Fecha limite de pago Lugares autorizados para realizar el pago Agua Energia e",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Realizo las siguientes preguntas a mis familiares: a",
+              "descripcion": "Realizo las siguientes preguntas a mis familiares: a. En nuestra ciudad o municipio, el costo de los servicios publicos es adecuado o exagerado? Por que? b. Si tenemos alguna queja o reclamo relacionado con la manera como se ofrecen los servicios publicos en nuestro municipio o ciudad, ante que entidad o autoridad debemos presentar nuestra inconfor",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora. Pido a mi profesor o profesora que registre mis avances en el control de progreso para continuar con la siguiente guia. Ciencias Sociales 4 Guia 20202020 239 Que fue el Grito de independencia? Acti vidades basicas Desempeno: • Reconozco las",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Escogemos alguno de los acontecimientos presentados en la grafica del numeral 3",
+              "descripcion": "Escogemos alguno de los acontecimientos presentados en la grafica del numeral 3. Luego, realizamos lo siguiente: a. Traemos un pliego de cartulina, marcadores, colores, revistas, pegante y tijeras del Centro de recursos. b. En la biblioteca o Internet, consultamos mas informacion sobre el acontecimiento que elegimos. Tenemos en cuenta las siguiente",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos la siguiente informacion",
+              "descripcion": "Leemos la siguiente informacion. Tenemos en cuenta leer con un tono de voz moderado: Que acontecimientos historicos ocasionaron el Grito de independencia? Los criollos patriotas estaban en contra de la Corona Espanola, debido a que eran considerados inferiores por los espanoles peninsulares, es decir, por aquellas personas nacidas en Espana. Por lo",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Que fue el Grito de independencia?",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Unidad Valoremos nuestros derechos y deberes 3Guia 10: Como vivian nuestros antepasados americanos? 123 Guia 11: Cuales fueron las contribuciones culturales de las comunidades prehispanicas? 135 Guia 12: Conozcamos algunas caracter",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "En el cuaderno, elaboro una lista de los departamentos que se senalan en el mapa",
+              "descripcion": "En el cuaderno, elaboro una lista de los departamentos que se senalan en el mapa anterior. Frente a cada departamento, escribo el nombre de su respectiva capital. ll. Leo las siguientes preguntas y selecciono las respuestas correctas:",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "La canasta familiar se refiere a A",
+              "descripcion": "La canasta familiar se refiere a A. todos los productos de aseo que una familia compra semanalmente. B. un objeto que se compra mensualmente. C. los bienes y servicios que las familias consumen mensualmente. D. los articulos que se venden en los mercados de los pueblos.",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En Colombia, la entidad encargada de identificar los bienes y servicios que se incluyen en",
+              "descripcion": "En Colombia, la entidad encargada de identificar los bienes y servicios que se incluyen en la canasta familiar es el A. Instituto Colombiano Agropecuario (ICA). B. Servicio Nacional de Aprendizaje (SENA). C. Instituto Colombiano de Bienestar Familiar (ICBF). D. Departamento Nacional de Estadistica (DANE).",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Si los ciudadanos y las ciudadanas de nuestra region se sienten inconformes con el desempeno",
+              "descripcion": "Si los ciudadanos y las ciudadanas de nuestra region se sienten inconformes con el desempeno del alcalde o gobernador, pueden utilizar un mecanismo de participacion ciudadana llamado A. referendo. B. revocatoria del mandato. C. cabildo abierto. D. ninguna de las anteriores.",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Las actividades que permiten satisfacer las necesidades basicas de las personas se conocen como servicios",
+              "descripcion": "Las actividades que permiten satisfacer las necesidades basicas de las personas se conocen como servicios publicos. Existen diferentes servicios publicos, los cuales son A. gas, canasta familiar, luz solar y agua. B. agua, energia electrica, gas, telefono, alcantarillado y aseo. C. alambrado publico, tuberias, reservas de agua y plantas de energia.",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "El florero de Llorente fue una de las razones por las que ocurrio el Grito",
+              "descripcion": "El florero de Llorente fue una de las razones por las que ocurrio el Grito de independencia. Este acontecimiento fue planeado por un grupo de criollos, quienes pretendian A. provocar una revolucion y tomarse el poder. B. alentar a los habitantes de Santafe a iniciar una revolucion, con el fin de que se respetaran las decisiones de los representante",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Para completar la casilla A, se debe escribir quienes ofrecen los servicios publicos a las",
+              "descripcion": "Para completar la casilla A, se debe escribir quienes ofrecen los servicios publicos a las personas que habitan nuestro pais. Por lo tanto, la respuesta es A. la Defensoria del Pueblo, quien defiende los derechos humanos de las personas. B. el Estado o empresas particulares, quienes deben ofrecer los servicios publicos para satisfacer las necesidad",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "La imagen en la que se presenta el servicio de gas corresponde a la A",
+              "descripcion": "La imagen en la que se presenta el servicio de gas corresponde a la A. imagen B. B. imagen C. C. imagen D. D. ninguna de las anteriores.",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "La imagen en la que se presenta el servicio de alcantarillado corresponde a la A",
+              "descripcion": "La imagen en la que se presenta el servicio de alcantarillado corresponde a la A. imagen D. B. imagen B. C. imagen C. D. ninguna de las anteriores. 10.La imagen en la que se presenta el servicio de aseo corresponde a la A. imagen C. B. imagen B. C. imagen D. D. ninguna de las anteriores. IV. En el cuaderno, elaboro un corto texto sobre la relacion ",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Desempenos:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos la siguiente imagen: Respeto Proteccion Respeto Amor Protecciionon Amor Proteccion Codigo de Infancia y",
+              "descripcion": "Observamos la siguiente imagen: Respeto Proteccion Respeto Amor Protecciionon Amor Proteccion Codigo de Infancia y Adolescencia Trabajo con la profesora o el profesor Lenguaje Ciencias Sociales 4 26",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "De acuerdo con la imagen anterior, dialogamos sobre las siguientes preguntas No olvidamos escuchar y",
+              "descripcion": "De acuerdo con la imagen anterior, dialogamos sobre las siguientes preguntas No olvidamos escuchar y respetar la opinion de nuestros companeros y companeras: a Todos los ninos y las ninas tenemos derecho a ser respetados, protegidos y amados? Por que? b Segun lo que creamos, que relacion existe entre estos derechos y el Codigo de Infancia y Adolesc",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Unidad",
+              "descripcion": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Unidad 1, Guia 2 Igualmente, el Codigo de Infancia y Adolescencia define las instituciones que deben proteger los derechos de ninos, ninas, adolescentes y sus familias. En general, la edad de los ninos y las ninas se encuentra entre los 0 y los 12 anos. Por su parte",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "De acuerdo con la informacion anterior, completamos la siguiente grafica en el cuaderno: Cual es",
+              "descripcion": "De acuerdo con la informacion anterior, completamos la siguiente grafica en el cuaderno: Cual es su finalidad? Quien lo reglamento? Como define el maltrato infantil? Que es el Codigo de Infancia y Adolescencia?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a Segun lo que creamos, por que es importante que",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a Segun lo que creamos, por que es importante que exista el Codigo de Infancia y Adolescencia? 27 Lenguaje Ciencias Sociales 4 28 b. Por que debemos conocer los derechos que se establecen en este codigo? c. En nuestra opinion, nuestros familiares y comunidades deben conocer este codigo? Por que? Trabajo en",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos las siguientes noticias y dialogamos sobre las preguntas: Defensoria de Familia Defensor o defensora",
+              "descripcion": "Leemos las siguientes noticias y dialogamos sobre las preguntas: Defensoria de Familia Defensor o defensora de familia Policia de menores Procuradora o procurador delegado Comisario o comisaria de familia CODIGODEINFANCIACODIGO DE INFANCIAYADOLESCENCIAY ADOLESCENCIA Que entidades protegen a los ninos, las ninas y a los adolescentes de Colombia?  E",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Leemos la informacion y observamos las imagenes de la infografia de la siguiente pagina: Trabajo",
+              "descripcion": "Leemos la informacion y observamos las imagenes de la infografia de la siguiente pagina: Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Elegimos una de las entidades presentadas en la infografia anterior Luego, realizamos lo siguiente: a",
+              "descripcion": "Elegimos una de las entidades presentadas en la infografia anterior Luego, realizamos lo siguiente: a Traemos un pliego de cartulina, marcadores, colores, revistas, tijeras y pegante del Centro de recursos En que tipo de situaciones actua esta entidad? Como castiga a quienes vulneran los derechos de los ninos, las ninas y los adolescentes? c Con ba",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "De acuerdo con la informacion presentada en el numeral 7, dialogamos sobre las siguientes preguntas",
+              "descripcion": "De acuerdo con la informacion presentada en el numeral 7, dialogamos sobre las siguientes preguntas No olvidamos escuchar y respetar la opinion de nuestro companero o companera: a Segun lo que creamos, las necesidades materiales, psicologicas, sociales y economicas son igualmente importantes? Por que? b Cuales de estas necesidades son mas dificiles",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Comparamos nuestras respuestas con las de otros companeros y companeras Si es necesario, las complementamos",
+              "descripcion": "Comparamos nuestras respuestas con las de otros companeros y companeras Si es necesario, las complementamos La profesora o el profesor valora las actividades que desarrollamos. Acti vidades de practica Trabajo con la profesora o el profesor",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 35,
+          "titulo": "Desempeno:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos la siguiente imagen: Trabajo en equipo",
+              "descripcion": "Observamos la siguiente imagen: Trabajo en equipo",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Dialogamos sobre las siguientes preguntas Tenemos en cuenta la imagen del numeral anterior y lo",
+              "descripcion": "Dialogamos sobre las siguientes preguntas Tenemos en cuenta la imagen del numeral anterior y lo aprendido en la guia 2: a Por que son importantes los derechos que se presentan en la imagen anterior? b Si los ninos y las ninas no tuvieramos estos derechos, tendriamos una adecuada calidad de vida? Por que? cc Por que es importante que conozcamos todo",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Con el dedo indice, unimos los derechos que aparecen en los recuadros de la izquierda",
+              "descripcion": "Con el dedo indice, unimos los derechos que aparecen en los recuadros de la izquierda con las instituciones de la derecha segun correspondan: Proteccion Derechos Instituciones Hospital Educacion Salud Ambiente escolar respetuoso Comite Escolar de Convivencia Escuela o colegio Comisaria de Familia",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Que",
+              "descripcion": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Que instituciones se encargan de garantizar los derechos de los ninos y las ninas? los derechos de los ninos y las ninas? Segun el Codigo de Infancia y Adolescencia, las autoridades competentes para el restablecimiento de los derechos de los ninos, ninas y adolescen",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En el cuaderno, escribimos las siguientes oraciones Luego, indicamos cuales de ellas son falsas (F)",
+              "descripcion": "En el cuaderno, escribimos las siguientes oraciones Luego, indicamos cuales de ellas son falsas (F) y cuales son verdaderas (V) Tenemos en cuenta el texto del numeral anterior: a El Estado, la familia y la sociedad deben proteger los derechos ( ) de los ninos y las ninas b La familia no debe exigir los derechos de los ninos y las ninas ( ) ante la ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Dialogamos sobre las preguntas de la siguiente pagina: 38 Ciencias Sociales 4 39 a Segun",
+              "descripcion": "Dialogamos sobre las preguntas de la siguiente pagina: 38 Ciencias Sociales 4 39 a Segun lo que creamos, por que es importante que existan personas, autoridades e instituciones encargadas de garantizar y restablecer los derechos de los ninos y las ninas? b Si se garantizaran los derechos de los ninos y las ninas, seria necesario que existieran inst",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Por turnos, leemos el siguiente texto: Que necesidades tienen nuestras familias? Son aquellas necesidades que",
+              "descripcion": "Por turnos, leemos el siguiente texto: Que necesidades tienen nuestras familias? Son aquellas necesidades que se satisfacen mediante cosas o elementos que se pueden elaborar o comprar. Por ejemplo: vivienda, servicios publicos, medicinas, etc. Se relacionan con un ambiente agradable, en el que exista amor, comprension, respeto y tolerancia. Son aqu",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Observamos las siguientes imagenes e identificamos en cuales de ellas se presentan necesidades materiales, psicologicas,",
+              "descripcion": "Observamos las siguientes imagenes e identificamos en cuales de ellas se presentan necesidades materiales, psicologicas, sociales y economicas: Glos a rio A B C Organizaciones: conjunto de personas que busca un proposito determinado. El Estado satisface las anteriores necesidades mediante servicios como educacion, salud, alimentacion, agua, etc. Ig",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "De acuerdo con la informacion presentada en el numeral 7, dialogamos sobre las siguientes preguntas",
+              "descripcion": "De acuerdo con la informacion presentada en el numeral 7, dialogamos sobre las siguientes preguntas No olvidamos escuchar y respetar la opinion de nuestro companero o companera: a Segun lo que creamos, las necesidades materiales, psicologicas, sociales y economicas son igualmente importantes? Por que? b Cuales de estas necesidades son mas dificiles",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Comparamos nuestras respuestas con las de otros companeros y companeras Si es necesario, las complementamos",
+              "descripcion": "Comparamos nuestras respuestas con las de otros companeros y companeras Si es necesario, las complementamos La profesora o el profesor valora las actividades que desarrollamos. Acti vidades de practica Trabajo con la profesora o el profesor",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

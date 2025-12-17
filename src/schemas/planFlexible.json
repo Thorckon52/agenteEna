@@ -8,7 +8,7 @@
       "contexto",
       "alineacion_curricular",
       "planificacion",
-      "por_grados",
+      "cronograma",
       "adaptaciones",
       "articulaciones_ENA",
       "seguimiento",
@@ -121,10 +121,10 @@
             "required": ["hay"],
             "additionalProperties": false
           },
-          "organizacion_salon": { "type": "string", "enum": ["filas", "u", "parejas"] },
+          "organizacion_salon": { "type": "string", "enum": ["filas", "u", "parejas", "grupos"] },
           "frecuencia_uso_recursos": {
             "type": "string",
-            "enum": ["todos_los_dias", "tres_cuatro_dias", "uno_dos_dias", "no_uso", "sin_definir"]
+            "enum": ["todos_los_dias", "tres_cuatro_dias", "uno_dos_dias", "no_uso", "sin_definir", "regular"]
           },
           "gobierno_estudiantil_activo": { "type": "boolean" },
           "comites_funcionando": {
@@ -144,7 +144,7 @@
         "type": "object",
         "required": ["area", "temas_prioritarios", "desempenos_esperados", "ras_dba_referencia"],
         "properties": {
-          "area": { "type": "string", "enum": ["MatemÉtica", "Sociales", "Naturales", "Lenguaje", "Tecnología", "Ética"] },
+          "area": { "type": "string" },
           "temas_prioritarios": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
           "desempenos_esperados": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
           "ras_dba_referencia": { "type": "array", "items": { "type": "string" } }
@@ -160,34 +160,68 @@
         },
         "additionalProperties": false
       },
-      "por_grados": {
-        "type": "array",
-        "items": {
-          "type": "object",
-          "properties": {
-            "grado": { "type": "string" },
-            "objetivos": { "type": "array", "items": { "type": "string" } },
-            "actividades": {
-              "type": "array",
-              "items": {
-                "type": "object",
-                "properties": {
-                  "nombre": { "type": "string" },
-                  "descripcion": { "type": "string" },
-                  "duracion_min": { "type": "integer", "minimum": 5 },
-                  "materiales": { "type": "array", "items": { "type": "string" } },
-                  "estrategias_diferenciacion": { "type": "array", "items": { "type": "string" } }
-                },
-                "required": ["nombre", "descripcion", "duracion_min", "materiales", "estrategias_diferenciacion"],
-                "additionalProperties": false
-              }
+      "cronograma": {
+        "type": "object",
+        "required": ["momento_1_grupal", "momento_2_por_grados", "momento_3_grupal"],
+        "properties": {
+          "momento_1_grupal": {
+            "type": "object",
+            "required": ["nombre", "descripcion", "duracion_min", "objetivo", "materiales", "dinamica"],
+            "properties": {
+              "nombre": { "type": "string" },
+              "descripcion": { "type": "string" },
+              "duracion_min": { "type": "integer", "minimum": 5 },
+              "objetivo": { "type": "string" },
+              "materiales": { "type": "array", "items": { "type": "string" } },
+              "dinamica": { "type": "string" }
             },
-            "evaluacion": { "type": "array", "items": { "type": "string" } },
-            "observaciones": { "type": "array", "items": { "type": "string" } }
+            "additionalProperties": false
           },
-          "required": ["grado", "objetivos", "actividades", "evaluacion", "observaciones"],
-          "additionalProperties": false
-        }
+          "momento_2_por_grados": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "grado": { "type": "string" },
+                "guia_referencia": { "type": "string" },
+                "objetivos": { "type": "array", "items": { "type": "string" } },
+                "actividades": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "nombre": { "type": "string" },
+                      "descripcion": { "type": "string" },
+                      "duracion_min": { "type": "integer", "minimum": 5 },
+                      "materiales": { "type": "array", "items": { "type": "string" } },
+                      "estrategias_diferenciacion": { "type": "array", "items": { "type": "string" } }
+                    },
+                    "required": ["nombre", "descripcion", "duracion_min", "materiales", "estrategias_diferenciacion"],
+                    "additionalProperties": false
+                  }
+                },
+                "evaluacion": { "type": "array", "items": { "type": "string" } },
+                "observaciones": { "type": "array", "items": { "type": "string" } }
+              },
+              "required": ["grado", "guia_referencia", "objetivos", "actividades", "evaluacion", "observaciones"],
+              "additionalProperties": false
+            }
+          },
+          "momento_3_grupal": {
+            "type": "object",
+            "required": ["nombre", "descripcion", "duracion_min", "objetivo", "materiales", "dinamica"],
+            "properties": {
+              "nombre": { "type": "string" },
+              "descripcion": { "type": "string" },
+              "duracion_min": { "type": "integer", "minimum": 5 },
+              "objetivo": { "type": "string" },
+              "materiales": { "type": "array", "items": { "type": "string" } },
+              "dinamica": { "type": "string" }
+            },
+            "additionalProperties": false
+          }
+        },
+        "additionalProperties": false
       },
       "adaptaciones": {
         "type": "object",
@@ -226,4 +260,3 @@
     "additionalProperties": false
   }
 }
-

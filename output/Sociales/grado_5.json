@@ -1,0 +1,1058 @@
+{
+  "asignatura": "Ciencias Sociales",
+  "grado": 5,
+  "ano": 2026,
+  "editorial": "Fundacion Escuela Nueva Volvamos a la Gente",
+  "autor": "Cristian Alexander Cardenas Sierra, Jorge Octavio Lopez Villa",
+  "isbn": "",
+  "derechos_basicos_aprendizaje": [
+    "DBA 6: Analiza los cambios ocurridos en la sociedad colombiana en la primera mitad del siglo XX, asociados a la expansion de la industria y el establecimiento de nuevas redes de comunicacion. UUnniiddaa1111ddAprendamosAprendamos aconvivira convivir UUnniiddaa1111ddAprendamosAprendamos aconvivira convivir G",
+    "DBA 7: Comprende que en la sociedad colombiana existen derechos, deberes, principios y acciones para orientar y regular la convivencia de las personas.",
+    "DBA 1: Comprende la organizacion territorial existente en Colombia y las particularidades geograficas de las regiones.",
+    "DBA 3: Comprende que los cambios en la comunicacion originados por los avances tecnologicos han generado transformaciones en la forma como se relacionan las personas en la sociedad actual.",
+    "DBA 8: Analiza el papel de las organizaciones sociales en la preservacion y el reconocimiento de los Derechos Humanos.",
+    "DBA 8: Analiza el papel de las organizaciones sociales en la preservacion y el reconocimiento de los Derechos Humanos. Unidad 1 Aprendamos a convvr D p n g d o y r o la i po ta a d s d h s y d be s p l b tar pe , e r y c ta Lenguaje U n i d a d 2 Exploremos nuestro pais! Enfasis de la coleccion En ellos, e",
+    "DBA 4: Analiza el periodo colonial en la Nueva Granada a partir de sus organizaciones politicas, economicas y sociales.",
+    "DBA 5: Analiza el origen y consolidacion de Colombia como republica y sus cambios politicos, economicos y sociales.",
+    "DBA 2: Comprende las ventajas que tiene para Colombia su posicion geografica y astronomica en relacion con la economia nacional. Unidad 2Unidad 2 ExploremosExploremos nuestropais!nuestro pais! Desempeno general: Reconozco las principales caracteristicas naturales del territorio colombiano. Estandares basi",
+    "DBA 2: Comprende las ventajas que tiene para Colombia su posicion geografica y astronomica en relacion con la economia nacional. Unidad 3Unidad 3 ConozcamosotrasculturasConozcamos otras culturas y el origen de nuestro paisy el origen de nuestro pais Desempeno general: Identifico y valoro los principales"
+  ],
+  "unidades": [
+    {
+      "numero": 1,
+      "titulo": "Me reconozco como ser histórico y social",
+      "desempeno_general": "Reconozco mi identidad personal y colectiva como parte de una sociedad.",
+      "guias": [
+        {
+          "numero": 1,
+          "titulo": "¿Quién soy como ser social?",
+          "concepto": "Identidad social, Grupos sociales",
+          "desempeno": "Reconozco mi identidad social. Identifico los grupos a los que pertenezco.",
+          "ejes_tematicos": [
+            "Identidad social",
+            "Grupos sociales"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz",
+            "Aula organizada en círculo",
+            "Orientación del docente"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Con ayuda de mis familiares, identifico situaciones en las que se han vulnerado mis derechos",
+              "descripcion": "Con ayuda de mis familiares, identifico situaciones en las que se han vulnerado mis derechos escolares Luego, dialogo con ellos sobre que tipos de acciones permitieron solucionar estas situaciones",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Pregunto a mis familiares cuales son sus derechos y deberes como acudientes o padres de",
+              "descripcion": "Pregunto a mis familiares cuales son sus derechos y deberes como acudientes o padres de familia Si no los conocen bien, les pido que acuerden una reunion con el director o directora del curso para que amplien su informacion al respecto",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Elijo un derecho y un deber escolar que me parezcan importantes Realizo lo siguiente: •",
+              "descripcion": "Elijo un derecho y un deber escolar que me parezcan importantes Realizo lo siguiente: • Elaboro un cartel sobre la importancia del derecho y el deber que elegi Tengo en cuenta incluir una frase y un dibujo alusivos Trabajo con mi familia",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la proxima clase, explico mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, explico mi trabajo ante los demas companeros y companeras y el profesor y la profesora No olvido ubicar mi cartel en el Periodico mural La profesora o el profesor valora los aprendizajes alcanzados con el desarrollo de esta guia y registra mi progreso. Acti vidades de aplicacion Los y las conductoras deben evitar distintas dist",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "El territorio donde vivimos",
+          "concepto": "Territorio, Regiones de Colombia",
+          "desempeno": "Reconozco características del territorio.",
+          "ejes_tematicos": [
+            "Territorio",
+            "Regiones de Colombia"
+          ],
+          "recursos": [
+            "Mapas impresos o atlas",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Muestro a mis familiares el friso sobre la importancia de los derechos humanos que elabore",
+              "descripcion": "Muestro a mis familiares el friso sobre la importancia de los derechos humanos que elabore en clase Luego, dialogo con ellos sobre si los derechos humanos se cumplen o no en nuestra region",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "En periodicos, television o Internet, busco una noticia sobre algunas situaciones en las que se",
+              "descripcion": "En periodicos, television o Internet, busco una noticia sobre algunas situaciones en las que se hayan vulnerado los derechos humanos en nuestro pais Escribo la noticia en el cuaderno",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Pregunto lo siguiente a mis familiares No olvido escribir la informacion mas importante en el",
+              "descripcion": "Pregunto lo siguiente a mis familiares No olvido escribir la informacion mas importante en el cuaderno: a Conocen alguna persona que haya exigido sus derechos ante la Procuraduria General de la Nacion, Defensoria del Pueblo o Personeria Municipal? Que respuesta o solucion obtuvo? b Los derechos humanos permiten evitar y solucionar conflictos de man",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "En la biblioteca o Internet, consulto sobre la funcion que cumplen el cabildo, las Juntas",
+              "descripcion": "En la biblioteca o Internet, consulto sobre la funcion que cumplen el cabildo, las Juntas de Accion Comunal y las Juntas Administradoras Locales Luego, respondo las siguientes preguntas en el cuaderno: a Que funciones tienen estas instituciones? b Estas instituciones promueven los derechos humanos en nuestra comunidad? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el",
+              "descripcion": "En la proxima clase, presento mi trabajo ante los demas companeros y companeras y el profesor o la profesora El profesor o la profesora revisa mis trabajos, valora mis aprendizajes y me autoriza a registrar mi progreso. Acti vidades de aplicacion 3 Guia 41 Desempenos: • Reconozco la importancia de la Constitucion Politica de Colombia. • Identifico ",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos el siguiente texto: Trabajo con la profesora o el profesor",
+              "descripcion": "Leemos el siguiente texto: Trabajo con la profesora o el profesor",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Explico mi friso ante los demas companeros y companeras Si es necesario, lo complemento Siempre",
+              "descripcion": "Explico mi friso ante los demas companeros y companeras Si es necesario, lo complemento Siempre pueden ocurrir conflictos, por eso es necesario establecer compromisos y tratar de entender los intereses de las demas personas. De esta manera, prevenimos futuras discusiones. La profesora o el profesor valora las actividades que desarrollamos. Trabajo ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Elaboramos una propuesta para que nuestra comunidad conozca la importancia de los derechos humanos Nos",
+              "descripcion": "Elaboramos una propuesta para que nuestra comunidad conozca la importancia de los derechos humanos Nos guiamos por las siguientes preguntas: a Por que esta propuesta es importante para nuestra comunidad? b Como la realizaremos? c Donde la vamos a realizar? d Quienes participaran en ella? e Que resultados esperamos? f Cuando la realizaremos? g Como ",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Con el Tarjetero de responsabilidades y compromisos, definimos las actividades que realizara cada integrante del",
+              "descripcion": "Con el Tarjetero de responsabilidades y compromisos, definimos las actividades que realizara cada integrante del equipo Lenguaje Ciencias Sociales 5 40 Trabajo con mi familia",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Representamos el espacio geográfico",
+          "concepto": "Mapas, Escalas, Símbolos",
+          "desempeno": "Utilizo mapas para representar espacios.",
+          "ejes_tematicos": [
+            "Mapas",
+            "Escalas",
+            "Símbolos"
+          ],
+          "recursos": [
+            "Hojas blancas",
+            "Regla",
+            "Colores"
+          ],
+          "actividades": [
+            {
+              "numero": 9,
+              "titulo": "Leemos la siguiente informacion: Que normas establece nuestro Manual de Convivencia? Todas las instituciones educativas",
+              "descripcion": "Leemos la siguiente informacion: Que normas establece nuestro Manual de Convivencia? Todas las instituciones educativas tienen un Manual de Convivencia, el cual define los derechos y los deberes de los y las estudiantes. De esta manera, fomenta la paz y la tolerancia entre los miembros de la comunidad educativa. Algunos de los aspectos mas importan",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Relacionemos la Constitucion Politica de Colombia con nuestro Manual de Convivencia! Realizamos lo siguiente: a",
+              "descripcion": "Relacionemos la Constitucion Politica de Colombia con nuestro Manual de Convivencia! Realizamos lo siguiente: a Traemos la Constitucion Politica de Colombia y nuestro Manual de Convivencia del Centro de recursos b En el cuaderno, completamos el siguiente cuadro Para ello, identificamos algunos derechos y deberes que se establecen en ambos documento",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Dialogamos sobre la siguiente pregunta: • Cuales derechos y deberes deberian incluirse en nuestro Manual",
+              "descripcion": "Dialogamos sobre la siguiente pregunta: • Cuales derechos y deberes deberian incluirse en nuestro Manual de Convivencia? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Elaboramos diferentes propuestas para garantizar el cumplimiento de los derechos y deberes identificados en el",
+              "descripcion": "Elaboramos diferentes propuestas para garantizar el cumplimiento de los derechos y deberes identificados en el numeral anterior Presentamos nuestras propuestas ante el Comite de Democracia y Valores para que las discuta y aplique en nuestra escuela o colegio 50 Ciencias Sociales 5 51 Vi vamos la paz",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Analizo el siguiente caso y respondo las preguntas en el cuaderno: Trabajo individual a Que",
+              "descripcion": "Analizo el siguiente caso y respondo las preguntas en el cuaderno: Trabajo individual a Que deberes estan incumpliendo Juliana, Valentina y el profesor? Por que? b A quienes se les estan vulnerando sus derechos fundamentales? Por que? c Que acciones deberia realizar el profesor para solucionar el conflicto entre Juliana y Valentina? d Si fuera test",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "En el cuaderno, escribo el siguiente texto y completo los espacios en blanco con las",
+              "descripcion": "En el cuaderno, escribo el siguiente texto y completo los espacios en blanco con las palabras que se presentan en los recuadros: Siempre cumplo mis , por lo que convivo con mis companeros y companeras Tambien exijo mis , mediante los cuales disfruto sana y responsablemente de mi y de la compania de las demas personas Cuando se presentan conflictos,",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Normas que regulan la convivencia",
+          "concepto": "Normas, Convivencia",
+          "desempeno": "Reconozco normas sociales.",
+          "ejes_tematicos": [
+            "Normas",
+            "Convivencia"
+          ],
+          "recursos": [
+            "Cartulina",
+            "Marcadores",
+            "Aula organizada en grupos"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Por turnos, leemos y analizamos la siguiente historia: Trabajo en equipo Sonando con un mundo",
+              "descripcion": "Por turnos, leemos y analizamos la siguiente historia: Trabajo en equipo Sonando con un mundo mas igualitario Juanito vivia en una ciudad colombiana. El era muy trabajador y pertenecia a una familia grande, pero muy pobre. Por esta razon, tenia que realizar todo tipo de trabajos, como lustrar zapatos, vender periodicos y limpiar los carros en las c",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Leemos las siguientes preguntas y seleccionamos las respuestas correctas Tenemos en cuenta la historia presentada",
+              "descripcion": "Leemos las siguientes preguntas y seleccionamos las respuestas correctas Tenemos en cuenta la historia presentada en el numeral anterior: a Por que Juanito debia trabajar? Porque necesitaba dinero. Porque es normal que los ninos y las ninas trabajen. Porque los padres lo obligaban. 36 Ciencias Sociales 5 b Para que la mama de Juanito lo desperto? c",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "En el cuaderno, respondemos las siguientes preguntas: a En que se parecen y se diferencian",
+              "descripcion": "En el cuaderno, respondemos las siguientes preguntas: a En que se parecen y se diferencian nuestras vidas al sueno de Juanito? b Como nos hubiera gustado que terminara la historia de Juanito? Por que? cc Que deberia pasar en esta historia para que terminara como nos habria gustado?",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Leemos las situaciones de la siguiente pagina e identificamos los derechos humanos que se vulneran",
+              "descripcion": "Leemos las situaciones de la siguiente pagina e identificamos los derechos humanos que se vulneran en cada una de ellas Luego, completamos el siguiente cuadro en el cuaderno: 37Situacion Derechos que se vulneran Acciones pacificas para garantizar estos derechos Situacion 1 Situacion 2 Situacion 3 Lenguaje Ciencias Sociales 5 38 Situacion 1 Pedro er",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Comparamos nuestro trabajo con el de los companeros y companeras de otros equipos Si es",
+              "descripcion": "Comparamos nuestro trabajo con el de los companeros y companeras de otros equipos Si es necesario, lo complementamos Trabajo individual",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Elaboro un friso sobre la importancia de los derechos humanos! Para ello, realizo lo siguiente:",
+              "descripcion": "Elaboro un friso sobre la importancia de los derechos humanos! Para ello, realizo lo siguiente: a Traigo una hoja de block, colores, marcadores, revistas y pegante del Centro de recursos Unidad 1, Guia 2 39 Derechos Humanos b Organizo la informacion que incluire en el friso Tengo en cuenta las siguientes preguntas: • Que son los derechos humanos? D",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Explico mi friso ante los demas companeros y companeras Si es necesario, lo complemento Siempre",
+              "descripcion": "Explico mi friso ante los demas companeros y companeras Si es necesario, lo complemento Siempre pueden ocurrir conflictos, por eso es necesario establecer compromisos y tratar de entender los intereses de las demas personas. De esta manera, prevenimos futuras discusiones. La profesora o el profesor valora las actividades que desarrollamos. Trabajo ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "Elaboramos una propuesta para que nuestra comunidad conozca la importancia de los derechos humanos Nos",
+              "descripcion": "Elaboramos una propuesta para que nuestra comunidad conozca la importancia de los derechos humanos Nos guiamos por las siguientes preguntas: a Por que esta propuesta es importante para nuestra comunidad? b Como la realizaremos? c Donde la vamos a realizar? d Quienes participaran en ella? e Que resultados esperamos? f Cuando la realizaremos? g Como ",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Con el Tarjetero de responsabilidades y compromisos, definimos las actividades que realizara cada integrante del",
+              "descripcion": "Con el Tarjetero de responsabilidades y compromisos, definimos las actividades que realizara cada integrante del equipo Lenguaje Ciencias Sociales 5 40 Trabajo con mi familia",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Derechos y deberes ciudadanos",
+          "concepto": "Derechos, Deberes",
+          "desempeno": "Relaciono derechos y deberes.",
+          "ejes_tematicos": [
+            "Derechos",
+            "Deberes"
+          ],
+          "recursos": [
+            "Casos impresos",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las siguientes imagenes: Desempeno: • Reconozco la importancia de los derechos y los deberes",
+              "descripcion": "Observamos las siguientes imagenes: Desempeno: • Reconozco la importancia de los derechos y los deberes escolares e identifico las personas y organizaciones que los promueven. Trabajo en equipo Bienvenidos Cuales son nuestros derechos y deberes escolares? Acti vidades basicas 13 Conozcamos nuestros derechos y deberes escolares! Conozcamos nuestros ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Traemos hojas de block, revistas, tijeras, pegante y colores del Centro de recursos Realizamos lo",
+              "descripcion": "Traemos hojas de block, revistas, tijeras, pegante y colores del Centro de recursos Realizamos lo siguiente: a Escogemos una actividad academica, cultural, deportiva, civico-politica y de bienestar presentada en el numeral anterior b Con base en las actividades escogidas, completamos el siguiente cuadro en las hojas que trajimos: Actividad Dibujo o",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Todas",
+              "descripcion": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Todas las instituciones educativas poseen un Manual de Convivencia. Su finalidad es establecer los distintos derechos y deberes de los miembros de la comunidad educativa, es decir, de las personas que hacen parte de una escuela o colegio. Esto con el proposito de pr",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con base en la informacion anterior, completamos el siguiente mapa conceptual en el cuaderno:",
+              "descripcion": "Con base en la informacion anterior, completamos el siguiente mapa conceptual en el cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a Segun lo que creamos, por que es importante conocer",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a Segun lo que creamos, por que es importante conocer nuestros derechos y deberes? b Que pasaria si en nuestra institucion educativa no existieran derechos ni deberes? c Todos los ninos y las ninas deben cumplir los mismos deberes? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Identificamos los derechos y deberes escolares que nos explicaron en las siguientes situaciones Luego, completamos",
+              "descripcion": "Identificamos los derechos y deberes escolares que nos explicaron en las siguientes situaciones Luego, completamos en el cuaderno el cuadro que se presenta: • Cuando nos explicaron el Manual de Convivencia • Cuando se realizaron las elecciones de representantes para el Gobierno Estudiantil • Cuando recibimos algun reconocimiento o estimulo • Cuando",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Por turnos, leemos el siguiente texto: Trabajo en parejas Quienes promueven nuestros derechos y deberes",
+              "descripcion": "Por turnos, leemos el siguiente texto: Trabajo en parejas Quienes promueven nuestros derechos y deberes escolares? En todas las instituciones educativas de Colombia, se elige un personero o una personera estudiantil, quien deber ser un o una estudiante que curse el ultimo grado de bachillerato. Su funcion es promover el cumplimiento de los deberes ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el Manual de Convivencia de nuestra institucion, consultamos las funciones y la importancia del",
+              "descripcion": "En el Manual de Convivencia de nuestra institucion, consultamos las funciones y la importancia del Consejo Estudiantil, Consejo Directivo y del personero o personera Dialogamos sobre las siguientes preguntas: a En nuestra institucion, las personas y organizaciones que promueven nuestros derechos y deberes escolares cumplen todas sus funciones? Por ",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Elegimos un derecho y un deber que no se cumplan en nuestra escuela o colegio",
+              "descripcion": "Elegimos un derecho y un deber que no se cumplan en nuestra escuela o colegio Luego, realizamos las siguientes actividades: a Dialogamos sobre como el personero o la personera y el Consejo Estudiantil y Consejo Directivo podrian ayudar a garantizar el deber y el derecho que seleccionamos b Les escribimos una carta a estas personas y organizaciones ",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Observamos las siguientes imagenes y las relacionamos con un derecho o un deber escolar Tenemos",
+              "descripcion": "Observamos las siguientes imagenes y las relacionamos con un derecho o un deber escolar Tenemos en cuenta lo estudiado en esta guia:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Con base en las imagenes anteriores, respondemos las siguientes preguntas en el cuaderno: a Que",
+              "descripcion": "Con base en las imagenes anteriores, respondemos las siguientes preguntas en el cuaderno: a Que derechos se vulneran en estas imagenes? Cuales son las poblaciones afectadas? b Segun lo que creamos, que relacion existe entre estos derechos y nuestra vida escolar? Los hombres y mujeres cuya cultura, tradiciones e idioma provienen de Africa se conocen",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Analizamos la siguiente situacion y dialogamos sobre las preguntas: Nuestros derechos y deberes escolares Actividades",
+              "descripcion": "Analizamos la siguiente situacion y dialogamos sobre las preguntas: Nuestros derechos y deberes escolares Actividades academicas Actividades culturales Actividades deportivas Actividades civico-politicas Actividades de bienestar nos permiten realizar responsablemente Nuestros derechos y deberes escolares Actividades academicas Actividades culturale",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "En la biblioteca o Internet, consultamos el significado de “conflictos escolares” En el cuaderno, explicamos",
+              "descripcion": "En la biblioteca o Internet, consultamos el significado de “conflictos escolares” En el cuaderno, explicamos la relacion que existe entre la informacion consultada y la situacion presentada en el numeral anterior Trabajo en parejas",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Convivencia, normas y participación ciudadana",
+      "desempeno_general": "Comprendo la importancia de las normas y la participación democrática.",
+      "guias": [
+        {
+          "numero": 6,
+          "titulo": "Participación democrática",
+          "concepto": "Democracia, Participación ciudadana",
+          "desempeno": "Reconozco mecanismos de participación.",
+          "ejes_tematicos": [
+            "Democracia",
+            "Participación ciudadana"
+          ],
+          "recursos": [
+            "Tarjetas de roles",
+            "Espacio amplio"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 7,
+          "titulo": "¿Qué es la historia?",
+          "concepto": "Historia, Tiempo histórico",
+          "desempeno": "Comprendo el concepto de historia.",
+          "ejes_tematicos": [
+            "Historia",
+            "Tiempo histórico"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 8,
+          "titulo": "La historia de Colombia",
+          "concepto": "Historia de Colombia",
+          "desempeno": "Reconozco hechos importantes de la historia nacional.",
+          "ejes_tematicos": [
+            "Historia de Colombia"
+          ],
+          "recursos": [
+            "Textos históricos",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 9,
+          "titulo": "Diversidad cultural",
+          "concepto": "Cultura, Diversidad cultural",
+          "desempeno": "Reconozco la diversidad cultural.",
+          "ejes_tematicos": [
+            "Cultura",
+            "Diversidad cultural"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 10,
+          "titulo": "Actividades económicas",
+          "concepto": "Economía, Sectores económicos",
+          "desempeno": "Identifico actividades económicas.",
+          "ejes_tematicos": [
+            "Economía",
+            "Sectores económicos"
+          ],
+          "recursos": [
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": []
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Nuestro pasado y su influencia en el presente",
+      "desempeno_general": "Analizo hechos históricos y su impacto en la sociedad actual.",
+      "guias": [
+        {
+          "numero": 11,
+          "titulo": "El cuidado del medio ambiente",
+          "concepto": "Medio ambiente, Recursos naturales",
+          "desempeno": "Reconozco problemáticas ambientales.",
+          "ejes_tematicos": [
+            "Medio ambiente",
+            "Recursos naturales"
+          ],
+          "recursos": [
+            "Casos impresos",
+            "Cuaderno",
+            "Lápiz"
+          ],
+          "actividades": []
+        },
+        {
+          "numero": 12,
+          "titulo": "Desarrollo sostenible",
+          "concepto": "Desarrollo sostenible",
+          "desempeno": "Propongo acciones sostenibles.",
+          "ejes_tematicos": [
+            "Desarrollo sostenible"
+          ],
+          "recursos": [
+            "Cartulina",
+            "Marcadores"
+          ],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las siguientes imagenes: Desempeno: • Reconozco la importancia de los derechos y los deberes",
+              "descripcion": "Observamos las siguientes imagenes: Desempeno: • Reconozco la importancia de los derechos y los deberes escolares e identifico las personas y organizaciones que los promueven. Trabajo en equipo Bienvenidos Cuales son nuestros derechos y deberes escolares? Acti vidades basicas 13 Conozcamos nuestros derechos y deberes escolares! Conozcamos nuestros ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Traemos hojas de block, revistas, tijeras, pegante y colores del Centro de recursos Realizamos lo",
+              "descripcion": "Traemos hojas de block, revistas, tijeras, pegante y colores del Centro de recursos Realizamos lo siguiente: a Escogemos una actividad academica, cultural, deportiva, civico-politica y de bienestar presentada en el numeral anterior b Con base en las actividades escogidas, completamos el siguiente cuadro en las hojas que trajimos: Actividad Dibujo o",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Todas",
+              "descripcion": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Todas las instituciones educativas poseen un Manual de Convivencia. Su finalidad es establecer los distintos derechos y deberes de los miembros de la comunidad educativa, es decir, de las personas que hacen parte de una escuela o colegio. Esto con el proposito de pr",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con base en la informacion anterior, completamos el siguiente mapa conceptual en el cuaderno:",
+              "descripcion": "Con base en la informacion anterior, completamos el siguiente mapa conceptual en el cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a Segun lo que creamos, por que es importante conocer",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a Segun lo que creamos, por que es importante conocer nuestros derechos y deberes? b Que pasaria si en nuestra institucion educativa no existieran derechos ni deberes? c Todos los ninos y las ninas deben cumplir los mismos deberes? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Identificamos los derechos y deberes escolares que nos explicaron en las siguientes situaciones Luego, completamos",
+              "descripcion": "Identificamos los derechos y deberes escolares que nos explicaron en las siguientes situaciones Luego, completamos en el cuaderno el cuadro que se presenta: • Cuando nos explicaron el Manual de Convivencia • Cuando se realizaron las elecciones de representantes para el Gobierno Estudiantil • Cuando recibimos algun reconocimiento o estimulo • Cuando",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Por turnos, leemos el siguiente texto: Trabajo en parejas Quienes promueven nuestros derechos y deberes",
+              "descripcion": "Por turnos, leemos el siguiente texto: Trabajo en parejas Quienes promueven nuestros derechos y deberes escolares? En todas las instituciones educativas de Colombia, se elige un personero o una personera estudiantil, quien deber ser un o una estudiante que curse el ultimo grado de bachillerato. Su funcion es promover el cumplimiento de los deberes ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el Manual de Convivencia de nuestra institucion, consultamos las funciones y la importancia del",
+              "descripcion": "En el Manual de Convivencia de nuestra institucion, consultamos las funciones y la importancia del Consejo Estudiantil, Consejo Directivo y del personero o personera Dialogamos sobre las siguientes preguntas: a En nuestra institucion, las personas y organizaciones que promueven nuestros derechos y deberes escolares cumplen todas sus funciones? Por ",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Elegimos un derecho y un deber que no se cumplan en nuestra escuela o colegio",
+              "descripcion": "Elegimos un derecho y un deber que no se cumplan en nuestra escuela o colegio Luego, realizamos las siguientes actividades: a Dialogamos sobre como el personero o la personera y el Consejo Estudiantil y Consejo Directivo podrian ayudar a garantizar el deber y el derecho que seleccionamos b Les escribimos una carta a estas personas y organizaciones ",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Observamos las siguientes imagenes y las relacionamos con un derecho o un deber escolar Tenemos",
+              "descripcion": "Observamos las siguientes imagenes y las relacionamos con un derecho o un deber escolar Tenemos en cuenta lo estudiado en esta guia:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Con base en las imagenes anteriores, respondemos las siguientes preguntas en el cuaderno: a Que",
+              "descripcion": "Con base en las imagenes anteriores, respondemos las siguientes preguntas en el cuaderno: a Que derechos se vulneran en estas imagenes? Cuales son las poblaciones afectadas? b Segun lo que creamos, que relacion existe entre estos derechos y nuestra vida escolar? Los hombres y mujeres cuya cultura, tradiciones e idioma provienen de Africa se conocen",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Analizamos la siguiente situacion y dialogamos sobre las preguntas: Nuestros derechos y deberes escolares Actividades",
+              "descripcion": "Analizamos la siguiente situacion y dialogamos sobre las preguntas: Nuestros derechos y deberes escolares Actividades academicas Actividades culturales Actividades deportivas Actividades civico-politicas Actividades de bienestar nos permiten realizar responsablemente Nuestros derechos y deberes escolares Actividades academicas Actividades culturale",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "En la biblioteca o Internet, consultamos el significado de “conflictos escolares” En el cuaderno, explicamos",
+              "descripcion": "En la biblioteca o Internet, consultamos el significado de “conflictos escolares” En el cuaderno, explicamos la relacion que existe entre la informacion consultada y la situacion presentada en el numeral anterior Trabajo en parejas",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Colombia: republica independiente!",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Aprendamos a convivirAprendamos a convivir Guia 1: Cuales son nuestros derechos y deberes escolares? 13 Guia 2: Los derechos humanos son de todas las personas 26 Guia 3: Estudiemos la Constitucion Politica de Colombia 41 Guia 4: Qu",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las siguientes imagenes: Desempeno: • Reconozco la importancia de los derechos y los deberes",
+              "descripcion": "Observamos las siguientes imagenes: Desempeno: • Reconozco la importancia de los derechos y los deberes escolares e identifico las personas y organizaciones que los promueven. Trabajo en equipo Bienvenidos Cuales son nuestros derechos y deberes escolares? Acti vidades basicas 13 Conozcamos nuestros derechos y deberes escolares! Conozcamos nuestros ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Traemos hojas de block, revistas, tijeras, pegante y colores del Centro de recursos Realizamos lo",
+              "descripcion": "Traemos hojas de block, revistas, tijeras, pegante y colores del Centro de recursos Realizamos lo siguiente: a Escogemos una actividad academica, cultural, deportiva, civico-politica y de bienestar presentada en el numeral anterior b Con base en las actividades escogidas, completamos el siguiente cuadro en las hojas que trajimos: Actividad Dibujo o",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Todas",
+              "descripcion": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Todas las instituciones educativas poseen un Manual de Convivencia. Su finalidad es establecer los distintos derechos y deberes de los miembros de la comunidad educativa, es decir, de las personas que hacen parte de una escuela o colegio. Esto con el proposito de pr",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con base en la informacion anterior, completamos el siguiente mapa conceptual en el cuaderno:",
+              "descripcion": "Con base en la informacion anterior, completamos el siguiente mapa conceptual en el cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a Segun lo que creamos, por que es importante conocer",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a Segun lo que creamos, por que es importante conocer nuestros derechos y deberes? b Que pasaria si en nuestra institucion educativa no existieran derechos ni deberes? c Todos los ninos y las ninas deben cumplir los mismos deberes? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Identificamos los derechos y deberes escolares que nos explicaron en las siguientes situaciones Luego, completamos",
+              "descripcion": "Identificamos los derechos y deberes escolares que nos explicaron en las siguientes situaciones Luego, completamos en el cuaderno el cuadro que se presenta: • Cuando nos explicaron el Manual de Convivencia • Cuando se realizaron las elecciones de representantes para el Gobierno Estudiantil • Cuando recibimos algun reconocimiento o estimulo • Cuando",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Por turnos, leemos el siguiente texto: Trabajo en parejas Quienes promueven nuestros derechos y deberes",
+              "descripcion": "Por turnos, leemos el siguiente texto: Trabajo en parejas Quienes promueven nuestros derechos y deberes escolares? En todas las instituciones educativas de Colombia, se elige un personero o una personera estudiantil, quien deber ser un o una estudiante que curse el ultimo grado de bachillerato. Su funcion es promover el cumplimiento de los deberes ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el Manual de Convivencia de nuestra institucion, consultamos las funciones y la importancia del",
+              "descripcion": "En el Manual de Convivencia de nuestra institucion, consultamos las funciones y la importancia del Consejo Estudiantil, Consejo Directivo y del personero o personera Dialogamos sobre las siguientes preguntas: a En nuestra institucion, las personas y organizaciones que promueven nuestros derechos y deberes escolares cumplen todas sus funciones? Por ",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Elegimos un derecho y un deber que no se cumplan en nuestra escuela o colegio",
+              "descripcion": "Elegimos un derecho y un deber que no se cumplan en nuestra escuela o colegio Luego, realizamos las siguientes actividades: a Dialogamos sobre como el personero o la personera y el Consejo Estudiantil y Consejo Directivo podrian ayudar a garantizar el deber y el derecho que seleccionamos b Les escribimos una carta a estas personas y organizaciones ",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Observamos las siguientes imagenes y las relacionamos con un derecho o un deber escolar Tenemos",
+              "descripcion": "Observamos las siguientes imagenes y las relacionamos con un derecho o un deber escolar Tenemos en cuenta lo estudiado en esta guia:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Con base en las imagenes anteriores, respondemos las siguientes preguntas en el cuaderno: a Que",
+              "descripcion": "Con base en las imagenes anteriores, respondemos las siguientes preguntas en el cuaderno: a Que derechos se vulneran en estas imagenes? Cuales son las poblaciones afectadas? b Segun lo que creamos, que relacion existe entre estos derechos y nuestra vida escolar? Los hombres y mujeres cuya cultura, tradiciones e idioma provienen de Africa se conocen",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Analizamos la siguiente situacion y dialogamos sobre las preguntas: Nuestros derechos y deberes escolares Actividades",
+              "descripcion": "Analizamos la siguiente situacion y dialogamos sobre las preguntas: Nuestros derechos y deberes escolares Actividades academicas Actividades culturales Actividades deportivas Actividades civico-politicas Actividades de bienestar nos permiten realizar responsablemente Nuestros derechos y deberes escolares Actividades academicas Actividades culturale",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "En la biblioteca o Internet, consultamos el significado de “conflictos escolares” En el cuaderno, explicamos",
+              "descripcion": "En la biblioteca o Internet, consultamos el significado de “conflictos escolares” En el cuaderno, explicamos la relacion que existe entre la informacion consultada y la situacion presentada en el numeral anterior Trabajo en parejas",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "De que manera otras culturas enriquecieron la nues",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Aprendamos a convivirAprendamos a convivir Guia 1: Cuales son nuestros derechos y deberes escolares? 13 Guia 2: Los derechos humanos son de todas las personas 26 Guia 3: Estudiemos la Constitucion Politica de Colombia 41 Guia 4: Qu",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 15,
+          "titulo": "Conozcamos la cultura afrocolombiana",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Aprendamos a convivirAprendamos a convivir Guia 1: Cuales son nuestros derechos y deberes escolares? 13 Guia 2: Los derechos humanos son de todas las personas 26 Guia 3: Estudiemos la Constitucion Politica de Colombia 41 Guia 4: Qu",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Sociedad, economía y medio ambiente",
+      "desempeno_general": "Reconozco relaciones entre sociedad, economía y medio ambiente.",
+      "guias": [
+        {
+          "numero": 16,
+          "titulo": "Estudiemos la importancia de las ciudades colombian",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Aprendamos a convivirAprendamos a convivir Guia 1: Cuales son nuestros derechos y deberes escolares? 13 Guia 2: Los derechos humanos son de todas las personas 26 Guia 3: Estudiemos la Constitucion Politica de Colombia 41 Guia 4: Qu",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las siguientes imagenes: Desempeno: • Reconozco la importancia de los derechos y los deberes",
+              "descripcion": "Observamos las siguientes imagenes: Desempeno: • Reconozco la importancia de los derechos y los deberes escolares e identifico las personas y organizaciones que los promueven. Trabajo en equipo Bienvenidos Cuales son nuestros derechos y deberes escolares? Acti vidades basicas 13 Conozcamos nuestros derechos y deberes escolares! Conozcamos nuestros ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Traemos hojas de block, revistas, tijeras, pegante y colores del Centro de recursos Realizamos lo",
+              "descripcion": "Traemos hojas de block, revistas, tijeras, pegante y colores del Centro de recursos Realizamos lo siguiente: a Escogemos una actividad academica, cultural, deportiva, civico-politica y de bienestar presentada en el numeral anterior b Con base en las actividades escogidas, completamos el siguiente cuadro en las hojas que trajimos: Actividad Dibujo o",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Todas",
+              "descripcion": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Todas las instituciones educativas poseen un Manual de Convivencia. Su finalidad es establecer los distintos derechos y deberes de los miembros de la comunidad educativa, es decir, de las personas que hacen parte de una escuela o colegio. Esto con el proposito de pr",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con base en la informacion anterior, completamos el siguiente mapa conceptual en el cuaderno:",
+              "descripcion": "Con base en la informacion anterior, completamos el siguiente mapa conceptual en el cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a Segun lo que creamos, por que es importante conocer",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a Segun lo que creamos, por que es importante conocer nuestros derechos y deberes? b Que pasaria si en nuestra institucion educativa no existieran derechos ni deberes? c Todos los ninos y las ninas deben cumplir los mismos deberes? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Identificamos los derechos y deberes escolares que nos explicaron en las siguientes situaciones Luego, completamos",
+              "descripcion": "Identificamos los derechos y deberes escolares que nos explicaron en las siguientes situaciones Luego, completamos en el cuaderno el cuadro que se presenta: • Cuando nos explicaron el Manual de Convivencia • Cuando se realizaron las elecciones de representantes para el Gobierno Estudiantil • Cuando recibimos algun reconocimiento o estimulo • Cuando",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Por turnos, leemos el siguiente texto: Trabajo en parejas Quienes promueven nuestros derechos y deberes",
+              "descripcion": "Por turnos, leemos el siguiente texto: Trabajo en parejas Quienes promueven nuestros derechos y deberes escolares? En todas las instituciones educativas de Colombia, se elige un personero o una personera estudiantil, quien deber ser un o una estudiante que curse el ultimo grado de bachillerato. Su funcion es promover el cumplimiento de los deberes ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el Manual de Convivencia de nuestra institucion, consultamos las funciones y la importancia del",
+              "descripcion": "En el Manual de Convivencia de nuestra institucion, consultamos las funciones y la importancia del Consejo Estudiantil, Consejo Directivo y del personero o personera Dialogamos sobre las siguientes preguntas: a En nuestra institucion, las personas y organizaciones que promueven nuestros derechos y deberes escolares cumplen todas sus funciones? Por ",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Elegimos un derecho y un deber que no se cumplan en nuestra escuela o colegio",
+              "descripcion": "Elegimos un derecho y un deber que no se cumplan en nuestra escuela o colegio Luego, realizamos las siguientes actividades: a Dialogamos sobre como el personero o la personera y el Consejo Estudiantil y Consejo Directivo podrian ayudar a garantizar el deber y el derecho que seleccionamos b Les escribimos una carta a estas personas y organizaciones ",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Observamos las siguientes imagenes y las relacionamos con un derecho o un deber escolar Tenemos",
+              "descripcion": "Observamos las siguientes imagenes y las relacionamos con un derecho o un deber escolar Tenemos en cuenta lo estudiado en esta guia:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Con base en las imagenes anteriores, respondemos las siguientes preguntas en el cuaderno: a Que",
+              "descripcion": "Con base en las imagenes anteriores, respondemos las siguientes preguntas en el cuaderno: a Que derechos se vulneran en estas imagenes? Cuales son las poblaciones afectadas? b Segun lo que creamos, que relacion existe entre estos derechos y nuestra vida escolar? Los hombres y mujeres cuya cultura, tradiciones e idioma provienen de Africa se conocen",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Analizamos la siguiente situacion y dialogamos sobre las preguntas: Nuestros derechos y deberes escolares Actividades",
+              "descripcion": "Analizamos la siguiente situacion y dialogamos sobre las preguntas: Nuestros derechos y deberes escolares Actividades academicas Actividades culturales Actividades deportivas Actividades civico-politicas Actividades de bienestar nos permiten realizar responsablemente Nuestros derechos y deberes escolares Actividades academicas Actividades culturale",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "En la biblioteca o Internet, consultamos el significado de “conflictos escolares” En el cuaderno, explicamos",
+              "descripcion": "En la biblioteca o Internet, consultamos el significado de “conflictos escolares” En el cuaderno, explicamos la relacion que existe entre la informacion consultada y la situacion presentada en el numeral anterior Trabajo en parejas",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Que ocurrio en Colombia durante el siglo XX?",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Aprendamos a convivirAprendamos a convivir Guia 1: Cuales son nuestros derechos y deberes escolares? 13 Guia 2: Los derechos humanos son de todas las personas 26 Guia 3: Estudiemos la Constitucion Politica de Colombia 41 Guia 4: Qu",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las siguientes imagenes: Desempeno: • Reconozco la importancia de los derechos y los deberes",
+              "descripcion": "Observamos las siguientes imagenes: Desempeno: • Reconozco la importancia de los derechos y los deberes escolares e identifico las personas y organizaciones que los promueven. Trabajo en equipo Bienvenidos Cuales son nuestros derechos y deberes escolares? Acti vidades basicas 13 Conozcamos nuestros derechos y deberes escolares! Conozcamos nuestros ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Traemos hojas de block, revistas, tijeras, pegante y colores del Centro de recursos Realizamos lo",
+              "descripcion": "Traemos hojas de block, revistas, tijeras, pegante y colores del Centro de recursos Realizamos lo siguiente: a Escogemos una actividad academica, cultural, deportiva, civico-politica y de bienestar presentada en el numeral anterior b Con base en las actividades escogidas, completamos el siguiente cuadro en las hojas que trajimos: Actividad Dibujo o",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Todas",
+              "descripcion": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Todas las instituciones educativas poseen un Manual de Convivencia. Su finalidad es establecer los distintos derechos y deberes de los miembros de la comunidad educativa, es decir, de las personas que hacen parte de una escuela o colegio. Esto con el proposito de pr",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con base en la informacion anterior, completamos el siguiente mapa conceptual en el cuaderno:",
+              "descripcion": "Con base en la informacion anterior, completamos el siguiente mapa conceptual en el cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a Segun lo que creamos, por que es importante conocer",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a Segun lo que creamos, por que es importante conocer nuestros derechos y deberes? b Que pasaria si en nuestra institucion educativa no existieran derechos ni deberes? c Todos los ninos y las ninas deben cumplir los mismos deberes? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Identificamos los derechos y deberes escolares que nos explicaron en las siguientes situaciones Luego, completamos",
+              "descripcion": "Identificamos los derechos y deberes escolares que nos explicaron en las siguientes situaciones Luego, completamos en el cuaderno el cuadro que se presenta: • Cuando nos explicaron el Manual de Convivencia • Cuando se realizaron las elecciones de representantes para el Gobierno Estudiantil • Cuando recibimos algun reconocimiento o estimulo • Cuando",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Por turnos, leemos el siguiente texto: Trabajo en parejas Quienes promueven nuestros derechos y deberes",
+              "descripcion": "Por turnos, leemos el siguiente texto: Trabajo en parejas Quienes promueven nuestros derechos y deberes escolares? En todas las instituciones educativas de Colombia, se elige un personero o una personera estudiantil, quien deber ser un o una estudiante que curse el ultimo grado de bachillerato. Su funcion es promover el cumplimiento de los deberes ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el Manual de Convivencia de nuestra institucion, consultamos las funciones y la importancia del",
+              "descripcion": "En el Manual de Convivencia de nuestra institucion, consultamos las funciones y la importancia del Consejo Estudiantil, Consejo Directivo y del personero o personera Dialogamos sobre las siguientes preguntas: a En nuestra institucion, las personas y organizaciones que promueven nuestros derechos y deberes escolares cumplen todas sus funciones? Por ",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Elegimos un derecho y un deber que no se cumplan en nuestra escuela o colegio",
+              "descripcion": "Elegimos un derecho y un deber que no se cumplan en nuestra escuela o colegio Luego, realizamos las siguientes actividades: a Dialogamos sobre como el personero o la personera y el Consejo Estudiantil y Consejo Directivo podrian ayudar a garantizar el deber y el derecho que seleccionamos b Les escribimos una carta a estas personas y organizaciones ",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Observamos las siguientes imagenes y las relacionamos con un derecho o un deber escolar Tenemos",
+              "descripcion": "Observamos las siguientes imagenes y las relacionamos con un derecho o un deber escolar Tenemos en cuenta lo estudiado en esta guia:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Con base en las imagenes anteriores, respondemos las siguientes preguntas en el cuaderno: a Que",
+              "descripcion": "Con base en las imagenes anteriores, respondemos las siguientes preguntas en el cuaderno: a Que derechos se vulneran en estas imagenes? Cuales son las poblaciones afectadas? b Segun lo que creamos, que relacion existe entre estos derechos y nuestra vida escolar? Los hombres y mujeres cuya cultura, tradiciones e idioma provienen de Africa se conocen",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Analizamos la siguiente situacion y dialogamos sobre las preguntas: Nuestros derechos y deberes escolares Actividades",
+              "descripcion": "Analizamos la siguiente situacion y dialogamos sobre las preguntas: Nuestros derechos y deberes escolares Actividades academicas Actividades culturales Actividades deportivas Actividades civico-politicas Actividades de bienestar nos permiten realizar responsablemente Nuestros derechos y deberes escolares Actividades academicas Actividades culturale",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "En la biblioteca o Internet, consultamos el significado de “conflictos escolares” En el cuaderno, explicamos",
+              "descripcion": "En la biblioteca o Internet, consultamos el significado de “conflictos escolares” En el cuaderno, explicamos la relacion que existe entre la informacion consultada y la situacion presentada en el numeral anterior Trabajo en parejas",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Que cambios ocurrieron en Colombia entre los siglo",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Aprendamos a convivirAprendamos a convivir Guia 1: Cuales son nuestros derechos y deberes escolares? 13 Guia 2: Los derechos humanos son de todas las personas 26 Guia 3: Estudiemos la Constitucion Politica de Colombia 41 Guia 4: Qu",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 19,
+          "titulo": "Por que son importantes los medios de comunicacion",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Aprendamos a convivirAprendamos a convivir Guia 1: Cuales son nuestros derechos y deberes escolares? 13 Guia 2: Los derechos humanos son de todas las personas 26 Guia 3: Estudiemos la Constitucion Politica de Colombia 41 Guia 4: Qu",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 20,
+          "titulo": "Conozcamos como progresa Colombia!",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Aprendamos a convivirAprendamos a convivir Guia 1: Cuales son nuestros derechos y deberes escolares? 13 Guia 2: Los derechos humanos son de todas las personas 26 Guia 3: Estudiemos la Constitucion Politica de Colombia 41 Guia 4: Qu",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": []
+        },
+        {
+          "numero": 21,
+          "titulo": "Que fue la Campana Libertadora?",
+          "concepto": "",
+          "desempeno": "Tabla de contenido Aprendamos a convivirAprendamos a convivir Guia 1: Cuales son nuestros derechos y deberes escolares? 13 Guia 2: Los derechos humanos son de todas las personas 26 Guia 3: Estudiemos la Constitucion Politica de Colombia 41 Guia 4: Qu",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las siguientes imagenes: Desempeno: • Reconozco la importancia de los derechos y los deberes",
+              "descripcion": "Observamos las siguientes imagenes: Desempeno: • Reconozco la importancia de los derechos y los deberes escolares e identifico las personas y organizaciones que los promueven. Trabajo en equipo Bienvenidos Cuales son nuestros derechos y deberes escolares? Acti vidades basicas 13 Conozcamos nuestros derechos y deberes escolares! Conozcamos nuestros ",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "Traemos hojas de block, revistas, tijeras, pegante y colores del Centro de recursos Realizamos lo",
+              "descripcion": "Traemos hojas de block, revistas, tijeras, pegante y colores del Centro de recursos Realizamos lo siguiente: a Escogemos una actividad academica, cultural, deportiva, civico-politica y de bienestar presentada en el numeral anterior b Con base en las actividades escogidas, completamos el siguiente cuadro en las hojas que trajimos: Actividad Dibujo o",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Todas",
+              "descripcion": "Leemos la siguiente informacion Tenemos en cuenta leer con un tono de voz moderado: Todas las instituciones educativas poseen un Manual de Convivencia. Su finalidad es establecer los distintos derechos y deberes de los miembros de la comunidad educativa, es decir, de las personas que hacen parte de una escuela o colegio. Esto con el proposito de pr",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Con base en la informacion anterior, completamos el siguiente mapa conceptual en el cuaderno:",
+              "descripcion": "Con base en la informacion anterior, completamos el siguiente mapa conceptual en el cuaderno:",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a Segun lo que creamos, por que es importante conocer",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a Segun lo que creamos, por que es importante conocer nuestros derechos y deberes? b Que pasaria si en nuestra institucion educativa no existieran derechos ni deberes? c Todos los ninos y las ninas deben cumplir los mismos deberes? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Identificamos los derechos y deberes escolares que nos explicaron en las siguientes situaciones Luego, completamos",
+              "descripcion": "Identificamos los derechos y deberes escolares que nos explicaron en las siguientes situaciones Luego, completamos en el cuaderno el cuadro que se presenta: • Cuando nos explicaron el Manual de Convivencia • Cuando se realizaron las elecciones de representantes para el Gobierno Estudiantil • Cuando recibimos algun reconocimiento o estimulo • Cuando",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Por turnos, leemos el siguiente texto: Trabajo en parejas Quienes promueven nuestros derechos y deberes",
+              "descripcion": "Por turnos, leemos el siguiente texto: Trabajo en parejas Quienes promueven nuestros derechos y deberes escolares? En todas las instituciones educativas de Colombia, se elige un personero o una personera estudiantil, quien deber ser un o una estudiante que curse el ultimo grado de bachillerato. Su funcion es promover el cumplimiento de los deberes ",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "En el Manual de Convivencia de nuestra institucion, consultamos las funciones y la importancia del",
+              "descripcion": "En el Manual de Convivencia de nuestra institucion, consultamos las funciones y la importancia del Consejo Estudiantil, Consejo Directivo y del personero o personera Dialogamos sobre las siguientes preguntas: a En nuestra institucion, las personas y organizaciones que promueven nuestros derechos y deberes escolares cumplen todas sus funciones? Por ",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "Elegimos un derecho y un deber que no se cumplan en nuestra escuela o colegio",
+              "descripcion": "Elegimos un derecho y un deber que no se cumplan en nuestra escuela o colegio Luego, realizamos las siguientes actividades: a Dialogamos sobre como el personero o la personera y el Consejo Estudiantil y Consejo Directivo podrian ayudar a garantizar el deber y el derecho que seleccionamos b Les escribimos una carta a estas personas y organizaciones ",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Observamos las siguientes imagenes y las relacionamos con un derecho o un deber escolar Tenemos",
+              "descripcion": "Observamos las siguientes imagenes y las relacionamos con un derecho o un deber escolar Tenemos en cuenta lo estudiado en esta guia:",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Con base en las imagenes anteriores, respondemos las siguientes preguntas en el cuaderno: a Que",
+              "descripcion": "Con base en las imagenes anteriores, respondemos las siguientes preguntas en el cuaderno: a Que derechos se vulneran en estas imagenes? Cuales son las poblaciones afectadas? b Segun lo que creamos, que relacion existe entre estos derechos y nuestra vida escolar? Los hombres y mujeres cuya cultura, tradiciones e idioma provienen de Africa se conocen",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Analizamos la siguiente situacion y dialogamos sobre las preguntas: Nuestros derechos y deberes escolares Actividades",
+              "descripcion": "Analizamos la siguiente situacion y dialogamos sobre las preguntas: Nuestros derechos y deberes escolares Actividades academicas Actividades culturales Actividades deportivas Actividades civico-politicas Actividades de bienestar nos permiten realizar responsablemente Nuestros derechos y deberes escolares Actividades academicas Actividades culturale",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "En la biblioteca o Internet, consultamos el significado de “conflictos escolares” En el cuaderno, explicamos",
+              "descripcion": "En la biblioteca o Internet, consultamos el significado de “conflictos escolares” En el cuaderno, explicamos la relacion que existe entre la informacion consultada y la situacion presentada en el numeral anterior Trabajo en parejas",
+              "instrucciones": []
+            }
+          ]
+        },
+        {
+          "numero": 41,
+          "titulo": "Desempenos:",
+          "concepto": "",
+          "desempeno": "",
+          "ejes_tematicos": [],
+          "recursos": [],
+          "actividades": [
+            {
+              "numero": 1,
+              "titulo": "Observamos las siguientes imagenes: Acti vidades basicas Trabajo en parejas",
+              "descripcion": "Observamos las siguientes imagenes: Acti vidades basicas Trabajo en parejas",
+              "instrucciones": []
+            },
+            {
+              "numero": 2,
+              "titulo": "De acuerdo con las imagenes anteriores, dialogamos sobre las siguientes preguntas: a Que actividades realizan",
+              "descripcion": "De acuerdo con las imagenes anteriores, dialogamos sobre las siguientes preguntas: a Que actividades realizan las personas que se presentan en las imagenes? b Que acuerdos se requieren para realizar estas actividades adecuadamente? cc Segun lo que creamos, que pasaria si no existieran estos acuerdos? d Como se llama el documento en el que se encuen",
+              "instrucciones": []
+            },
+            {
+              "numero": 3,
+              "titulo": "Observamos las siguientes situaciones e identificamos cuales de ellas son prohibidas por la Constitucion Politica",
+              "descripcion": "Observamos las siguientes situaciones e identificamos cuales de ellas son prohibidas por la Constitucion Politica de Colombia No olvidamos explicar las razones de nuestra eleccion:",
+              "instrucciones": []
+            },
+            {
+              "numero": 4,
+              "titulo": "Comparamos nuestro trabajo con el de otros companeros y companeras Si es necesario, lo complementamos",
+              "descripcion": "Comparamos nuestro trabajo con el de otros companeros y companeras Si es necesario, lo complementamos 42 Ciencias Sociales 5 43",
+              "instrucciones": []
+            },
+            {
+              "numero": 5,
+              "titulo": "Realizamos una mesa redonda sobre la Constitucion Politica de Colombia Comentamos que sabemos sobre las",
+              "descripcion": "Realizamos una mesa redonda sobre la Constitucion Politica de Colombia Comentamos que sabemos sobre las siguientes preguntas: a Por que este documento es importante? b Quienes participaron en su elaboracion? c Que tipos de derechos y deberes establece? d Este documento ha sido el mismo durante toda la historia de nuestro pais? Por que? La Constituc",
+              "instrucciones": []
+            },
+            {
+              "numero": 6,
+              "titulo": "Leemos el siguiente texto: Trabajo con la profesora o el profesor Unidad 1, Guia 3",
+              "descripcion": "Leemos el siguiente texto: Trabajo con la profesora o el profesor Unidad 1, Guia 3 Lenguaje 44 La primera Constitucion Politica de Colombia fue la Constitucion de Cucuta, que fue promulgada el 30 de agosto de 1821. Esta Constitucion establecio la Republica de Colombia (conocida como la Gran Colombia), que unificaba los territorios actuales de Colom",
+              "instrucciones": []
+            },
+            {
+              "numero": 7,
+              "titulo": "Dialogamos sobre las siguientes preguntas: a Por que la Constitucion Politica de Colombia es importante",
+              "descripcion": "Dialogamos sobre las siguientes preguntas: a Por que la Constitucion Politica de Colombia es importante para la convivencia de todos los colombianos y las colombianas? b Quienes participaron en la elaboracion de la actual Constitucion Politica de Colombia del ano 1991? c Que tipos de derechos y deberes establece? d Este documento ha sido el mismo d",
+              "instrucciones": []
+            },
+            {
+              "numero": 8,
+              "titulo": "De acuerdo con el texto del numeral 6, completamos el siguiente texto: La primera fue",
+              "descripcion": "De acuerdo con el texto del numeral 6, completamos el siguiente texto: La primera fue elaborada en por un congreso que reunia a representantes de las diferentes provincias del pais En ella, se establecen nuestros y La actual Constitucion Politica colombiana fue elaborada en y esta conformad a por un texto introductorio llamado y por , los cuales se",
+              "instrucciones": []
+            },
+            {
+              "numero": 9,
+              "titulo": "En la biblioteca o Internet, profundizamos sobre las caracteristicas de las palabras que aparecen en",
+              "descripcion": "En la biblioteca o Internet, profundizamos sobre las caracteristicas de las palabras que aparecen en negrilla en el texto del numeral 6 Escribimos la informacion mas importante en el cuaderno Trabajo en equipo",
+              "instrucciones": []
+            },
+            {
+              "numero": 10,
+              "titulo": "Relacionemos la Constitucion Politica de Colombia con nuestro Manual de Convivencia! Realizamos lo siguiente: a",
+              "descripcion": "Relacionemos la Constitucion Politica de Colombia con nuestro Manual de Convivencia! Realizamos lo siguiente: a Traemos la Constitucion Politica de Colombia y nuestro Manual de Convivencia del Centro de recursos b En el cuaderno, completamos el siguiente cuadro Para ello, identificamos algunos derechos y deberes que se establecen en ambos documento",
+              "instrucciones": []
+            },
+            {
+              "numero": 11,
+              "titulo": "Dialogamos sobre la siguiente pregunta: • Cuales derechos y deberes deberian incluirse en nuestro Manual",
+              "descripcion": "Dialogamos sobre la siguiente pregunta: • Cuales derechos y deberes deberian incluirse en nuestro Manual de Convivencia? Por que?",
+              "instrucciones": []
+            },
+            {
+              "numero": 12,
+              "titulo": "Elaboramos diferentes propuestas para garantizar el cumplimiento de los derechos y deberes identificados en el",
+              "descripcion": "Elaboramos diferentes propuestas para garantizar el cumplimiento de los derechos y deberes identificados en el numeral anterior Presentamos nuestras propuestas ante el Comite de Democracia y Valores para que las discuta y aplique en nuestra escuela o colegio 50 Ciencias Sociales 5 51 Vi vamos la paz",
+              "instrucciones": []
+            },
+            {
+              "numero": 13,
+              "titulo": "Analizo el siguiente caso y respondo las preguntas en el cuaderno: Trabajo individual a Que",
+              "descripcion": "Analizo el siguiente caso y respondo las preguntas en el cuaderno: Trabajo individual a Que deberes estan incumpliendo Juliana, Valentina y el profesor? Por que? b A quienes se les estan vulnerando sus derechos fundamentales? Por que? c Que acciones deberia realizar el profesor para solucionar el conflicto entre Juliana y Valentina? d Si fuera test",
+              "instrucciones": []
+            },
+            {
+              "numero": 14,
+              "titulo": "En el cuaderno, escribo el siguiente texto y completo los espacios en blanco con las",
+              "descripcion": "En el cuaderno, escribo el siguiente texto y completo los espacios en blanco con las palabras que se presentan en los recuadros: Siempre cumplo mis , por lo que convivo con mis companeros y companeras Tambien exijo mis , mediante los cuales disfruto sana y responsablemente de mi y de la compania de las demas personas Cuando se presentan conflictos,",
+              "instrucciones": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
