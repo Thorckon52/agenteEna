@@ -370,10 +370,35 @@ router.post("/", async (req, res) => {
       console.log(`   - Contexto del docente generado: ${docenteContext.length} caracteres`);
     }
 
+    // Construir lista de recursos disponibles para el prompt
+    const recursosDisponiblesLista = docenteInput.contexto?.recursos_aula || [];
+    const instrumentosDisponibles = docenteInput.contexto?.instrumentos_aula || [];
+
     const promptMsg2 = `Genera un plan docente flexible personalizado por grado a partir del siguiente contexto.
 
 ═══════════════════════════════════════════════════════════════════════════════
-📋 ESTRUCTURA OBLIGATORIA DEL CRONOGRAMA - 3 MOMENTOS
+🎯 PASO 1: VERIFICACIÓN DE RECURSOS DISPONIBLES (CRÍTICO)
+═══════════════════════════════════════════════════════════════════════════════
+
+ANTES de diseñar cualquier actividad, considera que el docente SOLO tiene estos recursos:
+
+📦 RECURSOS DISPONIBLES EN EL AULA:
+${recursosDisponiblesLista.length > 0 ? recursosDisponiblesLista.map(r => `   ✅ ${r}`).join('\n') : '   (Solo recursos básicos: cuaderno, lápiz, tablero)'}
+
+🏫 INSTRUMENTOS ENA DISPONIBLES:
+${instrumentosDisponibles.length > 0 ? instrumentosDisponibles.map(i => `   ✅ ${i}`).join('\n') : '   (Ninguno especificado)'}
+
+⚠️ REGLA DE ORO: ADAPTAR, NO SUGERIR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. DISEÑA actividades que SOLO usen los recursos listados arriba
+2. Si la guía ENA requiere algo NO disponible → ADAPTA la actividad
+3. PRIORIZA materiales del entorno natural (piedras, hojas, palos) - son GRATIS
+4. NUNCA asumas que el docente conseguirá recursos que no tiene
+5. En "materiales" de cada actividad, SOLO lista recursos disponibles o del entorno
+
+═══════════════════════════════════════════════════════════════════════════════
+📋 PASO 2: ESTRUCTURA OBLIGATORIA DEL CRONOGRAMA - 3 MOMENTOS
 ═══════════════════════════════════════════════════════════════════════════════
 
 El plan DEBE seguir la estructura de 3 MOMENTOS dentro del campo "cronograma":

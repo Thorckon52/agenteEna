@@ -444,90 +444,123 @@ export function extraerRecursosDeGuias(guiasRecomendadas, todosLosJSONs, asignat
 }
 
 /**
- * Genera un texto descriptivo con las sugerencias de alternativas
- * para incluir en el prompt de OpenAI
+ * Genera un texto descriptivo que prioriza ADAPTAR actividades
+ * a los recursos disponibles antes de sugerir nuevos materiales
  */
 export function generarTextoSugerencias(analisisRecursos) {
+  const recursosDisponibles = analisisRecursos.recursos_completos || [];
+
   if (analisisRecursos.recursos_faltantes.length === 0) {
-    return "\n✅ RECURSOS COMPLETOS: El docente cuenta con todos los recursos necesarios para las actividades planificadas.\n";
+    return `\n✅ RECURSOS VERIFICADOS: El docente cuenta con todos los recursos necesarios.
+
+📦 RECURSOS DISPONIBLES EN EL AULA:
+${recursosDisponibles.map((r, i) => `   ${i + 1}. ${r}`).join('\n')}
+
+✅ Diseña las actividades utilizando estos recursos sin problemas.\n`;
   }
 
   let texto = "\n" + "=".repeat(80) + "\n";
-  texto += "🚨 INSTRUCCIÓN CRÍTICA: ADAPTACIÓN DE RECURSOS FALTANTES\n";
+  texto += "🎯 VERIFICACIÓN DE RECURSOS Y ADAPTACIÓN DE ACTIVIDADES\n";
   texto += "=".repeat(80) + "\n\n";
 
-  texto += `⚠️ El docente NO tiene los siguientes ${analisisRecursos.recursos_faltantes.length} recursos:\n`;
-  texto += `${analisisRecursos.recursos_faltantes.map((r, i) => `${i + 1}. ${r}`).join('\n')}\n\n`;
+  // Primero mostrar qué SÍ tiene el docente
+  texto += "📦 RECURSOS QUE EL DOCENTE SÍ TIENE DISPONIBLES:\n";
+  if (recursosDisponibles.length > 0) {
+    recursosDisponibles.forEach((r, i) => {
+      texto += `   ✅ ${r}\n`;
+    });
+  } else {
+    texto += "   (Recursos básicos del aula)\n";
+  }
+  texto += "\n";
 
-  texto += "📚 ALTERNATIVAS DISPONIBLES POR RECURSO:\n\n";
+  // Luego mostrar recursos que las guías requieren pero NO están disponibles
+  texto += `⚠️ RECURSOS QUE LAS GUÍAS REQUIEREN PERO NO ESTÁN DISPONIBLES (${analisisRecursos.recursos_faltantes.length}):\n`;
+  analisisRecursos.recursos_faltantes.forEach((r, i) => {
+    texto += `   ❌ ${r}\n`;
+  });
+  texto += "\n";
+
+  texto += "=".repeat(80) + "\n";
+  texto += "🔴 REGLA OBLIGATORIA: ADAPTAR ANTES DE SUGERIR\n";
+  texto += "=".repeat(80) + "\n\n";
+
+  texto += `PRIORIDAD DE DISEÑO DE ACTIVIDADES:\n\n`;
+
+  texto += `1️⃣ PRIORIDAD MÁXIMA - USAR SOLO LO DISPONIBLE:\n`;
+  texto += `   • Diseña TODAS las actividades usando ÚNICAMENTE los recursos que el docente SÍ tiene\n`;
+  texto += `   • Si la guía original requiere algo no disponible, REDISEÑA la actividad\n`;
+  texto += `   • El objetivo de aprendizaje se mantiene, pero el método se adapta\n\n`;
+
+  texto += `2️⃣ SEGUNDA OPCIÓN - MATERIALES DEL ENTORNO (sin costo):\n`;
+  texto += `   • Si no se puede lograr el objetivo con recursos del aula, usa materiales naturales gratuitos:\n`;
+  texto += `     - Piedras, hojas, semillas, palos del patio escolar\n`;
+  texto += `     - Tierra, arena, agua\n`;
+  texto += `     - Material reciclado que ya exista (cajas, botellas, tapas)\n\n`;
+
+  texto += `3️⃣ ÚLTIMA OPCIÓN - FABRICACIÓN CASERA SENCILLA:\n`;
+  texto += `   • Solo si es IMPOSIBLE lograr el objetivo de otra forma\n`;
+  texto += `   • Debe ser algo que se fabrique en menos de 10 minutos\n`;
+  texto += `   • Con materiales que SEGURO existen en cualquier escuela rural\n\n`;
+
+  texto += `❌ PROHIBIDO:\n`;
+  texto += `   • NO sugieras comprar materiales nuevos\n`;
+  texto += `   • NO asumas que el docente conseguirá recursos que no tiene\n`;
+  texto += `   • NO diseñes actividades que requieran los recursos faltantes\n\n`;
+
+  // Mostrar alternativas específicas para los recursos faltantes
+  texto += "=".repeat(80) + "\n";
+  texto += "📋 CÓMO ADAPTAR CADA RECURSO FALTANTE:\n";
+  texto += "=".repeat(80) + "\n\n";
 
   analisisRecursos.sugerencias_alternativas.forEach((sug, index) => {
-    texto += `${index + 1}. RECURSO FALTANTE: ${sug.recurso_faltante}\n`;
-    texto += `   Categoría: ${sug.categoria}\n`;
-    texto += `   \n`;
-    texto += `   ✅ USAR EN SU LUGAR:\n`;
-    sug.alternativas.slice(0, 3).forEach((alt, i) => {
-      texto += `      ${String.fromCharCode(97 + i)}) ${alt}\n`;
-    });
-
-    if (sug.instrucciones_fabricacion) {
-      texto += `   \n`;
-      texto += `   🔧 CÓMO FABRICAR:\n`;
-      texto += `      ${sug.instrucciones_fabricacion}\n`;
-    }
+    texto += `${index + 1}. SI LA GUÍA REQUIERE: "${sug.recurso_faltante}"\n`;
 
     if (sug.adaptacion_pedagogica) {
-      texto += `   \n`;
-      texto += `   📖 ADAPTACIÓN PEDAGÓGICA:\n`;
+      texto += `   🎯 ADAPTACIÓN PEDAGÓGICA:\n`;
       texto += `      ${sug.adaptacion_pedagogica}\n`;
     }
 
-    texto += `   \n`;
-    texto += `   💡 NOTA: ${sug.notas}\n`;
-    texto += `\n`;
+    texto += `   ✅ ALTERNATIVAS GRATUITAS:\n`;
+    sug.alternativas.slice(0, 4).forEach((alt, i) => {
+      texto += `      • ${alt}\n`;
+    });
+
+    if (sug.instrucciones_fabricacion) {
+      texto += `   🔧 Si necesitas fabricar: ${sug.instrucciones_fabricacion}\n`;
+    }
+
+    texto += `   💡 ${sug.notas}\n\n`;
   });
 
   texto += "=".repeat(80) + "\n";
-  texto += "📋 INSTRUCCIONES OBLIGATORIAS PARA GENERAR EL PLAN:\n";
+  texto += "📝 FORMATO OBLIGATORIO EN CADA ACTIVIDAD:\n";
   texto += "=".repeat(80) + "\n\n";
 
-  texto += `CUANDO UNA ACTIVIDAD REQUIERA ALGUNO DE LOS ${analisisRecursos.recursos_faltantes.length} RECURSOS FALTANTES:\n\n`;
+  texto += `En el campo "materiales" de CADA actividad, SOLO incluye:\n`;
+  texto += `   • Recursos de la lista de disponibles (arriba)\n`;
+  texto += `   • Materiales del entorno natural (piedras, hojas, etc.)\n`;
+  texto += `   • Materiales reciclados básicos (papel usado, cajas)\n\n`;
 
-  texto += `1. EN EL CAMPO "descripcion" de la actividad, DEBES incluir una sección RECURSOS:\n`;
-  texto += `   Ejemplo de formato:\n\n`;
-  texto += `   "Descripción: [texto de la actividad]\n\n`;
-  texto += `   RECURSOS NECESARIOS:\n`;
-  texto += `   1. [Nombre del recurso ideal] (de la Guía X)\n`;
-  texto += `      ❌ NO DISPONIBLE\n`;
-  texto += `      ✅ ALTERNATIVA: [alternativa específica de la lista arriba]\n`;
-  texto += `      📐 Instrucciones: [instrucciones de fabricación si aplica]\n\n`;
-  texto += `   Concepto: [explicación del concepto]\n`;
-  texto += `   Proceso: [pasos de la actividad adaptada con la alternativa]"\n\n`;
+  texto += `En el campo "descripcion", explica la ADAPTACIÓN:\n`;
+  texto += `   • Cómo se logra el objetivo de aprendizaje SIN el recurso original\n`;
+  texto += `   • Qué material alternativo se usa y por qué funciona igual\n\n`;
 
-  texto += `2. ADAPTA los pasos del "Proceso" para usar la alternativa, NO el recurso original\n\n`;
-
-  texto += `3. INCLUYE las instrucciones de fabricación en el proceso cuando sea necesario\n\n`;
-
-  texto += `4. Si el recurso faltante es TECNOLOGÍA (Computador/Internet):\n`;
-  texto += `   - Adapta completamente la actividad a formato sin TIC\n`;
-  texto += `   - Usa biblioteca física, material impreso, o trabajo de campo\n`;
-  texto += `   - Explica claramente la adaptación pedagógica\n\n`;
-
-  texto += `EJEMPLO COMPLETO DE ACTIVIDAD ADAPTADA:\n\n`;
+  texto += `EJEMPLO DE ACTIVIDAD CORRECTAMENTE ADAPTADA:\n\n`;
+  texto += `Guía original requiere: "Ábaco" (NO DISPONIBLE)\n`;
   texto += `{\n`;
-  texto += `  "nombre": "Midiendo perímetros",\n`;
-  texto += `  "descripcion": "Semana 1: Los estudiantes trabajarán con la Guía 10.\n\n`;
-  texto += `RECURSOS NECESARIOS:\n\n`;
-  texto += `1. REGLA (recurso ideal de la guía)\n`;
-  texto += `   ❌ NO DISPONIBLE\n`;
-  texto += `   ✅ ALTERNATIVA: Regla casera de cartón\n`;
-  texto += `   📐 Fabricación: Cortar cartón de 30 cm, marcar cada centímetro\n\n`;
-  texto += `Concepto: El perímetro es la suma de todos los lados.\n\n`;
+  texto += `  "nombre": "Valor posicional con material del entorno",\n`;
+  texto += `  "descripcion": "Semana 1: Trabajamos valor posicional.\n\n`;
+  texto += `ADAPTACIÓN: La guía sugiere usar ábaco, pero usaremos palitos y ligas\n`;
+  texto += `que son gratuitos y cumplen el mismo objetivo pedagógico.\n\n`;
+  texto += `Concepto: Cada posición tiene un valor diferente (unidades, decenas).\n\n`;
   texto += `Proceso:\n`;
-  texto += `1. Fabricar regla casera (15 min)\n`;
-  texto += `2. Medir objetos con regla casera\n`;
-  texto += `3. Calcular perímetro\n\n`;
-  texto += `Producto: Regla casera + tabla de medidas"\n`;
+  texto += `1. Cada estudiante recolecta 30 palitos del patio (5 min)\n`;
+  texto += `2. 1 palito = 1 unidad, 10 palitos atados = 1 decena (10 min)\n`;
+  texto += `3. Representar números agrupando palitos (20 min)\n\n`;
+  texto += `Producto: Representación de 5 números con palitos",\n`;
+  texto += `  "materiales": ["Palitos del patio", "Ligas o cordel", "Cuaderno"],\n`;
+  texto += `  ...\n`;
   texto += `}\n\n`;
 
   texto += "=".repeat(80) + "\n\n";

@@ -162,7 +162,11 @@
             }
             if (allData.step3) {
                 const recursos = allData.step3.recursos || [];
-                summary += `<li><strong>Recursos:</strong> ${recursos.length} recurso(s) disponible(s)</li>`;
+                const instrumentos = allData.step3.instrumentos || [];
+                summary += `<li><strong>Recursos disponibles:</strong> ${recursos.length > 0 ? recursos.join(', ') : 'Solo básicos (cuaderno, lápiz)'}</li>`;
+                if (instrumentos.length > 0) {
+                    summary += `<li><strong>Instrumentos ENA:</strong> ${instrumentos.join(', ')}</li>`;
+                }
             }
             if (allData.step4) {
                 summary += `<li><strong>Área:</strong> ${allData.step4.area_nombre || allData.step4.area || 'Sin definir'}</li>`;
